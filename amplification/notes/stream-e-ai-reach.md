@@ -24,46 +24,44 @@ low audiences is **not documented on the current tracker**. NewsGuard's historic
 third-party panels (Similarweb; a NewsGuard/Comscore co-report is archived), which undercount app/in-app
 traffic and small domains. **Confidence: low** on any current traffic figure; I could not verify a 2025–26 one.
 
-**Storm-1516 (published 27 Feb 2026) [D, medium-high].** https://www.newsguardtech.com/special-reports/russian-influence-campaign-storm-1516-targets-france-germany
+**Storm-1516 (27 Feb 2026) [D, medium-high].** https://www.newsguardtech.com/special-reports/russian-influence-campaign-storm-1516-targets-france-germany
 34 false claims targeting France/Germany since Jan 2025, advanced in **175,000 posts and articles**, drawing
 **274 million views on X alone**; 2024 comparator: 12 claims. H2 2025: 18 claims / **147M views** vs H1 2025:
-12 claims / 97M. Single most viral item (Macron/Epstein hoax, 4 Feb 2026): **38,000 X posts / 20.4M views**.
-Method: NewsGuard narrative database + X view counts — view counts are platform-reported but are *impressions
-on posts repeating the claim*, not unique reach.
+12 claims / 97M. Most viral single item (Macron/Epstein hoax, 4 Feb 2026): **38,000 X posts / 20.4M views**.
+Method: narrative database + X view counts — impressions on posts repeating the claim, not unique reach.
 
-**TikTok anti-Starmer deepfake network (9 Dec 2025) [D, high on the counts].** https://www.newsguardtech.com/special-reports/tiktok-deepfakes-attack-uk-prime-minister-government
+**TikTok anti-Starmer deepfake network (9 Dec 2025) [D, high on counts].** https://www.newsguardtech.com/special-reports/tiktok-deepfakes-attack-uk-prime-minister-government
 73 accounts, **~1 million followers combined**, **6,042** AI-audio deepfake videos since May 2025; **197 videos
-in 1–8 Dec 2025 → 943,000 views**; some individual videos **>500,000 views**. Critically for the labelling
-question: only **22%** of a 100-video sample carried an AI label, and **all** labels were creator-applied —
-none auto-applied by TikTok.
+in 1–8 Dec 2025 → 943,000 views**; some individual videos **>500,000 views**. On labelling: only **22%** of a
+100-video sample carried an AI label, and **all** labels were creator-applied — none auto-applied by TikTok.
 
-Other NewsGuard items in the same register: 2026 Iran-war tracker — **151 false claims**, "hundreds of millions
-of views"; Taiwan operation — **294** phony Threads accounts; Hungary — **34** TikTok accounts posting AI
-content against Péter Magyar. Detector caveat from NewsGuard itself: *"Leading AI Image Detection Tools Mislead
-Online Users, Often Declaring Authentic Content Fake"*; and *"AI Fools Itself"* — three leading chatbots could
-not identify Sora-generated videos in **78–95%** of prompts.
+Also in the register: 2026 Iran-war tracker — **151 false claims**, "hundreds of millions of views"; Taiwan —
+**294** phony Threads accounts; Hungary — **34** TikTok accounts posting AI content against Péter Magyar.
+NewsGuard's own detector caveats: *"Leading AI Image Detection Tools Mislead Online Users, Often Declaring
+Authentic Content Fake"*; *"AI Fools Itself"* — three leading chatbots failed to identify Sora videos in
+**78–95%** of prompts.
 
 ## 2. Volume/prevalence — video (Kapwing, vendor — grade D)
 
-TikTok "AI Slop Report" (covered 21–22 June 2026; https://startupfortune.com/tiktoks-algorithm-is-surfacing-ai-slop-to-new-users-at-three-times-youtubes-rate-and-advertisers-should-be-paying-attention/):
-**294 of the first 500 videos (59%)** served to a newly created TikTok account were AI-generated or AI
-compilations; **10,742 videos across 20 categories** reviewed. YouTube Shorts comparator **~21%**; the earlier
-YouTube figure (Guardian, 27 Dec 2025) was **104 of the first 500 recommendations (20.8%)**. Kids: **57%** of
-2,000 videos; **#CartoonKids 97/100**; #cartoons 83%; #babysong 83%; #forkids 79%. **Methodology limits are
-severe**: manual classification, no published codebook, no inter-rater statistic, and Kapwing sells video
-creation tooling. Independent coverage states YouTube Shorts at **21% AI plus 33% "brainrot"** (≈54% combined).
-**Confidence in the direction: medium; in exact percentages: low.**
+TikTok "AI Slop Report" (21–22 Jun 2026; https://startupfortune.com/tiktoks-algorithm-is-surfacing-ai-slop-to-new-users-at-three-times-youtubes-rate-and-advertisers-should-be-paying-attention/):
+**294 of the first 500 videos (59%)** served to a new TikTok account were AI-generated or AI compilations;
+**10,742 videos across 20 categories**. YouTube Shorts comparator **~21%**; the earlier YouTube figure
+(Guardian, 27 Dec 2025) was **104 of the first 500 recommendations (20.8%)**. Kids: **57%** of 2,000 videos;
+**#CartoonKids 97/100**; #cartoons 83%; #babysong 83%; #forkids 79%. Limits are severe: manual classification,
+no published codebook or inter-rater statistic, and Kapwing sells video-creation tooling. Independent coverage
+also reports Shorts at **21% AI + 33% "brainrot"** (≈54% combined). **Direction: medium confidence; exact
+percentages: low.**
 
 ## 3. Text platforms (Pangram, Originality.ai — grade D)
 
-Pangram Labs, 9 July 2026 (https://ppc.land/linkedin-carries-62-of-flagged-ai-content-pangram-data-shows/):
+Pangram Labs, 9 Jul 2026 (https://ppc.land/linkedin-carries-62-of-flagged-ai-content-pangram-data-shows/):
 **1,002,627 posts**, five platforms, opt-in Chrome-extension panel, posts <50 words excluded. Mean AI rate
 **13.8%**; **LinkedIn = 62% of all flagged AI content while ~1/3 of items scanned**; **>40%** of longform
 LinkedIn posts fully AI; all longform **25.72%**; X articles **23.9% fully + 22.9% mixed**; Substack longform
-21.9% combined; Reddit **4.4%** overall (replies 98.1% human). Pangram claims **0.01% false-positive rate** —
-its own unpublished benchmark. Originality.ai (Jan 2026): **53.7%** of longform LinkedIn posts "likely AI"
-(n=3,368 posts, 99 profiles) — different model, different sample, so **not comparable**. **Confidence in
-magnitude: low–medium; in direction (LinkedIn ≫ others): medium.**
+21.9% combined; Reddit **4.4%** (replies 98.1% human). Pangram's **0.01% false-positive rate** is its own
+unpublished benchmark. Originality.ai (Jan 2026): **53.7%** of longform LinkedIn posts "likely AI" (n=3,368
+posts, 99 profiles) — different model and sample, so **not comparable**. **Magnitude: low–medium; direction
+(LinkedIn ≫ others): medium.**
 
 ## 4. Academic prevalence studies (grade B)
 

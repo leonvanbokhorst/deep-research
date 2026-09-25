@@ -19,10 +19,9 @@ Its one critical divergence: **Merton requires no attacker**; the false definiti
 - **Verbatim definition (p. 195):** "The self-fulfilling prophecy is, in the beginning, a false definition of the
   situation evoking a new behavior which makes the originally false conception come true. The specious validity of
   the self-fulfilling prophecy perpetuates a reign of error."
-- **Mechanism (p. 193):** public definitions become "an integral part of the situation and thus affect subsequent
-  developments… It is not found in the world of nature. Predictions of the return of Halley's comet do not influence
-  its orbit. But the rumored insolvency of Millingville's bank did affect the actual outcome. The prophecy of
-  collapse led to its own fulfillment."
+- **Mechanism (p. 193):** "Predictions of the return of Halley's comet do not influence its orbit. But the rumored
+  insolvency of Millingville's bank did affect the actual outcome. The prophecy of collapse led to its own
+  fulfillment."
 - **Bank parable (pp. 193–194):** "It is the year 1932. The Last National Bank is a flourishing institution…
   Cartwright Millingville has ample reason to be proud… Until Black Wednesday… a rumor of insolvency, once believed
   by enough depositors, would result in the insolvency of the bank… the long lines of anxious depositors, each
@@ -57,9 +56,9 @@ https://en.wikipedia.org/wiki/Self-defeating_prophecy. The coinage of "self-nega
   and named the boomerang effect" (https://en.wikipedia.org/wiki/Boomerang_effect_(psychology)). **Social norms:**
   Schultz et al., *Psychological Science* 18(5):429–434 (2007), https://doi.org/10.1111/j.1467-9280.2007.01917.x —
   a descriptive norm produced "either desirable energy savings or the undesirable boomerang effect".
-- **Disambiguation:** both terms mean **a message producing the opposite of its intended persuasive effect** (a
-  sender-side failure). They do *not* mean "attacker pokes target; target overreacts and harms itself". Borrowing the
-  name collides with ~70 years of persuasion research. **Avoid it.**
+- **Disambiguation:** both terms mean **a message producing the opposite of its intended persuasive effect** — a
+  sender-side failure, not "attacker pokes target; target overreacts and harms itself". Borrowing the name collides
+  with ~70 years of persuasion research. **Avoid it.**
 
 ## 4. Soros, reflexivity — **H** for the definition; no security application found
 

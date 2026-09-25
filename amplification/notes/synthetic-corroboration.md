@@ -610,9 +610,76 @@ Set reported **funding** against **technology cost**: **~$10–14 million** rais
 
 ## 2.4 Do audiences detect synthetic corroboration?
 
-*(Dedicated audience-effects stream still running — addendum to follow. The consumption study in §2.2.4 is the main measured data point currently available.)*
+*Source: dedicated audience-effects stream; full tables at `_sub-audience-effects.md` (175 lines; every row with N, effect size, DOI and A–E grade). All figures below were extracted from primary sources. Retrieved via Europe PMC, PubMed and `web_fetch` — OpenAlex was 429 all session and Crossref mostly 429, so **several "not found" items may be retrieval failure rather than true absence**.*
 
-The framing that matters, and which the evidence so far supports: **capability-plausible / impact-unproven.** In the parallel stream `raw-topic3.md` the conclusion is stated bluntly and carries across: *"No peer-reviewed, government, platform, or NGO primary source retrieved in this sweep documents a deployed AI system that detects fact-checks about its own output and then re-writes to evade them… This is the single most important finding and it is a negative one."* The same shape appears here — and Anthropic's own September 2026 report supplies the mechanism for why: **the fabricated networks reached "little or no authentic engagement," while the widest reach came from traditional state media.** **The machinery of synthetic corroboration is documented; measured persuasion from it is not.**
+### 2.4.1 Social proof and perceived consensus — effect sizes
+
+| Study | N | Finding | Grade |
+|---|---|---|---|
+| **Muchnik, Aral & Taylor 2013, Science** (DOI 10.1126/science.1240466) | Large RCT, manipulated upvote counts | **Positive social influence raised the likelihood of a positive rating by +32%**; accumulating herding raised final ratings **+25%**. **Negative influence was *corrected*** — asymmetric herding | **B** |
+| **Asch conformity paradigm** (family of studies) | — | Conformity on **~one third** of critical trials (**35.7% of responses; 74% of subjects conformed at least once**). Crucially, **"majority of three" is a PLATEAU**: conformity rises sharply to 2–3 confederates and then **does not increase further**. **One dissenting ally cuts conformity to 5%** (9% for an extremist dissenter) | **B** |
+| **Franzen & Mader 2023, PLOS ONE** (preregistered replication) | 210 | Error rate **33%** standard, **25%** incentivised, **38% for political opinions** | **B** |
+| **Heuristic credibility-cue meta-analysis, 2026, Behavioral Sciences** (DOI 10.3390/bs16071184) | **18 studies, N = 14,188** | Pooled **g = 0.307**, 95% CI [0.217, 0.396]. **SOURCE cues outweigh social-endorsement cues** (likes/shares) | **B** |
+
+**The Asch plateau matters directly for defenders.** Adding synthetic "independent" accounts beyond **two or three** buys an adversary **nothing extra** in conformity terms — but adding a **single visible dissenter** destroys most of the effect. That is a concrete, evidence-backed intervention point.
+
+### 2.4.2 Repetition vs. genuinely independent corroboration — the core finding
+
+| Study | N | Finding | Grade |
+|---|---|---|---|
+| **Illusory-truth meta-analysis, 2026, Nature Communications** (DOI 10.1038/s41467-026-70041-x) | **182 studies, 366 effect sizes, N = 31,184** | PEESE-corrected **g = 0.37** [0.30, 0.44]. Egger test significant (small-study effects) **but the effect survives** | **B** |
+| **"Limits of Repetition in the Illusion of Consensus", 2026, Cognitive Science** (DOI 10.1111/cogs.70266) | **1,015** | **The single most important result in this section.** At **low** exposure, **dependent consensus (same source repeated) and independent consensus (corroborated by different sources) persuade EQUALLY**. As exposures accumulate, **independent consensus yields higher asymptotic belief and faster belief revision.** | **B** |
+| **"Explaining away the illusion of consensus", 2026, Memory & Cognition** (DOI 10.3758/s13421-025-01831-9) | — | Independently corroborates: **independent > dependent** consensus | **B** |
+| Repetition inflates **source credibility** (4 preregistered experiments) (DOI 10.1177/01461672251347420) | 90 / 65 / 180 / 435 | Repetition raises the perceived credibility of the *source*, not merely the claim | **B** |
+| **NEGATIVE — repetition does NOT move opinions** (2026, Consciousness & Cognition, DOI 10.1016/j.concog.2026.104119) | 457 | Illusory truth **does not shift opinion statements** — the threat is **bounded to putatively factual claims** | **B** |
+
+> **This is the empirical justification for the entire topic — with an important boundary condition.** The reason to manufacture *apparently independent* sources rather than simply repeat one source is not that the fabricated version works better at first contact (it does not — the two are indistinguishable at low exposure). It is that **independence pays a growing dividend as exposure accumulates** and produces faster belief revision. **Synthetic corroboration is therefore a bet on repeated exposure, not a one-shot weapon** — which is consistent with the observed LOW-reach outcome in §2.1.9: networks that cannot achieve repeated authentic exposure never collect the independence dividend that motivated their construction. The second boundary condition is that the effect applies to **factual** claims, not to opinions.
+
+### 2.4.3 AI-generated content vs human content — not a simple penalty or premium
+
+| Study | N | Finding | Grade |
+|---|---|---|---|
+| **LLM persuasion meta-analysis, 2025, Scientific Reports** (DOI 10.1038/s41598-025-30783-y) | **7 studies, N = 17,422** | **NO significant overall difference** between LLM-generated and human-generated persuasion | **B** |
+| 47-study systematic review, 2026 (DOI 10.3389/frai.2026.1815243) | 47 studies | **No consistent "AI penalty"**; mostly null provenance effects | **B** |
+| **Altay & Gilardi 2024, PNAS Nexus** (DOI 10.1093/pnasnexus/pgae403) | 4,976 | The **"AI-generated" label** shifted belief by **2.66pp** — **three times smaller** than a **"False" label** (9.33pp) | **B** |
+| **Labeling study, 2026, PNAS Nexus** (DOI 10.1093/pnasnexus/pgag008) | 1,601 | The message moved policy views by **9.74pp**; **92% saw the AI label; the label had NO effect on persuasion** | **B** |
+| **27-country preregistered experiment, 2026, PNAS Nexus** (DOI 10.1093/pnasnexus/pgag032) | **27,227** | **AI-generated headlines rated SLIGHTLY MORE credible than human ones** (2.40 vs 2.34; **47% vs 44%** rated credible); source effect **β = 0.08** | **B** |
+| **Costello, Pennycook & Rand 2024, Science** (DOI 10.1126/science.adq1814) | 2,190 | AI dialogues **cut conspiracy belief by ~20%**, durable at 2 months (a *counter*-influence result) | **B** |
+| **Biased AI writing assistants, 2026, Science Advances** (DOI 10.1126/sciadv.adw5578) | 2,582 | Attitudes **converged to the AI's position, unnoticed**; effect **stronger than static text**; **warnings did NOT mitigate** | **B** |
+
+> **Two findings here should change how defenders think.** First, **the AI-provenance label is close to useless**: audiences largely cannot tell AI from human authorship (β ≈ 0.02–0.08), and where they can, disclosure **does not reduce persuasion** (N=1,601: 92% saw the label, no effect). Transparency-and-marking regimes — including the EU's **voluntary** Article 50 marking code (§1.3.6) — rest on an assumption the evidence does not support. Second, **the provenance question is the wrong question**: what matters is not whether content is AI-generated but **whether it is corroborated, repeated, and carried by a credible source**.
+
+### 2.4.4 Audience detection of pseudo-news — weak, and the news-desert hypothesis fails
+
+- **Detection of falsity is weak:** in the 27-country study, only **34% of fake headlines** versus **57% of real headlines** were rated "mostly/completely real" — and audiences could not distinguish AI from human authorship (β = 0.08 for veracity, **β = 0.02 for sharing**).
+- **NEWS DESERTS: NULL.** A **Scientific Reports 2024** study (DOI 10.1038/s41598-024-77303-y) using **Edge-browser data from millions of users** found **little evidence that news-desert residents consume or are referred to more low-quality sites**. **This independently corroborates** the pink-slime consumption study in §2.2.4, which also found news-desert residents **not** more exposed. **Two independent datasets reject the intuitive "pink slime fills the news desert" mechanism.**
+- **No study measuring whether audiences can discriminate AI-generated or "pink slime" local-news *sites* from real local news was found.** This is a real gap in the literature.
+
+### 2.4.5 Synthetic eyewitness testimony — a genuine evidence gap
+
+- **"Deepfake false memories", 2022, Memory** (DOI 10.1080/09658211.2021.1919715), **N = 682**: deepfake video did **NOT** consistently raise false-memory rates compared with text or text-plus-photo.
+- **"Face/Off", 2023, PLOS ONE** (DOI 10.1371/journal.pone.0287503), **N = 436**: a **49% average false-memory rate** for deepfaked remakes — but **deepfakes were no better than plain text**.
+- **No 2024–2026 fabricated-eyewitness or deepfake-witness believability study was found at all.**
+
+> **This is a genuine gap, and it is the single most under-researched element of the tasking.** The tasking asks about "synthetic eyewitness testimony"; the literature contains **no modern experimental test** of whether fabricated eyewitness accounts (text, audio or video) are believed. The best available proxy is Anthropic's GTG-84002 (§2.1.10), where ghost-written UN testimony was engineered to arrive "as from independent local witnesses" — an operation designed around an assumed effect that has **never been measured in a controlled study**. **Do not assert a synthetic-eyewitness effect; assert that it is untested and that adversaries are acting as though it works.**
+
+### 2.4.6 What could NOT be verified in the audience literature
+
+**Do not cite any of the following** — they are widely repeated but were not verified (OpenAlex 429 all session; Crossref mostly 429; several may be retrieval failure rather than genuine absence):
+- **Mullen 1985** false-consensus meta-analysis (115 tests) — **mean effect size not retrievable**; the widely repeated *r ≈ .31* is **unverified**.
+- **Dechêne et al. 2010** — 51 studies confirmed, but **no numeric effect size in the abstract**; only the between-items > within-items ordering.
+- **Bond & Smith 1996** — abstract elided by the publisher; **mean conformity rate unconfirmed**.
+- **Harkins & Petty 1981** multiple-source effect — **not retrieved**.
+- **"Phantom community" / "phantom majority" / bot-majority experiments (2024–25) — NOT LOCATED.** The nearest is *"Irrational herding persists in human-bot interactions"* (N = 1,997 minority game, Europe PMC) with **effect sizes not extracted**.
+- **NO support found for a "10,000 followers" credibility threshold** — only the generic cue effect of **g = 0.307**.
+- **Munger's bot work, Bail et al., Salganik 2006 social-influence effect size, van der Linden 2015 gateway-belief percentages — all unverified.**
+- Two 2026 meta-analyses are **peer-reviewed but very recent and unreplicated**.
+
+### 2.4.7 Bottom line for Topic 2
+
+**Synthetic corroboration is a credible threat on mechanism and unproven on impact.** The mechanism is well supported: repetition alone inflates perceived truth (**g = 0.37**, N = 31,184); **genuinely independent corroboration beats the same source repeated, with the advantage growing as exposure accumulates** (N = 1,015); audiences cannot detect AI provenance at scale (β ≈ 0.02–0.08); and AI-mediated influence works **even when detected or disclosed**.
+
+The caveats are equally firm: there is **no verified "phantom majority of bots" experiment**; **no fabricated-eyewitness experiment at all**; **no consistent AI trust penalty**; the repetition effect is **bounded to factual rather than opinion claims**; and — decisively — **every deployed network examined in §2.1 failed to reach an authentic audience**, because the four observed high-reach channels all required **carriage** rather than content. The vulnerability is real; the demonstrated exploitation of it is not.
 
 ---
 
