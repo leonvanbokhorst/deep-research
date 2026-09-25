@@ -95,19 +95,18 @@ posts, 99 profiles) — different model and sample, so **not comparable**. **Mag
 ## 6. Reach of state-linked LLM-run accounts (grade A primary, but reach numbers thin)
 
 - **OpenAI, 25 Aug 2026** (https://openai.com/index/disrupting-a-new-covert-influence-campaign-from-russia/;
-  primary site blocked → read via https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html).
+  primary blocked → read via https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html).
   Banned a Russian cluster promoting the "International Burke Institute"; OpenAI assesses the campaign reached
-  **"relatively small audiences," with Telegram channels at ~10,000–20,000 followers each**. Explicitly framed:
-  AI was a *supporting* tool to manufacture institutional authority — "the significance of the operation lies
-  less in the audience it reached… than in the infrastructure it had built." **This is the single most
-  useful reach datum in the stream, and it is small.**
-- **Anthropic, 10 Sep 2026** (https://www.anthropic.com/news/…; primary 404/blocked → read via
-  https://fintechnews.sg/117000/ai/threat-actors-use-claude/). Influence operations originating in Russia, Iran,
-  Turkey, the Gulf, South Asia, Africa and Europe, targeting six continents; actors include governments,
-  state-aligned propaganda institutions and **influence-for-hire firms**. Election-timed cases: Russian state
-  media fabricating claims about Moldova's president before the Sep 2025 vote; a **pro-government Kenyan
-  operator preparing fake grassroots posts ahead of Kenya's 2027 general election**. **No reach or engagement
-  figures are published** in the public reporting I could verify. **Confidence: high on existence, none on reach.**
+  **"relatively small audiences," with Telegram channels at ~10,000–20,000 followers each**. AI was a
+  *supporting* tool to manufacture institutional authority — "the significance of the operation lies less in
+  the audience it reached… than in the infrastructure it had built." **The single most useful reach datum in
+  the stream, and it is small.**
+- **Anthropic, 10 Sep 2026** (primary 404/blocked → read via https://fintechnews.sg/117000/ai/threat-actors-use-claude/).
+  Influence operations from Russia, Iran, Turkey, the Gulf, South Asia, Africa and Europe, targeting six
+  continents; actors include governments, state-aligned propaganda institutions and **influence-for-hire
+  firms**. Election-timed cases: Russian state media fabricating claims about Moldova's president before the
+  Sep 2025 vote; a **pro-government Kenyan operator preparing fake grassroots posts ahead of Kenya's 2027
+  general election**. **No reach or engagement figures published. Confidence: high on existence, none on reach.**
 - Adjacent: Citizen Lab, *BlackCore's Influence Operations for Hire*, 17 Sep 2026; OpenAI "Data Center
   Bandwagon" (1 Jun 2026, US-targeted).
 
@@ -119,8 +118,8 @@ Fidesz's AI-generated war/attack videos went viral, but Urbán: Fidesz "started 
 cheap a way" and users "strongly objected to being fed this type of content"; Krekó: "the majority of voters
 encountered AI-generated content and disapproved of its use quite strongly," making it a source of the
 government's credibility crisis. Magyar's most popular posts drew **at least 2× the interactions** of Orbán's.
-Meta and Google's ban on political ads (from autumn 2025) removed the paid amplification layer. **This is the
-strongest 2026 election-reach evidence and it points to backlash, not persuasion.**
+Meta/Google's autumn-2025 political-ad ban removed the paid amplification layer. **The strongest 2026
+election-reach evidence — and it points to backlash, not persuasion.**
 
 ## 8. Explicit evidence gaps
 

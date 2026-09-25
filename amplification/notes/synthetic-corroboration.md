@@ -724,6 +724,12 @@ The single most useful analytic result to come out of assembling both topics is 
 15. **"Star Spangled Media" — no evidence found.** **"American Independent" — not verified under that name** (closest match is a partisan-sourced left-leaning "X Independent" mail network, grade D/E). Both names appeared in the original tasking and are **not substantiated**.
 16. **Cost-of-influence unit-cost models — thin.** Only the IRA's **$1.25M/month** (grade C; primary indictment unobtainable, 404). **No RAND or CSIS per-campaign or per-impression model found.**
 17. **No text-overlap study and no search-ranking study** measuring whether pink-slime/AI networks actually manufacture apparent independence in a corpus was found.
+18. **Audience literature — do NOT cite these widely repeated figures** (OpenAlex 429 all session; Crossref mostly 429; some may be retrieval failure rather than true absence): **Mullen 1985** false-consensus meta (115 tests) — mean effect size not retrievable, the repeated *r ≈ .31* is **unverified**; **Dechêne et al. 2010** — 51 studies confirmed but **no numeric effect size**; **Bond & Smith 1996** — mean conformity rate unconfirmed; **Harkins & Petty 1981** — not retrieved; **Munger, Bail et al., Salganik 2006 and van der Linden 2015** — effect sizes unverified.
+19. **No "phantom community" / "phantom majority" / bot-majority experiment (2024–25) was located.** Nearest is *"Irrational herding persists in human-bot interactions"* (N = 1,997), effect sizes not extracted. **The central mechanism of synthetic corroboration — that mere apparent numerical support shifts belief — has therefore never been tested in the specific bot-network form.**
+20. **No fabricated-eyewitness or deepfake-witness believability study exists for 2024–2026**, and the two older deepfake false-memory studies (N = 682; N = 436) are **negative** — deepfakes were no better than plain text at inducing false memories. **The synthetic-eyewitness threat is untested.**
+21. **No study measures whether audiences can distinguish AI-generated or pink-slime local-news *sites* from real local news.**
+22. **NO support found for a "10,000 followers" credibility threshold** — only the generic heuristic-cue effect (**g = 0.307**).
+23. **Two 2026 meta-analyses central to §2.4** (illusory-truth, Nature Communications; heuristic credibility cues, Behavioral Sciences) are **peer-reviewed but very recent and unreplicated** — treat as provisional.
 
 ## 5.2 Searches that returned nothing useful
 

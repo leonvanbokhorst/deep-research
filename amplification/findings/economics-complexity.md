@@ -129,13 +129,13 @@ even if it is wrong." On amplification: "small shocks lead to big shifts in mass
 |---|---|---|---|
 | **Self-fulfilling prophecy** | Merton 1948 | https://www.jstor.org/stable/4609267 | **closest**; no attacker needed |
 | Information cascade | Bikhchandani et al. 1992 | https://doi.org/10.1086/261849 | conformity amplifies a small signal |
-| Self-organised criticality | Bak, Tang & Wiesenfeld 1987 | https://doi.org/10.1103/PhysRevLett.59.381 | systems "naturally evolve into a self-organized critical point" → small perturbation, avalanche |
-| Tipping point | Grodzins c.1960; Schelling 1971; Gladwell 2000 | https://en.wikipedia.org/wiki/Tipping_point_(sociology) | "how little things can make a big difference" |
-| Threshold model | Granovetter, *AJS* 83(6):1420–1443 (1978) | https://doi.org/10.1086/226707 | heterogeneous thresholds → tiny shift flips the aggregate |
+| Self-organised criticality | Bak, Tang & Wiesenfeld 1987 | https://doi.org/10.1103/PhysRevLett.59.381 | small perturbation → avalanche |
+| Tipping point | Grodzins c.1960 / Schelling 1971 / Gladwell 2000 | https://en.wikipedia.org/wiki/Tipping_point_(sociology) | "how little things can make a big difference" |
+| Threshold model | Granovetter, *AJS* 83(6) (1978) | https://doi.org/10.1086/226707 | heterogeneous thresholds flip aggregates |
 | Cascading failure | engineering/systems | https://en.wikipedia.org/wiki/Cascading_failure | one failure triggers others |
 | Reflexivity | Soros 1987/1994/2008 | https://archive.org/details/the-alchemy-of-finance-george-soros | perception↔fundamentals loop |
-| Moral panic | Stanley Cohen, *Folk Devils and Moral Panics* (1972) | https://en.wikipedia.org/wiki/Moral_panic | "a condition, episode, person or group of persons emerges to become defined as a threat to societal values and interests"; control agents **amplify** the deviance |
-| Deviancy amplification spiral | **Leslie T. Wilkins, *Social Deviance* (1964)**; Jock Young (1971); Cohen (1972) | https://en.wikipedia.org/wiki/Deviancy_amplification_spiral | "minor initial deviation can intensify into significant deviance if it is met with overreaction and moral panic" — closest named *reaction-amplification* mechanism, but the amplifier is society/media, not a target under attack |
+| Moral panic | Cohen, *Folk Devils and Moral Panics* (1972) | https://en.wikipedia.org/wiki/Moral_panic | control agents **amplify** deviance |
+| Deviancy amplification spiral | **Wilkins, *Social Deviance* (1964)**; Young 1971; Cohen 1972 | https://en.wikipedia.org/wiki/Deviancy_amplification_spiral | closest named *reaction-amplification* mechanism, but the amplifier is society/media, not a target under attack |
 
 **Bottom line.** Merton (1948) is the only established named concept matching "small trigger → target's own reaction
 → large self-inflicted damage", and the bank parable matches the mechanism almost exactly — but it is a
