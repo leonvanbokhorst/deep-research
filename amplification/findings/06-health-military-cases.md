@@ -335,18 +335,30 @@ nor refutation is universally accepted. A related Iraqi case is a rare instance 
 *against* the amplifying party: the pre-2003 claim failed because Iraq had purified only ~20 ml of
 trichothecene and never weaponised it (A/B). **The underlying yellow-rain question is treated here as open.**
 
-**The 2001 anthrax letters.** *The real attack*: four letters with Trenton postmarks of 18 September and 9
-October 2001 to NBC News, the *New York Post* and Senators Daschle and Leahy; CDC/DOJ figures of **22 cases
-(11 inhalational, 11 cutaneous) and 5 deaths**; Brentwood and Hamilton postal facilities closed; the FBI
-named Bruce Ivins in 2010, a conclusion the 2011 National Research Council review criticised as over-claiming
-forensic certainty (A, [Amerithrax summary](https://www.justice.gov/archive/amerithrax/docs/amx-investigative-summary.pdf);
-[NRC 2011](https://nap.nationalacademies.org/catalog/13098/)). *The hoax-amplified response*: white-powder and
-anthrax-threat incidents ran into the thousands globally, with **published totals inconsistent (roughly 2,500
-to 30,000 depending on jurisdiction, definition and window) — no authoritative count could be verified here,
-and the analytic point does not depend on it.** Hoaxes outnumbered real letters by orders of magnitude, and
-each consumed hazmat response, building closure, prophylactic-antibiotic decisions and laboratory capacity.
-*Durable legacy*: the Public Health Security and Bioterrorism Preparedness and Response Act (PL 107-188, **12
-June 2002**), BioWatch from **2003**, Project BioShield (**2004**) and the USPS irradiation programme. **A
+**The 2001 anthrax letters.** *The real attack*: four recovered letters with Trenton postmarks of 18 September
+(NBC, *New York Post*) and 9 October 2001 (Daschle, Leahy), plus a fifth envelope to American Media Inc. that
+was never recovered. DOJ's official count: **22 cases — 11 inhalational, of which 5 died, and 11 cutaneous
+(7 confirmed, 4 suspected)** — with **35 postal facilities or mailrooms contaminated**, 7 of 26 Capitol Hill
+buildings testing positive, and **1.8 million mail items quarantined**; Brentwood closed 21 October 2001 and
+reopened 22 December 2003, Trenton closed 18 October 2001 and reopened 14 March 2005. The FBI named Bruce
+Ivins in 2010, a conclusion the 2011 National Research Council review criticised as over-claiming forensic
+certainty (A, [Amerithrax summary](https://www.justice.gov/archive/amerithrax/docs/amx-investigative-summary.pdf);
+[NRC 2011](https://nap.nationalacademies.org/catalog/13098/)). **Detection lag, not the pathogen, drove the
+deaths**: the Brentwood fatalities came from cross-contaminated mail after the Daschle letter.
+
+*The hoax-amplified response — now on a primary basis.* The Chief Postal Inspector told GAO that **over 7,000
+anthrax hoaxes, threats and suspicious letters or packages — almost 600 per day — were reported in the weeks
+after the first attack, with nearly 300 postal facilities evacuated**; the FBI testified on 30 October 2001 to
+**more than 2,000 incidents in the first two weeks of October, against ~250 in a full previous year** (A,
+[GAO-04-239](https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-239/pdf/GAOREPORTS-GAO-04-239.pdf)). The
+widely circulated "~30,000 hoaxes" figure has **no traceable primary source** and most likely conflates the
+**~32,000 people who began antibiotic prophylaxis** (~10,300 completing 60 days). Hoaxes outnumbered real
+letters by orders of magnitude, and each consumed hazmat response, building closure, prophylaxis decisions and
+laboratory capacity. *Durable legacy*: the Public Health Security and Bioterrorism Preparedness and Response
+Act (PL 107-188, **12 June 2002**), BioWatch from **2003**, Project BioShield (**2004**) and the USPS
+irradiation programme — with decontamination alone costing about **$320m in 2001 dollars** (range $290–350m:
+Brentwood $130m, Trenton $70m, Capitol Hill ≈$27m, Hart building ≥$14.3m), against a GAO *estimate* of
+$880m–$4.2bn over ten years for nationwide mail irradiation (A, Schmitt & Zacchia 2012; GAO-02-365). **A
 canonical case of the response being calibrated to the ambiguity rather than the event** — the closest
 historical analogue to the hypothesised mechanism, and a **weak test of the agentic addition**, because in
 2001 the marginal cost of a credible-sounding false report was already near zero.
@@ -493,14 +505,20 @@ supplying it.**
 
 ### 7.3 Gaps and limits
 
-- **Hoax incident totals are unreliable**: anthrax-letter hoax counts range from ~2,500 to 30,000 across
-  jurisdictions, and no defensible aggregate exists for "radioactive package" hoaxes.
+- **The 2001 anthrax hoax counts are now resolved on a primary basis** (GAO-04-239: >7,000 hoaxes, ~600/day,
+  ~300 facility evacuations), and the popular "~30,000" figure is a probable conflation with the ~32,000
+  people who began prophylaxis — it should not be used. **Still unverified**: any aggregate count and cost for
+  radiological/"radioactive package" hoaxes (the largest remaining gap), TOPOFF 2 participant and cost
+  figures, and radiation-portal-monitor deployment counts.
 - No published quantified **total cost** exists for Havana syndrome; the ~$3m HAVANA Act disbursement is the
   only hard number and almost certainly understates institutional cost by an order of magnitude.
 - The 2026 Havana developments rest substantially on anonymous sourcing and should be treated as E-grade
   until documents or peer-reviewed testing appear.
 - **Unsourced and not citable**: "2024 syringes in baby food"; "2024–26 chocolate/sausage/milk tampering in
-  Germany/Netherlands"; and the A$500m strawberry figure is industry value, not measured loss.
+  Germany/Netherlands"; the A$500m strawberry figure is industry value, not measured loss; the "AMI ≈$23m"
+  anthrax cleanup figure is contradicted by peer-reviewed accounting (AMI was "significantly less than $5m");
+  the "1984 ABC yellow-rain documentary" could not be verified; and an "Agent Orange fabrication" is not
+  documented — only amplification of a real dioxin programme.
 - **Important negative finding for the parent study**: no verified case was found of a state using synthetic
   media to amplify a *specific* physical incident. The best 2026 evidence for AI-enabled influence remains
   aggregate — the EEAS 4th FIMI report (March 2026) records **540 FIMI incidents in 2025, 27% involving

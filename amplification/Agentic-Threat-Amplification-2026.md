@@ -455,6 +455,24 @@ The broader illusory-truth literature points the same way. The corrected meta-an
 
 **One genuinely open item.** Pillai & Fazio (*JARMAC*, 2025), titled "Repeated by many versus repeated by one," tests exactly this hypothesis, but the publisher blocks the abstract and **its effect size is unknown**. Until it is read, the honest position is that the mechanism is **contradicted by the best available direct test and not yet settled**.
 
+**A mechanism that explains the failure — and converts it from an accident into a prediction.** A 2026 *Cognitive Science* study (N = 1,015) separated **dependent consensus** (the same source repeated) from **independent consensus** (genuinely distinct corroboration) and found that the two **persuade equally at low exposure**, but that independent corroboration yields **higher asymptotic belief as exposure accumulates**.
+
+The implication is precise:
+
+> **Fabricated independence buys nothing in a single encounter. It pays off only under sustained repetition.**
+
+**This is the most useful single finding in the study**, because it ties three otherwise separate results into one structure:
+
+| Finding | How the mechanism explains it |
+|---|---|
+| Synthetic corroboration is a null at first exposure | Dependent and independent consensus are indistinguishable at low exposure |
+| Influence networks achieve negligible reach (0.3% of posts; 58% of DRAGONBRIDGE channels with zero subscribers) | They never accumulate the repeat exposure the effect requires |
+| The binding constraint is distribution, not generation | Distribution *is* the repetition channel |
+
+**Synthetic corroboration is therefore a bet on repeat exposure — and the distribution bottleneck is what breaks the bet.** This is no longer "AI influence campaigns happen not to work." It is a **structural prediction**: manufactured consensus should fail wherever reach is capped, and should succeed wherever it is not. That makes the finding falsifiable in a useful way, and it points the same direction as §6.9 and §12.2 — **reach, rented or owned, is the variable that decides everything.**
+
+**One caution about the reach evidence itself.** **No audited authentic-audience figure exists for any of these networks.** Every reach number is platform-side or actor-side, and should be read as an **upper bound**. The figures in this report are reported as given, not as verified audiences.
+
 ### 5.4 What the reflexive stage actually looks like (L4)
 
 The fifth category deserves separate treatment because it is where the effect is monetised, and because it is largely outside the adversary's control.
@@ -564,7 +582,10 @@ That is a **hit rate of roughly 0.3%** — one post in three hundred achieving e
 
 **And one defensive cost has conspicuously failed to fall.** Across sixteen years, the cost of defeating a **CAPTCHA** has improved by only about **1.8×** — the one defensive barrier that has not collapsed alongside everything else. Meanwhile SMS-verified account prices sit at **$0.08–$0.10** but **spike 12–15% before elections**, indicating that account acquisition is a genuine, priced constraint that responds to demand.
 
-**Both findings point the same way:** the durable defensive leverage is **account acquisition cost and identity verification**, precisely because those costs have *not* collapsed. This is the concrete version of the recommendation in §6.9 and §11.
+**And the cost finding is now confirmed by two independent derivations.** Metric Media's reported **1.3 million articles in 2025** would cost only **$1,300–$27,000** in inference against roughly **$10–14 million in funding** — a ratio of about **1,000:1**. That is derived from content volume; the 524:1 figure above is derived from platform API pricing. **Two unrelated methods, the same conclusion: generation is not the binding cost, and never was.**
+
+**Both findings point the same way:** the durable defensive leverage is **account acquisition cost and identity verification**, precisely because those costs have *not* collapsed.
+ This is the concrete version of the recommendation in §6.9 and §11.
 
 ---
 
@@ -712,7 +733,15 @@ This is no longer a revisionist position; it is the assessment of the agencies t
 
 - **OpenAI** assessed that disrupted operations saw **"no significant audience increase."**
 - **Anthropic** reports that the overwhelming majority of discovered content **"drew little or no authentic engagement."**
+- **Google's Threat Analysis Group** found that **58% of DRAGONBRIDGE channels had zero subscribers, and 42% of its videos had zero views** — "practically no organic engagement from real viewers."
 - Breakout-scale assessments place AI-enabled networks at low levels — **except where they ride existing state-media distribution.**
+
+**But one caution should govern all of these figures, and it cuts against complacency.** **No audited authentic-audience figure exists for any of these networks.** Every number is platform-side or actor-side and is best read as an **upper bound**. Reach figures should never be treated as verified audiences — in either direction.
+
+**And a retraction worth generalising.** OpenAI initially rated Russia's "Stop News" operation at **Breakout Scale Category 3** (October 2024) and **downgraded it to Category 2** (October 2025), because the apparent "information partnerships" that justified the higher rating turned out to be **fictional — spoofed via flaws on the partners' own websites**.
+
+The methodological lesson applies directly to §7.3: **apparent institutional uptake is not evidence of institutional uptake**, and any claim of Category 3 or above that rests on it should be discounted until independently verified. In a domain where the effect and its camouflage are identical, **the appearance of having reached an institution is exactly the kind of evidence most easily manufactured** — and, as this case shows, most easily mistaken.
+
 
 ### 8.4 Operations are frequently self-defeating
 
@@ -1056,6 +1085,24 @@ The evidence is genuinely favourable but should not be overstated. Two different
 - **Do not build for mass persuasion.** The mass-persuasion threat is the least-supported version of the hypothesis (§8).
 - **Do not over-securitise the airspace.** The natural experiment in §5.1c is a warning: closing airspace and issuing alerts is itself an amplifier, and the European response produced at least one near-catastrophic friendly-fire incident. Restricting civil airspace imposes real costs on the legitimate drone economy and on civil liberties, and the threat model does not obviously justify it.
 - **Do not assume that attribution will resolve the ambiguity.** In the cases examined, it frequently did not — and in several, the official position on what happened remains genuinely unknown.
+- **Do not rely on mandatory AI-content labelling.** The measured effect is small and does not do the work: an "AI-generated" label shifted belief by **2.66 percentage points**, against **9.33 points** for a "False" label, and **labelling did not reduce persuasion at all** (N = 1,601). Labelling addresses provenance; the harm here is not about provenance.
+
+### 11.10 The enforcement asymmetry — and why the opening is carriage, not content
+
+One policy finding from this study is unusually concrete, and it follows from a clean comparison.
+
+**Enforcement works where the speech is unprotected, and stalls where it is political.**
+
+- **Where content is not politically protected, regulation is producing real consequences.** Non-consensual intimate imagery rules are viewpoint-neutral, and they now yield convictions, court orders and live platform duties — including a **conviction under Ohio's TAKE IT DOWN Act in April 2026** and a **Dutch court order against X/Grok in March 2026**.
+- **Where the content is political, the same machinery stalls.** Political-deepfake regulation must adjudicate election speech, and it has produced **acquittals, uncollected fines, defied judgments and struck-down statutes** (§8.6).
+
+**The actionable conclusion: the defensible opening is *carriage*, not *content*.** Carrier-level liability and call-integrity mechanisms are the only interventions in this domain with a **demonstrated financial consequence anywhere**:
+
+- The **only money actually collected** in the New Hampshire robocall affair was **$1 million from the carrier, Lingo Telecom** — not from the operator, not from the platform.
+- **Caller-ID and STIR/SHAKEN integrity** operate at the carriage layer, are viewpoint-neutral, and therefore avoid the First Amendment and Article 10 problems that defeat content rules.
+
+**Why this matters for the physical-ambiguity case specifically.** A synthetic-voice or SMS-based scare — the most plausible agentic vector against responders (§12.3) — travels over carriage infrastructure. **Carriage-level integrity is the one lever that is both legally durable and technically upstream of the harm**, and it is currently the least discussed. Anyone proposing content moderation, labelling or platform takedown as the primary defence should note that the only mechanism to have extracted money from this ecosystem so far operates one layer below all of them.
+
 
 ---
 

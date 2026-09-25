@@ -703,9 +703,9 @@ The single most useful analytic result to come out of assembling both topics is 
 
 ---
 
-# 5. FAILED SEARCHES / NEGATIVE FINDINGS
+# 4. FAILED SEARCHES / NEGATIVE FINDINGS
 
-## 5.1 Claims and figures I could NOT verify
+## 4.1 Claims and figures I could NOT verify
 
 1. **No evidence Kramer ever paid any part of the $6,000,000 FCC forfeiture.** Searches for payment, DOJ referral, or collection action returned nothing. The FCC's order (FCC 24-104 ¶50) provides for referral to DOJ, but I found **no record of referral**. Treat "$6M forfeiture" as **imposed but uncollected**.
 2. **I could not retrieve the docket** in *League of Women Voters of New Hampshire v. Kramer* to confirm the court (AP says "federal court"; the tort claim reads like a state action), the exact judgment date beyond "Friday" = 21 Nov 2025, or the injunction's precise wording. The **$22,500 ($7,500 × 3)** figure and the nationwide injunction rest on a single AP report republished by the Boston Herald. **Grade C, single-source.**
@@ -731,7 +731,7 @@ The single most useful analytic result to come out of assembling both topics is 
 22. **NO support found for a "10,000 followers" credibility threshold** — only the generic heuristic-cue effect (**g = 0.307**).
 23. **Two 2026 meta-analyses central to §2.4** (illusory-truth, Nature Communications; heuristic credibility cues, Behavioral Sciences) are **peer-reviewed but very recent and unreplicated** — treat as provisional.
 
-## 5.2 Searches that returned nothing useful
+## 4.2 Searches that returned nothing useful
 
 | Query | Result |
 |---|---|
@@ -752,7 +752,7 @@ The single most useful analytic result to come out of assembling both topics is 
 | Google News redirect resolution (decoding the `CBMi…` IDs) | Base64 decoding yields **no URL** (opaque protobuf); redirect page requires JavaScript. **All Google News items are cited at headline + outlet + date.** |
 | `api.congress.gov` | **HTTP 403 — API key required.** TAKE IT DOWN enactment date therefore rests on secondary sources |
 
-## 5.3 Tooling / access failures
+## 4.3 Tooling / access failures
 
 - `fcc.gov` (including `www.fcc.gov`): **HTTP 403 on every attempt**, via curl with browser UA, via the CORS proxy `api.allorigins.win`, and via the `web_fetch` tool. **Worked around** using `docs.fcc.gov/public/attachments/*.pdf` (which is reachable) — this recovered the primary texts of FCC 24-17, FCC 24-84, FCC 24-104 and DA 24-790.
 - `apnews.com`: Cloudflare interstitial ("Just a moment…"). **Worked around** via syndicated AP copy on `bostonherald.com`, whose `?s=` search endpoint is accessible and enumerable.
@@ -772,12 +772,12 @@ The single most useful analytic result to come out of assembling both topics is 
 
 ---
 
-# 6. BOTTOM LINE (250 words)
+# 5. BOTTOM LINE (~250 words)
 
 Synthetic capability is proven and cheap; synthetic corroboration is documented; measured persuasion is not; and the law prices neither.
 
-Generation is no longer the constraint. Inference costs fell roughly **1,000×** between 2021 and 2026 (**$60 → $0.06 per 1M tokens**), and a 1,000-word article now costs **$0.0005–$0.11**. Domains run **$1.63–$11.08**; static hosting can be **$0**. Reported pseudo-news funding (**$10–14M**) exceeds its inference bill by roughly **1,000:1**: the binding costs are people, legal exposure and credibility, not models.
+Generation is no longer the constraint. Inference costs fell roughly **1,000×** between 2021 and 2026 (**$60 → $0.06 per 1M tokens**); a 1,000-word article now costs **$0.0005–$0.11**, domains **$1.63–$11.08**, and static hosting can be **$0**. Reported pseudo-news funding (**$10–14M**) exceeds its inference bill by roughly **1,000:1**: the binding costs are people, legal exposure and credibility, not models.
 
-Threat reporting documents the mechanism — roughly **70 fabricated news sites publishing near-identical articles within three minutes** (Anthropic, case GTG-54002, 11 Sep 2025); an Iranian network **falsely attributing claims to CSIS, Brookings and RAND**; actors "passing claims through chains of outlets so they read as independently confirmed." But the same primary report finds **"most of the content… drew little or no authentic engagement,"** with the widest reach coming via traditional state media. **Manufactured, not consumed.**
+Threat reporting documents the mechanism — roughly **70 fabricated news sites publishing near-identical articles within three minutes** (Anthropic, GTG-54002, 11 Sep 2025); an Iranian network **falsely attributing claims to CSIS, Brookings and RAND**; actors "passing claims through chains of outlets so they read as independently confirmed." The same report finds **"most of the content… drew little or no authentic engagement,"** the widest reach coming via traditional state media. **Manufactured, not consumed.**
 
-The law reflects the inverse of the risk. **No one has been convicted of a political deepfake anywhere.** The January 2024 New Hampshire robocall — the world's best-documented case — ended in **acquittal on all 22 counts** (13 Jun 2025); a **$6,000,000 FCC forfeiture entered by default** (FCC 24-104) and, on Kramer's own account, **unpaid**; a **$22,500 civil judgment** he defies; and the only money collected in the entire affair was **$1,000,000 from Lingo Telecom**. California's election-deepfake statutes were **enjoined or struck down**; the FCC's AI-disclosure rule is stalled at "next action undetermined"; the White House is preempting state law. TAKE IT DOWN's first conviction (April 2026) targeted intimate imagery. **Enforcement works where speech is unprotected and stalls where it is political.**
+The law reflects the inverse of the risk. **No one has been convicted of a political deepfake anywhere.** The January 2024 New Hampshire robocall — the best-documented case — ended in **acquittal on all 22 counts** (13 Jun 2025); a **$6,000,000 FCC forfeiture entered by default** (FCC 24-104) and, on Kramer's own account, **unpaid**; a **$22,500 civil judgment** he defies; and the only money collected was **$1,000,000 from Lingo Telecom**. California's statutes were **enjoined or struck down**; the FCC's AI-disclosure rule is stalled; the White House is preempting state law. TAKE IT DOWN's first conviction (April 2026) targeted intimate imagery. **Enforcement works where speech is unprotected and stalls where it is political.**

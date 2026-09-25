@@ -65,7 +65,8 @@ about an actor who wants a cascade without controlling it.
 **Origin and claim.** Allport & Postman, *The Psychology of Rumor* (1947): rumour strength varies
 with **importance × ambiguity**. Shibutani, *Improvised News* (1966), reframes rumour as **collective
 sense-making under informational vacuum**; DiFonzo & Bordia (2007) and Starbird's crisis-informatics
-work add that rumour is frequently **self-correcting**. **H**.
+work add that rumour is sometimes self-correcting, but Starbird's Boston data (misinformation-to-
+correction ratios as high as 44:1) show correction is weak and slow. **H**.
 
 **Deliberate vs. emergent.** Emergent. **Fit: High** on substrate and "the target does the work";
 **Poor** on adversary, since rumour theory has no strategic actor. Its most actionable variable:
@@ -187,31 +188,38 @@ cascade modelling (a method, not a claim).
 
 ## 4. Prior art for "the target does the work"
 
-: **Strategy of tension** (*The Observer* coined the term 14 Dec 1969, after Piazza Fontana;
-deliberate; unattributed violence creates insecurity so the population demands a strong state
-response — the reaction *is* the objective; **closest prior art for engineered ambiguous physical
-incidents**). **DNS amplification / reflection attack** (CISA/US-CERT 2013; deliberate; a spoofed
-source makes third parties flood the victim, who amplified by asking; structurally exact, wrong
-domain). **Reflection attack** (Tanenbaum; Anderson; deliberate and verbatim — "trick the target into
-providing the answer to its own challenge"). **Self-fulfilling prophecy** (Thomas 1928; Merton 1948,
-bank-run example; **emergent** — "the prophecy of collapse led to its own fulfilment"; closest general
-name, no attacker). **Liddell Hart's indirect approach** (*Strategy* 1954/1967; deliberate — make the
-enemy defeat himself; military, not informational).
+**Military-strategic.** **Clausewitz**, *On War* VI.vii, is the most literal statement: "there is a
+double solution in the defensive, consequently a double kind of reaction, according as the aggressor
+is ruined by the sword of the defensive, **or by his own efforts**." Note that "make the enemy defeat
+himself" is *not* Liddell Hart's phrasing — he wrote of dislocating the enemy's balance (*Strategy*,
+1954/1967). **Reflexive control** and its Komov taxonomy (exhaustion, provocation) is the deliberate
+Soviet descendant; **"provocation strategy"** is itself a named term (Shiraev & Zubok 2015: "an
+attempt to induce the enemy to respond"). **Strategy of tension** (*The Observer*, 14 Dec 1969, after
+Piazza Fontana) is the **closest named prior art for engineered ambiguity**: unattributed violence
+creates general insecurity so the population demands a strong state response — the reaction *is* the
+objective. Its deployments used real bombs, not ambiguity and amplification, and the Gladio/NATO
+attribution is **contested** — treat Ganser's *NATO's Secret Armies* (2004) as contested, not fact.
+**H** on the concept; **M** on Gladio.
 
-**Strategy of tension** deserves emphasis: a documented strategy in which **unattributed violence
-deliberately creates general insecurity so the population demands a strong state response** — the
-reaction *is* the objective, and it is the closest thing in the record to H1's logic. Its deployments
-used real bombs, not ambiguity and amplification, and the Gladio/NATO attribution is **contested** —
-treat Ganser's *NATO's Secret Armies* (2004) as contested, not fact. **H** on the definition; **M** on
-Gladio. Mueller's threat-inflation work and Schelling's self-deterrence cover the same claim without
-an adversary model.
+**Cyber.** **DNS amplification / reflection attack** (CISA 2013) is structurally exact — a spoofed
+source makes third parties flood the victim, who amplified by asking — but the amplifier is a *third
+party*. The closer analogue is the authentication **reflection attack**: "trick the target into
+providing the answer to its own challenge" (Tanenbaum; Anderson), where the target's own output is the
+attack material. **MITRE ATLAS AML.T0034 "Cost Harvesting"** is the nearest named AI-era pattern —
+inducing the target's autoscaling to "further amplify cost and exposure" — same shape, resource-abuse
+framing.
 
-**The cyber analogy is the most under-used analytic resource here.** H1 is structurally a **social
-amplification attack**: the attacker spoofs the "source" (the ambiguous incident) and the target's own
-media, citizens and institutions supply the response volume. I have not found this mapping in the
-literature.
+**Social.** **Merton's self-fulfilling prophecy** (1948) is the best general name: "a false definition
+of the situation evoking a new behavior which makes the originally false conception come true" —
+illustrated by the bank run ("the prophecy of collapse led to its own fulfilment") — but it **requires
+no attacker**, and that is precisely the gap H1 claims to fill.
 
----
+**Prior-art conclusion.** Every component is named across five literatures. The only unnamed thing is
+the combination: deliberate engineering + target-as-amplifier + an autonomy engine, applied to
+ambiguous physical incidents and scored on institutional behaviour rather than belief. "Agentic threat
+amplification" returns zero hits in arXiv and Crossref; no peer-reviewed "AI-driven reflexive control"
+work was found; SARF has no adversarial branch
+(https://web.archive.org/web/20241010151234/https://elib.uni-stuttgart.de/bitstream/11682/7238/1/ren27.pdf).
 
 ## 5. Fit verdict
 
@@ -270,11 +278,11 @@ campaigns). One possible prior use of "Autonomous Narrative Warfare" (*Homeland 
 
 ## 6. Bottom line
 
-**The mechanism is not new; the constraint being removed is new.** Reflexive control and the strategy
-of tension already described deliberately making a target generate its own harm, and network
-amplification attacks describe the same structure precisely. What is genuinely distinct is narrow:
-**AI agents remove the labour constraint on amplification and permit continuous, model-free reflexive
-coupling — while the contested good shifts from belief to institutional behaviour.** Two
+**The mechanism is not new; the constraint being removed is new.** Clausewitz, reflexive control and
+the strategy of tension already described deliberately making a target generate its own harm, and
+network amplification attacks describe the same structure precisely. What is genuinely distinct is
+narrow: **AI agents remove the labour constraint on amplification and permit continuous, model-free
+reflexive coupling — while the contested good shifts from belief to institutional behaviour.** Two
 qualifications apply. First, the strongest first-party evidence (Anthropic, September 2026) shows
 scaling synthetic production does **not** scale authentic reach or persuasion. Second, the European
 drone record shows the reflexive loop closing **without any adversary at all** — Gatwick 2018,
@@ -287,19 +295,16 @@ the study's most important finding, and it is entirely pre-agentic.
 
 Canonical works are cited inline by author and year. Retrieval URLs used directly:
 
-- Kasperson et al. 1988 — https://doi.org/10.1111/j.1539-6924.1988.tb01168.x
-- Kuran & Sunstein 1999 — https://doi.org/10.2307/1229439
-- Reflexive control — https://en.wikipedia.org/wiki/Reflexive_control
+- Kasperson et al. 1988 — https://web.archive.org/web/20241010151234/https://elib.uni-stuttgart.de/bitstream/11682/7238/1/ren27.pdf
+- Kuran & Sunstein 1999 — https://chicagounbound.uchicago.edu/public_law_and_legal_theory/37
+- Starbird et al., Boston (2014) — https://www.ideals.illinois.edu/items/47268/bitstreams/138716/data.pdf
 - US State Dept, *Soviet Influence Activities* (1987) — https://archive.org/details/dos-report_s-12so-8-12
 - Rid, *Active Measures* (2020), Hewlett interview — https://hewlett.org/the-secret-history-of-disinformation-and-political-warfare-five-questions-for-thomas-rid/
-- Active measures; perception management; information laundering; strategy of tension; reflection
-  attack — Wikipedia entries at the corresponding `/wiki/` paths
-- Brinkmanship / Schelling — https://en.wikipedia.org/wiki/Brinkmanship
+- Wikipedia entries (reflexive control, active measures, perception management, information
+  laundering, strategy of tension, brinkmanship, self-fulfilling prophecy, reflection attack)
 - CISA DNS amplification alert 2013 — https://www.cisa.gov/news-events/alerts/2013/03/29/dns-amplification-attacks
 - DoD Dictionary of Military Terms — https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf
 - JP 3-13 Information Operations — https://irp.fas.org/doddir/dod/jp3_13.pdf
 - Anthropic, misuse of AI, Sept 2026 — https://www.anthropic.com/threat-intelligence-report-september-2026
 - IISS, Russia's UAV Campaign Over Europe 2026 — https://www.iiss.org/research-paper/2026/06/russias-uav-campaign-over-europe/
 - Internal case record — `../../research/06-airports-infrastructure.md`
-
-
