@@ -1,0 +1,99 @@
+Russia "Highly Likely" Behind Drone Incursions Over U.S. Bases In England Report Concludes
+(Photo by Leon Neal/Getty Images)
+The TWZ Newsletter
+Weekly insights and analysis on the latest developments in military technology, strategy, and foreign policy.
+Email address
+Sign Up
+Thank you!
+Terms of Service and Privacy Policy
+Back in November 2024, TWZ broke a story about a series of incursions over U.S. bases in England by drones of mysterious origin. While the source of these uncrewed aerial vehicles does not appear to have been officially determined, a new report suggests they were launched by Russian ships .
+Produced by the International Institute for Strategic Studies (IISS), the report investigated a spate of drone incursions across Europe that began in August 2024 and found that “it is highly likely that the Kremlin conducted a UAV campaign over Europe.”
+“We assess it is likely that Russian-linked vessels and the ‘shadow fleet’ were used as launch/recovery platforms for UAVs as part of the Kremlin’s wider unconventional war on Europe,” the report added.
+This report assesses that it is highly likely the Kremlin conducted a coordinated Uninhabited Aerial Vehicle (UAV) campaign over Europe between August 2024 and February 2026, spanning a dozen NATO states and Ireland.
+It is also likely that Russian-linked vessels and the shadow… pic.twitter.com/pGRtWRHPtE
+— IISS News (@IISS_org) July 2, 2026
+Investigators rely heavily on circumstantial evidence and open-source information. TWZ cannot independently confirm these findings, which offer new insights, if not concrete answers, about who could have been behind the flights.
+The drone incursions over the bases we were the first to write about were among the earliest in the wave over Europe investigated by IISS. Around this same time, there were also flights over Ramstein Air Base in Germany, the report notes. We covered those incidents as well .
+As we reported at the time, drones of an unknown origin were first spotted over RAF Lakenheath and then over RAF Fairford, RAF Feltwell, and RAF Mildenhall.
+RAF Lakenheath. (Google Earth)
+The report makes particular note of the importance of RAF Lakenheath, which is being readied to host nuclear weapons, a topic we previously covered .
+“A public appeal for information drew roughly 170 reported sightings, about half of which were deemed credible, either corroborated by multiple witnesses or backed by imagery that couldn’t be explained away as ordinary air traffic.”
+“Operational security appeared sophisticated,” IISS posited. “The UAVs entered the airspace around the RAF bases at low altitude with their lights visible and departed at higher altitudes. Arrival and departure directions varied across the incident period.”
+Witness reports “indicate more than one platform type may have been involved,” the report proffers. “Some observations were consistent with multirotor UAVs; others with fixed-wing platforms. The propulsion noise of the UAVs was inconsistent across accounts, with some observers describing sounds more typical of petrol engines than electric motors.”
+“Notably, the Hav Dolphin , a vessel later linked to a 2025 drone incident in Germany , happened to be docked in the UK at the time,” the investigators found.
+That vessel was one of many either operated by Russia as part of its so-called “dark fleet” of sanctioned ships, or those connected to Russia, that the report goes into great detail to link to drone incursions throughout Europe after the incidents at U.S. bases there. The report describes these vessels as “Russian-linked commercial vessels, including shadow-fleet tankers, coastal freighters, and smaller craft.”
+IISS
+IISS suggested that the Russian Orlan-10 drone could have been one of the platforms used during the incursions.
+“Orlan-10, a compact, multi-purpose UAV in service with Russian Armed Forces since 2010, has a range and payload profile consistent with stand-off collection against coastal and inland targets and fits the deck space of a mid-sized commercial vessel,” IISS stated.
+“Commercial specifications for the platform, including those published by Russian geospatial firms using the Orlan-10 for civilian aerial survey operations, document an operational range of 500 kilometers, endurance of up to 12 hours, and speeds of 90–130 km/h, performance parameters consistent with maritime launch from a vessel operating well beyond visual detection range of the European coastlines in question.”
+Moreover, “the Orlan-10’s power is an internal combustion engine, a detail that may be relevant in light of witness accounts from November 2024 incidents at RAF Lakenheath, where propulsion noise was described by some observers as more characteristic of petrol engines than the electric motors typical of consumer and first-person view (FPV) drones.”
+In addition, the Orlan-10’s available payloads “include a satellite navigation spoofing module and a Global System for Mobile Communications network monitoring module alongside optical and thermal sensors, indicating the Orlan-10 family has active electronic warfare capability as well as passive ISR.”
+The Orlan-10 has been widely used as an intelligence, surveillance and reconnaissance drone by Russia in its ongoing war on Ukraine. Given that, however, using it for a clandestine operation like this seems very strange. The report critically recognizes this, stating “the use of identifiable Russian UAV platforms carries inherent attribution risk.”
+“An alternative, and operationally credible, hypothesis is that commercially available or modified platforms were used precisely to preserve deniability, including long-range [ first-person view] FPV systems, home-built fixed-wing aircraft or commercial UAVs modified to use cellular rather than radio frequency (RF) communications,” IISS added.
+Russia uses 'Orlan-10' drones to help detect and attack Ukrainian military positions
+The think tank acknowledges that its maritime-launch hypothesis “rests on a convergence of opportunity, demonstrated capability and a consistent geographic pattern — but no European government has yet publicly tied a specific shadow-fleet vessel to a specific incident, despite officials suggesting privately that they could. The rest of this report treats the maritime-UAV link as the most plausible explanation for where and when the incidents occurred, while acknowledging that confirming it will require evidence that isn’t yet public.”
+IISS
+This is not the first time Russia was accused of being behind the drone incursions.
+In February 2025, the U.K.-based The i Paper made similar allegations in its investigation, however, they suggested the flight could have been carried out by Russian operatives on the ground.
+That investigation spurred some politicians to call for further investigation.
+“Julian Lewis, the former Tory Chair of the Defense Select Committee said: ‘When the US and British authorities detected the drone intrusions at both airbases last November, they stated that investigations were underway,’” the outlet reported. “‘Meanwhile, there is credible evidence here of the possible presence of GRU-linked operatives near Lakenheath and Mildenhall. I shall be asking Ministers to consolidate the findings of all these investigations and to make a Statement in the Commons as soon as possible.’”
+Tom Tugendhat, the former Security Minister, told The i Paper that the findings “demand urgent investigation by the MOD and UK intelligence services.”
+Still, the MoD investigation into the RAF Lakenheath incidents concluded with no suspects identified, according to the Bury Mercury newspaper .
+RAF Lakenheath. (RAF)
+Less clear are results from investigations into the other three bases involved.
+“The UK takes the security of military bases seriously and works closely with allies, law enforcement partners and other authorities to protect Defense people, sites and capabilities,” the U.K. MoD told us Thursday morning when we asked about the allegations made by IISS that the Russians were likely behind the drone incursions and for their assessment of who was operating them.
+“Through the Armed Forces Bill, we’re giving our defense personnel greater powers to defeat drones threatening our bases and we have invested significantly in counter-drone capabilities. We continue to strengthen our ability to detect, deter and respond to potential threats,” MoD added.
+MoD declined to provide further details, saying it “does not comment on intelligence matters or on the specific security arrangements at Defense sites.”
+A U.S. Air Force F-16 Fighting Falcon from the 555th Fighter Squadron, Aviano Air Base, Italy, taxis out to the runway in preparation for takeoff for a training flight prior to the start of Cobra Warrior 24-2 at Royal Air Force Mildenhall, England, Sept. 11, 2024. (U.S. Air Force photo by Karen Abeyasekere Karen Abeyasekere
+We also asked U.S. Air Forces in Europe-Air Forces Africa (USAFE) whether the IISS allegations about Russian involvement in these events were accurate.
+“We can confirm small Unmanned Aerial Systems activity took place over several of our UK installations in 2024,” a spokesperson told us. “These events were monitored, and it was determined there was no impact on personnel or operations.”
+“Due to operational security, we cannot speak to intelligence matters,” the spokesperson added. “We continue to work closely with our UK partners to ensure the safety and security of our installations.”
+The command said it is working on a response to our question about who was behind these incursions, but that it would not be ready before the July 4 holiday.
+The issue of drone incursions is not unique to Europe, as we have frequently reported . There have been numerous incursions at military installations across the U.S. , including some near the water, like Langley Air Force Base in December 2023 that The War Zone was the first to report . More recently, Barksdale AFB in Louisiana, home of B-52 strategic bombers and nuclear weapons , experienced a similar series of very troubling incursions . Off the cost of California, American warships were swarmed sporadically for days in the summer of 2019. There are many other examples, as well, and as is the case in Europe, it remains publicly unknown who operated those drones in all those instances.
+The IISS report does not go into any of the cases outside of Europe. It does, however, clearly point the finger at Russia as the culprit behind the drone overflights that have bedeviled Europe, including U.S. bases in England and Germany.
+Contact the author: howard@twz.com
+Loading comments…
+Comments couldn’t be loaded. Please refresh the page.
+Latest in Air Forces
+A-10
+The A-10 Era Is Over At Nellis AFB
+The Warthog’s departure leaves the USAF's mastery of close air support in a tenuous transition.
+By Thomas Newdick , Tyler Rogoway
+8:19 PM
+September 23, 2026
+Royal Air Force
+Video Shows RAF Hawk T2 Trainer Crew Ejecting Before Jet Crashes (Updated)
+The incident occurred shortly after the Hawk departed from RAF Valley on a training mission.
+By Thomas Newdick
+11:51 AM
+September 23, 2026
+The TWZ Newsletter
+Weekly insights and analysis on the latest developments in military technology, strategy, and foreign policy.
+Sign Up
+By signing up you agree to our Terms of Service and Privacy Policy.
+More
+Royal Air Force
+Multiple Drone Incursions Just Occurred Over USAF Fighter Base In England
+By Howard Altman
+Royal Air Force
+USAF Air Base In England Is Nuclear Capable Again: Watchdog Report
+By Thomas Newdick
+B-52
+Drone Incursions Over USAF Bases In UK Enter Second Week
+By Howard Altman
+U.S. Air Force
+British Troops Reinforce USAF Airbases Amid Mysterious Drone Incursions: Reports (Updated)
+By Joseph Trevithick , Howard Altman
+U.S. Air Force
+Drone Incursions Closed Wright-Patterson Air Force Base’s Airspace Friday Night
+By Howard Altman
+United Kingdom
+Mysterious Drones Have Descended Again On U.S. Air Bases In The United Kingdom (Updated)
+By Tyler Rogoway , Howard Altman
+F-35
+U.S. Air Force’s First European-Based F-35s Have Arrived In England
+By Thomas Newdick
+U.S. Homeland
+Multiple Drone Incursions Confirmed Over Marine Corps Base Camp Pendleton (Updated)
+By Howard Altman
+SEE MORE

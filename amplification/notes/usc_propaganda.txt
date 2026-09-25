@@ -1,0 +1,184 @@
+USC Study Finds AI Agents Can Autonomously Coordinate Propaganda Campaigns Without Human Direction - USC Viterbi | School of Engineering
+Skip to content
+Swarms of AI agents can now coordinate to spread disinformation at scale (Image/Midjourney)
+Imagine it is two weeks before a major election in a closely contested state. A controversial ballot measure is on the line. Suddenly, a wave of posts floods X, Reddit, and Facebook, all pushing the same narrative, all amplifying each other, all generating the appearance of a massive grassroots movement. Except none of it is real.
+Behind the scenes, a small cluster of artificial intelligence agents is organizing and coordinating messaging and spreading manufactured consensus across social media without a single human being in the loop.
+The ramifications are alarming. These AI-powered networks could flood social media with coordinated propaganda before anyone even realizes what’s happening. They could make fringe views appear mainstream, create the illusion of public consensus around false narratives, and push disinformation at a speed and scale no human team could match. Political polarization, already severe, could deepen further. Trust in the information people encounter on X, Facebook, and Reddit, already eroded, could fall even farther.
+That troubling scenario is the central implication of a new paper accepted for publication at The Web Conference 2026 , the premier academic venue for internet research. The study , written by a team of researchers at USC’s Information Sciences Institute , is titled “Emergent Coordinated Behaviors in Networked LLM Agents: Modeling the Strategic Dynamics of Information Operations.”
+“Our paper shows that this is not a future threat : It’s already technically possible,” said Luca Luceri , ISI lead scientist and research assistant professor at the USC Thomas Lord Department of Computer Science within USC Viterbi and the School of Advanced Computing . “Even simple AI agents can autonomously coordinate, amplify each other and push shared narratives online without human control. This means disinformation campaigns could soon be fully automated, faster, and much harder to detect.”
+Added Jinyi Ye , lead author and a Ph.D. computer science student: “ Coordinated AI agents can manufacture the appearance of consensus, manipulate trending dynamics, and accelerate message diffusion. In democratic contexts, especially around elections or crises, such capabilities could distort public discourse and undermine information integrity if left unchecked.”
+Super-charged bots
+Traditional bot campaigns are tightly scripted to follow fixed instructions: always retweet this account, reply with this hashtag, post this prewritten message. The content is repetitive and the patterns predictable, making them possible to uncover.
+The new AI-powered model works differently. A hostile government, political operative, or bad actor sets a goal and designates a network of AI agents as a team. From there, the agents take over, writing their own posts, learning what works, copying their so-called teammates’ successful approaches, and echoing each other’s content. Because every post is slightly different and the coordination latent, these conversations or discussions seem genuine.
+“Legacy bots are simply capable of artificially amplifying content in a programmatic way, defined in advance by human operators,” Luceri said. “Generative agents are now capable of organizing influence campaigns in a fully automated way and creating credible content that can resonate with certain demographics.”
+In other words, the machinery of disinformation can now run itself, with limited human guidance.
+The Research
+Along with Luceri, and Ye, the doctoral student who is co-advised by him and ISI’s Emilio Ferrara, co-authors include Mahdi Saeedi, a doctoral student advised by Luceri; Ferrara, ISI research team leader and professor of computer science at USC Viterbi’s Thomas Lord Department of Computer Science and communication at USC Annenberg ; Gian Marco Orlando and Vincenzo Moscato of the University of Naples Federico II; and Valerio La Gatta of Northwestern University.
+Using a combination of network science and large language models, the same underlying technology that powers systems like ChatGPT, the researchers created and monitored synthetic bot agent personas, their posts, and their interactions with one another, simulating what a coordinated AI-powered social media network might look like.
+The team built a simulated social media environment modeled after X, with 50 AI agents: 10 as influence operators and 40 as ordinary users. (The researchers later expanded this to 500 agents, finding consistent results.) The operators were given one mission: promote a fictitious candidate and spread a campaign hashtag. The researchers then tested three conditions: bots that only knew the campaign goal; bots that also knew who their teammates were; and bots that held periodic strategy sessions and voted on a collective plan.
+The most striking finding was that simply telling the bots who their teammates were produced coordination nearly as strong as when bots actively strategized together. They amplified each other’s posts, converged on the same talking points, and recycled successful content.
+One AI agent wrote: “I want to retweet this because it has already gained engagement from several teammates. Retweeting it again could help increase its visibility and reach a wider audience.”
+Threats to Democracy
+Luceri is careful to note that the study was only a simulation. However, he worries about what the findings might suggest.
+“The worst scenario during political events is that these adversarial attacks could lead to opinion manipulation and belief change,” Luceri said, “further sowing division and eroding trust in our institutions.”
+The threat extends beyond elections to public health, immigration and economic policy, he added.
+Platforms could fight back, the researchers said, by looking less at what individual posts say and more at how accounts behave together, whether they share the same content, quickly reinforce one another, or push nearly identical narratives from accounts that have no obvious connection. Those telltale signs, they argue, are detectable even when the content itself looks organic.
+Whether platforms will act is unknown. Luceri noted that aggressive bot detection could reduce the active user base, a potential disincentive for companies whose business models depend on keeping users on their pages for as long as possible.
+Published on March 11th, 2026
+Last updated on August 7th, 2026
+This article may feature some AI-assisted content for clarity, consistency, and to help explore complex scientific concepts with greater depth and creative range.
+Related Stories
+July 29, 2026
+USC Researchers Discover Fake News Spreaders Have Less Followers Than Users Pushing Back
+AI tools developed by USC Analyzing Misinformation during the COVID 19 Pandemic finds users countering misinformation are more established, more...
+June 24, 2026
+What If We Could See Disinformation Coming? USC Scientists Say We Can
+USC Viterbi researchers can now predict when a false rumor will jump from one social media platform to another, giving...
+September 22, 2026
+They Developed an AI Tool to Detect Online Job Ads Linked to Human Trafficking
+The USC Viterbi and Stevens researchers' automated system analyzes multilingual job postings to identify deceptive recruitment tactics, risky platforms and...
+April 28, 2025
+ISI @ the 2025 ACM Web Conference
+USC ISI showcases new research to safeguard online discourse, mitigate polarization, evaluate LLMs, and more
+December 5, 2024
+USC at the Conference on Neural Information Processing Systems (NeurIPS) 2024
+USC researchers present their latest research at NeurIPS 2024, one of the world's top natural language processing and artificial intelligence...
+October 7, 2024
+Does ChatGPT Belong in Mensa?
+ISI researchers investigate whether advanced AI can solve visual puzzles and perform abstract reasoning.
+Search
+About
+School Overview
+About the School
+About Andrew Viterbi
+Awards
+Facts and Numbers
+Faculty Directory
+Ginsburg Hall
+History
+Leadership
+USC Michelson Center
+From the Dean
+Dean’s Message
+Dean’s Report
+Initiatives and Priorities
+Engineering +
+Vision
+News | Media | Events
+Events
+Keynote Lecture Series
+Media Contact & Press Releases
+Media Coverage
+News
+Newsletter
+Podcasts
+Public Image Archive
+Publications
+Social Media
+Video
+Academics
+Departments and Academic Programs
+Aerospace and Mechanical Engineering
+(opens in a new tab)
+Astronautical Engineering
+(opens in a new tab)
+Alfred E. Mann Department of Biomedical Engineering
+(opens in a new tab)
+Mork Family Department of Chemical Engineering and Materials Science
+(opens in a new tab)
+Sonny Astani Department of Civil and Environmental Engineering
+(opens in a new tab)
+Thomas Lord Department of Computer Science
+(opens in a new tab)
+Ming Hsieh Department of Electrical and Computer Engineering
+(opens in a new tab)
+Daniel J. Epstein Department of Industrial and Systems Engineering
+Engineering in Society Program
+(opens in a new tab)
+Technology and Applied Computing Program (TAC)
+Executive and Continuing Education
+Aviation Safety and Security Program
+Corporate and Professional Programs
+Online Access: Graduate Programs – DEN@Viterbi
+(opens in a new tab)
+Specialized Graduate Programs
+Financial Engineering Program
+(opens in a new tab)
+Green Technologies Program
+(opens in a new tab)
+Interdisciplinary Data Science Program (IDS)
+(opens in a new tab)
+Progressive Degree Program
+(opens in a new tab)
+Systems Architecting and Engineering Program
+(opens in a new tab)
+Resources and Initiatives
+Academic Integrity
+Accreditation
+Awards
+Awards Office
+Globalization
+Faculty Directory
+iPodia
+K-12 Outreach
+USC Experts Directory
+Women in Science and Engineering
+USC USC Stevens School of Advanced Computing and Artificial Intelligence
+USC Stevens School Website
+Departments and Programs
+Thomas Lord Department of Computer Science
+(opens in a new tab)
+Ming Hsieh Department of Electrical and Computer Engineering
+(opens in a new tab)
+Division of Computing Education (DCE)
+Technology and Applied Computing Program (TAC)
+(opens in a new tab)
+Interdisciplinary Data Science Program (IDS)
+Affiliated Research Centers and Institutes
+Information Science Institute (ISI)
+(opens in a new tab)
+Institute for Creative Technologies (ICT)
+(opens in a new tab)
+Advanced Computing Affinity Groups (ACAGs)
+Arts, Humanities and Computing
+Computing and Security
+Computational Science and Engineering
+Computational Medicine and Health
+Computational Social and Behavioral Sciences
+Quantum Science and Engineering
+Sustainability and Computation
+Admission
+First Year Applicants
+Master’s Applicants
+PHD Applicants
+Transfer Applicants
+Advancement
+Alumni
+Corporate
+Giving
+Parents
+Faculty
+Faculty Overview
+Faculty Directory
+Funding Opportunities
+Mentoring
+Positions Available
+Research Resources
+Research
+Research Overview
+Departments, Research Institutes and Centers
+Faculty Research Areas
+Research Infrastructure
+Research Initiatives
+Research Vision
+Student Research
+Summer Undergraduate Research Experience
+Students
+Innovation
+NSF I-Corps Hub: West Region
+William W. Wang Technology Innovation and Entrepreneurship Hub
+USC Stevens Center for Innovation
+(opens in a new tab)
+Contact us
+(opens in a new tab) Visit us
+(opens in a new tab)

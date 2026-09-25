@@ -1,0 +1,1039 @@
+Havana syndrome - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Symptoms reported by US and Canadian officials abroad
+{{cite web|website=Travel.state.gov |title=Cuba Travel Advisory|url=https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cuba-travel-advisory.html|publisher=Department of State|access-date=2018-06-22|archive-url=https://archive.today/20180130085013/https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cuba-travel-advisory.html|archive-date=2018-01-30|date=January 10, 2018}}</ref>"},"symptoms":{"wt":""},"causes":{"wt":"Not determined<ref name=\"Asadi-Pooya\">{{cite journal |last=Asadi-Pooya |first= Ali A.|title=Havana Syndrome: A Scoping Review of the Existing Literature |journal=Rev Environ Health |volume=38 |issue=4 |pages=655–661 |date=December 2023 |pmid=35962646 |doi=10.1515/reveh-2021-0182 |bibcode=2023RvEH...38..655A |type=Review}}</ref><ref name=\"Connolly\">{{Cite journal |last1=Connolly \n|first1=Matthew \n|last2=Hawkshaw |first2=Mary J. |last3=Sataloff |first3=Robert T.\n|author3-link=Robert Sataloff\n |date=July 1, 2024 \n|title=Havana syndrome: Overview for Otolaryngologists\n|journal=American Journal of Otolaryngology \n|volume=45\n |issue=4 \n |article-number=104332 \n|doi=10.1016/j.amjoto.2024.104332\n |pmid=38663328 <!-- |issn=0196-0709 -->}}</ref><br/>[[Mass psychogenic illness]] (proposed)<ref name=\"Connolly\"/><br/>"},"named after":{"wt":"[[Havana]], Cuba"},"synonyms":{"wt":"Anomalous health incidents<ref>{{Cite web |url=https://www.state.gov/anomalous-health-incidents-and-the-health-incident-response-task-force/ |title=Anomalous Health Incidents and the Health Incident Response Task Force |publisher=United States Department of State |access-date=2022-12-11 |language=en-US |date=November 5, 2022 |url-status=live |archive-date=2022-12-17 |archive-url=https://web.archive.org/web/20221217231551/https://www.state.gov/anomalous-health-incidents-and-the-health-incident-response-task-force/ }}</ref><br/>Unexplained health incidents<ref>{{Cite web |last=Borger |first=Julian |date=April 29, 2021 |title=White House Investigating 'Unexplained Health Incidents' Similar to Havana Syndrome |url=https://www.theguardian.com/us-news/2021/apr/29/us-unexplained-health-incidents-officials-washington |access-date=2024-05-21 |website=[[The Guardian]] |language=en-US |author-link=Julian Borger}}</ref><br/>Unidentified health incidents<ref>{{Cite web |last=Rubin |first=Eric |date=November 2, 2021 |title=We're All in This Together |url=https://afsa.org/were-all-together |access-date=2024-05-21 |website=[[American Foreign Service Association]] |language=en-US |author-link=Eric Rubin}}</ref>"}},"i":0}}]}'>Medical condition
+Havana syndrome
+Other names Anomalous health incidents [ 1 ]
+Unexplained health incidents [ 2 ]
+Unidentified health incidents [ 3 ]
+The Hotel Nacional in Havana is one of the locations where the syndrome was reported. [ 4 ]
+Causes Not determined [ 5 ] [ 6 ]
+Mass psychogenic illness (proposed) [ 6 ]
+Named after Havana , Cuba
+Havana syndrome , also known as anomalous health incidents ( AHIs ), is a disputed medical condition. Starting in 2016 in about a dozen overseas locations, U.S. and Canadian government officials and their families reported symptoms associated with a perceived localized loud sound. The symptoms lasted for months and included disabling cognitive problems , balance problems , dizziness, insomnia , and headaches. Havana syndrome is not recognized as a disease by the medical community.
+A number of government and non-government agencies have conducted investigations into the AHIs, including the State Department (2018), University of Pennsylvania (2018), FBI's Behavioral Analysis Unit (2018), JASON (2018 and 2022), Centers for Disease Control (2019), Department of Defense (2020), Central Intelligence Agency (CIA) (2020), National Academies of Sciences, Engineering, and Medicine (NASEM) (2020), Cuban Academy of Sciences (2021), seven intelligence agencies under the auspices of the Office of the Director of National Intelligence (ODNI) (2023), and National Institutes of Health (NIH) (2024). [ citation needed ] Several news organizations have also conducted investigations. [ 7 ]
+Official investigations have provided various theories on the cause of AHI, but there is no consensus. Theories include directed-energy weapons , psychological and social causes, and toxic chemicals. However, no cause has been established.
+The U.S. government has established a variety of programs providing medical and financial support to people that reported AHI symptoms, but some AHI patients continue to campaign for additional support.
+Syndrome
+A variety of symptoms are associated with Havana Syndrome, including dizziness, headaches, pain, and cognitive problems. [ 5 ] [ 6 ] Havana syndrome is not a disease recognized by the International Classification of Diseases diagnostic manual. [ 8 ]
+Signs and symptoms
+Most of the affected individuals reported an acute onset of neurological symptoms associated with a perceived localized loud sound such as screeching, chirping, clicking, or piercing noises. [ 5 ] [ 6 ] Two-thirds reported visual disturbances such as blurred vision and sensitivity to light. More than half reported intense pressure or vibration in the head, ear pain, diffuse head pain, and cognitive problems such as forgetfulness and poor concentration. Tinnitus and hearing loss occurred in one-third of cases, and dizziness or unsteady gait affected one-quarter. [ 5 ]
+Some affected individuals reported chronic symptoms that last for months, such as balance and cognitive problems, insomnia, and headaches. The longevity of these symptoms is not clear, and they are less specific than the acute symptoms. [ 5 ] [ 6 ]
+Causes
+A review article written in 2022 by Ali A. Asadi-Pooya considered several possible causes. It stated that a plausible explanation was the use of a directed-energy or radio frequency weapon , with other possible causes including functional disorders , psychogenic disease , or exposure to chemicals/neurotoxins . The authors cautioned that all studies included in their review were limited by small sample sizes, and that the underlying cause remains unidentified. [ 5 ]
+A 2023 review article written by Bartholomew and Baloh concluded that Havana syndrome was erroneously classified as a novel entity due to a moral panic based on the fear of foreign entities such as the Russians or Cubans attacking the U.S., the over-interpretation of data, misconceptions about psychogenic illness, and coverage and leaks by the media. The authors stated that the U.S. intelligence community had concluded that Havana syndrome is "a socially constructed catch-all category for an array of pre-existing health conditions, responses to environmental factors, and stress reactions that were lumped under a single label". [ 9 ] [ 10 ]
+A 2024 review article by Connolly et al., surveying multiple peer-reviewed studies, concluded that the cause of AHIs is still unknown. The review discussed several possible causes, including mass psychogenic illness and head trauma, but did not endorse a specific cause. [ 6 ]
+Number of people
+There are no official statistics, but media reporting indicated a total of 26 people around 2017, [ 11 ] 40 in 2019 (U.S. and Canadian), [ 12 ] 130 people in May 2021, [ 13 ] more than 200 by September 2021, [ 14 ] and more than 1,000 by early 2022. [ 15 ] The cases affected CIA, U.S. military, and State Department personnel and their family members. [ 13 ] Some reports, after investigation, were determined to have ordinary explanations. [ 11 ]
+In July 2024, a report from the GAO stated that 334 people had completed the process to qualify for care in the military health system. [ 16 ]
+Locations
+People have reported experiencing AHIs in about a dozen countries, and in a variety of circumstances, including in hotels, at home, while in vehicles, and while walking a dog in the suburbs. [ 4 ] [ 17 ] [ 18 ] [ 19 ]
+Cuba
+U.S. personnel
+In August 2017, reports began surfacing that American and Canadian [ 20 ] diplomatic personnel in Cuba had experienced unusual, unexplained health problems dating to late 2016. [ 21 ] [ 22 ] As of June 2018, the number of American citizens experiencing symptoms was 26. [ 23 ]
+The original 21 events in Cuba were characterized as starting with strange grating noises coming from a specific direction. Some people reported pressure, vibration, or a sensation comparable to driving a car with the window partly rolled down. These noises lasted from 20 seconds to 30 minutes and happened while the diplomats were either at home or in hotel rooms. Other people nearby (including family members and guests in neighboring rooms) did not experience the same symptoms. [ 24 ]
+In 2017, the U.S. State Department concluded that the health problems were either the result of an attack or due to exposure to an unknown device, [ 25 ] but that it was not blaming the Cuban government, and would not say who was to blame. [ 26 ] Speculation centered around a sonic weapon , [ 27 ] with some researchers pointing to infrasound as a possible cause. [ 28 ] Affected people described symptoms such as hearing loss, memory loss, and nausea. [ 25 ] Some U.S. embassy workers report lasting health problems. [ 29 ]
+In August 2017, the United States expelled two Cuban diplomats in retaliation for perceived Cuban responsibility. [ 21 ] The next month, the U.S. State Department stated that it was removing non-essential staff from the U.S. embassy and warned U.S. citizens not to travel to Cuba. [ 30 ] In October 2017, President Donald Trump said he believed that Cuba was responsible for the occurrences, [ 31 ] calling them a "very unusual attack". [ 32 ]
+In response to the incidents, the U.S. State Department announced in March 2018 that it would continue to staff its embassy in Havana at the minimum level required to perform core diplomatic and consular functions; the embassy had been operating under "ordered departure status" since September 2017, but the status was set to expire. This announcement extended the staff reductions indefinitely. [ 33 ]
+Canadian personnel
+In March 2018, some Canadian diplomats traveled to Pittsburgh to consult the neurologist that had previously diagnosed brain issues in US diplomats. The neurologist concluded that MRIs of the Canadians showed evidence of brain damage that was similar to what the neurologist reported for the American counterparts. In early 2018, Global Affairs Canada ended family postings to Cuba and withdrew all staff with families. Several of the Canadians who were affected in 2017 were reported to still be unable to resume their work due to the severity of their ailments. The lack of knowledge of the cause of Havana syndrome, as of February 2019 [ update ] , had made it challenging for the Royal Canadian Mounted Police to investigate. [ 34 ] In 2019, the Canadian government announced that it was reducing its embassy staff in Havana after a 14th Canadian diplomat reported symptoms of Havana syndrome in late December 2018. [ 35 ]
+Beyond Cuba
+Beginning in late 2017, suspected attacks targeting U.S. intelligence personnel were reported in an expanding set of locations around the world, [ 36 ] including Moscow, Russia ; Tbilisi, Georgia ; Poland ; Taiwan ; and Australia . [ 37 ] Other reports came from Colombia , Kyrgyzstan , Uzbekistan , and Austria , [ 13 ] among other countries. [ 13 ] [ 18 ] [ 38 ] [ 39 ] [ 40 ] [ 41 ] [ 42 ] The Russian embassy in Australia dismissed reports of Russian operatives targeting CIA personnel in Australia. [ 43 ]
+China
+Consulate General of the United States in Guangzhou
+Starting in early 2018, U.S. diplomats in China began reporting symptoms consistent with Havana syndrome. The first such incident was reported by an American diplomat in China in April 2018 at the Guangzhou consulate , the largest U.S. consulate in China. The employee reported that he had been experiencing symptoms since late 2017. Several individuals were taken to the U.S. for medical examination. [ 44 ] [ 45 ] [ 46 ]
+Answering questions from the House Foreign Affairs Committee in May 2018, Secretary of State Mike Pompeo testified that U.S. diplomatic staff in Guangzhou had reported symptoms "very similar" to, and "entirely consistent" with, those reported from Cuba. [ 47 ] [ 48 ] On June 6, 2018, The New York Times reported that at least two additional U.S. diplomats stationed at the Guangzhou consulate had been evacuated from China and reported that "it remains unclear whether the illnesses are the result of attacks at all. Other theories have included toxins, listening devices that accidentally emitted harmful sounds, or even mass hysteria." [ 45 ] In June 2018, the State Department announced that a task force had been assembled to investigate the reports [ 49 ] and expanded their health warning to all of mainland China amid reports some US diplomats outside of Guangzhou had experienced the same symptoms resembling a brain injury. [ 50 ] The warning told anyone who experienced "unusual acute auditory or sensory phenomena accompanied by unusual sounds or piercing noises" to "not attempt to locate their source". [ 51 ]
+Elsewhere in Asia
+A USAID employee at the U.S. embassy in Tashkent, Uzbekistan , reported a different incident in September 2017; the employee's report was discounted by the U.S. State Department. [ 52 ]
+In August 2021, it was reported that two American diplomats were evacuated from Hanoi, Vietnam , after incidents of Havana syndrome were reported. [ 53 ] These reported cases also delayed Vice President Kamala Harris 's visit to Vietnam. [ 54 ] [ 55 ]
+In September 2021, an aide-de-camp of CIA director William J. Burns reported symptoms consistent with those of Havana syndrome on a diplomatic visit to India . [ 42 ]
+Washington, D.C. area
+In 2019, a White House official reported experiencing debilitating symptoms while walking her dog in a Virginia suburb of Washington ; the incident was publicly reported in 2020. [ 39 ] In November 2020, a similar incident was reported on The Ellipse , a lawn adjacent to the south side of the White House. [ 39 ] [ 56 ] Both incidents were similar to those that were reported to have struck dozens of U.S. personnel overseas, including CIA and State Department personnel. [ 39 ] Federal agencies investigated the incident at The Ellipse, and Defense Department officials briefed members of the Senate Armed Services Committee and House Armed Services Committee in April 2021. [ 39 ] Investigators told members of Congress that they had not been able to determine the cause of the events or who was responsible. [ 39 ]
+Europe
+U.S. embassy in Vienna, Austria
+In 2021, dozens of U.S. personnel stationed in Vienna , including diplomats, intelligence officials, and some children of U.S. employees, reported Havana syndrome-like symptoms. [ 57 ]
+The State Department confirmed in July 2021 that it was investigating the reports. [ 40 ] The Austrian foreign ministry stated it was collaborating with American investigators. Aside from Havana, Vienna has reported the most incidents. [ 58 ] In September 2021, the CIA station chief in Vienna (the top U.S. intelligence officer in the country) was recalled over concerns over his management; he had been criticized for not taking quicker action in response to the Havana syndrome cases at his post. [ 59 ] [ 57 ]
+In the months preceding August 2021, cases of Havana syndrome were reported in Berlin, Germany, including from two U.S. officials who sought medical treatment. [ 60 ] Several new cases were reported at the embassy in October 2021. [ 61 ] In 2021, the CIA evacuated an intelligence officer serving in Serbia suspected of being a victim of the neurological attack. [ 36 ] Three White House staffers reported symptoms at the InterContinental London Park Lane in late May 2019. [ 13 ]
+Elsewhere
+In October 2021, it was reported that U.S. embassy personnel and their families in Bogota, Colombia , had developed symptoms consistent with Havana syndrome. [ 62 ] [ 63 ]
+History of investigations
+2018
+Developments
+In January 2018, the State Department convened an accountability review board, led by retired United States Ambassador to Libya Peter Bodde , to review the department's handling of AHIs. [ 64 ] [ 65 ]
+In March 2018, a team of computer scientists at the University of Michigan reported in a study that ultrasound —specifically, intermodulation distortion from multiple inaudible ultrasonic signals—from malfunctioning or improperly placed Cuban surveillance equipment could have been the origin of the reported sounds. [ 66 ] [ 67 ] [ 68 ]
+FBI investigations
+In 2018, the FBI produced two reports on AHIs. The first, internally released in January, was a non-public report by the FBI's Operational Technology Division which found no evidence of a sonic attack or involvement of foreign adversaries. [ 69 ] [ 70 ]
+A second FBI investigation in 2018 was conducted by the Behavioral Analysis Unit , which visited Havana and came to the assessment that the individuals were experiencing a mass psychogenic illness. The investigators did not speak to any of the affected people directly, instead relying on prior interviews other FBI investigators conducted with people that reported AHIs. According to The New Yorker , the unit also reviewed the patient histories compiled by the patients' neuropsychologists and other physicians, who had already ruled out mass psychogenic illness as a cause. [ 13 ] [ 70 ]
+A November 2018 article in The New Yorker reported that the FBI's investigation was hindered by conflict with the CIA: the CIA was reluctant to reveal, even to other U.S. government agencies, the identities of affected officers because of concern about possible leaks. Federal rules on the privacy of employee medical records also hindered the investigation. [ 18 ]
+University of Pennsylvania study
+At the U.S. government's request, University of Pennsylvania (UPenn) researchers examined 21 affected diplomats posted to Cuba, and the preliminary results were published in the Journal of the American Medical Association ( JAMA ) in March 2018. The researchers found "no evidence of white matter tract abnormalities" in affected diplomats beyond what might be seen in a control group of the same age, but described "a new syndrome in the diplomats that resembles persistent concussion ". [ 71 ] [ 72 ] While some of those affected recovered swiftly, others had symptoms for months. The study concluded that "the diplomats appear to have sustained injury to widespread brain networks ." [ 71 ] [ 72 ]
+In September 2018, Douglas H. Smith, the lead author of the UPenn study, said in an interview that microwaves were "considered a main suspect" underlying the phenomenon. [ 73 ] A 2018 study by Beatrice Alexandra Golomb determined that the symptoms and circumstances of AHIs were consistent with pulsed RF/MW radiation. [ 74 ] [ 75 ] [ 14 ]
+Criticism of University of Pennsylvania study
+The same issue of JAMA that contained the UPenn study also contained an editorial criticizing it. The editorial criticized the lack of a control group , lack of baseline evaluations, and lack of experimental blinding . The editorial expressed concern that many of the measurements were based on patient self-reports or involved subjective interpretations. The editorial said that the UPenn study's conclusion (that the subjects suffered brain injuries) was flawed, because there were other (non-injury) explanations that were consistent with the symptoms, such as functional disorders, persistent postural-perceptual dizziness , or psychogenic causes. [ 76 ] [ 24 ]
+The UPenn study was criticized again in JAMA , in August 2018, by several physicians and scientists who asserted that the study overlooked many other possible causes of the AHIs. [ 77 ] [ 78 ]
+The UPenn study was also criticized in late 2018 by the neuroscience journal Cortex . The journal's editorial board, led by Sergio Della Sala , published a letter stating that the study had "gross methodological flaws" and asking the authors of the study to clarify their methods or retract the study. In the board's view, "Allowing such confused and conflicting explanations of methodology and analysis to pass unchallenged is a slippery path for science, and dangerous for society at large". [ 79 ] [ 80 ]
+In late 2018, some scientists, including physicist Peter Zimmerman , bioengineers Kenneth R. Foster, and Andrei G. Pakhomov, and UCLA neurologist Robert Baloh, said that the microwave hypothesis was implausible; Baloh described the conclusions of the UPenn study as "science fiction". [ 81 ] [ 82 ]
+In 2024, scientists with the NIH published a study of 86 AHI patients in which they were unable to replicate the UPenn results. [ 83 ]
+2018 JASON report
+In 2018, JASON, a group of physicists and scientists who advise the U.S. government, analyzed audio recordings from eight of the original 21 AHIs and two cellphone videos taken by one patient from Cuba. The report's findings were first reported in July 2019. [ 84 ] Parts of JASON's report were declassified in September 2021. [ 85 ]
+The report concluded that the sounds in the audio recordings were "most likely" caused by insects and that it was "highly unlikely" that microwaves or ultrasound beams were involved, because "No plausible single source of energy (neither radio/microwaves nor sonic) can produce both the recorded audio/video signals and the reported medical effects." [ 85 ] The group determined with "high confidence" that two audio sources were sounds from the Indies short-tailed cricket . [ 85 ] The report stated "It cannot be ruled out that while the perceived sounds, while not harmful, are introduced by an adversary as deception so as to mask an entirely unrelated mode of causing illness." [ 85 ] The report also concluded that while the cause of the condition was unknown, "psychogenic effects may serve to explain important components of the reported injuries". [ 85 ]
+2019
+Analysis of insect noises
+In January 2019, biologists Alexander L. Stubbs of the University of California, Berkeley and Fernando Montealegre-Z of the University of Lincoln analyzed audio recordings made by American personnel in Havana during incidents associated with Havana syndrome. [ 86 ] The conclusion was that the sounds were the calling song of the Indies short-tailed cricket ( Anurogryllus celerinictus ) rather than those of a technological device. Stubbs and Montealegre-Z matched the song's "pulse repetition rate, power spectrum, pulse rate stability, and oscillations per pulse" to the recording. [ 87 ] [ 88 ] Stubbs and Montealegre wrote, "the causes of the health problems reported by embassy personnel are beyond the scope of this paper" and called for "more rigorous research into the source of these ailments, including the potential psychogenic effects, as well as possible physiological explanations unrelated to sonic attacks." [ 88 ] This conclusion was comparable to a 2017 hypothesis by Cuban scientists that the sound on the same recording is that of Jamaican field crickets . [ 87 ] [ 89 ] [ 90 ] [ 91 ]
+Psychogenic cause proposed
+In a 2019 paper, Robert Bartholomew and Robert Baloh proposed that the AHIs represent a mass psychogenic illness rather than a "novel clinical entity". [ 92 ] They cited the vagueness and inconsistency of symptoms as well as the circumstances they developed in (affected staff would have been under significant stress as the U.S. had just reopened its embassy in Cuba) as a cause. [ 92 ] [ 93 ] [ 94 ] The scientists asserted that the Havana syndrome is an example of the nocebo effect — where the fear of an anticipated harmful event (e.g. an energy weapon attack) causes symptoms. The scientists noted that, even when AHIs are psychogenic in nature, the symptoms experienced by the patients can be authentic. [ 95 ] [ 96 ] [ 97 ] [ 98 ]
+CDC report
+In late 2017, the US Congress asked the Centers for Disease Control (CDC) to investigate the AHIs. In response, the CDC studied the medical histories of 95 diplomats and family members that reported symptoms. The report, published in December 2019, was given to Congress and to the executive branch, but not released to the public. The report concluded "The evaluations conducted thus far have not identified a mechanism of injury, process of exposure, effective treatment, or mitigating factor for the unexplained cluster of symptoms experienced by those stationed in Havana." The report noted that 15 of the 95 people reported similar symptoms, which occurred in two phases. Inconsistencies in the medical records, as well as long times between symptoms and medical tests, impaired the CDC's ability to draw clear conclusions from the medical data. The CDC decided not to conduct a retrospective case–control study because of the length of time between the event and the onset of symptoms, which could lead to recall and selection biases that "could generate misleading or obscured findings". [ 99 ] [ 100 ] [ 101 ]
+In December 2020, BuzzFeed news noticed that the NASEM report mentioned the CDC report, and so they made a FOIA request, and obtained the CDC report. In January 2021, Buzzfeed published the CDC report. Buzzfeed quoted neurologist Robert Baloh as saying "Essentially the CDC is saying that they have no idea what happened in Cuba." [ 99 ] [ 101 ] [ 100 ]
+2020
+Department of Defense and CIA task forces
+Near the end of the Trump administration, the Defense Department established a task force to investigate reports of attacks on DoD personnel abroad. [ 39 ] The Department of Defense (DoD) established the task force partly due to frustration over what DoD officials considered to be a sluggish and lackluster response by the CIA and Department of State. [ 39 ] Christopher C. Miller , who was acting defense secretary at the time, said in 2021 that "I knew CIA and Department of State were not taking this shit seriously and we wanted to shame them into it by establishing our task force." [ 39 ] Miller said that he began to consider the reports of mysterious symptoms to be a high priority in December 2020, after he conducted an interview with a person with major combat experience who detailed symptoms. [ 39 ]
+In December 2020, the CIA established a task force to investigate. [ 39 ] [ 102 ] The agency set up the task force after continued reports of debilitating attacks against CIA officers in various places around the world. [ 102 ] The CIA expanded its investigation under Director William J. Burns, who took office in 2021; [ 39 ] Burns appointed a senior CIA officer who had previously led the manhunt for Osama bin Laden to lead the agency's investigation. [ 59 ]
+NASEM report
+Building housing NASEM
+The State Department commissioned the National Academies of Sciences, Engineering, and Medicine to study Havana syndrome. The committee met throughout 2020 and released their report in December 2020. The committee noted that lack of information and direct evidence (such as medical testing data about affected people) limited what it could conclude about the phenomenon, and that "each possible cause remains speculative" and that "the report should not be viewed as conclusive". The committee considered four causes: directed Radio Frequency (RF) energy, toxic chemicals, infectious diseases, and psychological issues. The committee deemed the RF pulses as the most plausible, with psychological causes as a secondary contributing factor. The committee considered toxic chemicals and infectious diseases as unlikely causes. &#91;<i>[[Wikipedia:Citing_sources|<span_title="This_citation_requires_a_reference_to_the_specific_page_or_range_of_pages_in_which_the_material_appears.&#32;(March_2026)">page&nbsp;needed</span>]]</i>&#93;</sup>_103-0' rel="dc:references" typeof="mw:Transclusion mw:Extension/ref" data-mw='{"name":"ref","attrs":{"group":"","name":"FOOTNOTERelmanPavlin2020[[Category:Wikipedia articles needing page number citations from March 2026]]<sup class=\"noprint Inline-Template \" style=\"white-space:nowrap;\">&#91;<i>[[Wikipedia:Citing sources|<span title=\"This citation requires a reference to the specific page or range of pages in which the material appears.&#32;(March 2026)\">page&nbsp;needed</span>]]</i>&#93;</sup>"},"body":{"id":"mw-reference-text-cite_note-FOOTNOTERelmanPavlin2020[[Category:Wikipedia_articles_needing_page_number_citations_from_March_2026]]<sup_class=\"noprint_Inline-Template_\"_style=\"white-space:nowrap;\">&#91;<i>[[Wikipedia:Citing_sources|<span_title=\"This_citation_requires_a_reference_to_the_specific_page_or_range_of_pages_in_which_the_material_appears.&#32;(March_2026)\">page&nbsp;needed</span>]]</i>&#93;</sup>-103"},"parts":[{"template":{"target":{"wt":"sfn","href":"./Template:Sfn"},"params":{"1":{"wt":"Relman"},"2":{"wt":"Pavlin"},"3":{"wt":"2020"},"p":{"wt":"{{pn|date=March 2026}}"}},"i":0}}]}'> &#91;<i>[[Wikipedia:Citing_sources|<span_title="This_citation_requires_a_reference_to_the_specific_page_or_range_of_pages_in_which_the_material_appears.&#32;(March_2026)">page&nbsp;needed</span>]]</i>&#93;</sup>-103' id="mwA1U"> [ 103 ] [ 74 ] [ 104 ] [ 105 ] [ 106 ]
+The committee found that many of the AHI symptoms were consistent with exposure to directed RF energy. The committee outlined additional research that needs to be conducted before concrete conclusions can be reached. [ 107 ] [ 106 ]
+The NASEM study found that it was unlikely that the symptoms were caused by toxic chemicals, such as insecticides or pesticides, due to a lack of exposure to such chemicals, and because reported symptoms were not consistent with exposure to such chemicals. [ 108 ] [ 106 ] NASEM also found it highly unlikely that an infectious disease (such as Zika virus , which was an epidemic in Cuba in 2016–17) caused the illnesses. [ 109 ] [ 106 ]
+The NASEM analysis considered psychogenic, social, and psychological causes for the symptoms, but was not able to draw a conclusion that these were likely or unlikely causes of most of the symptoms. The study stated that psychological causes were unlikely to be the cause of the acute and chronic auditory and vestibular symptoms that were reported by some patients. [ 110 ] [ 111 ] [ 112 ] [ 106 ]
+In October 2021, Cheryl Rofer , a former chemist at the Los Alamos National Laboratory, said that there were no microwave experts on the NASEM committee and that "No evidence has been offered that such a weapon has been developed by any nation." Rofer also cited a 1978 study that found no adverse health effects from the Moscow Signal . [ 113 ]
+Media
+In October 2020, the New York Times reported that U.S. diplomats and intelligence officers, including senior leaders, had clashed with Trump administration appointees, including CIA director Gina Haspel and State Department leaders, over the nature and causes of the suspected attacks. [ 114 ] A New York Times investigation found that the State Department had "produced inconsistent assessments of patients and events, ignored outside medical diagnoses and withheld basic information from Congress". [ 114 ] Despite the general view within the U.S. government that Russia was responsible, two U.S. officials told The New York Times that Haspel was not convinced of Russia's responsibility, or even whether an attack occurred. [ 114 ]
+Other media reported that many current and former U.S. officials stated that Russia was likely responsible for the alleged attacks, [ 102 ] and that that suspicion was shared by both Trump and Biden administration officials. [ 13 ] [ 114 ] Other media reported that Russia has a history of researching, developing, and using weapons that cause brain injuries, such as the Cold War -era "Moscow Signal" targeting the American embassy in Moscow. [ 114 ] [ 115 ]
+In 2020 the New York Times reported that a 2014 NSA report stated that a hostile nation possessed a microwave weapon capable of being aimed at a person's living quarters, causing nervous system damage; and that Russia has an interest in disrupting cooperation among the U.S., China, and Cuba. [ 114 ] The same article reported that some AHI patients stationed in China and Cuba were working to increase cooperation with those countries, and some CIA analysts voiced suspicion Russia thus sought to derail their work. [ 114 ]
+In 2020, a book by Bartholomew and Baloh, Havana Syndrome: Mass Psychogenic Illness and the Real Story Behind the Embassy Mystery and Hysteria , was published; it argued in support of the psychogenic illness hypothesis. [ 116 ]
+2021
+U.S. State Department
+In February 2021, the U.S. State Department said that its ongoing investigation was "a high priority" for the department. [ 102 ] Also in February, sources familiar with the various ongoing investigations told CNN that a primary obstacle to progress by the U.S. government in investigating the syndrome was a lack of coordination among the CIA, FBI, Centers for Disease Control and Prevention , and State Department, which conducted separate and "largely siloed" investigations. [ 102 ] The limited coordination among the agencies was due in part to "the highly classified nature of some details and the privacy restrictions of health records, and that has hampered progress". [ 102 ] In November, Secretary of State Blinken appointed two senior U.S. diplomats to oversee the department's internal Health Incident Response Task Force: career foreign service officer Ambassador Jonathan M. Moore as overall coordinator [ 117 ] and retired Ambassador Margaret Uyehara . [ 118 ] [ 119 ]
+Cuban Academy of Sciences
+In September 2021, the Cuban Academy of Sciences released a report prepared by 21 scientists and academics. The report determined that prior analyses by United States scientists were biased and relied on evidence that was cherry-picked to support the narrative of attacks by a foreign adversary. The Cuban scientists stated that alternative explanations, including psychogenic causes, were suppressed in the US investigations. The Cuban report concluded that there is no weapon that can inflict the kinds of ailments reported, and that the most likely explanation of the syndrome was mass psychogenic illness, perhaps combined with prior existing medical conditions. [ 120 ] [ 121 ] [ 122 ] [ 123 ] [ 124 ] [ 125 ]
+Media
+In May 2021, The New Yorker reported that some unnamed officials in the government believe that GRU agents have been aiming microwave-radiation devices at U.S. officials, to obtain information from phones and computers, and that the radiation may be harmful. The article also quoted a government official who interviewed several overseas workers that reported episodes of pain or dizziness when near GRU locations. [ 13 ] According to two unnamed officials interviewed by Politico , "While investigators have not determined definitively that these incidents are caused by a specific weapon, some believe any such device would be primarily transported by vehicle", and "Some could be small enough to fit into a large backpack, and an individual can be targeted from 500 to 1,000 yards away." [ 126 ] An article in The Guardian interviewed experts regarding the feasibility of AHIs being caused by microwave weapons, and some of the experts stated that it was plausible, but others stated it was not plausible. [ 115 ]
+Citing unnamed intelligence and government officials, The New York Times reported in July 2021 that the National Security Council , Central Intelligence Agency , and Director of National Intelligence established two outside panels, one to investigate possible causes and the other to develop defensive countermeasures for personnel protection; cleared external scientists would be permitted to view relevant classified intelligence in their investigations. [ 127 ]
+In September 2021, it was reported that within the U.S. government, analysts had debated whether the alleged attacks reflected a deliberate attempt to cause injury, or whether the reported symptoms were "a consequence of a high-tech attempt to steal classified information from phones and computers of U.S. officials". [ 59 ] Also in September, CIA Deputy Director David S. Cohen said that the investigation had "gotten closer" to making a determination, "but not close enough to make the analytic judgment that people are waiting for". [ 59 ] Also in September, it was reported that multiple anecdotes from various Western diplomats stationed overseas, including in Russia, describe mysterious ailments during past decades that might be due to microwave devices. [ 11 ] [ 14 ]
+2022
+DNI scientific panel report
+In February 2022, the Director of National Intelligence released a summary of a report written by a panel of scientists. Regarding AHI patients that reported four particular "core" symptoms, the report determined that pulsed electromagnetic energy and ultrasound were plausible causes for those cases. The report stated that psychogenic factors could explain the other instances of AHI (that did not involve all four core symptoms). [ 128 ]
+CIA Report
+In January 2022, the Central Intelligence Agency issued an interim report that summarized an ongoing study of roughly 1,000 reported cases of AHI. The study concluded that it was unlikely that a foreign power was responsible for the AHIs, and that the study had not yet found evidence of involvement by a state actor. The report said that most of the reviewed cases could be explained by natural causes such as environmental causes, undiagnosed medical conditions, or stress. The study identified about 24 cases for which foreign involvement could not be ruled out, and said that investigation is continuing. [ 129 ] [ 15 ]
+2022 JASON Report
+On February 10, 2022, the State Department released unclassified portions of a report it had commissioned from the JASON Advisory Group. [ 130 ] The study found that 80–90% of the incidents could be easily explained by everyday occurrences or other unrelated factors. For the 10–20% that could not be easily explained, JASON was not able to perform a statistical analysis due to lack of data on a comparable background population, small numbers, and generally low data quality. [ 130 ]
+The study also examined whether or not electromagnetic radiation could be the cause of AHIs. The study concluded that several forms of radiation could be ruled out, including ionizing radiation, acoustic energy, and RF energy at frequencies less than 500 MHz or greater than 30 GHz. After considering factors such as ability to aim and to penetrate building walls, the remaining frequencies — between 500 MHz and 30 GHz — were determined to be a "highly unlikely" cause, although they could not be conclusively ruled out. [ 130 ]
+2023
+2023 U.S. intelligence report
+On March 1, 2023, the House Intelligence Committee released a report, titled "Intelligence Community Assessment", which was jointly prepared by seven U.S. intelligence agencies and published by the Office of the Director of National Intelligence (ODNI). The report concluded "that there is no credible evidence that a foreign adversary has a weapon or collection device that is causing AHIs". The agencies preparing the report reviewed thousands of possible cases of Havana syndrome. The reported stated that there continues to be scientific debate about whether a weapon could produce such health effects. [ 131 ] [ 132 ] [ 133 ]
+Five of the seven agencies involved in generating the report concluded "the available intelligence consistently points against the involvement of US adversaries in causing the reported incidents" and that a foreign adversary's involvement was "very unlikely". One of the other agencies concluded that foreign involvement was "unlikely", and the seventh agency declined to make a finding. [ 131 ] [ 134 ] [ 133 ]
+Two of the seven agencies had "high confidence in this judgment while three agencies have moderate confidence". Two other agencies judged "that deliberate causal mechanisms are unlikely to have caused AHIs" but those agencies had "low confidence because they judge(d) that radiofrequency (RF) energy is a plausible cause for AHIs, based in part on the findings of the IC Expert Panel and the results of research by some US laboratories." [ 131 ]
+Regarding the study, government officials said: "There is no one explanation for these incidents. Instead, there are many different possible causes including environmental as well as social factors and preexisting medical conditions." The officials also said that the investigative efforts were 'extremely aggressive' and involved "a high degree of risk", and "Intelligence officers vigorously studied what happened in the hours, days and weeks surrounding the incidents... In some instances they found malfunctioning HVAC systems, which can cause discomfort to humans, and in other cases there were computer mice that created surprising disruptions... We weren't finding what we expected to find... There is no one explanation for any of this." [ 135 ]
+Of the report, CIA Director William J. Burns said, "The intelligence community assessment released today by ODNI reflects more than two years of rigorous, painstaking collection, investigative work, and analysis by IC agencies including CIA... We applied the agency's very best operational, analytic, and technical tradecraft to what is one of the largest and most intensive investigations in the agency's history." [ 136 ]
+Politico summarized the results by saying, "The finding undercuts a years-long narrative, propped up by more than a thousand reports from government employees, that a foreign adversary used pulsed electromagnetic energy waves to sicken Americans." [ 137 ]
+Reactions
+Following release of the March 2023 report, Trump's national security adviser John Bolton stated that when the Cuban attack reports began, he "pretty quickly" came to believe that attacks were not in Cuba's interest, and that he thought it was beyond Cuba's capabilities. He assumed Russia was involved, but said that he chose not to brief the president on that, as he did not think Trump would support that theory due to his association with Vladimir Putin . [ 138 ]
+Upon release of the report, Cuba's Vice Foreign Minister Carlos Fernandez de Cossio told Reuters, "The unfortunate thing is the U.S. government leveraged [Havana syndrome] to derail bilateral relations... and discredit Cuba." Reuters also reported that "Cuba has for years labeled as 'science fiction' the idea that 'Havana Syndrome' resulted from an attack by a foreign agent, and its top scientists in 2021 found no evidence of such allegations." [ 139 ]
+Despite the report's conclusion, U.S. Senator Marco Rubio , the vice chairman of the Senate Intelligence Committee, issued a statement on March 2 rejecting the finding, saying, "Something happened here, and just because you don't have all the answers doesn't mean that it didn't happen." Rubio said his panel would continue an independent review of the claims. [ 140 ]
+International Journal of Social Psychiatry
+During 2023, the International Journal of Social Psychiatry published several articles and commentaries supporting the psychogenic hypothesis, criticizing the energy weapon hypothesis, and questioning whether some earlier Havana syndrome studies published in JAMA were inappropriately influenced by politics. [ 9 ] [ 10 ] [ 141 ] [ 142 ]
+2024
+NIH Clinical Center studies
+NIH Clinical Center
+In April, scientists at the National Institutes of Health Clinical Center published the results of two studies conducted over five years on two groups of federal employees (81 and 86 people) who experienced anomalous health incidents (AHIs). The studies did not find any brain injuries or persistent physiologic changes, when comparing AHI patients to a control group. One of the researchers noted that many of the patients are experiencing high levels of stress and anxiety, which can negatively impact their recovery from original AHIs. [ 143 ] [ 144 ] [ 83 ] [ 145 ]
+The authors of the first NIH study concluded that "This ... study ... revealed no significant differences in imaging measures of brain structure or function between individuals reporting AHIs and matched control participants after adjustment for multiple comparisons." Differences between the AHI individuals and the control group were statistically insignificant, after compensating for errors related to multiple measurements . [ 144 ]
+The authors of the second NIH study concluded that "there were no significant differences between individuals reporting AHIs and matched control participants with respect to most clinical, research, and biomarker measures, except for objective and self-reported measures of imbalance and symptoms of fatigue, post traumatic stress, and depression. This study did not replicate the findings of previous studies [which reported evidence of brain injuries]". [ 83 ]
+The journal Applied Radiology summarized the results as finding "no significant evidence of MRI-detectable brain injury, nor differences in most clinical measures compared to controls". [ 146 ]
+Media
+In March 2024, three news sources published the results of a joint investigation: The Insider , 60 Minutes , and Der Spiegel . The journalists interviewed people that stated that some AHIs were possibly caused by actions of Russian military intelligence , [ 147 ] [ 148 ] [ 149 ] specifically that members of the GRU Unit 29155 , known for undertaking foreign operations, received awards and promotions for work related to the development and deployment of " non-lethal acoustic weapons ". [ 148 ] The journalists also interviewed sources that stated that telephone and travel records of some GRU agents matched the locations where a few U.S. personnel in China and Georgia reported AHIs. [ 150 ] [ 151 ] [ 152 ] The Kremlin Press Secretary dismissed the report as "nothing more than baseless, unfounded accusations by the media." [ 147 ] In response to the report, the White House Press Secretary said that a "foreign adversary is very unlikely." [ 153 ] US vice presidential candidate JD Vance ridiculed the report, saying that the journalists had "lost their minds". [ 148 ] [ 154 ]
+2025
+Update to the 2023 U.S. intelligence report
+In January 2025, the U.S. intelligence community published an update to their 2023 report. The update stated that five of the seven components of the community continue to assess it "very unlikely" that a foreign actor is responsible. All intelligence agencies "agree that most of the new intelligence [since March 2023] was consistent with the judgments reached in the [2023 report]." The update stated that two of the seven components shifted "their assessments about whether a foreign actor has a capability that could cause biological effects consistent with some of the symptoms
+reported as possible AHIs", leading those two components to "subtly change their overall judgment about whether a foreign actor might have played a role in a small number of events". One of those two components continues to assess it is "unlikely a foreign actor has deployed such a weapon in any events reported as possible AHIs." [ 155 ]
+2026
+Reports of suspected device
+Anonymous sources claimed that Homeland Security Investigations purchased a device in an undercover operation for millions of dollars toward the end of the Biden administration. The backpack-sized device is said to emit pulsed radio frequencies. [ 156 ] Testing is said to be ongoing and some are skeptical that this device could be the cause of Havana syndrome. [ 157 ]
+According to CBS , "[t]he device is portable, backpack-sized, and contains components of Russian origin". [ 156 ] In March 2026, a 60 Minutes report further described the weapon: [ 158 ]
+It doesn't look anything like a gun. It is designed to be concealed and small enough to be carried by a person. It is silent and doesn't create heat like a microwave oven. Our sources say the device is programmable for different scenarios and can be operated by remote control. The range of the beam is several hundred feet. It can penetrate windows and drywall. The vital components were made in Russia. Our sources say the key is not the hardware but the software. The programming shapes a unique, electromagnetic wave that rises and falls abruptly and pulses rapidly. [ 158 ]
+First to report symptoms dies
+On January 29, 2026, Michael Beck, the first to report any symptoms of Havana syndrome, died at the age of 65. He had been diagnosed with Parkinson's disease at 45. In 2014, he had filed a workers' compensation for hazardous conditions that was denied. [ 159 ]
+Norwegian test
+In February 2026, The Washington Post reported that a test was conducted by a Norwegian government scientist in 2024. The scientist reportedly constructed a device that emits pulses of microwave energy and tested it on himself to determine whether it would produce neurological effects. According to the anonymous sources, he suffered symptoms that were not exactly identical to those of AHI, but the test strengthened the evidence that microwave may affect human biology. [ 160 ]
+Laser hypothesis
+In January 2026, Alexander Kostinsky, a research fellow at the Nuclear Physics Institute of the Czech Academy of Sciences , proposed that symptoms akin to Havana syndrome could be induced via the optoacoustic effect from a pulsed infrared laser, which he argued could be made portable and covert, in contrast to high-power microwave systems. [ 161 ] In a March 2026 article by T-invariant discussing Kostinsky's hypothesis, interviews with scientists previously involved in Havana syndrome research did not identify specific technical objections to the proposed mechanism, although concerns about potential retinal damage were noted. [ 162 ]
+Other responses
+Cuban government
+After the initial AHIs were made public in 2017, the Cuban foreign minister accused the U.S. of lying about the incident and denied Cuban involvement in or knowledge of the cause of the health problems the diplomats experienced. [ 163 ] [ 164 ]
+The Cuban government offered to cooperate with the U.S. in an investigation of the incidents. [ 165 ] It employed about 2,000 scientists and law enforcement officers who interviewed 300 neighbors of diplomats, examined two hotels, and medically examined non-diplomats who could have been exposed. NBC reported that Cuban officials stated that they analyzed air and soil samples and considered a range of toxic chemicals . They also examined the possibility that electromagnetic waves were to blame, and even looked into whether insects could be the culprit, but found nothing they could link to the claimed medical symptoms. The FBI and Cuban authorities met to discuss the situation; the Cubans stated that the U.S. neither agreed to share the diplomats' medical records with Cuban authorities nor allowed Cuban investigators access to U.S. diplomats' homes to conduct tests. [ 166 ]
+In 2021, a panel of scientists affiliated with the Cuban Academy of Sciences and convened by the Cuban government reported that "the narrative of the 'mysterious syndrome' is not scientifically acceptable in any of its components." The panel addressed the microwave hypothesis directly, writing, "No known form of energy can selectively cause brain damage (with laser-like spatial accuracy) under the conditions described for the alleged incidents in Havana." [ 120 ]
+After release of the March 2023 U.S. intelligence agencies' report which concluded that "available intelligence consistently points against the involvement of US adversaries in causing the reported incidents" and that a foreign adversary's involvement was "very unlikely", Cuba's Vice Foreign Minister Carlos Fernandez de Cossio told Reuters, "The unfortunate thing is the U.S. government leveraged [Havana syndrome] to derail bilateral relations ... and discredit Cuba." The Reuters article reported that "Cuba has for years labeled as 'science fiction' the idea that 'Havana Syndrome' resulted from an attack by a foreign agent, and its top scientists in 2021 found no evidence of such allegations." [ 139 ]
+U.S. executive branch
+Secretary Blinken virtually meets with State Department employees affected by Anomalous Health Incidents, March 16, 2022.
+In March 2021, the State Department appointed ambassador Pamela L. Spratlen , a career foreign service officer, to oversee the department task force charged with responding to the incidents. [ 39 ] [ 167 ] Six months later, Spratlen left her position as coordinator of the task force because she "reached the threshold of hours of labor" that she could perform as a retiree. Her resignation had been demanded by people angered by her handling of a conference call with affected employees. During the call with employees (in which Secretary of State Antony Blinken also took part), Spratlen did not take a position on whether the AHIs were psychogenic, a response that affected diplomats called "invalidating". [ 57 ] [ 70 ]
+In late 2022 the US Defense Health Agency issued Form 244, Anomalous Health Incident (AHI) Acute Assessment , described as "a multi-domain assessment that should be used to evaluate patients for potential AHI". [ 168 ]
+Medical care
+The DoD is responsible for providing medical care to patients reporting AHI symptoms. In July 2024, the Government Accountability Office (GAO) issued a report that surveyed the DoD's actions in providing medical care to AHI patients. The GAO interviewed 65 of the 334 people that qualified for health care provided by the DoD. Based on the interviews, the GAO found that the AHI patients were often confused by the process to obtain care. The GAO made several recommendations to the DoD, with the goal of streamlining the process and improving communications. The DoD said it is working on implementing the recommendations, but does not yet have concrete dates when they will be implemented. [ 169 ] [ 170 ]
+In May 2024, a former CIA employee, who reported AHI symptoms and is now an advocate for other AHI patients, claimed that the CIA required him to participate in the NIH study as a prerequisite to obtaining medical care for his AHI symptoms. The CIA denied the allegation. The NIH investigated the claim, and discovered no coercion on the part of NIH personnel. Since the participant perceived he was coerced by the CIA, the NIH terminated the AHI studies in September 2024, to avoid the appearance of possible violation of medical ethics guidelines. [ 171 ] [ 172 ]
+U.S. Congress
+In early 2021, Defense Department investigators briefed members of Congress about the November 2020 incident at The Ellipse near the White House. The DoD discussed the matter, even though it occurred within the U.S.; this was because the DoD investigation was more advanced than the FBI or the intelligence community investigations. [ 39 ]
+The Senate Intelligence Committee leadership said in 2021 that it was working with the CIA on connection with the AHI investigation, saying, "We have already held fact finding hearings on these debilitating attacks, many of which result in medically confirmed cases of Traumatic Brain Injury, and will do more." [ 173 ]
+The National Defense Authorization Act for Fiscal Year 2022 , passed by Congress in December 2021, included a section directing the president to designate a senior official as "anomalous health incidents interagency coordinator" to oversee efforts across the federal government and to coordinate with the White House Office of Science and Technology Policy , required relevant federal agencies to designate a specific high-level "anomalous health incident agency coordination lead" and directed agencies to develop guidance to employees considered to be at risk of exposure. [ 174 ]
+A Republican -led subcommittee of the House of Representatives , responsible for overseeing the CIA, issued an interim report in December 2024 criticizing the Biden administration and CIA leadership. The subcommittee, led by a Republican representative, said the 2023 report published by the ODNI intelligence agencies lacked analytic integrity, and that it contained conflicting assessments. The subcommittee wrote ".... the Biden Administration’s failure to adequately prioritize collection on this threat has likely resulted in lost opportunities...The Biden Administration and IC [Intelligence Community] leadership has sought to hinder the Subcommittee’s investigation." [ 175 ] [ 176 ] [ 177 ] The subcommittee report was criticized by a Democratic member of the House. [ 178 ]
+Financial compensation
+President Joe Biden signing the HAVANA Act on October 8, 2021
+In response to Havana syndrome, United States senator Susan Collins introduced a bill (S. 1828), cosponsored by a bipartisan group of nine other senators, that would close a loophole in the Federal Employees' Compensation Act that would normally not cover damage to organs such as the brain and heart. [ 179 ] In 2021, Congress passed the Helping American Victims Afflicted by Neurological Attacks (HAVANA) Act, which authorized the CIA director and the secretary of state to provide financial support for personnel with brain injuries. The bill passed the House and Senate unanimously and was signed into law by president Joe Biden on October 8, 2021, becoming Public Law No. 117-46. [ 180 ] [ 181 ] [ 182 ] The law gives an untaxed lump-sum payment of up to one year's full salary ($187,300 for higher-ranking employees) to government employees that provide evidence of neurological injury. The payment is in addition to workers' compensation or disability payments. [ 183 ] [ 184 ] [ 185 ] [ 8 ]
+Animal experimentation
+In March 2023, Politico reported that the U.S. Army funded a $750,000 grant to Wayne State University for a study to expose 48 ferrets to RF waves, comparing the effects to those from a control group of ferrets; the Department of Defense described the project as an attempt to "develop and test a novel laboratory animal model to mimic mild concussive head injury" similar to those reported by the embassy personnel in Havana and China. [ 186 ] Politico also reported that the U.S. Department of Defense had recently tested RF waves on primates. [ 186 ] The animal rights group PETA demanded that the Pentagon end live-animal testing in relation to Havana syndrome. [ 186 ] [ 187 ] [ 188 ]
+Lawsuits and advocacy
+In October 2022, CNN reported that about three dozen CIA officers had accused the agency of dragging its feet in the investigation, including some who had filed formal whistleblower complaints. [ 189 ] In 2021, a State Department employee, who reported AHIs in Cuba in 2017, filed a lawsuit against the government, claiming they unfairly denied him disability payments. [ 190 ] A State Department employee, who reported AHI symptoms while working in China in 2017, filed a whistleblower complaint against the State Department in 2020, alleging that the State Department retaliated against him for publicly complaining about the government's handling of AHIs; the State Department later settled the complaint, without admitting liability. [ 191 ] [ 192 ]
+In February 2019, several Canadian diplomats sued the Canadian government, arguing that it failed to protect them or promptly address serious health concerns. [ 193 ] [ 194 ] The government has sought to dismiss the suit, arguing in November 2019 that it was not negligent and did not breach its duties to its employees. In court filings, the government acknowledged that several of the 14 plaintiffs in the suit had concussion-like symptoms but said that no definitive cause or medical diagnosis had been ascertained. [ 195 ]
+In a November 2019 statement, Global Affairs Canada said, "We continue to investigate the potential causes of the unusual health symptoms." [ 195 ]
+See also
+Active Denial System – Non-lethal, directed-energy weapon (2002–current)
+Conversion disorder – Former psychiatric diagnosis
+Cuba–United States relations
+Electromagnetic hypersensitivity – Claimed sensitivity to electromagnetic fields
+Electronic harassment – Delusion regarding mind manipulation by electronic means
+Health scare – Social phenomenon
+MEDUSA (weapon) – Directed-energy non-lethal weapon
+Microwave auditory effect – Concept in human perception of sound
+Nocebo effect – Harmful effect from negative belief Pages displaying short descriptions of redirect targets
+Post-concussion syndrome – Neurological disorder after a concussion
+Russia–United States relations
+Somatic symptom disorder – Excessive focus on distressing physical symptoms
+Radiophobia – Fear of ionizing radiation
+References
+↑ "Anomalous Health Incidents and the Health Incident Response Task Force" . United States Department of State. November 5, 2022. Archived from the original on 2022-12-17 . Retrieved 2022-12-11 .
+↑ Borger, Julian (April 29, 2021). "White House Investigating 'Unexplained Health Incidents' Similar to Havana Syndrome" . The Guardian . Retrieved 2024-05-21 .
+↑ Rubin, Eric (November 2, 2021). "We're All in This Together" . American Foreign Service Association . Retrieved 2024-05-21 .
+1 2 "Cuba Travel Advisory" . Travel.state.gov . Department of State. January 10, 2018 . Retrieved 2018-06-22 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+1 2 3 4 5 6 Asadi-Pooya, Ali A. (December 2023). "Havana Syndrome: A Scoping Review of the Existing Literature". Rev Environ Health (Review). 38 (4): 655– 661. Bibcode : 2023RvEH...38..655A . doi : 10.1515/reveh-2021-0182 . PMID 35962646 .
+1 2 3 4 5 6 Connolly, Matthew; Hawkshaw, Mary J.; Sataloff, Robert T. (July 1, 2024). "Havana syndrome: Overview for Otolaryngologists". American Journal of Otolaryngology . 45 (4) 104332. doi : 10.1016/j.amjoto.2024.104332 . PMID 38663328 .
+↑ Marriott, James (January 27, 2023). "The Sound: Mystery of Havana Syndrome review — pain, paranoia and poison in Cuba" . www.thetimes.com . Retrieved 2026-02-22 .
+1 2 "Implementation of HAVANA Act of 2021: A Rule by the Defense Department" . Federal Register. October 3, 2024 . Retrieved 2025-01-09 .
+1 2 Bartholomew, Robert E; Baloh, Robert W (March 2024). " 'Havana Syndrome': A post mortem" . International Journal of Social Psychiatry . 70 (2): 402– 405. doi : 10.1177/00207640231208374 . PMC 10913303 . PMID 38146090 .
+1 2 Fields, R. Douglas (September 2024). "Why the Havana Syndrome Happened". International Journal of Social Psychiatry . 70 (6): 1013– 1015. doi : 10.1177/00207640231212865 . PMID 38146095 .
+1 2 3 Corera, Gordon (September 9, 2021). " 'Havana syndrome' and the mystery of the microwaves" . BBC News . Archived from the original on 2022-09-28 . Retrieved 2022-09-28 .
+↑ Chartrand, Luc (September 19, 2019). "Havana Syndrome: Exposure to Neurotoxin May Have Been Cause, Study Suggests" . CBC News . Retrieved 2025-01-09 .
+1 2 3 4 5 6 7 8 Entous, Adam (May 31, 2021). "Are U.S. officials Under Silent Attack?" . The New Yorker . Archived from the original on 2021-06-01 . Retrieved 2021-06-04 .
+1 2 3 "Long before Havana Syndrome, the U.S. reported microwaves beamed at an embassy" . NPR . Archived from the original on 2021-11-26 . Retrieved 2021-10-27 .
+1 2 Seo, Hannah (January 20, 2022). "What causes Havana Syndrome? Not foreign attackers, CIA says" . Popular Science . Archived from the original on 2022-04-21 . Retrieved 2022-04-15 .
+↑ "New Report Reveals Havana Syndrome Case Numbers. More Than 300 Americans Treated" . Stars and Stripes . July 31, 2024 . Retrieved 2025-01-10 .
+↑ Pelley, Scott (June 26, 2022). "Havana Syndrome: High-level National Security Officials Stricken with Unexplained Illness on White House Grounds - CBS News" . www.cbsnews.com . Retrieved 2025-01-10 .
+1 2 3 Entous, Adam; Anderson, Jon Lee (November 19, 2018). "The Mystery of the Havana Syndrome: Unexplained Brain Injuries Afflicted Dozens of American Diplomats and Spies. What Happened?" . The New Yorker . Archived from the original on 2018-11-27 . Retrieved 2018-12-03 .
+↑ "What is 'Havana Syndrome' and What Causes It?" . The Independent . January 13, 2022 . Retrieved 2025-01-10 .
+↑ "Mystery of Sonic Weapon Attacks at US embassy in Cuba Eeepens" . The Guardian . September 14, 2017. Archived from the original on 2018-11-26 . Retrieved 2017-10-19 .
+1 2 Neuman, Scott (August 9, 2017). "Cuban Diplomats Expelled After US Embassy Staff 'Incidents' In Havana" . NPR. Archived from the original on 2017-10-04 . Retrieved 2017-10-01 .
+↑ Connor, Tracy; Murray, Mary; Williams, Abigail (September 17, 2017). "Victim of Cuba embassy 'Attacks' Frustrated by Response" . NBC News. Archived from the original on 2017-09-28 . Retrieved 2017-10-01 .
+↑ "U.S. Says Another American Suffers Illness at Its Cuba Embassy" . Reuters . June 28, 2018. Archived from the original on 2018-07-03 . Retrieved 2018-07-03 .
+1 2 Hurley, Dan (March 22, 2018). "The Mystery Behind Neurological Symptoms Among US Diplomats in Cuba: Lots of Questions, Few Answers". Neurology Today . 18 (6): 1, 24– 26. doi : 10.1097/01.NT.0000532085.86007.9b .
+1 2 Doubek, James (August 25, 2017). "At least 16 U.S. Embassy Staff in Cuba Treated After 'Health Attacks' " . NPR. Archived from the original on 2018-12-21 . Retrieved 2018-04-05 .
+↑ Ordoñez, Franco; Kumar, Anita (September 26, 2017). "U.S. Does Not Believe Cuba is Behind Sonic Attacks on American Diplomats" . McClatchy News Service . Retrieved 2025-10-20 .
+↑ Chavez, Nicole (August 10, 2017). "Using sound to attack: The diverse world of acoustic devices" . CNN. Archived from the original on 2018-09-26 . Retrieved 2017-10-14 .
+↑ McIntyre, Catherine (August 24, 2017). "How Canadian Diplomats in Cuba are Being Acoustically Attacked" . Maclean's . Archived from the original on 2020-08-12 . Retrieved 2020-06-08 .
+↑ Cohen, Zachary. "New Audio Adds to Mystery of Cuba attacks" . CNN. Archived from the original on 2017-10-14 . Retrieved 2017-10-14 .
+↑ Edson, Rich (September 29, 2017). "US stops Issuing Visas in Cuba, Cuts Embassy Staff, Urges No Travel to Island" . Fox News. Archived from the original on 2017-09-29 . Retrieved 2017-10-01 .
+↑ Cohen, Zachary (October 16, 2017). "Trump Blames Cuba for Mysterious Attacks On US Diplomats" . CNN. Archived from the original on 2017-11-26 . Retrieved 2017-12-07 .
+↑ "Trump Says Cuba 'Responsible' for Alleged Sonic Attacks, but Offers No Evidence" . The Guardian . October 16, 2017. Archived from the original on 2017-10-16 . Retrieved 2017-12-07 .
+↑ Koran, Laura; Oppmann, Patrick (March 2, 2018). "US Embassy in Cuba to Reduce Staff Indefinitely After 'Health Attacks' " . CNN. Archived from the original on 2018-04-22 . Retrieved 2018-04-22 .
+↑ "Blood and Bureaucracy: Inside Canada's Panicked Response to 'Havana Syndrome' " . Archived from the original on 2019-02-07 . Retrieved 2019-02-07 .
+↑ Sevunts, Levon (January 31, 2019). " 'Havana Syndrome' Forces Canada to Halve its Diplomatic Presence in Cuba" . Radio Canada International .
+1 2 "},"archive-date":{"wt":"2022-08-09"},"archive-url":{"wt":"https://web.archive.org/web/20220809052241/https://www.wsj.com/articles/havana-syndrome-attacks-widen-as-cia-officer-is-evacuated-from-serbia-11632844044"},"url-status":{"wt":"live"}},"i":0}}]}'/> Strobel, Warren P. (September 28, 2021). "Havana Syndrome Attacks Widen with CIA Officer's Evacuation from Serbia" . The Wall Street Journal . Archived from the original on 2022-08-09 . Retrieved 2021-09-28 .
+↑ Ioffe, Julia (October 19, 2020). "The Mystery of the Immaculate Concussion" . GQ . Archived from the original on 2021-05-29 . Retrieved 2021-05-30 .
+↑ Payne, Elizabeth (November 30, 2018). "Ottawa Doctor Treating Canadian Diplomats with Mysterious 'Havana Syndrome' " . Ottawa Citizen . Archived from the original on 2018-12-04 . Retrieved 2018-12-03 .
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 Williams, Katie Bo; Herb, Jeremy (April 29, 2021). "US Investigating Possible Mysterious Directed Energy Attack Near White House" . CNN . Retrieved 2025-10-20 .
+1 2 Entous, Adam (July 16, 2021). "Vienna Is the New Havana Syndrome Hot Spot" . The New Yorker . Archived from the original on 2021-09-02 . Retrieved 2021-09-02 .
+↑ Hruby, Denise; Hansler, Jennifer (July 19, 2021). "Austria Probes Reports of Havana Syndrome Among US Diplomats in Vienna" . CNN . Retrieved 2025-10-20 .
+1 2 Atwood, Kylie (September 20, 2021). "Member of CIA Chief's Team Reported Havana Syndrome Symptoms on Recent Trip to India" . CNN . Archived from the original on 2021-09-20 . Retrieved 2021-09-21 .
+↑ Bucci, Nino (October 28, 2020). "Russia Issues Extraordinary Statement over Reports CIA Agents Were Attacked in Australia" . The Guardian . Archived from the original on 2021-06-02 . Retrieved 2021-05-30 .
+↑ "China Pledges to Investigate Fears of Sonic Attacks on U.S. Diplomats" . The New York Times . June 7, 2018. Archived from the original on 2018-06-12 . Retrieved 2018-06-07 .
+1 2 Myers, Steven Lee; Perlez, Jane (June 6, 2018). "U.S. Diplomats Evacuated in China as Medical Mystery Grows" . The New York Times . Archived from the original on 2018-11-18 . Retrieved 2018-06-07 .
+↑ "US Diplomats Evacuated from China Amid 'Sonic Attack' Concerns" . CNET . June 6, 2018. Archived from the original on 2018-06-12 . Retrieved 2018-06-07 .
+↑ Harris, Gardiner (May 23, 2018). "Pompeo Says Mysterious Sickness Among Diplomats in Cuba Has Spread to China" . The New York Times . Archived from the original on 2020-06-06.
+↑ Jiang, Steven; Westcott, Ben; Vazquez, Maegan (March 23, 2018). "Pompeo says China Incident 'Entirely Consistent' with Cuba 'Sonic Attacks' " . CNN . Archived from the original on 2019-01-06 . Retrieved 2018-06-08 .
+↑ Kuo, Lily (June 7, 2018). " 'Sonic Attack' Fears as Moe US Diplomats Fall Ill in China" . The Guardian . Archived from the original on 2018-09-12 . Retrieved 2018-06-08 .
+↑ "U.S. Expands China Health Alert Amid Illness Reports" . Reuters . June 7, 2018. Archived from the original on 2018-06-08 . Retrieved 2018-06-08 .
+↑ Achenbach, Joel (June 8, 2018). "Controversy Surrounds Research on State Department Employees Sickened in 'Attacks' " . The Washington Post . Archived from the original on 2018-06-10 . Retrieved 2018-06-10 .
+↑ Dorsey, Steve (November 28, 2017). "Uzbekistan Incident Raises Suspicions of Russian Involvement in Cuba Attacks" . CBS News . Archived from the original on 2018-06-12 . Retrieved 2018-06-08 .
+↑ "Two U.S. Diplomats to Be Evacuated from Vietnam After "Havana Syndrome" Incidents" . NBC News. August 2021. Archived from the original on 2021-08-24 . Retrieved 2021-08-24 .
+↑ Wright, Jasmine; Liptak, Kevin; Diamond, Jeremy; Sullivan, Kate (August 24, 2021). "Possible Havana Syndrome Incident Delayed Harris flight to Vietnam" . CNN. Archived from the original on 2021-08-24 . Retrieved 2021-08-24 .
+↑ KAYALI, Laura (April 1, 2024). "Havana Syndrome Linked to Russian Military Agency GRU, Investigation Indicates" . Politico .
+↑ Beitsch, Rebecca (April 29, 2021). "US Investigating Possible 'Havana syndrome' Attack Near White House: CNN" . The Hill . Archived from the original on 2021-04-29 . Retrieved 2021-04-29 .
+1 2 3 Hudson, John; harris, Shane (September 23, 2021). "CIA Station Chief in Vienna Recalled Amid Criticism of Management and Handling of Mysterious 'Havana Syndrome' Incidents" . The Washington Post . Archived from the original on 2021-09-27 . Retrieved 2024-04-01 .
+↑ " 'Havana Syndrome'-Like Mystery Illness Affects Vienna US Diplomats" . BBC News . July 17, 2021. Archived from the original on 2021-07-17 . Retrieved 2021-07-17 .
+1 2 3 4 Myre, Greg (September 24, 2021). "CIA Recalls Vienna Station Chief In Move Related to Handling of 'Havana Syndrome' " . NPR . Retrieved 2025-10-20 .
+↑ Pancevski, Bojan (August 18, 2021). "U.S. Officials in Germany Hit by Havana Syndrome" . Wall Street Journal . Retrieved 2025-10-20 .
+↑ "Havana syndrome: Berlin police probe cases at US embassy" . BBC News . October 9, 2021. Archived from the original on 2021-10-11 . Retrieved 2021-10-13 .
+↑ "Havana syndrome reported at US embassy in Colombia" . BBC News . October 13, 2021. Archived from the original on 2021-10-13 . Retrieved 2021-10-13 .
+↑ "The World This Week, Oct 16th 2021 Edition – Politics" . The Economist . Archived from the original on 2022-08-18 . Retrieved 2021-10-15 .
+↑ "Tillerson to order new probe of Havana embassy health 'attacks' " . Reuters . January 9, 2018 . Retrieved 2018-04-07 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+↑ "Retired ambassador to Libya to lead Cuba attacks review" . CNN. January 10, 2018. Archived from the original on 2018-01-10 . Retrieved 2018-01-10 .
+↑ On Cuba, Diplomats, Ultrasound, and Intermodulation Distortion (PDF) (Technical report). University of Michigan. March 1, 2018. Tech Report CSE-TR-001-18. Archived (PDF) from the original on 2019-05-31 . Retrieved 2019-07-24 .
+↑ Torres, Nora Gámez (March 2, 2018). "Computer scientists may have solved the mystery behind the 'sonic attacks' in Cuba" . Miami Herald . Archived from the original on 2018-04-22 . Retrieved 2018-04-22 .
+↑ McKay, Tom (March 3, 2018). "Study: Malfunctioning Surveillance Gear, Not Sonic Weapons, Could Explain Cuba Embassy 'Attack' " . Gizmodo.com . Gizmodo. Archived from the original on 2018-04-22 . Retrieved 2018-04-22 .
+↑ Lederman, Josh; Lee, Matthew (January 8, 2018). "Tillerson tells AP Cuba still risky; FBI doubts sonic attack" . Associated Press . Archived from the original on 2019-07-23.
+1 2 3 Lederman, Josh; Breslauer, Brenda (September 22, 2021). "Diplomat overseeing 'Havana Syndrome' response is out after 6 months" . NBC News . Archived from the original on 2021-10-14 . Retrieved 2021-10-14 .
+1 2 Sample, Ian (February 24, 2018). "Fresh row over mysterious sickness affecting US diplomats in Cuba" . The Guardian . Retrieved 2018-04-06 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+1 2 Swanson II, Randel L.; Hampton, Stephen; Green-McKenzie, Judith; et al. (2018). "Neurological Manifestations Among US Government Personnel Reporting Directional Audible and Sensory Phenomena in Havana, Cuba" . Journal of the American Medical Association . 319 (11): 1125– 1133. doi : 10.1001/jama.2018.1742 . PMC 5885885 . PMID 29450484 .
+↑ Broad, William J. (September 1, 2018). "Microwave Weapons Are Prime Suspect in Ills of U.S. Embassy Workers" . The New York Times . Archived from the original on 2020-05-13 . Retrieved 2018-09-02 .
+1 2 Nelson, R (December 2021). "Havana syndrome might be the result of energy pulses". Lancet . 396 (10267): 1954. doi : 10.1016/S0140-6736(20)32711-2 . PMID 33341130 .
+↑ "},"doi-access":{"wt":"free"}},"i":0}}]}'/> Golomb, Beatrice Alexandra (November 2018). "Diplomats' Mystery Illness and Pulsed Radiofrequency/Microwave Radiation" . Neural Computation . 30 (11): 2882– 2985. doi : 10.1162/neco_a_01133 . PMID 30183509 .
+↑ Muth, Christopher C.; Lewis, Steven L. (March 20, 2018). "Neurological Symptoms Among US Diplomats in Cuba". JAMA . 319 (11): 1098– 1100. doi : 10.1001/jama.2018.1780 . PMID 29450490 .
+↑ "}},"i":0}}]}'/> Gianoli, Gerard J.; Soileau, James S.; Wackym, P. Ashley (August 14, 2018). "Neurological Symptoms in US Government Personnel in Cuba". JAMA . 320 (6): 603– 604. doi : 10.1001/jama.2018.8713 . PMID 30120472 .
+↑ "},"author-link":{"wt":"Robert Bartholomew"}},"i":0}}]}'/> Bartholomew, Robert Emerson (August 14, 2018). "Neurological Symptoms in US Government Personnel in Cuba". JAMA . 320 (6): 602. doi : 10.1001/jama.2018.8702 . PMID 30120470 .
+↑ Cortex Editorial Board (November 2018). "Responsibility of neuropsychologists: The case of the 'sonic attack' ". Cortex . 108 : A1– A2. doi : 10.1016/j.cortex.2018.10.001 . PMID 30340749 .
+↑ Della Sala, Sergio ; Cubelli, Roberto (June 2018). "Alleged 'sonic attack' supported by poor neuropsychology" . Cortex . 103 : 387– 388. doi : 10.1016/j.cortex.2018.03.006 . PMID 29709238 .
+↑ Kaplan, Sarah; Achenbach, Joel (September 6, 2018). "Scientists and doctors zap theory that microwave weapon injured Cuba diplomats" . The Washington Post . Archived from the original on 2018-12-16 . Retrieved 2019-01-05 .
+↑ Bokat-Lindell, Spencer (October 26, 2021). "Is 'Havana Syndrome' an 'Act of War' or 'Mass Hysteria'?" . The New York Times . Archived from the original on 2021-10-26 . Retrieved 2021-10-26 .
+1 2 3 "},"pmc":{"wt":"10949151"},"author-link":{"wt":"Leighton Chan"},"author-link2":{"wt":"Mark Hallett (neurologist)"}},"i":0}}]}'/> Chan, Leighton ; Hallett, Mark ; Zalewski, Chris K.; Brewer, Carmen C.; Zampieri, Cris; Hoa, Michael; Lippa, Sara M.; Fitzgibbon, Edmond; French, Louis M.; Moses, Anita D.; van der Merwe, André J.; Pierpaoli, Carlo; Turtzo, L. Christine; Yonter, Simge; Shahim, Pashtun (April 2, 2024). "Clinical, Biomarker, and Research Tests Among US Government Personnel and Their Family Members Involved in Anomalous Health Incidents" . JAMA . 331 (13): 1109– 1121. doi : 10.1001/jama.2024.2413 . PMC 10949151 . PMID 38497797 .
+↑ Levinson, Charles (July 30, 2019). "Special Report: Inside a Trump-era purge of military scientists at a legendary think tank" . Reuters . Archived from the original on 2019-07-30 . Retrieved 2019-07-30 .
+1 2 3 4 5 Vergano, Dan (September 30, 2021). "A Declassified State Department Report Says Microwaves Didn't Cause 'Havana Syndrome' " . BuzzFeed News . Archived from the original on 2021-09-30 . Retrieved 2021-09-30 .
+↑ Lederman, Josh; Weissenstein, Michael (October 12, 2017). "Dangerous sound? What Americans heard in Cuba attacks" . Associated Press News . Archived from the original on 2021-11-05 . Retrieved 2021-11-04 .
+1 2 Zimmer, Carl (January 4, 2019). "The Sounds That Haunted U.S. Diplomats in Cuba? Lovelorn Crickets, Scientists Say" . The New York Times . Archived from the original on 2019-01-05 . Retrieved 2019-01-05 .
+1 2 Stubbs, Alexander L. ; Montealegre-Z, Fernando (2019). "Recording of 'sonic attacks' on U.S. diplomats in Cuba spectrally matches the echoing call of a Caribbean cricket". bioRxiv 10.1101/510834 .
+↑ Stone, Richard (February 15, 2018). "U.S. diplomats in Cuba have unusual brain syndrome, but there's no proof they were attacked, study says". Science . doi : 10.1126/science.aat3410 .
+↑ Stone, Richard (December 8, 2017). "Cuban panel claims stress caused mystery illnesses". Science . 358 (6368): 1236– 1237. Bibcode : 2017Sci...358.1236S . doi : 10.1126/science.358.6368.1236 . PMID 29217550 .
+↑ Stone, Richard (June 20, 2018). "Sonic attack or mass paranoia? New evidence stokes debate over diplomats' mysterious illness" . Science . Archived from the original on 2018-06-22 . Retrieved 2019-07-24 .
+1 2 "},"pmc":{"wt":"6961165"},"pmid":{"wt":"31672089"},"author-link":{"wt":"Robert Bartholomew"}},"i":0}}]}'/> Bartholomew, Robert E ; Baloh, Robert W (January 1, 2020). "Challenging the diagnosis of 'Havana Syndrome' as a novel clinical entity" . Journal of the Royal Society of Medicine . 113 (1): 7– 11. doi : 10.1177/0141076819877553 . PMC 6961165 . PMID 31672089 .
+↑ Gaffney, Adam (November 8, 2021). "The Big Misunderstanding About Havana Syndrome" . New York . Archived from the original on 2021-11-08 . Retrieved 2021-11-08 .
+↑ Hitt, Jack (January 6, 2019). "The Real Story Behind the Havana Embassy Mystery" . Vanity Fair . Retrieved 2025-01-10 .
+↑ Brazil, Rachel (March 15, 2018). "Nocebo: the placebo effect's evil twin" . The Pharmaceutical Journal . Retrieved 2025-01-10 .
+↑ "Sonic Scares: Havana Syndrome" . Mayo Clinic Press . May 3, 2024 . Retrieved 2025-01-10 .
+↑ "Uncommon Diagnosis: Havana Syndrome" . Irish Medical Times . February 3, 2022 . Retrieved 2025-01-10 .
+↑ "Evidence Mounts that Mass Suggestion Caused "Havana Syndrome" | Psychology Today" . www.psychologytoday.com . Retrieved 2025-01-10 .
+1 2 Vergano, Dan (January 15, 2021). "Medical Records Can't Explain "Havana Syndrome," A Buried CDC Report Says" . BuzzFeed News . Archived from the original on 2021-05-10 . Retrieved 2021-05-11 .
+1 2
+CUBA Unexplained Events Investigation - Final Report (PDF) . Centers for Disease Control and Prevention . December 3, 2019. Archived (PDF) from the original on 2021-04-22 . Retrieved 2021-05-10 .
+"CDC Report on the 'Havana Syndrome': Medical Mystery Remains Unresolved" . National Security Archive , George Washington University . Archived from the original on 2022-05-13 . Retrieved 2022-05-07 .
+1 2 Kornbluh, Peter , ed. (February 2, 2021). Briefing Book #739: CDC Report on the 'Havana Syndrome' . National Security Archive , George Washington University . Archived from the original on 2021-05-10 . Retrieved 2021-05-10 .
+1 2 3 4 5 6 Atwood, Kylie (February 24, 2021). "CIA launches task force to probe invisible attacks on US diplomats and spies as one victim finds some relief" . CNN . Archived from the original on 2021-02-25 . Retrieved 2021-02-25 .
+&#91;<i>[[Wikipedia:Citing_sources|<span_title="This_citation_requires_a_reference_to_the_specific_page_or_range_of_pages_in_which_the_material_appears.&#32;(March_2026)">page&nbsp;needed</span>]]</i>&#93;</sup>-103' id='cite_note-FOOTNOTERelmanPavlin2020[[Category:Wikipedia_articles_needing_page_number_citations_from_March_2026]]<sup_class="noprint_Inline-Template_"_style="white-space:nowrap;">&#91;<i>[[Wikipedia:Citing_sources|<span_title="This_citation_requires_a_reference_to_the_specific_page_or_range_of_pages_in_which_the_material_appears.&#32;(March_2026)">page&nbsp;needed</span>]]</i>&#93;</sup>-103' data-mw-footnote-number="103"> &#91;<i>[[Wikipedia:Citing_sources|<span_title="This_citation_requires_a_reference_to_the_specific_page_or_range_of_pages_in_which_the_material_appears.&#32;(March_2026)">page&nbsp;needed</span>]]</i>&#93;</sup>_103-0' rel="mw:referencedBy" id="mwC20"> ↑ &#91;<i>[[Wikipedia:Citing_sources|<span_title="This_citation_requires_a_reference_to_the_specific_page_or_range_of_pages_in_which_the_material_appears.&#32;(March_2026)">page&nbsp;needed</span>]]</i>&#93;</sup>-103' class="mw-reference-text reference-text"> Relman & Pavlin 2020 , p. [ page needed ] .
+↑ Breslauer, Brenda; Dilanian, Ken; Lederman, Josh (December 5, 2020). " 'Havana Syndrome' likely caused by pulsed microwave energy, government study finds" . NBC News. Archived from the original on 2021-03-03 . Retrieved 2021-02-27 .
+↑ " 'Havana syndrome' likely caused by directed microwaves – US report" . BBC News . December 6, 2020. Archived from the original on 2022-09-28 . Retrieved 2022-09-28 .
+1 2 3 4 5 Korsen, Dana (December 5, 2020). "New Report Assesses Illnesses Among U.S. Government Personnel and Their Families at Overseas Embassies" (Press release). National Academies.
+↑ Relman & Pavlin 2020 , p. 20.
+↑ Relman & Pavlin 2020 , p. 23.
+↑ Relman & Pavlin 2020 , pp. 23–24.
+↑ Crawford, Jamie (December 5, 2020). " 'Sonic attacks' suffered by US diplomats likely caused by microwave energy, government study says" . CNN . Archived from the original on 2020-12-06.
+↑ Swanson, Ana; Wong, Edward (December 5, 2020). "Report points to microwave 'attack' as likely source of mystery illnesses that hit diplomats and spies" . The New York Times . Archived from the original on 2020-12-05.
+↑ Relman & Pavlin 2020 , pp. 25–28.
+↑ Rofer, Cheryl (May 10, 2021). "Claims of Microwave Attacks Are Scientifically Implausible" . Foreign Policy . Archived from the original on 2021-10-26 . Retrieved 2021-10-26 .
+1 2 3 4 5 6 7 Swanson, Ana (October 19, 2020). "U.S. Diplomats and Spies Battle Trump Administration Over Suspected Attacks" . The New York Times . Archived from the original on 2020-10-19 . Retrieved 2020-10-20 .
+1 2 Borger, Julian (June 2, 2021). "Microwave weapons that could cause Havana Syndrome exist, experts say" . The Guardian . Archived from the original on 2021-11-27.
+↑ Baloh, Robert W.; Bartholomew, Robert E. (2020). Havana Syndrome: Mass Psychogenic Illness and the Real Story Behind the Embassy Mystery and Hysteria . Springer International. ISBN 9783030407469 . Archived from the original on 2023-03-03 . Retrieved 2021-10-21 .
+↑ "Jonathan Moore: Coordinator of the Health Incident Response Task Force" . United States Department of State . July 12, 2021. Archived from the original on 2022-07-13 . Retrieved 2022-07-13 .
+↑ Gazis, Olivia (November 5, 2021). "Secretary of State Blinken appoints two diplomats to lead 'Havana Syndrome' response" . CBS News . Archived from the original on 2021-11-05.
+↑ Ryan, Missy (November 5, 2021). "State Dept. names new team to oversee 'Havana Syndrome' response" . The Washington Post . Archived from the original on 2021-11-05.
+1 2 Rodríguez, Andrea (September 13, 2021). "Cuban scientists say no evidence of attacks on diplomats" . Associated Press.
+↑ "Una Evaluación de los Incidentes de Salud Ocurridos Durante Estancias en La Habana de Empleados de Gobiernos Extranjeros y sus Familias" (PDF) . Cuban Academy of Sciences (in Spanish). September 1, 2021 . Retrieved 2025-01-09 .
+↑ "}},"i":0}}]}'/> "Declaración de la Academia de Ciencias de Cuba. 15 de diciembre de 2020" . Anales de la Academia de Ciencias de Cuba (in Spanish). 11 (1). Cuban Academy of Sciences : 963. 2021.
+↑ "Grupo de Expertos de la Academia de Ciencias de Cuba: La narrativa del "síndrome misterioso" no es científicamente aceptable" . Cubadebate (in Spanish). September 13, 2021. Archived from the original on 2021-10-03 . Retrieved 2025-01-10 .
+↑ "¿Síndrome misterioso?: Expertos cubanos afirman que no hay evidencia científica de "ataques sónicos" en La Habana" . Cubadebate (in Spanish). Archived from the original on 2025-01-01 . Retrieved 2025-01-10 .
+↑ "Informe del Departamento de Estado descarta que las microondas causaron los supuestos ataques sónicos" . Cubadebate (in European Spanish). October 1, 2021. Archived from the original on 2022-08-28 . Retrieved 2025-01-10 .
+↑ Seligman, Lara; Desiderio, Andrew (May 10, 2021). "Russian spy unit suspected of directed-energy attacks on U.S. personnel" . Politico . Archived from the original on 2021-05-11 . Retrieved 2021-05-11 .
+↑ Barnes, Julian E. (July 8, 2021). "Spy Agencies Turn to Scientists as They Wrestle With Mysteries" . The New York Times . Archived from the original on 2021-07-08 . Retrieved 2021-07-08 .
+↑ "Havana Syndrome could be caused by pulsed energy devices – US expert report" . The Guardian . February 2, 2022. Archived from the original on 2022-02-03 . Retrieved 2022-02-03 .
+↑ "CIA says 'Havana Syndrome' not result of sustained campaign by hostile power" . NBC News. January 20, 2022. Archived from the original on 2022-01-28 . Retrieved 2022-01-20 .
+1 2 3 "An Analysis of Data and Hypotheses Related to the Embassy Incidents" (PDF) . state.gov . United States Department of State. February 10, 2022. Archived (PDF) from the original on 2022-10-14 . Retrieved 2022-10-19 .
+1 2 3
+Office of the Director of National Intelligence . "Updated Assessment of Anomalous Health Incidents" (PDF) . Director of National Intelligence . Archived from the original (PDF) on 2023-03-02 . Retrieved 2023-03-03 .
+Office of the Director of National Intelligence . "IC Targeting and Collection Efforts Point Away From Adversary Involvement in Anomalous Health Incidents" (PDF) . Director of National Intelligence . Archived (PDF) from the original on 2023-03-01 . Retrieved 2023-03-03 .
+Office of the Director of National Intelligence . "DNI Statement on the Intelligence Community Assessment on AHIs" . Director of National Intelligence . Archived from the original on 2023-03-02 . Retrieved 2023-03-03 .
+↑ "}},"i":0}}]}'/> Barnes, Julian E.; Entous, Adam (March 1, 2023). "Foreign Adversaries 'Very Unlikely' to Blame for Havana Syndrome, Intelligence Review Finds" . The New York Times . Retrieved 2024-06-05 .
+1 2 "},"author-link":{"wt":"Shane Harris"}},"i":0}}]}'/> Harris, Shane ; Hudson, John (March 2, 2023). " 'Havana syndrome' not caused by energy weapon or foreign adversary, intelligence review finds" . Washington Post . Retrieved 2024-06-05 .
+↑ Wong, Julia Carrie (March 1, 2023). " 'Havana syndrome' not caused by foreign adversary, US intelligence says" . The Guardian . Archived from the original on 2023-03-02 . Retrieved 2023-03-02 .
+↑ Atwood, Kylie; Hansler, Jennifer (March 2, 2023). "US intelligence community cannot link 'Havana Syndrome' cases to a foreign adversary" . CNN. Archived from the original on 2023-03-04 . Retrieved 2023-03-04 .
+↑ "Statement by CIA Director William J. Burns on the IC Assessment on AHIs - CIA" . www.cia.gov . Retrieved 2025-01-10 .
+↑ Seligman, Lara; Banco, Erin (March 1, 2023). "Intel community bats down main theory behind 'Havana Syndrome' incidents" . Politico . Retrieved 2023-03-04 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+↑ Pengelly, Martin (March 13, 2023). "John Bolton chose not to brief Trump on Russia Havana syndrome suspicion" . The Guardian . Retrieved 2023-03-19 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+1 2 Sherwood, Dave (March 3, 2023). "Cuba blasts U.S. for years of disregarding evidence on 'Havana Syndrome' " . Reuters.com . Reuters . Retrieved 2023-03-04 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+↑ Bolton, Alexander (March 4, 2023). "Rubio rejects intelligence finding that 'Havana syndrome' not linked to foreign adversary" . The Hill . Retrieved 2023-03-04 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+↑ Valdes-Sosa, M. (2024). "When Politics Obstructs Self-Correction in Science". International Journal of Social Psychiatry . 70 (6): 1011– 1012. doi : 10.1177/00207640231207571 . PMID 37905474 .
+↑ Della Sala, S. (2024). "Politics Dictating on Science is Like a Gunshot in a Concert" . International Journal of Social Psychiatr . 70 (5): 839– 840. doi : 10.1177/00207640231208373 . PMC 11323418 . PMID 37886800 .
+↑ "NIH studies find severe symptoms of "Havana Syndrome," but no evidence of MRI-detectable brain injury or biological abnormalities" . National Institutes of Health (NIH) . March 18, 2024 . Retrieved 2025-01-10 .
+1 2 "},"pmc":{"wt":"10949155"}},"i":0}}]}'/> Pierpaoli, Carlo; Nayak, Amritha; Hafiz, Rakibul; Irfanoglu, M. Okan; Chen, Gang; Taylor, Paul; Hallett, Mark; Hoa, Michael; Pham, Dzung; Chou, Yi-Yu; Moses, Anita D.; van der Merwe, André J.; Lippa, Sara M.; Brewer, Carmen C.; Zalewski, Chris K. (April 2, 2024). "Neuroimaging Findings in US Government Personnel and Their Family Members Involved in Anomalous Health Incidents" . JAMA . 331 (13): 1122– 1134. doi : 10.1001/jama.2024.2424 . PMC 10949155 . PMID 38497822 .
+↑ George, Judy (March 18, 2024). "Havana Syndrome Mystery Continues to Deepen" . MedPageToday . Retrieved 2024-10-01 .
+↑ "No MRI-Detectable Brain Injury Found in People With "Havana Syndrome" • APPLIED RADIOLOGY" . appliedradiology.com . Retrieved 2024-11-02 .
+1 2 Faulconbridge, Guy (April 1, 2024). "Kremlin dismisses report Russia behind 'Havana Syndrome' " . Reuters . Retrieved 2024-05-21 .
+1 2 3 "Havana syndrome: Report links mystery illness to Russian intelligence unit" . BBC News . April 2024 . Retrieved 2024-04-02 .
+↑ Luscombe, Richard (April 1, 2024). " 'Havana syndrome' linked to Russian unit, media investigation suggests" . The Guardian . Retrieved 2024-05-21 .
+↑ Dobrokhotov, Roman ; Grozev, Christo ; Weiss, Michael (March 31, 2024). "Unraveling Havana Syndrome: New evidence links the GRU's assassination Unit 29155 to mysterious attacks on U.S. officials and their families" . The Insider . Retrieved 2024-04-01 .
+↑ Pelley, Scott (March 31, 2024). "Havana Syndrome mystery continues as a lead military investigator says bar for proof was set impossibly high - CBS News" . CBS News . Retrieved 2024-04-01 .
+↑ Dieckmann, Cornelius; Dobrokhotov, Roman; Grozev, Christo; Lüdke, Steffen; Schadwinkel, Alina; Schmid, Fidelius (March 31, 2024). "Did Russian agents use microwave weapons against US diplomats" . Der Spiegel (in German) . Retrieved 2024-04-01 .
+↑ Flaherty, Anne (April 1, 2024). "Senior DoD official experienced 'Havana syndrome' symptoms at NATO summit in July, Pentagon says" . ABC News . Retrieved 2024-05-21 .
+↑ "J.D. Vance Mocks Report Tying Russia to Havana Syndrome in Bizarre Rant: 'Putler Working with Drumpf… Attacking with Invisible Lasers' " . Mediaite . April 1, 2024 . Retrieved 2024-10-21 .
+↑ "Updated Assessment of Anomalous Health Incidents, as of December 2024" (PDF) . www.dni.gov . January 10, 2025. Archived (PDF) from the original on 2025-05-05 . Retrieved 2025-05-14 .
+1 2 Gazis, Olivia (January 13, 2026). "Device that may be tied to Havana Syndrome obtained by U.S. government" . CBS News . Retrieved 2026-01-15 .
+↑ Katie, Bo Lillis; Bertrand, Natasha; Alvarez, Priscilla; Sciutto, Jim; Cohen, Zachary (January 13, 2026). "Pentagon bought device through undercover operation some investigators suspect is linked to Havana Syndrome" . CNN . Retrieved 2026-01-15 .
+1 2 Pelley, Scott; Zill de Granados, Oriana; Rey, Michael (March 8, 2026). "U.S. military tested device that may be tied to Havana Syndrome on rats, sheep, confidential sources say" .
+↑ Risen, Clay (January 29, 2026). "Michael Beck, 65, Dies; First to Report Symptoms of 'Havana Syndrome' " . The New York Times .
+↑ Strobel, Warren P.; Nakashima, Ellen (February 14, 2026). "Researcher skeptical of 'Havana syndrome' tested secret weapon on himself" . The Washington Post .
+↑ Kostinsky, Alexander (January 23, 2026). "Laser optoacoustic effect as a possible cause of some incidents attributed to Havana syndrome" . Zenodo . Retrieved 2026-03-20 .
+↑ "Havana Syndrome — Forever? The Psychogenic Roots, Microwave Mirage, Laser Optoacoustic Impact — What's Going On" . T-invariant . March 18, 2026 . Retrieved 2026-03-20 .
+↑ "Cuba official accuses US of lying about sonic attacks" . Associated Press News . November 3, 2017. Archived from the original on 2017-12-03 . Retrieved 2017-12-07 .
+↑ Gaouette, Nicole (November 2, 2017). "Cuban Minister rejects US sonic attack claims" . CNN. Archived from the original on 2018-01-08 . Retrieved 2018-01-07 .
+↑ "Statement by the Ministry of Foreign Affairs of Cuba" . Minrex.gob.cu . Minrex. August 9, 2017 . Retrieved 2018-04-07 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+↑ Mitchell, Andrea ; Murray, Mary (October 24, 2017). "Cubans Forcefully Reject Blame for U.S. Diplomats' Mystery Ailments" . NBC News. Archived from the original on 2017-12-25 . Retrieved 2017-12-26 .
+↑ Hansler, Jennifer (March 12, 2021). "State Department names senior official to lead response to mysterious 'Havana syndrome' attacks" . CNN. Archived from the original on 2021-10-28 . Retrieved 2021-10-14 .
+↑ "TBICoE: Anomalous Health Incident (AHI) Acute Assessment Training 2022–2023" . DHA J-7 CEPO Continuing Education Management System .
+↑ Kime, Patricia (July 30, 2024). " 'Havana Syndrome' Sufferers Face Challenges Navigating the Military Health System, Federal Watchdog Finds" . Military.com . Retrieved 2025-01-10 .
+↑ U. S. Government Accountability Office (July 29, 2024). "Havana Syndrome: Better Patient Communication and Monitoring of Key DOD Tasks Needed to Better Ensure Timely Treatment | U.S. GAO" . www.gao.gov . Retrieved 2024-12-03 .
+↑ Christensen, Jen (September 1, 2024). "NIH cancels 'Havana syndrome' research, citing unethical coercion of participants" . CNN News . Retrieved 2025-01-09 .
+↑ Christensen, Jen (May 1, 2024). " 'There is so much anger': Havana syndrome victims frustrated CIA isn't blaming Russia for symptoms | CNN Politics" . CNN . Retrieved 2025-01-10 .
+↑ Birenbaum, Gabby (May 1, 2021). "Reports of possible 'Havana syndrome' attacks are now documented in the US" . Vox . Archived from the original on 2021-05-22.
+↑ "Congress Passes National Defense Authorization Act for Fiscal Year 2022" . FYI Bulletin . No. 109. American Institute of Physics. December 15, 2021. Archived from the original on 2021-12-21.
+↑ "Crawford, CIA Subcommittee Release Interim Report on Havana Syndrome" . The Permanent Select Committee On Intelligence . December 5, 2024 . Retrieved 2025-01-10 .
+↑ Pelley, Scott ; Chasan, Aliza; Granados, Oriana Zill de; Rey, Michael; Gordon, Emily; Woods, Jaime (December 5, 2024). "Foreign adversary was likely behind Havana Syndrome, House Intelligence leaders say - CBS News" . www.cbsnews.com . Retrieved 2025-01-10 .
+↑ Crawford, Rick (December 2024). "Investigating the Intelligence Community's Conclusions on Anomalous Health Incidents" (PDF) . U.S. House of Representatives . Retrieved 2025-01-09 .
+↑ Himes, Jim (December 5, 2024). "Himes Statement on Anomalous Health Incidents" . Retrieved 2025-01-09 .
+↑ Derby, Kevin (October 12, 2021). "Biden Signs Bill into Law Helping Victims of Havana Syndrome Suffering Brain Injuries From Energy Attacks" . Florida Daily . Retrieved 2025-01-10 .
+↑ "S.1828 - HAVANA Act of 2021" . United States Congress. May 25, 2021. Archived from the original on 2021-06-25 . Retrieved 2021-06-25 .
+↑ Martinez, Didi; Breslauer, Brenda; Lederman, Josh (December 8, 2020). "10 senators propose new bill to help victims of 'Havana Syndrome' " . NBC News. Archived from the original on 2021-06-25 . Retrieved 2021-06-25 .
+↑ Barnes, Julian E.; Sanger, David E.; Rogers, Katie (October 8, 2021). "Biden Signs Legislation to Compensate Victims of Mysterious 'Havana Syndrome' " . The New York Times . Archived from the original on 2021-10-18.
+↑ "}},"i":0}}]}'/> Barnes, Julian E. (August 24, 2022). "C.I.A. Begins Compensating Victims of Havana Syndrome" . The New York Times . Retrieved 2024-06-05 .
+↑ Strobel, Warren P. "Some Havana Syndrome Victims to Draw Six-Figure U.S. Payments" . WSJ . Retrieved 2024-06-05 .
+↑ "HAVANA Act - Authorized Payment Frequently Asked Questions" . U.S. Department of Commerce . Retrieved 2024-06-05 .
+1 2 3 Seligman, Lara (March 9, 2023). "The Pentagon is funding experiments on animals to recreate 'Havana Syndrome' " . Politico . Retrieved 2023-03-18 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+↑ Best, Paul (March 13, 2023). "PETA asks Pentagon to cease animal testing related to 'Havana syndrome' " . Fox News . Retrieved 2023-03-19 .
+↑ Wiśniewska, Maggie (March 13, 2023). "Letter from PETA to the Honorable Christine Wormuth" (PDF) . PETA. Archived (PDF) from the original on 2023-03-13 . Retrieved 2023-04-14 .
+↑ Lillis, Katie Bo; Herb, Jeremy; Atwood, Kylie (October 5, 2022). "Exclusive: Dozens of CIA officers accuse intel agency of soft-pedaling its 'Havana Syndrome' investigation" . CNN . Retrieved 2024-12-01 .
+↑ Rai, Sarakshi (December 10, 2021). "Diplomat with 'Havana syndrome' sues State Department, Blinken for discrimination" . The Hill . Archived from the original on 2024-12-26 . Retrieved 2025-01-10 .
+↑ "State Department Will Pay $460K to End Havana Syndrome Lawsuit" . Archived from the original on 2024-04-29 . Retrieved 2025-01-10 .
+↑ "State Department tested diplomats for 'directed energy exposure' years before telling Congress" . POLITICO . October 25, 2021 . Retrieved 2025-01-10 .
+↑ Campion-Smith, Bruce (February 7, 2019). "Ailing Canadian diplomats who served in Cuba have 'visible and real' health impacts, Trudeau" . The Star . Archived from the original on 2019-02-08 . Retrieved 2019-02-07 .
+↑ Bilefsky, Dan (February 7, 2019). "Canadian Diplomats Sue Their Government Over Mysterious Cuban Disease" . New York Times . Retrieved 2022-01-15 .
+1 2 Platt, Brian (November 26, 2019). "In Court Filing, Canadian government Argues Diplomats Exaggerated 'Havana Syndrome' Claims Behind $28M Lawsuit" . National Post . Retrieved 2025-10-20 .
+Sources
+Relman, David A.; Pavlin, Julie, eds. (2020). An Assessment of Illness in U.S. Government Employees and Their Families at Overseas Embassies . Bibcode : 2020nap..book25889N . doi : 10.17226/25889 . ISBN 978-0-309-68137-7 . PMID 33411434 .
+External links
+Media related to Havana syndrome at Wikimedia Commons
+Canada–China relations
+Diplomatic posts
+Embassy of China, Ottawa
+Ambassadors of Canada to China
+Consulate General of Canada in Hong Kong and Macao
+Incidents
+Murder of Cecilia Zhang
+Murder of Amanda Zhao
+2011 Canadian government hackings
+Havana syndrome
+Meng Wanzhou
+Extradition case
+Detention of Michael Spavor and Michael Kovrig
+Chinese government interference in the 2019 and 2021 Canadian federal elections
+2023 balloon incident
+Canada–China trade war
+Related
+Canada–Hong Kong relations
+Canada–Taiwan relations
+Canada China Business Council
+Canadian Chamber of Commerce in Shanghai
+China-Canada Dinosaur Project
+Chinese government interference in Canada
+Inter-Parliamentary Alliance on China
+International School of Beijing
+Miss Chinese Toronto Pageant
+Miss Chinese Vancouver Pageant
+Claws of the Panda
+Category:Canada–China relations
+China–United States relations
+Diplomatic posts
+Embassy of China, Washington, D.C.
+Ambassadors of China to the United States
+Embassy of the United States, Beijing
+Ambassadors of the United States to China
+Chinese Consulate-Generals
+New York
+Los Angeles
+Houston
+American Consulate-Generals
+Chengdu
+Guangzhou
+Hong Kong and Macau
+Shanghai
+Shenyang
+Wuhan
+Bureau of East Asian and Pacific Affairs
+Office of China Coordination
+Diplomacy
+Treaty of Wanghia
+Treaty of Tientsin
+Burlingame Treaty
+Gresham-Yang Treaty
+Shanghai International Settlement
+American Concession (Shanghai)
+United States Court for China
+Treaty between the United States and China for the Relinquishment of Extraterritorial Rights in China
+Treaty of Friendship, Commerce and Navigation between the United States of America and the Republic of China
+Marshall Mission
+Loss of China
+China White Paper
+PRC-US Ambassadorial Talks
+1972 visit by Richard Nixon to China
+Shanghai Communiqué
+Three Communiqués
+One-China policy
+Nixon goes to China
+Nixon's China Game
+Harvey Feldman
+Ling-Ling and Hsing-Hsing
+Joint Communiqué on the Establishment of Diplomatic Relations
+Goldwater v. Carter
+State visit by Deng Xiaoping to the United States
+U.S.–China Agreement on Cooperation in Science and Technology
+Presidential Rule of Law Initiative
+Beijing–Washington hotline
+2015 state visit by Xi Jinping to the United States
+2015 United States–China Cybersecurity Agreement
+Joint Comprehensive Plan of Action
+2017 state visit by Donald Trump to China
+United States–China talks in Alaska
+United States–China Working Group
+Busan Summit
+2026 state visit by Donald Trump to China
+Constructive Strategic and Stable Relationship
+2026 state visit by Xi Jinping to the United States
+Conflicts
+Boxer Rebellion
+Eight-Nation Alliance
+China Relief Expedition
+Chinese Civil War
+Korean War
+Allegations of biological warfare in the Korean War
+Cross-Strait conflict
+First Taiwan Strait Crisis
+Operation King Kong
+Second Taiwan Strait Crisis
+Third Taiwan Strait Crisis
+CIA Tibetan program
+Quadrilateral Security Dialogue
+Incidents
+Rover incident
+Chy Lung v. Freeman
+Cheong Ah Moy v. United States
+Chae Chan Ping v. United States
+Twain–Ament indemnities controversy
+1905 Chinese boycott
+USS Monocacy incident
+Red Scare
+Qian Xuesen
+1946 United States Air Force C-47 Crash at Yan'an
+Shen Chong case
+Lamont v. Postmaster General
+Hu Na
+Project Sabre II
+Yinhe incident
+1996 United States campaign finance controversy
+Johnny Chung
+Liu Chaoying
+United States bombing of the Chinese embassy in Belgrade
+Hainan Island incident
+Operation Shady RAT
+Operation Aurora
+United States diplomatic cables leak
+2012 China anti-Japanese demonstrations
+Murder of Shao Tong
+Disappearance of David Louis Sneddon
+Trump–Tsai call
+Havana syndrome
+Animal Science Products v. Hebei Welcome Pharmaceuticals
+China Initiative
+Trial of Anming Hu
+Concerns over Chinese involvement in 5G wireless networks
+Meng Wanzhou
+Extradition
+TikTok v. Trump
+U.S. WeChat Users Alliance v. Trump
+COVID-19 misinformation
+United States Department of Defense China Task Force
+2022 visit by Nancy Pelosi to Taiwan
+Chinese espionage in the United States
+Cyberwarfare and China
+Chinese spy cases in the United States
+Cox Report
+Timeline of the Cox Report controversy
+American espionage in China
+Cyberwarfare and the United States
+Hugh Francis Redmond
+Uyghur detainees at Guantanamo Bay
+2023 balloon incident
+Chinese interference in the 2024 United States elections
+2024 United States Department of the Treasury hack
+Panama Canal ports dispute
+Military relations
+Yangtze Patrol
+Alice Dollar incident
+Second Sino-Japanese War
+American Volunteer Group
+Black Cat Squadron
+Development of Chinese Nationalist air force (1937–1945)
+China Air Task Force
+China Marines
+Dixie Mission
+Flying Tigers
+Operation Beleaguer
+Sino-American Cooperative Organization
+RIMPAC
+China in the 2026 Iran war
+Legislation
+United States sanctions against China
+U.S. immigration policy
+Chinese Exclusion Repeal Act
+Taiwan Relations Act
+Executive Order 12711
+Chinese Student Protection Act of 1992
+United States–Hong Kong Policy Act
+United States–Hong Kong Agreement for the Surrender of Fugitive Offenders
+Forced Abortion Condemnation Act
+Taiwan Security Enhancement Act
+United States–China Relations Act of 2000
+Wolf Amendment
+Taiwan Travel Act
+EQUITABLE Act
+Hong Kong Be Water Act
+Hong Kong Human Rights and Democracy Act
+Tibet Policy and Support Act
+Taiwan Allies International Protection and Enhancement Initiative Act
+Proclamation 10043
+Uyghur Human Rights Policy Act
+Hong Kong Autonomy Act
+Executive Order 13936
+Executive Order 13959
+Holding Foreign Companies Accountable Act
+Executive Order 14032
+United States Innovation and Competition Act
+Uyghur Forced Labor Prevention Act
+Protecting Americans from Foreign Adversary Controlled Applications Act
+Economic relations
+Old China Trade
+United States-China Economic and Security Review Commission
+Group of Two
+Strategic Economic Dialogue
+Summer Palace Dialogue
+U.S.–China Strategic and Economic Dialogue
+Senior Dialogue
+China–United States trade war
+Trump tariffs
+first
+second
+Permanent normal trade relations
+Related
+History of China–United States relations
+Hong Kong–United States relations
+Macau–United States relations
+Taiwan–United States relations
+Americans in China
+Chinese Americans
+Anti-American sentiment in China
+Ruguanxue
+Anti-Chinese sentiment in the United States
+Chimerica
+China Lobby
+Asia First
+Chinese Century
+China Hands
+China watcher
+Cold War in Asia
+Second Cold War
+Artificial Intelligence Cold War
+Ping-pong diplomacy
+Triangular diplomacy
+Peaceful Evolution theory
+Linkage (policy)
+String of Pearls (Indian Ocean)
+Thucydides Trap
+Hong (business)
+Air route authority between the United States and China
+Blue Team
+TPE (cable system)
+Protestant missions in China
+Elijah Coleman Bridgman
+Divie Bethune McCartee
+The 1990 Institute
+Boxer Indemnity Scholarship
+China Aid Society
+China-United States Exchange Foundation
+Chinese Educational Mission
+Committee for a Democratic Far Eastern Policy
+Congressional-Executive Commission on China
+Hua Yuan Science and Technology Association
+Inter-Parliamentary Alliance on China
+United States House Select Committee on Strategic Competition between the United States and the Chinese Communist Party
+Kissinger Institute on China and the United States
+National Committee on United States–China Relations
+Oberlin Shansi Memorial Association
+Sino-American Joint Commission on Rural Reconstruction
+US-China Business Council
+US–China Education Trust
+US–China Peoples Friendship Association
+Massachusetts International Academy
+Harvard Summit for Young Leaders in China
+International School of Beijing
+SARS conspiracy theory
+Yixian glazed pottery luohans
+Harvard Bixi
+William H. Hinton
+Human Rights Record of the United States
+USA pavilion at Expo 2010
+New Federal State of China
+China Human Rights Biweekly
+Far East Reporter
+Duke-UNC China Leadership Summit
+Three Views Education Movement
+The Coming Conflict with China
+A Great Wall: Six Presidents and China
+The New Chinese Empire
+The Art of Investing in America
+Death by China
+On China
+Peaceful War
+The Transpacific Experiment
+Stealth War: How China Took Over While America's Elite Slept
+Red Chinese Battle Plan
+The China Hustle
+Category:China–United States relations
+Cuba–United States relations
+Diplomatic posts
+Embassy of Cuba, Washington, D.C.
+Ambassadors of Cuba to the United States
+Embassy of the United States, Havana
+Ambassadors of the United States to Cuba
+Villa Paula
+United States Interests Section in Havana
+Bureau of Western Hemisphere Affairs
+Diplomacy
+Cuban–American Treaty of Relations (1903)
+Hay-Quesada Treaty
+Cuban–American Treaty of Relations (1934)
+Good Neighbor policy
+Inter-American Treaty of Reciprocal Assistance
+El Diálogo
+Cuba–United States Maritime Boundary Agreement
+Tripartite Accord (1988)
+Cuban thaw
+JetBlue Flight 387
+Conflicts
+Spanish–American War
+Ostend Manifesto
+USS Maine
+Monument to the Victims of the USS Maine (Havana)
+United States Senate Committee on Cuban Relations
+The Paquete Habana
+Army of Cuban Occupation Medal
+Propaganda
+United States Military Government in Cuba
+Second Occupation of Cuba
+Cuban Pacification Medal (Army)
+Banana Wars
+Negro Rebellion
+Sugar Intervention
+Cuban Revolution
+Aftermath
+La Coubre explosion
+Cuban exodus
+Cuban exile
+Golden exile
+Bay of Pigs Invasion
+Brigade 2506
+Cuban Democratic Revolutionary Front
+Cuban Revolutionary Council
+Operation 40
+Operation Mongoose
+Operation Northwoods
+Operation Ortsac
+Operation Peter Pan
+JMWAVE
+Polita Grau
+José Antonio Llama
+Bay of Pigs Monument
+Bay of Pigs Museum
+Jamaican political conflict
+United States invasion of Grenada
+United States embargo against Cuba
+2026 Cuban crisis
+Incidents
+Cubana de Aviación Flight 493
+Matthew Edward Duke
+Cuban Missile Crisis
+Crateology
+Banco Nacional de Cuba v. Sabbatino
+Zemel v. Rusk
+Cuba–United States aircraft hijackings
+Pan Am Flight 281
+Trans World Airlines Flight 106
+Southern Airways Flight 49
+Cubana de Aviación Flight 455
+Leyla Express and Johnny Express incidents
+Mariel boatlift
+Garcia-Mir v. Meese
+Cuban boat people
+Sandy Pollack
+Regan v. Wald
+1994 Cuban rafter crisis
+Operations Safe Haven and Safe Passage
+Bill Gaede
+1996 shootdown of Brothers to the Rescue aircraft
+Cuban Five
+Elián González
+Ana Montes
+Carlos Alvarez
+Elsa Alvarez
+Kendall Myers
+Alan Gross
+Havana syndrome
+American fugitives in Cuba
+Assassination attempts on Fidel Castro
+Legislation
+Teller Amendment
+Platt Amendment
+Cuban Assets Control Regulations
+Cuban Adjustment Act
+Wet feet, dry feet policy
+Helms–Burton Act
+Freedom to Travel to Cuba Act
+Cuban Democracy Act
+Trade Sanction Reform and Export Enhancement Act
+Related
+Americans in Cuba
+Cuban Americans
+Little Havana
+Cuban migration to Miami
+Havana on the Hudson
+Cuban–American lobby
+Guantánamo Bay
+Timeline
+Guantanamo Bay Naval Base
+Guantanamo Bay detention camp
+1999 Baltimore Orioles–Cuba national baseball team exhibition series
+Alpha 66
+Antonio Maceo Brigade
+Brothers to the Rescue
+Balseros
+Commission for Assistance to a Free Cuba
+Congressional Cuba Democracy Caucus
+Coordination of United Revolutionary Organizations
+Cuban American National Foundation
+Cuban dissident movement
+Cuban Liberty Council
+CubaOne Foundation
+Cuban Power
+Directorio Revolucionario Estudiantil
+Engage Cuba
+Fair Play for Cuba Committee
+Friends of Democratic Cuba
+Havana Jam
+Omega 7
+Radio Free Dixie
+Radio y Televisión Martí
+US-Cuba Democracy PAC
+Varela Project
+Venceremos Brigade
+ZunZuneo
+Cuban football players who defected to the United States
+Filibuster (military)
+NOAAS Oregon II (R 332)
+Silver certificate
+Troika of tyranny
+Cuban Baseball Hall of Fame
+Boquerón, Cuba
+Straits of Florida
+Third Border Initiative
+State Sponsors of Terrorism
+United States and state-sponsored terrorism
+Luis Posada Carriles
+Orlando Bosch
+Cuba–OAS relations
+United Nations Security Council Resolution 144
+Overthrow
+The Cuba Wars
+Balseros
+638 Ways to Kill Castro
+Category:Cuba–United States relations
+Russia–United States relations
+Diplomatic posts
+Embassy of Russia, Washington, D.C.
+Ambassadors of Russia to the United States
+Russian ambassador's residence
+Embassy of the United States, Moscow
+Ambassadors of the United States to Russia
+Spaso House
+Consulate General of Russia, Houston
+Consulate General of Russia, New York City
+John Henry Hammond House
+Consulate General of Russia, Seattle
+Samuel Hyde House
+Consulate General of Russia, San Francisco
+Consulate General of the United States, Saint Petersburg
+Consulate General of the United States, Vladivostok
+Consulate General of the United States, Yekaterinburg
+Elmcroft Estate
+Lothrop Mansion
+Pioneer Point
+Permanent Mission of Russia to the United Nations
+Russian Mission Residency
+Killenworth
+Bureau of European and Eurasian Affairs
+Diplomacy
+Operation Provide Hope
+Agreement Concerning Safe and Secure Transportation, Storage and Destruction of Weapons and the Prevention of Weapons Proliferation
+1998 Moscow Summit
+Agreement Regarding Cooperation in the Area of Nuclear Material Physical Protection, Control, and Accounting
+2001 Slovenia Summit
+2005 Slovakia Summit
+5+2 format
+Russian reset
+Obama–Medvedev Commission
+Syrian civil war
+U.S.–Russia peace proposals
+Destruction of Syria's chemical weapons
+2017 St. Petersburg raid
+2018 Helsinki summit
+2021 Geneva summit
+Arctic Council
+Arctic Ocean Conference
+Ilulissat Declaration
+Global Initiative to Combat Nuclear Terrorism
+Gore–Chernomyrdin Commission
+The U.S. Russia Investment Fund
+U.S.–Russia Joint Commission on POW/MIAs
+Moscow–Washington hotline
+Shuttle–Mir program
+Joint Comprehensive Plan of Action
+2024 Ankara prisoner exchange
+2025 Russia–United States Summit
+2025 Russia–United States summit in Hungary
+2026 United States–Ukraine–Russia meetings in Abu Dhabi
+2026 United States–Ukraine–Russia meetings in Geneva
+RIMPAC
+International Space Station
+Incidents
+Kildin Island submarine incident
+Kola Peninsula submarine incident
+Norwegian rocket incident
+Strait of Juan de Fuca laser incident
+Itar-Tass Russian News Agency v. Russian Kurier, Inc.
+Kidnapping of Mormon missionaries
+Incident at Pristina Airport
+Russian Guantanamo Bay detainees
+RM Broadcasting
+Illegals Program
+Stephen Holmes
+European Deterrence Initiative
+Operation Atlantic Resolve
+Russian interference in United States elections
+2016
+Links between Trump associates and Russian officials
+Steele dossier
+Maria Butina
+2018
+2020
+2024
+Donald Trump's disclosures of classified information
+Havana syndrome
+Zersetzung
+Battle of Khasham
+Poisoning of Sergei and Yulia Skripal
+Arrest of Trevor Reed
+Russian bounty program
+Marc Fogel
+Viktor Bout–Brittney Griner prisoner exchange
+Black Sea drone incident
+Russian spies in the Russo-Ukrainian war
+Discord Leaks
+Lady R incident
+2024 Tenet Media investigation
+Legislation
+Jackson–Vanik amendment
+Russian foreign agent law
+Magnitsky Act
+Dima Yakovlev Law
+Guantanamo List
+Ukraine Freedom Support Act of 2014
+Russian undesirable organizations law
+Consolidated Appropriations Act, 2017
+Countering America's Adversaries Through Sanctions Act
+Defending Elections from Threats by Establishing Redlines Act
+Defending American Security from Kremlin Aggression Act
+Russian–Venezuelan Threat Mitigation Act
+Task Force KleptoCapture
+Executive Order 14071
+Sanctioning Russia Act
+Treaties
+START II
+START III
+Mutual detargeting
+Megatons to Megawatts Program
+Strategic Offensive Reductions Treaty
+New START
+Related
+Russian Empire–United States relations
+Soviet Union–United States relations
+Russia–NATO relations
+Anti-American sentiment in Russia
+Bush legs
+Center on Global Interests
+Congress of Russian Americans
+Anglo-American School of Moscow
+United States military and prostitution in South Korea
+Russian Mission School in New York
+Russian Embassy School in Washington, D.C.
+Russian Cultural Center
+International Launch Services
+U.S. Russia Foundation
+U.S.–Russia Business Council
+Stanford US–Russia Forum
+Space Flight Europe-America 500
+Russia–Syria–Iran–Iraq coalition
+Territorial claims in the Arctic
+United States and the Russian invasion of Ukraine
+Russia in the 2026 Iran war
+New Great Game
+Second Cold War
+RT America
+Not One Inch
+Category
+Portals : Medicine
+Canada
+China
+Cuba
+Russia
+United States
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Havana_syndrome&oldid=1375196202 "
+Categories : 2016 in Cuba
+2017 in Cuba
+2018 in Cuba
+21st century in Havana
+Animal testing
+Canada–China relations
+Canada–Cuba relations
+Canada–Russia relations
+Canada–United States relations
+China–United States relations
+Crowd psychology
+Cuba–United States relations
+Mass psychogenic illness
+Medical controversies
+Medical controversies in the United States
+Moral panics in the United States
+Russian intelligence operations
+Russia–United States relations
+Syndromes of unknown causes
+Hidden categories: Articles with short description
+Short description is different from Wikidata
+Wikipedia pages semi-protected due to dispute
+Use mdy dates from October 2025
+Use American English from April 2018
+All Wikipedia articles written in American English
+CS1 maint: deprecated archival service
+All articles with unsourced statements
+Articles with unsourced statements from February 2026
+Articles containing potentially dated statements from February 2019
+All articles containing potentially dated statements
+Wikipedia articles needing page number citations from March 2026
+CS1 Spanish-language sources (es)
+CS1 European Spanish-language sources (es-es)
+CS1 German-language sources (de)
+Pages using multiple image with auto scaled images
+Pages displaying short descriptions of redirect targets via Module:Annotated link
+Commons link is the pagename
+Search
+Search
+Havana syndrome
+38 languages
+Add topic

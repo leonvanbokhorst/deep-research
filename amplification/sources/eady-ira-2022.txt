@@ -1,0 +1,869 @@
+                                    Article                                                                                                   https://doi.org/10.1038/s41467-022-35576-9
+
+
+                                    Exposure to the Russian Internet Research
+                                    Agency foreign inﬂuence campaign on
+                                    Twitter in the 2016 US election and its
+                                    relationship to attitudes and voting behavior
+
+                                    Received: 11 March 2021                             Gregory Eady 1          , Tom Paskhalis 2 , Jan Zilinsky              3
+                                                                                                                                                               , Richard Bonneau         4
+                                                                                                                                                                                           ,
+                                                                                                                5
+                                                                                        Jonathan Nagler           & Joshua A. Tucker 5
+                                    Accepted: 12 December 2022
+                  1234567890():,;
+1234567890():,;
+
+
+
+
+                                                                                        There is widespread concern that foreign actors are using social media to
+                                        Check for updates                               interfere in elections worldwide. Yet data have been unavailable to investigate
+                                                                                        links between exposure to foreign inﬂuence campaigns and political behavior.
+                                                                                        Using longitudinal survey data from US respondents linked to their Twitter
+                                                                                        feeds, we quantify the relationship between exposure to the Russian foreign
+                                                                                        inﬂuence campaign and attitudes and voting behavior in the 2016 US election.
+                                                                                        We demonstrate, ﬁrst, that exposure to Russian disinformation accounts was
+                                                                                        heavily concentrated: only 1% of users accounted for 70% of exposures. Sec-
+                                                                                        ond, exposure was concentrated among users who strongly identiﬁed as
+                                                                                        Republicans. Third, exposure to the Russian inﬂuence campaign was eclipsed
+                                                                                        by content from domestic news media and politicians. Finally, we ﬁnd no
+                                                                                        evidence of a meaningful relationship between exposure to the Russian for-
+                                                                                        eign inﬂuence campaign and changes in attitudes, polarization, or voting
+                                                                                        behavior. The results have implications for understanding the limits of election
+                                                                                        interference campaigns on social media.
+
+
+
+                                    When the major social media platforms ﬁrst emerged in the mid-                  foreign adversaries2. An example of such a foreign intervention was the
+                                    2000s, they were credited with providing essential collective action            one conducted during the 2016 US election campaign by the Internet
+                                    tools for democratic activists and with spurring several high-proﬁle            Research Agency, an organization closely linked to the Russian
+                                    social movements worldwide (e.g., Iran’s Green Wave movement, the               government3. The Internet Research Agency’s alleged efforts to
+                                    Arab Spring, Occupy Wall Street)1. Yet the initial optimism that sur-           undermine US democracy are now widely documented by the news
+                                    rounded the democratizing potential of social media was short-lived.            media4, US government investigators3,5, and researchers6–8. The orga-
+                                    Governments soon recognized the collective action potential of social           nization is accused of using social media accounts impersonating US
+                                    media, and responded by developing strategies to use these platforms            users to polarize the US electorate and inﬂuence the attitudes and
+                                    for their own domestic and foreign policy goals. A number of high-              voting behavior of ordinary Americans during the 2016 US election
+                                    proﬁle cases have since suggested that some governments are using               campaign. Social media companies once again warned that Russia-
+                                    social media to undermine the social movements that challenge their             based organizations were seeking to intervene in the 2020 US pre-
+                                    domestic power, and to intervene in the democratic elections of their           sidential election9.
+
+
+                                    1
+                                     Department of Political Science and the Center for Social Data Science (SODAS), University of Copenhagen, Copenhagen, Denmark. 2Department of Political
+                                    Science, Trinity College Dublin, Dublin, Ireland. 3Department of Governance, Technical University of Munich, Munich, Germany. 4Department of Biology and
+                                    Computer Science and Center for Social Media and Politics, New York University, New York, NY, USA. 5Department of Politics and Center for Social Media and
+                                    Politics, New York University, New York, NY, USA.     e-mail: gregory.eady@gmail.com; tpaskhalis@gmail.com
+
+
+                                    Nature Communications | (2023)14:62                                                                                                                        1
+Article                                                                                               https://doi.org/10.1038/s41467-022-35576-9
+
+
+     Foreign inﬂuence campaigns have attracted substantial popular           voters in ways favorable to Donald Trump, the extent to which expo-
+and academic interest10–12. Researchers’ understanding of the inﬂuence       sure was concentrated among a small number of users, or those most
+of the social media side of these campaigns remains unresolved,              or least likely to be affected, is unknown. Recent research on fake news,
+however, in large part due to the absence of the data. Previous research     for example, shows that exposure to fake news content is con-
+has, for example, examined the relationship between interactions with        centrated among a small group of users, and those who identify as
+Russian foreign inﬂuence accounts in the United States and attitudes         strong political partisans21. If exposure to social media posts from
+and political behavior12. Yet the authors acknowledge a number of            Russian foreign inﬂuence accounts during the 2016 US election was
+limitations: the available data are from a year after the 2016 US election   similarly concentrated (i.e., among those already favorable toward
+occurred, cover a short one-month time window, and were collected            Donald Trump), then their inﬂuence on changing candidate pre-
+after Twitter removed many Russian foreign inﬂuence accounts from            ferences could be minimal.
+its platform. Other research on foreign inﬂuence campaigns has                    We adjudicate this debate by examining the relationships
+sought to understand the structure and content of these                      between exposure to posts from the Russian foreign inﬂuence cam-
+campaigns6–8,13,14, but has not assessed the relationship between            paign and the political attitudes and behaviors of ordinary US social
+exposure to content from foreign inﬂuence accounts and political             media users. We triangulate two types of evidence: (1) descriptive
+attitudes, polarization, and vote choice.                                    evidence to investigate the relative scale and concentration of US
+     In this article, we investigate the relationship between Russia’s       users’ exposure to posts from Russian foreign inﬂuence accounts, and
+foreign inﬂuence campaign on Twitter during the 2016 US presidential         the partisan proﬁle of those exposed, and (2) evidence from social
+election and the political attitudes and voting behavior of ordinary US      media-linked longitudinal survey data that we use to examine the
+social media users. We link longitudinal survey data from a sample of        relationship between exposure to posts from Russian foreign inﬂuence
+US Twitter users with data from those respondents’ social media feeds        accounts and changes in respondents’ political attitudes and voting
+that were collected during the 2016 campaign. These survey-linked            behavior during the election campaign.
+social media data allow us to both quantify the distribution and scale of         Here, we demonstrate the extent to which exposure to posts from
+ordinary US users’ exposure to posts from Russian foreign inﬂuence           foreign inﬂuence campaigns was concentrated among a small group of
+accounts, and to estimate the relationship between exposure to these         users. We show, further, that although the amount of exposure to
+accounts and users’ positions on policy issues, political polarization,      social media posts from foreign inﬂuence campaigns is large in abso-
+and voting behavior in the 2016 election.                                    lute terms, it was overshadowed—by at least an order of magnitude—by
+     Theoretically, there are good reasons to expect both why foreign        content from ordinary domestic political news media and US political
+inﬂuence campaigns on social media might succeed and why they                candidates. Finally, we examine whether exposure to posts from the
+might fail. One reason to expect that foreign inﬂuence campaigns             Russian foreign inﬂuence campaign is associated with changes in US
+could affect the attitudes and behaviors of social media users is their      respondents’ positions on salient election issues, levels of political
+seemingly large scale and reach. We estimate, for example, that at least     polarization, and voting behavior in the 2016 election. Across a wide
+32 million US Twitter users were potentially exposed to posts from           range of outcomes, we do not detect a meaningful relationship
+Russia-sponsored accounts in the eight months leading up to the 2016         between exposure to posts from Russian foreign inﬂuence accounts
+election. Facebook has estimated, by comparison, that 126 million            and changes in attitudes, polarization, or voting behavior.
+users had the potential to view Russian state-sponsored content on its
+platform over a two year period15. As Facebook in 2016 was used by           Results
+roughly 3.5 times as many Americans as Twitter, this suggests that the       Exposure to Russian foreign inﬂuence accounts during the 2016
+reach of Russian foreign inﬂuence campaign content across both               election campaign
+platforms was similar. Moreover, researchers and government inves-           We begin by answering key questions regarding the levels and con-
+tigators are consistent in their assessment of the potential goals of the    centration of US social media users’ exposure to posts from foreign
+Russian foreign inﬂuence campaign6–8,10. First, they generally agree         inﬂuence accounts during the 2016 election. We do this by examining
+that Russian interference in the US election was designed to inﬂuence        potential exposure (hereafter “exposure” - see Methods section for
+the voting behavior of US users in favor of Donald Trump, either by          details) to posts from Internet Research Agency accounts and those
+shifting support toward Trump himself, or by encouraging disaffected         from smaller foreign inﬂuence campaigns (from China, Iran, and
+liberals—often former Bernie Sanders voters—to vote for a third-party        Venezuela) for comparison. We ﬁnd that 70% (n = 1042) of respondents
+candidate or to abstain from voting altogether. Second, US govern-           were exposed to one or more posts from a foreign inﬂuence campaign
+ment reports conclude that the Russian foreign inﬂuence campaign             between April and November 2016, with 786,634 posts from these
+sought to undermine US democracy more generally by exacerbating              campaigns identiﬁed across all respondents’ timelines (n = 1496). To
+polarization among the electorate3,16.                                       examine variation in exposure over time, we present in panel a of Fig. 1
+     Yet, despite the Russian foreign inﬂuence campaign’s apparent           the average levels of exposure to posts from foreign inﬂuence cam-
+scale and intentions, one should be skeptical about its potential effects    paigns each day in the eight months prior to the election. As the ﬁgure
+on attitudes and voting behavior. The large body of political science        shows, the daily volume of exposure to tweets from foreign inﬂuence
+research that examines the effects of traditional election campaigns on      campaigns, aggregated over all respondents’ timelines, varied widely
+voting behavior ﬁnds little evidence of anything but minimal                 between roughly two thousand early in the election campaign to
+effects17,18, even when messages are well-targeted and conducted in          roughly ten thousand at its height, with a peak on election day of
+politically conducive environments19,20. Furthermore, although the           roughly 24,000 exposures. Individual respondents were exposed on
+scale of the Russian foreign inﬂuence campaign is seemingly                  average to between two and ten posts from foreign inﬂuence cam-
+impressive in absolute terms (i.e., millions of exposures), its scale may    paigns per day. As panel a of Fig. 1 shows further, posts from the
+pale in relative terms to social media users’ exposure to other political    Russian inﬂuence campaign were the most prevalent, representing
+content. Absent a benchmark against which to measure the scale of US         86% of all exposures in respondents’ timelines in the lead-up to the
+users’ exposure to posts from foreign actors, however, it remains dif-       election among the foreign inﬂuence campaigns included herein.
+ﬁcult to assess the potential relationship between exposure to that               The main avenue for exposure to these posts was not through
+content and changes in political attitudes and voting behavior. Finally,     users directly following foreign inﬂuence accounts. Exposure was
+although the alleged intention of the Russian foreign inﬂuence cam-          mostly incidental, primarily via retweets from ordinary accounts that
+paign on social media was to inﬂuence the attitudes and behavior of          users followed. The share of retweets as an exposure pathway grew
+
+
+Nature Communications | (2023)14:62                                                                                                                 2
+Article                                                                                                                                                                          https://doi.org/10.1038/s41467-022-35576-9
+
+
+                a                                          15                                                                                                                                                         24,255
+                                                                           Other     Iran         China        Venezuela     Russia                                            Election day
+
+
+
+
+                                Mean number of exposures
+
+
+
+
+                                                                                                                                                                                                                               Total number of exposures
+                                                                                                                                                                                                                                 across all respondents
+                                                           10                                                                                                                                                         16,170
+
+
+
+
+                                                            5                                                                                                                                                         8,085
+
+
+
+
+                                                            0                                                                                                                                                         0
+                                                                 Apr '16       May '16            Jun '16          Jul '16      Aug '16                      Sep '16   Oct '16          Nov '16          Dec '16
+
+
+                b                             100%                                                                                    c                    100%
+
+
+
+                                                           75%                                                                                             75%
+                    % of exposures
+
+
+
+
+                                                                                                                                          % of exposures
+                                                           50%                                                                                             50%
+
+
+
+                                                           25%                                                                                             25%
+
+
+
+                                                           0%                                                                                               0%
+
+                                                                              .01%          .1%           1%        10%      100%                                      .01%          .1%          1%            10%       100%
+                                                                                     % of survey respondents                                                                  % of foreign influence accounts
+
+
+Fig. 1 | Exposure to tweets from state-sponsored accounts over time among                                                             by accounts from each foreign inﬂuence campaign. The line representing the
+survey respondents. Panel a presents the total number of exposures to tweets                                                          cumulative distribution for Russian inﬂuence campaign accounts begins visually at
+from foreign inﬂuence campaigns during the 2016 US election campaign among                                                            a different point on the x-axis due to the higher number of Russian foreign inﬂu-
+respondents between the ﬁrst survey wave, and one month after the election. Panel                                                     ence accounts relative to other smaller state-backed campaigns. Vertical dotted
+b presents the empirical cumulative distribution of exposure to tweets by survey                                                      lines in b, c highlight the percentage of exposures by 1% of respondents (panel b),
+respondents from Russian, Venezuelan, Chinese, and Iranian foreign inﬂuence                                                           and 1% of state-sponsored accounts (panel c).
+accounts. Panel c presents the empirical cumulative distribution of the tweets sent
+
+
+
+steadily over time, reaching 75–80% by election day (see Supplemen-                                                                   and thus there are few who are exposed to any posts from foreign
+tary Fig. C4). However, despite the seemingly large number of expo-                                                                   inﬂuence accounts at all in a given week.
+sures to posts from foreign inﬂuence campaigns, the amount of                                                                              That median exposure is zero per week in the last month of the
+exposure is meaningful only within the context of the political eco-                                                                  election suggests that exposure may, in general, be concentrated
+system on social media. This is because social media users are exposed                                                                among a small group of users. To examine this, we present in panel b of
+to a wide array of posts concerning politics from legitimate political                                                                Fig. 1 the cumulative distribution of exposure among respondents to
+actors every day, especially during a high-proﬁle election campaign. To                                                               posts from foreign inﬂuence accounts. It shows that exposure to for-
+put the number of posts from the Russian foreign inﬂuence campaign                                                                    eign inﬂuence accounts is concentrated among a small group of
+in perspective, we identify the posts in respondents’ timelines that                                                                  respondents: 1% of respondents account for 70% of exposures to posts
+were from US national news media organizations, and politicians and                                                                   from Russian foreign inﬂuence accounts. Furthermore, almost all
+candidates, during the last month of the election campaign, when                                                                      exposure is concentrated among only 10% of respondents, who
+Internet Research Agency activity was at its highest point. For com-                                                                  account for 98% of exposures to posts from Russian foreign inﬂuence
+parison, we present the mean number of posts our respondents were                                                                     accounts. Interestingly, this concentration of exposure among a small
+exposed to by the news media, politicians, and Internet Research                                                                      group of users is broadly similar to patterns found in studies of
+Agency accounts side-by-side in panel a of Fig. 2. Despite the seemingly                                                              exposure to fake news21,22. It is also worth pointing out that this is not a
+large number of posts from Internet Research Agency accounts in                                                                       feature of political communication on Twitter per se. Analogous con-
+respondents’ timelines, they are overshadowed—by an order of mag-                                                                     centration plots for politicians and news media in Supplementary
+nitude—by posts from national news media and politicians. While, on                                                                   Methods D show that 1% of respondents account for 24% and 37% of
+average, respondents were exposed to roughly 4 posts from Russian                                                                     exposures to posts from domestic news media and politicians,
+foreign inﬂuence accounts per day in the last month of the election                                                                   respectively. In other words, exposure to Russia foreign inﬂuence
+campaign, they were exposed to an average of 106 posts on average                                                                     accounts is particularly concentrated among a small subset of users.
+per day from national news media and 35 posts per day from US                                                                         Finally, we also show in panel c of Fig. 1 that a small numbers of Russian
+politicians. In other words, respondents were exposed to 25 times                                                                     foreign inﬂuence accounts are responsible for a large majority of these
+more posts from national news media and 9 times as many posts from                                                                    exposures, with 1% of Russian accounts accounting for 89% of the
+politicians than those from Russian foreign inﬂuence accounts. This                                                                   content found in individuals’ timelines.
+contrast is similarly large in panel b of Fig. 2, which presents median
+exposure to posts from Russian foreign inﬂuence accounts per week.                                                                    Predictors of exposure to the Russian foreign inﬂuence
+In the last month of the election, the median exposure to Russian                                                                     campaign
+foreign inﬂuence accounts is zero across all weeks, because, as we                                                                    We now examine the characteristics of users who were more likely to be
+show below, exposure is concentrated among a small group of users,                                                                    exposed to Twitter posts from the Russian foreign inﬂuence campaign,
+
+
+Nature Communications | (2023)14:62                                                                                                                                                                                                                        3
+Article                                                                                                                                                                                                                                            https://doi.org/10.1038/s41467-022-35576-9
+
+
+                a                              Mean exposure
+                                                                                                                           News media                                                         Politicians                                                      Russian foreign influence
+                                              250
+                                                                                                                                              Election day
+
+                 Mean number of exposures     200
+
+
+                                              150
+
+
+                                              100
+
+
+                                              50
+
+
+                                               0
+                                                    Oct. '16                                                                                           Nov. '16      Oct. '16                                                  Nov. '16      Oct. '16                                      Nov. '16
+
+
+                b                              Median exposure
+                                                                                                                           News media                                                         Politicians                                                      Russian foreign influence
+                                              140
+
+                                              120                                                                               Week of the election
+                 Median number of exposures
+
+
+
+
+                                              100
+
+                                              80
+
+                                              60
+
+                                              40
+
+                                              20
+
+                                               0
+                                                          Oct. '16                                                                                       Nov. '16          Oct. '16                                              Nov. '16             Oct. '16                               Nov. '16
+
+Fig. 2 | Average exposure to posts from domestic news media, politicians, and                                                                                                                        b presents an analogous time series per week for median exposure to domestic
+Russian inﬂuence campaign accounts during the ﬁnal month of the election                                                                                                                             news media, political candidates, and Russian foreign inﬂuence accounts. Median
+campaign. Panel a presents the mean exposure to posts from domestic news                                                                                                                             exposure to Russian foreign inﬂuence accounts in the last month of the election is 0
+media (in red), political candidates (in orange), and Russian foreign inﬂuence                                                                                                                       for all days.
+accounts (in black) for the last month of the presidential campaign. Panel
+
+
+
+                                                               a                                                                                                                        b                     Woman
+                                                                   Mean exposure to Russian foreign influence accounts
+
+
+
+
+                                                                                                                                                                                                                 Age
+
+                                                                                                                         1200                                                                         College degree
+
+                                                                                                                                                                                                              Income
+
+                                                                                                                                                                                                      Person of color
+                                                                                                                                                                                        Predictor
+
+
+
+
+                                                                                                                         800                                                                        Region: Northeast
+
+                                                                                                                                                                                                     Region: Midwest
+
+                                                                                                                                                                                                        Region: West
+                                                                                                                         400
+                                                                                                                                                                                                     Social media use
+
+                                                                                                                                                                                                              Party ID
+                                                                                                                                                                                                       (0 = Strong D.,
+                                                                                                                                                                                                        1 = Strong R.)
+                                                                                                                           0
+                                                                                                                                 Strong                Independent           Strong                                      −.6     −.4   −.2   0      .2         .4   .6    .8   1
+                                                                                                                                Democrat                                   Republican                                                            Coefficient
+
+
+
+Fig. 3 | Partisanship and exposure to posts from Russian foreign inﬂuence                                                                                                                            (log exposures + 1) number of tweets from Russian foreign inﬂuence accounts in a
+accounts during the 2016 US election campaign. Panel a presents the mean                                                                                                                             respondents’ Twitter timeline between March 25 and November 8, 2016. The model
+exposure to posts from Russian foreign inﬂuence accounts among survey                                                                                                                                intercept parameter is not shown. The reference category for the region variable in
+respondents according to their self-identiﬁed partisanship. Panel b presents the                                                                                                                     the model is “South”. n = 1496 survey respondents.
+coefﬁcients (and 95% CIs) from an OLS model where the outcome variable is the
+
+
+
+
+with particular attention to differences in political partisanship. If the                                                                                                                                To examine this, we begin by presenting in panel a of Fig. 3 the
+Internet Research Agency’s alleged efforts were thought of as a typical                                                                                                                              average exposure to posts from Russian foreign inﬂuence accounts
+political campaign, we would expect that those efforts would take one                                                                                                                                over the course of the campaign broken down by how survey
+of three forms: persuading voters who might not support the cam-                                                                                                                                     respondents identify their partisanship. Results in panel a show that
+paign’s preferred candidate to do so; mobilizing a favored candidates’                                                                                                                               the amount of exposure depends substantially on users’ self-identiﬁed
+supporters; or demobilizing the supporters of an opponent. These                                                                                                                                     partisanship: those who identify as “Strong Republicans” were exposed
+strategies would predict that tweets from Russian foreign inﬂuence                                                                                                                                   to roughly nine times as many posts from Russian foreign inﬂuence
+accounts would, in general, be aimed primarily at those who identify as                                                                                                                              accounts than were those who identify as Democrats or Independents.
+moderates, Republicans, or Democrats respectively. Of course, the                                                                                                                                    To examine whether the ﬁndings in panel a are an artifact of factors
+Internet Research Agency could also have employed multiple strategies,                                                                                                                               other than partisanship, we ﬁt an OLS regression model to predict the
+especially if an additional goal were to increase political polarization.                                                                                                                            (log exposures + 1) number of posts from Russian foreign inﬂuence
+
+
+Nature Communications | (2023)14:62                                                                                                                                                                                                                                                                     4
+Article                                                                                                 https://doi.org/10.1038/s41467-022-35576-9
+
+
+accounts that were in the timelines of each respondent (for results           inﬂuence accounts during the 8 months leading up to election day. To
+from a Poisson model, see Supplementary Methods C3). Including a set          do so, we use data on potential exposure to Internet Research Agency
+of standard socio-demographic characteristics, a control for respon-          posts among users in our dataset, which we combine with data from
+dents’ level of social media use, and a 7-category party ID variable as       Pew Research and US census data. Pew Research estimates that in
+predictors allow us to verify that the simple party-exposure correlation      2016, Twitter penetration in the US was 21%25. The US Census Bureau
+is not driven by demographics speciﬁc to survey respondents who               estimates that the US population in 2016, aged 18 and older, was
+identify as Republicans. Results from this model are presented in panel       244,807,00026. This puts a rough estimate of the number of American
+b of Fig. 3. Consistent with results in panel a, the more strongly a user     Twitter users at 51 million. Taking the estimate from our social media-
+identiﬁed as a Republican, the more posts in their timeline from Rus-         linked survey data that 63% of US Twitter users were potentially
+sian foreign inﬂuence accounts.                                               exposed to at least one post from Russian foreign inﬂuence accounts
+     We investigate this result further by examining whether the              during the 2016 presidential election (see Supplementary Meth-
+amount of exposure to the Russian foreign inﬂuence campaign was not           ods C1), a back-of-the-envelope calculation (0.63 × 51 million) suggests
+only greater among those who identify as highly partisan Republicans,         that 32 million Americans were potentially exposed to content from
+but also among those who identify as highly partisan Democrats. If the        Internet Research Agency accounts. Note that this ﬁgure is not per-
+relationship were U-shaped in this way, such that those who identify as       fectly analogous to Facebook’s to the extent that their estimate is
+highly partisan Democrats and Republicans were similarly exposed, it          across 2 years prior the election.
+would suggest another potential pathway for a relationship between
+exposure to Russian foreign inﬂuence accounts and political attitudes         The relationship between exposure to Russian foreign inﬂuence
+and voting behavior. For example, exposure among those who identify           accounts and political attitudes and polarization
+as highly partisan Democrats could plausibly lead to increases in dis-        We now document the relationship between exposure to posts from
+affection with the more moderate Democratic nominee, thereby                  the Russian foreign inﬂuence campaign and changes in respondents’
+encouraging voting for a third-party candidate or abstaining from             (1) positions on salient election issues and (2) perceptions of candidate
+voting altogether. To test this, we include a squared party identiﬁca-        polarization. We measure political attitudes by the positions that
+tion term in the regression model. As we show in the Supplementary            respondents took in the survey on eight major policy issues that were
+Methods C2, we do not ﬁnd statistical evidence that exposure to posts         salient during the election, and respondents’ self-reported political
+from Russian foreign inﬂuence accounts was as high among those who            ideology. Examples of policy issues in the survey include respondents’
+identify as highly partisan Democrats as it clearly was among those           opinions toward the expansion of the Affordable Care Act, increases in
+who identify as Republicans: inclusion of the squared term does not           tariffs on China, building a wall on the border with Mexico, and Donald
+signiﬁcantly increase model ﬁt, and as we show in Supplementary               Trump’s call to ban Muslim people from traveling to the US. Positions
+Methods C2, the relationship between party ID and exposure is                 on each issue were measured on a 0 to 100 scale, labeled with end
+monotonic across the range of the party identiﬁcation variable. We            points indicating the direction of support (for survey text for each
+ﬁnd, in other words, that exposure to Russian foreign inﬂuence                issue question, see Supplementary Methods A3). Because our interest
+accounts was concentrated among those who identify as highly par-             is in the relationship between exposure to Russian foreign inﬂuence
+tisan Republicans—those most likely to already strongly support the           accounts and changes in issue positions as they relate to the pre-
+Republican nominee. Exposure was not, however, similarly con-                 sidential candidates, we recode the scales so that higher values indi-
+centrated among those who identify as highly partisan Democrats.              cate closer alignment with Trump (e.g., approval of building a wall on
+                                                                              the border with Mexico), and lower values indicate closer alignment
+Aggregate US Exposure to Russian foreign inﬂuence accounts on                 with Clinton (e.g., disapproval of a wall). Survey respondents also
+Twitter during the 2016 election campaign                                     placed Trump and Clinton on the same eight issue scales and ideolo-
+In addition to examining the individual-level characteristics of indivi-      gical scale. These candidate placements allow us to capture perceived
+duals exposed to Russian foreign inﬂuence accounts, we also calculate         polarization, measured as the distance between these placements such
+a rough estimate of the aggregate exposure across the United States.          that higher values indicate higher polarization, i.e., a belief that the
+While as a result of congressional hearings on the role of social media       candidates are further apart on the issues and ideologically (for details
+in the 2016 US presidential election, both Twitter and Facebook cal-          see Supplementary Methods F1).
+culated and released aggregate-level estimates of user exposure to                  To investigate the relationship between exposure to Russian for-
+Russian foreign inﬂuence accounts on their platforms, each company            eign inﬂuence accounts and political attitudes we take advantage of the
+did so differently, with statistics that are not comparable. Facebook,        panel structure of the data. These data allow us to examine within-
+for example, stated that 126 million of its users had the potential to        subject variation, and therefore to account for time-invariant char-
+view content from the Russian foreign inﬂuence campaign over a two            acteristics across respondents. We model the relationship between
+year period15. Twitter, however, states that the number of times that         exposure and issue positions and ideology by regressing within-
+content from Russian foreign inﬂuence accounts was viewed within a            respondent changes in issue positions and perceptions of polarization
+brief two and a half months (September 1, 2016 to November 15, 2016)          on exposure to posts from Russian foreign inﬂuence accounts between
+was 288 million23. This is likely a large underestimate of the number of      survey waves. In other words, we examine whether exposure is asso-
+views, due to the fact that Twitter later expanded its list of Russian        ciated with changes in each respondent’s political attitudes and per-
+foreign inﬂuence accounts24, but without providing an updated num-            ceived polarization from before the campaign to immediately prior to
+ber of views. With 1.4 million direct interactions with that content (e.g.,   the election. If exposure were unconfounded between survey waves (a
+liking, retweeting, replying)24, the ﬁgure 288 million views, however, is     strong assumption), the estimand in this model would be the average
+an extreme upper bound on the number of potentially exposed users,            treatment effect on the treated to the extent that levels of exposure is as
+because a single user can view multiple tweets from Russian foreign           observed in the data. The regression model is also equivalent to one that
+inﬂuence accounts. By contrast, 1.4 million interactions is an extreme        predicts a respondent’s attitude toward an issue in the ﬁnal wave of the
+lower bound on potential exposure, because the vast majority of users         survey conditional on the position that they took on that issue in the
+do not directly interact with each piece of content on the platform.          ﬁrst wave of the survey (with a coefﬁcient of 1) and their exposure to
+     Thus, to aid our understanding of the overall potential exposure         posts from Russian foreign inﬂuence accounts. Because exposure to
+of US Twitter users, we make a back-of-the-envelope calculation of the        foreign inﬂuence accounts is concentrated among a relatively small
+number of US users potentially exposed to posts from Russian foreign          group of users (as shown in panel b of Fig. 1), we note that our estimates
+
+
+Nature Communications | (2023)14:62                                                                                                                    5
+Article                                                                                                                      https://doi.org/10.1038/s41467-022-35576-9
+
+
+                      a                Issue positions
+                                                                        log(Exposure + 1)                                       Exposure (binary)
+                                         Political ideology
+                                         (left−right scale)
+
+                                      Use of military force
+
+                                   Oppose Chinese tariffs
+                Outcome variable
+
+
+
+                                    Support for free trade
+
+                                    Ban on Muslim people
+
+                                      Expanding the ACA
+
+                                   Support for Obamacare
+
+                                           Building a wall
+
+                                              Immigration
+
+                                                              −3   −2   −1     0       1    2    3                 −20    −10          0            10   20
+                                                                                                     Coefficient
+                      b                Polarization
+
+                                                                        log(Exposure + 1)                                       Exposure (binary)
+                                         Political ideology
+                                         (left−right scale)
+
+                                      Use of military force
+
+                                   Oppose Chinese tariffs
+                Outcome variable
+
+
+
+
+                                    Support for free trade
+
+                                    Ban on Muslim people
+
+                                      Expanding the ACA
+
+                                   Support for Obamacare
+
+                                           Building a wall
+
+                                              Immigration
+
+                                                              −3   −2   −1     0       1    2    3                 −20    −10          0            10   20
+                                                                                                     Coefficient
+
+
+Fig. 4 | Regression results of exposure to Russian foreign inﬂuence accounts                    Each outcome is measured as the within-respondent change in positioning between
+and changes in issue-based and ideological positioning. Each point (with 95%                    the ﬁrst and third wave of the survey. Panel a shows changes in the relative issue
+CIs) represents an OLS-estimated association (each from a separate model)                       positions of respondents, such that movement in the positive direction represents
+between exposure to posts from Russian foreign inﬂuence accounts and political                  one favorable to Donald Trump. Panel b shows changes in perceived polarization
+ideology, and eight issue-based outcomes that are taken from questions asked in                 between Donald Trump and Hillary Clinton on each issue, such that positive values
+each wave of the survey. Two types of models are presented, with exposure coded                 indicate increases in perceived polarization during the election campaign, and
+ﬁrst as the (log exposures + 1) number of tweets from Russian foreign inﬂuence                  negative values indicate decreases in perceived polarization. n = 1496 survey
+accounts appearing in a respondents' Twitter feed (left column), and second,                    participants.
+whether at least one Russian tweet appeared in a respondents' feed (right column).
+
+
+
+in the following sections are driven by those (heavily) exposed to                              polarization. Finally, adjusting for multiple comparisons (see Sup-
+messages from these accounts. Were exposure distributed differently,                            plementary Methods G), we do not ﬁnd statistically signiﬁcant rela-
+among another set of users, the estimated relationship could well be                            tionships between exposure on any of the issue-based and
+different. It should thus be kept in mind that those exposed to foreign                         polarization outcomes.
+inﬂuence accounts were users who self-identiﬁed as highly partisan                                   Because the absence of statistically signiﬁcant results is not
+Republicans, a fact that in itself aids in contextualizing the limited scope                    necessarily strong evidence of a negligible relationship, we use
+of the Russian foreign inﬂuence campaign.                                                       equivalence testing to place bounds on the magnitude of each rela-
+     The main results are presented in Fig. 4 (see Supplementary                                tionship that can be statistically rejected27–29. We calculate bounds
+Methods F for complete output). As the ﬁgure shows, we do not ﬁnd                               for each estimate shown in Fig. 4 using Two One-Sided Tests (TOST)
+statistical evidence in support of a relationship between exposure to                           (see Supplementary Methods B). The magnitudes of the estimated
+posts from Russian foreign inﬂuence accounts and changes in                                     relationships in standardized units are near zero: 0.05 standard
+respondents’ issue positions or perceptions of polarization. This is                            deviations for changes in issue positions; 0.06 standard deviations
+the case regardless of whether exposure is measured as the (log                                 for changes in perceived polarization. For all but one of the 18 out-
+exposures + 1) number of exposures to posts from Russian foreign                                comes, equivalence testing demonstrates that the relationships are
+inﬂuence accounts or as a binary variable indicating whether a                                  not >0.2 SDs, i.e., rejecting the hypothesis that any relationship is
+respondent was exposed to at least one such post. For ideological                               >0.2 SDs of the issue outcome variable (p < 0.05 for all but one
+and issue positions, the estimated relationships are neither sig-                               outcome) (see Supplementary Methods B for details). For compar-
+niﬁcant nor in a direction consistent with one favorable toward                                 ison, this inability to detect meaningful relationships between
+Donald Trump. This result is similar for polarization. Of the two                               exposure and changes in issue positions is consistent with recent
+statistically signiﬁcant coefﬁcients across all models (representing                            large-scale ﬁeld experimental research in the US that ﬁnds near-zero
+6% of our coefﬁcients, as would be expected by chance), neither is in                           effects (β ≈ 0.01 SD) of exposure to targeted issue advertisements on
+a direction that would suggest that exposure to posts from Russian                              changes in issue positions (LGBTQ and immigration policy
+foreign inﬂuence accounts is related to an increase in perceived                                preferences)30.
+
+
+Nature Communications | (2023)14:62                                                                                                                                             6
+Article                                                                                                                                            https://doi.org/10.1038/s41467-022-35576-9
+
+                                                                            log(Exposure + 1)                                             Exposure (binary)
+
+
+                                            Vote choice
+                                (Clinton toward Trump)
+
+
+                                            Vote choice
+                                (Clinton toward Trump,
+                                3rd party, or not voting)
+
+
+                                                  Rank
+                                      (Trump > Clinton)
+
+
+                                                            −0.04   −0.02         0.00          0.02   0.04                 −0.2   −0.1          0.0          0.1   0.2
+                                                                                                              Coefficient
+
+
+
+Fig. 5 | Regression results of the relationship between exposure to posts from                         to voting for Trump, voting for a 3rd party candidate, or not voting; (−1) a shift from
+Russian foreign inﬂuence accounts and voting behavior. These panels present                            ranking Trump above Clinton to voting for Clinton, voting for a 3rd party candi-
+OLS estimates (with 95% CIs) of the relationship between exposure to tweets from                       date, or not voting; or (0) no difference between ﬁrst-wave ranked preferences and
+Russian foreign inﬂuence accounts and three vote choice outcomes. Each estimate                        for whom a respondent voted. The third row, “Rank (Trump > Clinton)” is coded as:
+is from a separate model (see Supplementary Methods E for full regression results).                    (+1) a shift from ranking Clinton preferable to Trump in the ﬁrst survey wave to
+In the ﬁrst row, the outcome “Vote choice (Clinton toward Trump),” is coded with                       preferring Trump to Clinton in the second wave; (−1) ranking Trump preferable to
+three possible values: (+1) a shift from ranking Clinton preferable to Trump in the                    Clinton in the ﬁrst wave to preferring Clinton to Trump in the second wave; or (0)
+ﬁrst wave to voting for Trump in the election; (−1) a shift from ranking Trump                         no change between survey waves. The left panel represents a coding of the variable
+preferable to Clinton to voting for Clinton; or (0) no difference between ﬁrst-wave                    of interest as the log exposures + 1 number of posts in a respondent’s Twitter feed;
+ranked preferences and vote choice in the election. The second row outcome                             the right panel, a binary variable indicating whether at least one such post appeared
+variable, “Vote choice (Clinton toward Trump, 3rd party, or not voting)” can also                      in a respondent’s feed. n = 1, 496 survey respondents.
+take 3 values: (+1) a shift from ranking Clinton above Trump in the ﬁrst survey way
+
+
+
+The relationship between exposure to Russian foreign inﬂuence                                          Supplementary Methods E1 for more details on how variables are
+accounts and voting behavior                                                                           coded). For each outcome, we code a preference for Trump as 1, and a
+We lastly turn to a key question raised by researchers, journalists, and                               preference for Clinton as 0. A positive relationship would thus suggest
+politicians regarding the relationship between exposure to Russian                                     that exposure to posts from Russian accounts is associated with a
+foreign inﬂuence accounts and vote choice in the 2016 US presidential                                  change in voting preferences or behavior favorable to Trump; a
+election. As with issue positions, we use within-subject variation in our                              negative relationship, a change in preferences or behavior favorable to
+outcomes by comparing voting preferences prior to the election                                         Clinton.
+campaign to voting preferences of those same respondents immedi-                                             To examine the relationship between exposure to Russian foreign
+ately prior to election day, and to vote choice in the election itself.                                inﬂuence accounts and vote choice, we ﬁt linear probability models
+     The ﬁrst wave of the survey took place in April 2016, before the                                  that predict within-respondent changes in vote choice between the
+Democratic and Republican presidential nominees were decided. As a                                     ﬁrst and ﬁnal wave of the survey conditional on exposure to posts from
+wave 1 measure of voting preferences, we therefore use respondents’                                    Russian foreign inﬂuence accounts. We ﬁt two models per outcome,
+rankings of the viable presidential candidates at the time to capture                                  measuring exposure as the (log exposures + 1) number of posts from
+whether a respondent preferred Clinton to Trump, or vice versa. We                                     Russian foreign inﬂuence accounts and as a binary variable capturing
+then measure how respondents ranked Clinton and Trump in the                                           whether a respondent was exposed to at least one such post during the
+survey wave immediately prior to the election, and how they voted in                                   campaign. We also ﬁt an alternative model in which the ﬁnal wave
+the election itself—a measure collected independently by YouGov                                        outcome is predicted conditional on ﬁrst wave voting preference and
+following the election (see Supplementary Methods A2 for details of                                    exposure to posts from Russian accounts, with substantively equiva-
+the survey and ﬁelding schedule). From these data, we construct three                                  lent results (Supplementary Methods E7).
+related outcomes. First, we measure changes in voting preferences by                                         Figure 5 presents the results. As estimates in the ﬁrst panel indi-
+comparing respondents’ preference between Clinton and Trump prior                                      cate, the relationship between the number of posts from Russian for-
+to the election campaign to how those respondents voted in the actual                                  eign inﬂuence accounts that users are exposed to and voting for
+election. Second, we measure changes in respondents’ voting pre-                                       Donald Trump is near zero (and not statistically signiﬁcant). This is the
+ference prior to the campaign to an equivalent survey-based measure                                    case whether the outcome is measured as vote choice in the election
+taken in the last wave of the survey (immediately prior to the election).                              itself; the ranking of Clinton and Trump on equivalent survey ques-
+Third, we capture the possible broader relationship between exposure                                   tions across survey waves; and with the broader measure capturing
+to posts from Russian foreign inﬂuence accounts and voting behavior                                    whether voting behavior more generally favored Trump or Clinton
+by examining whether exposure beneﬁted Trump more generally. To                                        through voting abstentions, changes in vote choice, or voting for a
+do so, we compare preferences for Trump over Clinton or vice versa in                                  third party. The signs on the coefﬁcients in each case are also negative,
+the ﬁrst wave of the survey to whether a respondent switched from                                      both for the count and binary measure, a result that would be incon-
+their ﬁrst-wave preference by either voting for the other candidate;                                   sistent with a relationship of exposure being favorable to Trump. It is
+voting for a 3rd-party candidate; or abstaining from voting altogether.                                also worth noting that none of the other explanatory variables (with
+We use this third measure to assess the possibility that exposure to                                   the exception of sex in some models) used as controls appear to be
+Russian foreign inﬂuence accounts is associated with disaffection from                                 statistically signiﬁcant predictors of the change in voting preferences
+the Democratic nominee in ways that could have beneﬁted the Trump                                      (see Supplementary Methods E1, E2, E3).
+campaign more generally. In sum, these measures capture vote choice                                          To place the magnitude of the relationship between exposure to
+in the election itself; survey-based candidate preferences; and a                                      Russian accounts and voting preferences on a more interpretable
+broader measure of voting behavior that measures beneﬁts to one or                                     scale, we simulate changes in voting preferences as a function of
+the other candidate.                                                                                   exposure. To do so, we simulate coefﬁcients from each of the three
+     Using these measures, we investigate whether exposure to posts                                    models presented in the ﬁrst panel of Fig. 5, and calculate the average
+from Russian foreign inﬂuence accounts is associated with changes in                                   difference between respondents’ predicted change in voting pre-
+preferences across survey waves (see caption of Fig. 5 and                                             ferences under their observed exposure to Russian foreign inﬂuence
+
+
+Nature Communications | (2023)14:62                                                                                                                                                         7
+Article                                                                                                                       https://doi.org/10.1038/s41467-022-35576-9
+
+                                    Vote choice                                          Rank                                               Vote choice
+                              (Clinton toward Trump)                                (Trump > Clinton)                                 (Clinton toward Trump,
+                                                                                                                                      3rd party, or not voting)
+
+
+
+
+                  4   3   2     1   0   1   2   3      4   5   6   7   4   3   2   1   0    1    2   3   4   5    6   7   4   3   2     1    0   1    2   3       4   5   6   7
+                                                                           %−pt change in vote choice for Trump
+
+
+Fig. 6 | Simulated change in vote choice under observed exposure to posts from                  each of the three vote preference outcomes. Vertical red lines indicates the median
+Russian accounts relative to no exposure. Simulated change in vote choice for                   prediction. Vertical black lines indicate 90% prediction intervals.
+
+
+
+accounts and that under the counterfactual of no exposure among any                             accounts was concentrated, and was conﬁned to a small group of
+respondents. Negative values indicate changes in voting preferences in                          respondents who identiﬁed themselves with the Republican Party and
+favor of Clinton; positive values, changes in favor of Trump.                                   thus those least likely to vote for Clinton irrespective of exposure to
+      Results are presented in Fig. 6. The red line in each panel indicates                     the Russian foreign inﬂuence campaign.
+the median predicted change in voting preferences. The black lines
+indicate 90% prediction intervals. As the ﬁgure shows, the median                               Discussion
+predicted change in voting preferences when comparing the predicted                             There is widespread concern among researchers, journalists, and
+change in vote for Trump under observed exposure relative to no                                 politicians that social media is being used by foreign governments to
+exposure is near zero for each outcome. For vote choice in the election                         undermine elections in democracies worldwide. However, data lim-
+itself (ﬁrst panel), for instance, the predicted change is a −0.18 per-                         itations have precluded empirical investigation into the scale, pre-
+centage point decrease in vote for Trump (90% CI: −1.15, 0.78), and                             valence, and effectiveness of these foreign inﬂuence campaigns on
+−0.4 for both the ranking based and more general vote choice mea-                               social media over the course of major election periods. In this study,
+sure. These estimates are broadly comparable to the ones reported in a                          we presented a systematic evaluation of foreign inﬂuence accounts
+large body of literature documenting minimal relationships from both                            during the 2016 US election. By linking a longitudinal survey admi-
+ofﬂine and online campaigns17 with reported results of a 0.7 percen-                            nistered over the course of the 2016 US election campaign to
+tage point change in voting choice from exposure to Facebook ads31 or                           respondents’ Twitter timelines, we provided an analysis of the relative
+watching campaign videos20. Estimates from these distinctly targeted                            scale of exposure to foreign inﬂuence campaigns as well as the
+advertisements might be thought of as an upper bound on any theo-                               potential relationships between the largest such campaign and users’
+retically achievable relationship from exposure to the Russian foreign                          issue positions, polarization, and voting behavior.
+inﬂuence campaign. Put differently, the minimal and non-signiﬁcant                                    Taking our analyses together, it would appear unlikely that the
+relationships that we observe between exposure to posts from foreign                            Russian foreign inﬂuence campaign on Twitter could have had much
+inﬂuence accounts and voting behavior are similar in magnitude to the                           more than a relatively minor inﬂuence on individual-level attitudes and
+minimal and absent relationships observed in experimental research                              voting behavior for four related reasons. First, we ﬁnd that exposure to
+on the effects of traditional ofﬂine and online campaigns18.                                    posts from Russian foreign inﬂuence accounts was concentrated
+      Given that the data are observational, we stress that the rela-                           among a small group of users, with only 1% of users accounting for 70%
+tionships that we estimate cannot be conﬁdently said to be causal.                              of all exposures. Second, exposure to Russian foreign inﬂuence tweets
+However, as a descriptive exercise, we compare the observed rela-                               was overshadowed by the amount of exposure to traditional news
+tionships between exposure to Russian foreign inﬂuence accounts and                             media and US political candidates. Third, respondents with the highest
+the election results. In panel a of Fig. 6 the results show that the pre-                       levels of exposure to posts from Russian foreign inﬂuence accounts
+dicted change in vote for Trump was <0.7% points in 95% of the                                  were those arguably least likely to need inﬂuencing: those who iden-
+simulations when comparing observed exposure to the counterfactual                              tiﬁed themselves as highly partisan Republicans, who were already
+of no exposure to Russian foreign inﬂuence accounts. By comparison,                             likely favorable to Donald Trump. Fourth, we did not detect any
+the closest margin of victory for Trump, in Wisconsin, was 0.77 per-                            meaningful relationships between exposure to posts from Russian
+centage points, with Clinton also having needed to win multiple states                          foreign inﬂuence accounts and changes in respondents’ attitudes on
+with larger vote margins. We note that the intervals presented in Fig. 6                        the issues, political polarization, or voting behavior. Each of these
+also represent 95% two one-sided test intervals27,32, such that using Two                       ﬁndings is not independently dispositive. Jointly, however, we ﬁnd
+One-Sided Tests for equivalence testing will reject relationships                               concordant evidence between exposure to Russian disinformation—
+between exposure to foreign inﬂuence accounts and changes in vote                               which is both lower and more concentrated than one might expect to
+choice that are greater than these bounds. Substantively, we note                               be impactful—and the absence of a relationship to changes in attitudes
+further that such minimal relationships are also consistent with causal                         and voting behavior.
+evidence from a meta-analysis on the effects of targeted campaign                                     Nevertheless, despite these consistent ﬁndings, it would be a
+advertising on vote choice20, in which the authors ﬁnd a null effect with                       mistake to conclude that simply because the Russian foreign inﬂuence
+a point estimate of 0.7 percentage points. Triangulating our results,                           campaign on Twitter was not meaningfully related to individual-level
+the absence of meaningful relationships between exposure to Russian                             attitudes that other aspects of the campaign did not have any impact
+foreign inﬂuence accounts and voting behavior is also consistent with                           on the election, or on faith in American electoral integrity. Importantly,
+the evidence presented earlier that exposure to these foreign inﬂuence                          the scope of our research is limited to the Russian foreign inﬂuence
+
+
+Nature Communications | (2023)14:62                                                                                                                                               8
+Article                                                                                               https://doi.org/10.1038/s41467-022-35576-9
+
+
+campaign on Twitter. We also restrict our analysis to social media posts    “exposures”. This is a limitation to the extent that although we can
+and thus cannot examine relationships from any potential sharing of         observe potential exposures (that is, tweets and retweets by
+other media content (e.g., images and videos) more generally. This          accounts that a given users follows), we cannot know which tweets in
+research thus does not speak to the impact of similar campaigns on          their timelines users actually saw. However, examining potential
+other social media platforms, nor to the possibility of foreign election    exposures is currently the best practicable means to study the Rus-
+interference via other channels, such as hacking or phishing schemes        sian foreign inﬂuence campaign—the most high-proﬁle such cam-
+that were allegedly designed to surface information unfavorable to          paign in recent history.
+political opponents at opportune moments10.                                      We also note a few other potential limitations of our data. First,
+      Finally, while our evidence points to the absence of a relationship   because we rely on Twitter’s identiﬁcation of foreign inﬂuence
+between exposure to social media posts from Russian foreign inﬂu-           campaign accounts, we cannot independently validate the identiﬁ-
+ence accounts and individual-level outcomes, foreign inﬂuence cam-          cation process, which has not been detailed publicly by Twitter.
+paigns may also succeed through second-order effects: those effects         However, the company has actively sought to identity, remove, and
+that are achieved by provoking a domestic reaction to the intervention      make public the accounts associated with foreign inﬂuence cam-
+itself33. Indeed, debate about the 2016 US election continues to raise      paigns, which have since been successfully used in research that
+questions about the legitimacy of the Trump presidency and to               examines the behavior of accounts associated with these
+engender mistrust in the electoral system, which in turn may be related     campaigns7,8,13. Second, although the survey panel data allow us to
+to American’s willingness to accept claims of voter fraud in the 2020       examine changes in political attitudes and preferences over time in
+election. Such beliefs appear to stem in large part from speculation        response to exposure to Internet Research Agency tweets, the data
+that Russian interference—whether on social media or through other          do not approximate those from an ideal-case randomized experi-
+channels—inﬂuenced the election outcome34–36. In a word, Russia’s           ment. Instead, given the obvious temporal, ethical, and legal con-
+foreign inﬂuence campaign on social media may have had its largest          straints of randomly assigning posts from a foreign inﬂuence
+effects by convincing Americans that its campaign was successful37.         campaign to US social media users during an election campaign, the
+Our results thus provide a corrective to the view that the foreign          data represent a near best-case observational design. However,
+inﬂuence campaign and those like it can easily manipulate the atti-         because the data are observational (not experimental), whether and
+tudes and voting behavior of ordinary social media users. Foreign           how much a user is exposed to posts from Russian foreign inﬂuence
+actors may nevertheless adapt their behavior on social media to have        accounts is not random. Foreign actors can be presumed, for
+meaningful effects, and political contexts may become more con-             example, to know their target audience and thus aim to maximize
+ducive to foreign inﬂuence campaigns. This warrants that our results        their inﬂuence by directing information toward certain users. The
+be taken with caution when assessing future foreign inﬂuence cam-           content of posts shared by Russia-sponsored accounts may also
+paigns on social media.                                                     affect who is exposed to the extent that respondents may follow
+                                                                            certain types of users who are amenable to the type of content
+Methods                                                                     shared by foreign inﬂuence campaigns. For example, recent studies
+Our empirical investigation of exposure to social media posts from          have examined whether users interacted with Internet Research
+foreign inﬂuence campaigns is motivated by recent research on these         Agency accounts themselves12,14, and foreign inﬂuence accounts have
+campaigns12, and relies on a three-wave longitudinal survey of US           been shown to post information regarding speciﬁc political concerns
+respondents that was conducted by YouGov, a major public opinion            (such as electoral fraud, or anti-establishment or racial issues7,13) that
+research ﬁrm. The survey data contain responses from 1496 US                might drive some to be more exposed than others. Two aspects of
+respondents who consented both to provide their Twitter account             the data help minimize these problems. First, because the survey
+information for research purposes and to answer questions con-              data are panel data, we can model the relationship between exposure
+cerning their political attitudes and beliefs at multiple points during     to posts from Internet Research Agency accounts and our outcomes
+the 2016 US election campaign (Twitter-linked survey data collection        of interest by using within-respondent variation in political attitudes,
+was approved by NYU IRB 12-9058). The ﬁrst wave of the survey was           polarization, and vote preferences and behavior. We can thus
+sent in April 2016; the last wave, immediately prior to the election at     account for time-invariant characteristics of survey respondents that
+the end of October, 2016. Respondents were also recontacted after           would result in different levels of exposure. Second, concerns about
+the election and asked to indicate whether they voted and, if so, for       selection would be strongest for social media users who choose to
+whom. The composition of survey respondents is approximately                follow foreign state-sponsored accounts on Twitter. As we discuss in
+representative of the demographic proﬁle of the US voting-age               our results, most exposures to social media posts from Internet
+public (see Supplementary Table A2 in which we also compare our             Research Agency accounts was indirect, either through retweets or
+sample characteristics to estimates of the Twitter population pub-          quote tweets from other ordinary users. Exposure, in other words,
+lished by the Pew Research Center). The survey instrument was               was primarily incidental. This does not, however, mean that exposure
+designed to capture standard socio-demographic characteristics;             is as-if randomly assigned to users. Even if users are exposed pri-
+attitudes toward a variety of election issues; and preferences over the     marily incidentally, the choice to follow accounts that share parti-
+political candidates in multiple survey waves. To capture the tweets        cular types of content will not itself be made at random. In our
+that would appear in respondents’ Twitter timelines during the              regression analyses, we nevertheless test the robustness of our
+election campaign, we collected the list of users whom respondents          results to measuring exposure in three related ways: by the number
+followed on Twitter, and retrieved all posts from these users that          of posts users were exposed to during the 2016 election campaign;
+were sent in the eight months prior to election day (see Supple-            by whether users were exposed to at least one post from a Russian
+mentary Methods A4 for further details). In aggregate, these tweets         Internet Research Agency account; and by whether a user followed at
+constitute 1.2 billion social media posts across all respondents.           least one such foreign inﬂuence account (the last of which we detail
+Finally, we use data released by Twitter to identify the posts in survey    in the Supplementary Methods E4). Our results are effectively
+respondents’ timelines that originated from the foreign inﬂuence            equivalent for each of these three measures of exposure. In conclu-
+campaigns that were active in the lead-up to the 2016 US election           sion, we discuss the importance of triangulating the descriptive and
+(see Supplementary Methods A1 for more details on Twitter data              regression-based results to arrive at a more complete picture of the
+releases). Following similar studies21, we refer to tweets that survey      role of the Russian inﬂuence campaign during the 2016 US pre-
+respondents were potentially exposed to in their timelines as their         sidential election.
+
+
+Nature Communications | (2023)14:62                                                                                                                 9
+Article                                                                                                   https://doi.org/10.1038/s41467-022-35576-9
+
+
+Software                                                                        14. Zhang, Y. et al. Assembling the networks and audiences of disin-
+To conduct the empirical analysis, we used R38 and Python39 pro-                    formation: how successful russianira twitter accounts built their
+gramming languages, and the following R and Python libraries:                       followings, 2015–2017. J. Commun. 72, 305–331 (2021).
+cowplot40, data.table41, dplyr42, estimatr43, fasttime44, ggplot245, haven46,   15. Stretch, C. Testimony of Colin Stretch to the United States Senate
+kableExtra47, knitr48, lmtest49, lubridate50, magrittr51, MASS52, mvtnorm53,        Committee on the Judiciary, Subcommittee on Crime and Terror-
+numpy54, pandas55,56, readr57, sandwich58,59,stargazer60, stringi61,                ism. Hearing Before the United States Senate Committee on the
+stringr62, tibble63, and tidyr64.                                                   Judiciary Subcommittee on Crime and Terrorism, October 31 (2017).
+                                                                                16. U.S. Senate Select Committee on Intelligence Senate Hearing 115-
+Reporting summary                                                                   40, Part 2. U.S. Government Publishing Ofﬁce, March 30 (2017).
+Further information on research design is available in the Nature               17. Kalla, J. L. & Broockman, D. E. The minimal persuasive effects of
+Portfolio Reporting Summary linked to this article.                                 campaign contact in general elections: evidence from 49 ﬁeld
+                                                                                    experiments. Am. Political Sci. Rev. 112, 148–166 (2018).
+Data availability                                                               18. Nickerson, D. W. & Rogers, T. C. Science 369, 1181–1182 (2020).
+The authors have deposited computer code and minimal datasets                   19. Selb, P. & Munzert, S. Examining a Most Likely Case for Strong
+(survey responses and aggregated exposure data) required to replicate               Campaign Effects: Hitler’s Speeches and the Rise of the Nazi Party,
+the methods used in this paper in a GitHub repository located at:                   1927-1933. Am. Political Sci. Rev. 112, 1050–1066 (2018).
+https://github.com/tpaskhalis/ncomms_russia_us_201665. All other                20. Coppock, A., Hill, S. J. and Vavreck, L. The small effects of political
+relevant data are available upon reasonable request to the authors. Full            advertising are small regardless of context, message, sender, or
+data are not publicly available due to terms of data license agreement              receiver: evidence from 59 real-time randomized experiments. Sci.
+signed with Twitter, Inc. and survey data containing information that               Adv. 6, eabc4046 (2020).
+could compromise research participant privacy. Source data are pro-             21. Grinberg, N., Joseph, K., Friedland, L., Swire-Thompson, B. & Lazer,
+vided with this paper.                                                              D. Fake news on Twitter during the 2016 U.S. presidential election.
+                                                                                    Science 363, 374–378 (2019).
+Code availability                                                               22. Guess, A., Nyhan, B. & Reiﬂer, J. Exposure to untrustworthy websites
+The code supporting this study is available at the following public                 in the 2016 US election. Nat. Hum. Behav. 4, 472–480 (2020).
+GitHub repository: https://github.com/tpaskhalis/ncomms_russia_us_              23. Edgett, S. J. Testimony of Sean J. Edgett to the United States Senate
+201665.                                                                             Committee on the Judiciary, Subcommittee on Crime and Terror-
+                                                                                    ism. Hearing Before the United States Senate Committee on the
+References                                                                          Judiciary Subcommittee on Crime and Terrorism, October 31 (2017).
+1.  Diamond, L. Liberation technology. J. Democracy 21, 69–83 (2010).           24. Twitter Update on Twitter’s Review of the 2016 US Election. Blog
+2.  Tucker, J. A., Theocharis, Y., Roberts, M. E. & Barberá, P. From lib-           post, January 31 (2018).
+    eration to turmoil: social media and democracy. J. Democracy 28,            25. Greenwood, S., Perrin, A. & Duggan, M. Social Media Update 2016.
+    46–59 (2017).                                                                   Pew Research Center (2016).
+3. US Senate Report of the Select Committee on Intelligence United              26. United States Census Bureau Age and Sex Composition in the
+    States Senate on Russian Active Measures Campaigns and Inter-                   United States: 2016. Technical report (2016).
+    ference in the 2016 U.S. Election, Volume 2: Russia’s Use of Social         27. Rainey, C. Arguing for a negligible effect.Am. J. Political Sci. 58,
+    Media with Additional Views (2019).                                             1083–1091 (2014).
+4. MacFarquhar, N. Inside the Russian troll factory: Zombies and a              28. Hartman, E. & Hidalgo, F. D. An equivalence approach to balance
+    breakneck pace. New York Times (18 Feburary 2018).                              and placebo tests. Am. J. Pol. Sci. 62, 1000–1013 (2018).
+5. Mueller, R. S. Report On The Investigation Into Russian Interference         29. Lakens, D. Equivalence tests: a practical primer for t tests, correla-
+    In The 2016 Presidential Election (U.S. Department of Justice,                  tions, and meta-analyses. Soc. Psychol. Personal. Sci. 8,
+    Washington, DC, 2019).                                                          355–362 (2017).
+6. DiResta, R. et al. The Tactics & Tropes of the Internet Research             30. Kalla, J. L. & Broockman, D. E. "Outside lobbying” over the airwaves:
+    Agency. Technical report, New Knowledge (2019).                                 a randomized ﬁeld experiment on televised issue ads. Am. Pol. Sci.
+7. Linvill, D. L. & Warren, P. L. Troll factories: manufacturing specia-            Rev. 116, 1126–1132 (2022).
+    lized disinformation on Twitter. Political Commun. 37,                      31. Broockman, D. E. & Green, D. P. Do online advertisements increase
+    447–467 (2020).                                                                 political candidates’ name recognition or favorability? Evidence
+8. Lukito, J. Coordinating a multi-platform disinformation campaign:                from randomized ﬁeld experiments. Political Behav. 36,
+    internet research agency activity on three U.S. social media plat-              263–289 (2014).
+    forms, 2015 to 2017. Political Commun. 37, 238–255 (2020).                  32. Berger, R. L. & Hsu, J. C. Bioequivalence trials, intersection-union
+9. Frenkel, S. & Barnes, J. E. Russian again targeting Americans with               tests and equivalence conﬁdence sets. Stat. Sci. 11, 283–319 (1996).
+    disinformation, Facebook and Twitter say. New York Times (14                33. Benkler, Y., Faris, R. & Roberts, H. Network Propaganda: Manipula-
+    September, 2020).                                                               tion, Disinformation, and Radicalization in American Politics (Oxford
+10. Jamieson, K. H. Cyberwar: How Russian Hackers and Trolls Helped                 University Press, New York, NY, 2018).
+    Elect a President: What We Don’t, Can’t, and Do Know (Oxford Uni-           34. Heffernan, V. Was the 2016 Election Legitimate? It’s Now Deﬁnitely
+    versity Press, 2018).                                                           Worth Asking the Question. Los Angeles Times (28 July, 2018).
+11. Aral, S. & Eckles, D. Protecting elections from social media manip-         35. Sanchez, J. Russia wanted Trump to win. And it wanted to get
+    ulation. Science 365, 858–861 (2019).                                           caught. New York Times (17 February, 2018).
+12. Bail, C. A. et al. Assessing the Russian Internet Research Agency’s         36. Flanders, C. Was the 2016 election legitimate? St. Louis Univ. Law J.
+    impact on the political attitudes and behaviors of American Twitter             64, 635–652 (2020).
+    users in late 2017. Proc. Natl Acad. Sci. USA 117, 243–250 (2020).          37. Nakashima, E. Overstating the foreign threat to elections poses its
+13. Golovchenko, Y., Buntain, C., Eady, G., Brown, M. A. & Tucker, J. A.            own risks, U.S. ofﬁcials and experts say. Washington Post (29
+    Cross-Platform State Propaganda: Russian Trolls on Twitter and                  October, 2020).
+    YouTube during the 2016 U.S. Presidential Election. Int. J. Press/          38. Ihaka, R. & Gentleman, R. R: a language for data analysis and gra-
+    Politics 25, 357–389 (2020).                                                    phics. J. Comput. Graph. Stat. 5, 299–314 (1996).
+
+
+Nature Communications | (2023)14:62                                                                                                                     10
+Article                                                                                                https://doi.org/10.1038/s41467-022-35576-9
+
+
+39. Van Rossum, G. & Drake, F. L. Python 3 Reference Manual (Create-             the 2016 US Election and its Relationship to Attitudes and Voting
+    Space, Scotts Valley, CA, 2009).                                             Behavior’ (2022).
+40. Wilke, C. O. cowplot: Streamlined Plot Theme and Plot Annotations
+    for ’ggplot2’. R package version 1.1.0 (2020).                          Acknowledgements
+41. Dowle, M. & Srinivasan, A. data.table: Extension of ‘data.frame‘. R     We thank members of the Aarhus Research on Online Political Hostility
+    package version 1.14.2 (2021).                                          project for their comments and suggestions. The Center for Social Media
+42. Wickham, H., François, R., Henry, L. & Müller, K. dplyr: A Grammar of   and Politics at New York University is generously supported by funding
+    Data Manipulation. R package version 1.0.2 (2020).                      from the National Science Foundation, the John S. and James L. Knight
+43. Blair, G., Cooper, J., Coppock, A., Humphreys, M. & Sonnet, L.          Foundation, the Charles Koch Foundation, the Bill and Melinda Gates
+    estimatr: Fast Estimators for Design-Based Inference. https://          Foundation, the Hewlett Foundation, Craig Newmark Philanthropies, the
+    declaredesign.org/r/estimatr/, https://github.com/DeclareDesign/        Siegel Family Endowment, and NYU’s Ofﬁce of the Provost. This work
+    estimatr (2021).                                                        was supported in part through the NYU IT High Performance Computing
+44. Urbanek, S. fasttime: Fast Utility Function for Time Parsing and        resources, services, and staff expertise.
+    Conversion. R package version 1.0-3 (2018).
+45. Wickham, H. ggplot2: Elegant Graphics for Data Analysis. Springer-      Author contributions
+    Verlag New York (2016).                                                 G.E., T.P., and J.T. designed the research, J.N., J.T., and R.B. designed the
+46. Wickham, H. & Miller, E. haven: Import and Export ’SPSS’, ’Stata’ and   survey, G.E. and T.P. prepared the data for analysis, T.P. accessed the
+    ’SAS’ Files. R package version 2.3.1 (2020).                            data on foreign inﬂuence accounts from the Election Integrity collection
+47. Zhu, H. kableExtra: Construct Complex Table with ’kable’ and Pipe       provided by Twitter, G.E., T.P., and J.Z. analyzed the data, G.E. and T.P.
+    Syntax. R package version 1.2.1 (2020).                                 wrote the ﬁrst draft of the paper, and all of the authors contributed to
+48. Xie, Y. knitr: A General-Purpose Package for Dynamic Report Gen-        revising the manuscript.
+    eration in R. R package version 1.29 (2020).
+49. Zeileis, A. & Hothorn, T. Diagnostic checking in regression rela-       Competing interests
+    tionships. R. N. 2, 7–10 (2002).                                        The authors declare no competing interests.
+50. Grolemund, G. & Wickham, H. Dates and times made easy with
+    lubridate. J. Stat. Softw. 40, 1–25 (2011).                             Additional information
+51. Bache, S. M. & Wickham, H. magrittr: A Forward-Pipe Operator for R.     Supplementary information The online version contains
+    R package version 1.5 (2014).                                           supplementary material available at
+52. Venables, W. N. & Ripley, B. D. Modern Applied Statistics with S, 4th   https://doi.org/10.1038/s41467-022-35576-9.
+    edn. (Springer, 2002).
+53. Genz, A. & Bretz, F. Computation of Multivariate Normal and t           Correspondence and requests for materials should be addressed to
+    Probabilities. Lecture Notes in Statistics (Springer-Verlag, 2009).     Gregory Eady or Tom Paskhalis.
+54. Harris, C. R. et al. Array programming with NumPy. Nature 585,
+    357–362 (2020).                                                         Peer review information Nature Communications thanks Dean Eckles
+55. McKinney, W. Data Structures for Statistical Computing in Python.       and the other, anonymous, reviewer(s) for their contribution to the peer
+    In (Eds.), Proc. 9th Python in Science Conference (eds van der Walt,    review of this work. Peer reviewer reports are available.
+    S. & Millman, J.) 56–61 (2010).
+56. Reback, J. et al. pandas-dev/pandas: Pandas 1.2.0 (Decem-               Reprints and permissions information is available at
+    ber, 2020).                                                             http://www.nature.com/reprints
+57. Wickham, H., Hester, J. & Francois, R. readr: Read Rectangular Text
+    Data. R package version 1.3.1 (2018).                                   Publisher’s note Springer Nature remains neutral with regard to jur-
+58. Zeileis, A. Econometric computing with HC and HAC covariance            isdictional claims in published maps and institutional afﬁliations.
+    matrix estimators. J. Stat. Softw. 11, 1–17 (2004).
+59. Zeileis, A., Köll, S. & Graham, N. Various versatile variances: an      Open Access This article is licensed under a Creative Commons
+    object-oriented implementation of clustered covariances in R. J.        Attribution 4.0 International License, which permits use, sharing,
+    Stat. Softw. 95, 1–36 (2020).                                           adaptation, distribution and reproduction in any medium or format, as
+60. Hlavac, M. stargazer: Well-Formatted Regression and Summary             long as you give appropriate credit to the original author(s) and the
+    Statistics Tables. Bratislava, Slovakia: Central European Labour        source, provide a link to the Creative Commons license, and indicate if
+    Studies Institute (CELSI). R package version 5.2.2 (2018).              changes were made. The images or other third party material in this
+61. Gagolewski, M. R package stringi: Character string processing           article are included in the article’s Creative Commons license, unless
+    facilities (2018).                                                      indicated otherwise in a credit line to the material. If material is not
+62. Wickham, H. stringr: Simple, Consistent Wrappers for Common             included in the article’s Creative Commons license and your intended
+    String Operations. R package version 1.4.0 (2019).                      use is not permitted by statutory regulation or exceeds the permitted
+63. Müller, K. & Wickham, H. tibble: Simple Data Frames. R package          use, you will need to obtain permission directly from the copyright
+    version 1.4.2 (2018).                                                   holder. To view a copy of this license, visit http://creativecommons.org/
+64. Wickham, H. tidyr: Tidy Messy Data. R package version 1.1.2 (2020).     licenses/by/4.0/.
+65. Eady, G. et al. Replication Materials for ’Exposure to the Russian
+    Internet Research Agency Foreign Inﬂuence Campaign on Twitter in        © The Author(s) 2023
+
+
+
+
+Nature Communications | (2023)14:62                                                                                                                   11
+

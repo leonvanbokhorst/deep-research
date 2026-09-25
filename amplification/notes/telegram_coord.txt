@@ -1,0 +1,223 @@
+Large-scale detection of multilingual coordinated activity on Telegram | npj Complexity
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+and JavaScript.
+Advertisement
+Large-scale detection of multilingual coordinated activity on Telegram
+Download PDF
+Download PDF
+Abstract
+By committing to user privacy, resisting collaboration with law enforcement, and maintaining minimal moderation, Telegram has become a haven for extreme opinions and a fertile ground for information operations (IOs). In this study, we analyzed over four million political messages in English and Russian shared on Telegram around the 2024 U.S. Presidential Election, a period of intensified political activity worldwide, to uncover orchestrated IOs. Our multilingual investigations, based on coordinated inauthentic behavior (CIB) detection techniques and Telegram-specific analytics, uncovered five IOs tied to diverse political interests across the globe, including a Russia-backed influence campaign and a pro-Palestine fully automated amplification network. These findings underscore the need for stronger policies to detect and moderate coordinated inauthentic behavior on Telegram and better safeguard its organic discourse.
+Similar content being viewed by others
+How U.S. Presidential elections strengthen global hate networks
+Article
+Open access
+29 October 2024
+Tone in politics is not systematically related to macro trends, ideology, or experience
+Article
+Open access
+08 February 2024
+How analysis of mobile app reviews problematises linguistic approaches to internet troll detection
+Article
+Open access
+18 November 2021
+Explore related subjects
+Discover the latest articles and news in related subjects.
+Cultural and media studies
+Mathematics and computing
+Politics and international relations
+Science, technology and society
+Introduction
+For long, Telegram has resisted collaboration with law enforcement, maintained minimal moderation, and promised users that their privacy is paramount. This, along with Telegram’s distinct chat and channel architecture, where users join standalone social hubs, has fomented the formation of secluded communities in which extremist conversations are not uncommon. Prior research has identified Telegram’s central role in political mobilization 1 , disinformation 2 , and propaganda 3 , with the most infamous Telegram incident being the January 6 United States Capitol Attack 4 . These and other similar harmful situations have one common denominator: they can leverage coordinated and automated systems to amplify their outreach and harm through orchestrated information operations (IOs) 5 . Moreover, given that previous studies have demonstrated the presence of coordinated activity and extreme polarization during electoral times and major geopolitical events 1 , 6 , 7 , 8 , 9 , 10 , Telegram merits a thorough examination of the IOs inhabiting it during one of the most significant elections in recent times, the 2024 U.S. Presidential Election.
+In this study, we analyze over four million political Telegram messages in English and Russian shared between September 1 and November 30, 2024. We leverage an existing Telegram dataset on the 2024 U.S. Presidential Election 11 , extract the political messages sent during the study period, and use them to construct similarity networks, building upon state of the art IO detection tools 12 , 13 .
+As part of our findings, we identified five monolingual and cross-lingual IOs that persistently promoted polarized narratives through automated messaging and coordinated activity. These IOs reflected a wide range of political interests across global contexts and were uncovered using highly stringent criteria, including exact message duplication and simultaneous posting. We uncovered sustained, multilingual coordination that linked key narratives across channels targeting different audiences. These included messaging around Gaza resistance, pro-Russian framing, and localized anti-establishment themes. Many posts appeared within 0–5 s of one another across distinct channels, often involving a mix of verified broadcast accounts and smaller, seemingly organic participants. This pattern suggests the presence of highly organized campaigns that strategically integrate both prominent and peripheral actors to amplify their reach over time and across the broad Telegram environment.
+The rigor of our detection method, combined with the prevalence of such patterns, provides strong evidence of coordinated inauthentic behavior in political discourse on Telegram. These results highlight the urgent need for more effective policies to detect and moderate coordinated activity on the platform, in order to better protect the integrity of organic public conversations.
+Results
+By analyzing 4,097,589 political messages in English and Russian shared across 6503 Telegram channels between September 1 and November 30, 2024, we found that automation is a key strategy used on Telegram to artificially amplify content in orchestrated campaigns. As shown in Figs. 1 and 2 , similar or identical political messages, both monolingual and cross-lingual, are frequently disseminated simultaneously across different Telegram channels. We also observed notable peaks in message duplication occurring exactly 24 h apart. This pattern may suggest the presence of IOs deploying the same or slightly modified messages over time, potentially indicating that multiple actors engage in coordinated activity based on similar temporal routines. Our investigations revealed several networks of coordinated and automated accounts that frequently shared polarized political narratives—a key characteristic of IOs 9 , 12 , 14 . In the following sections, we describe the five most significant IOs identified through our IO detection model.
+Fig. 1: Distributions of the cosine similarity between similar (0.7≤  x < 0.99) and identical (0.99 ≤  x ) monolingual political message pairs and their posting time differences. Full size image
+The sharp peak of identical messages sent simultaneously (0-s difference) strongly suggests automated behavior. For similar message pairs, peaks occur both at 0 seconds and around 86,400 seconds (24 h), potentially indicating either the repeated dissemination of slightly altered messages or multiple actors operating on a shared temporal routine.
+Fig. 2: Distributions of the cosine similarity between similar (0.7 ≤  x  < 0.90) and identical (0.90 ≤  x ) English–Russian political message pairs and their posting time differences. Full size image
+The sharp peak of identical messages sent simultaneously (0-s difference) strongly suggests automated behavior. For similar message pairs, peaks occur both at 0 s and around 86,400 s (24 h), potentially indicating either the repeated dissemination of slightly altered messages or multiple actors operating on a shared temporal routine. Note that the similarity ranges are empirically validated to capture translations and near-translations.
+Russia-backed IO
+One of the most conspicuous and organized operations we identified involved the amplification of pro-Russia content for both Russian and international audiences. This campaign involved at least 23 broadcast channels claiming to represent official Russian embassies-many of which were verified ( https://telegram.org/verify ). This operation, based on our manual examination and topic analysis, focused on promoting pro-Russia, pro-Iran, and pro-Palestine content, alongside neutral-to-negative coverage of the U.S., Israel, Ukraine, Europe, and other Western countries. Notably, most of these channels (15 accounts, circa 65% of these embassy channel accounts) were created within 4 days of Russia’s invasion of Ukraine on February 24, 2022, demonstrating a deliberate and reactive effort to shape the conflict’s narrative. An example of a message broadcasted across multiple channels is shown below:
+We uncovered this operation by analyzing the sharing of identical messages in the aforementioned set of 23 channels, which had closely aligned creation dates, and by constructing text similarity networks in line with methodologies established in prior work 12 , 13 , 15 . The resulting coordinated network, comprising 10 embassy accounts and 22 non-embassy broadcast channel accounts, is illustrated in Fig. 3 .
+Fig. 3 Full size image
+Text similarity network of the Russia-backed IO composed of 10 Russian embassy accounts and 22 other channels repeatedly sharing identical messages.
+Some of the accounts in the coordinated network included verified channels affiliated with Russian institutions, such as MFARussia , MID_Russia , news_kremlin_eng , and MariaVladimirovnaZakharova , while a significant fraction (14 accounts, circa 44% of the network) did not explicitly claim any affiliation with Russia. However, the repeated sharing of identical messages across multiple channels indicates an orchestrated effort to disseminate pro-Russia narratives.
+Pro-Palestine and pro-Yemen extremism
+The largest and second-largest strongly coordinated IOs we identified were related to the armed conflicts in Gaza and Yemen, respectively. These campaigns, based on our explorations and topic analysis, promoted anti-U.S., anti-Israel, religious, martyrdom, survival, and war-related narratives, primarily in English and Arabic.
+We discuss these two IOs together, as both operations employed remarkably similar language, tone, narratives, and automation techniques. In the Palestine case, two user accounts and 19 broadcast channels disseminated identical content, while the Yemen case involved 11 broadcast channels often sharing posts in perfect synchrony, with no observable delay between posting times. Figure 4 shows these two distinct coordinated networks, while below is a representative message shared simultaneously by several channels in the pro-Palestine network:
+Fig. 4 Full size image
+Pro-Palestine and pro-Yemen coordinated networks with examples of amplified, untranslated messages.
+Irish populist network
+We identified a network of 26 non-broadcast channels created within a 3-day window, all featuring identical profile pictures, similar descriptions, and usernames referencing Irish regions, as illustrated in Fig. 5 . Based on our manual examination and topic analysis, this non-broadcast network disseminated nationalist, populist, and conspiratorial content, and promoted local community projects such as infrastructure development initiatives. In addition, based on our automation analyses and manual examination of several participant profiles and their activity, this network appeared to consist mostly of organic participants. However, two automated user accounts within the network propagated large volumes of nationalist, anti-immigration, anti-establishment, and conspiracy narratives, as illustrated in the excerpt below.
+Fig. 5 Full size image
+Examples of similar profiles in the Irish populist network.
+Although this IO did not directly attempt to mobilize users for in-person activities, it may have facilitated such efforts by creating non-broadcast environments that functioned as echo chambers, where organic users engaged in many-to-many communication and coordinated channel administrators participated in or led discussions. This latent and prevalent dynamic may have enabled organic users, unaffiliated with any uncovered IO, to organize grassroots activities, as illustrated in the excerpt below.
+These findings may indicate that this campaign relied on numerous non-broadcast environments to host and lead organic user conversations, and on coordinated, automated user accounts to incentivize and foster call-to-action content and facilitate organic grassroots organizing, ultimately aiming to mobilize like-minded individuals across Ireland.
+Russian war propaganda
+Similarly, by investigating English–Russian message pairs that were either identical or near-identical translations and shared with no delay between postings, we uncovered a tightly coordinated, highly automated network of five broadcast channels that disseminated Russian war propaganda, as portrayed in Fig. 6 . This influence operation, set against the backdrop of the ongoing Russian-Ukrainian conflict, is marked by the promotion of pro-Russia narratives—amplifying glorified war updates, omitting or downplaying Russian military losses, sharing neutral-to-negative coverage of the U.S. and Western countries, and dehumanizing or mocking Ukrainian citizens.
+Fig. 6: Examples of cross-lingual, simultaneous, and identical message pairs disseminated within the Russian war propaganda network. Full size image
+Red arrows connect the matched pairs.
+Notably, as illustrated in the quote below, several English messages were poorly translated from their Russian originals, which featured correct grammar according to a native Russian speaker. This suggests that the operators behind this campaign were not fluent English speakers.
+In addition, the broadcast channel llordofwar is not only present in this IO but also in the Russia-backed operation. However, while this channel appears to sympathize with and has disseminated copies of the content distributed by the Russia-backed IO, these operations distributed different content, employed different language, and appeared to have different objectives. Namely, the previously discussed Russia-backed IO demonstrated key characteristics of an influence campaign, such as the use of verified channels, formal language, and localized messaging. This IO, by contrast, functioned as a propaganda machine, drawing on alarmist military claims, sensational social policy rumors, misinformation and conspiracy narratives, aggrandizement of Russian wartime successes, and selective framings of political and wartime developments that portrayed Russia as morally superior to Western states and Ukraine. Similar Telegram campaigns, in the context of the Russo-Ukrainian War, have previously been cataloged as Russian propaganda 3 .
+White supremacist network
+Similar to the previously described Irish populist network, we identified a cluster of 69 channels, all featuring similar profile pictures (if any), descriptions, and usernames beginning with WLM_, the acronym for the White Lives Matter movement (see Fig. 7 ). Likewise, our automation analyses and manual examination of participant profiles and their activity suggested that this network appeared to consist mostly of organic participants.
+Fig. 7 Full size image
+Examples of similar profiles in the white supremacist network.
+Of these 69 channels, a significant fraction (38 channels, circa 55% of the network) were created within a 6-day time window. In addition, 62 channels were named after geographic regions around the world, including 5 broadcast and 12 non-broadcast channels in Europe, 1 broadcast and 1 non-broadcast channel in Russia, 12 non-broadcast and 29 broadcast channels in the U.S., and 2 broadcast channels in Canada.
+Within this network, both users and administrators frequently disseminated white supremacist content, including material that dehumanized immigrants of color, as exemplified in the excerpt below.
+Of particular concern was the persistent reference to an internal, message-based vetting system that used user accounts to grant select individuals access to localized or general private social circles, presumably functioning as ideological fortresses and echo chambers. Notably, we identified a California-based account, WLM_CA_Vet , and a global coordination account, wlmcontactbot , both referred to as gatekeepers of these private circles. Moreover, we observed channel administrators distributing many messages promoting wlmcontactbot throughout most of the network (64 channels, circa 93% of the graph). In one specific instance, a message originally shared by WLMOfficial14 was propagated to 34 other channels within 40 s, reaching 2 non-broadcast and 4 broadcast channels referencing European regions, 1 broadcast and 1 non-broadcast channel linked to Russia, 8 broadcast and 18 non-broadcast channels associated with the U.S., and 1 broadcast channel linked to Canada. The message urged readers worldwide to vote in support of white nationalist interests and to disseminate propaganda ahead of various electoral events, as illustrated in the excerpt below.
+Combined, these situations evidence that most, if not all, of these 69 channels were created and controlled by the same actor, who relied on automation and coordination to execute a transnational IO that, akin to the Irish populist network, intended to recruit, retain, and mobilize users in many different countries.
+Methods
+Our methods included state-of-the-art IO detection techniques, such as temporal analyses and similarity networks of social media posts 9 , 10 , 12 , 14 , 16 , 17 , and leveraged Telegram’s rich metadata to conduct platform-specific analyses.
+Dataset
+Our dataset included the textual content and metadata of Telegram messages sent between September 1 and November 30, 2024—a period selected for its relevance to detecting IOs, as it aligns with the lead-up to and aftermath of the 2024 U.S. Presidential Election. These entries were sourced from an existing dataset, which was collected through the Telegram API and used a list of keywords related to the 2024 U.S. Presidential Election to discover and recursively scrape Telegram environments 11 . Our raw dataset included 326,378,097 messages in many different languages, as well as spam and non-political content.
+In preparation for major procedures and analyses, we preprocessed our dataset by extracting the main textual content (the message field ( https://core.telegram.org/constructor/message )) from all message packages, removing all emojis using the emoji library ( https://pypi.org/project/emoji/ ), and normalizing whitespace in the texts.
+Data filtering
+Following prior investigations of Russian state-sponsored IOs targeting the 2016 and 2020 U.S. Presidential Elections 18 , 19 , 20 , 21 , and recent findings surrounding the 2024 election 9 , we analyzed messages in English and Russian to uncover potential IO activity within linguistic spheres that were not only previously associated with major influence operations but also are widely represented represented on Telegram. To this end, we leveraged the langdetect library to detect language from textual content ( https://pypi.org/project/langdetect/ ). This filter yielded 108,870,239 messages in English and 128,207,050 in Russian, representing 33.36% and 39.28% of our raw dataset, respectively.
+Additionally, given the diverse array of topics previously associated with IOs targeting U.S. Presidential Elections 19 , including race, gender, and religion, we cast a wide semantic net to holistically retain political messages in English and Russian while discarding irrelevant ones. To achieve this, and given the sheer volume of messages in our filtered dataset, we implemented a scalable and affordable multilingual binary classification process 22 that employed the bge-m3 model 23 , a state-of-the-art open-source multilingual embedder. This model was used to generate message embeddings and two centroid vectors, one political and one non-political, each composed by averaging the embeddings of a set of label-related phrases in English. Subsequently, each message embedding was compared to each centroid vector via cosine similarity and labeled based on the highest similarity score. This classification method yielded 4,778,070 political messages in English and 4,365,433 in Russian, and performed better than GPT-4o 24 , which was zero-shot prompted with temperature 0 to label individual messages as political or not. This comparison was based on 1000 human-annotated examples per language and is outlined in Table 1 . The template used to prompt GPT-4o and annotation details can be found in the Supplementary Information.
+Table 1 Benchmark of political classification methods on English and Russian Telegram messages based on 1000 human-labeled examples per language Full size table
+Furthermore, to capture political narratives without removing them from their non-political contexts, we retained data from environments where political messages made up more than 50% of the total message count. This filtered dataset, outlined in Tables 1 , 2 , and 3 , aided our manual investigations—consisting of reviewing profiles, messages, and URLs—however, our IO detection and topic analysis methods only employed political messages without URLs that were neither forwarded nor replies. By doing so, we excluded some duplicated content and messages generated via websites’ share buttons, which prepend text to URLs before sending them on Telegram. This approach allowed us to focus on raw messages that could only be sent via the Telegram application text input box or the API and that would normally originate from organic users or actors pretending to be organic. This data subset consisted of 5,272,296 messages.
+Table 2 Composition of the Telegram environments in our dataset Full size table
+IO detection
+In accordance with state-of-the-art coordinated activity detection techniques 9 , 10 , 16 , 17 , we opted to use text similarity networks to identify similar or identical political content disseminated across the environment under scrutiny.
+Table 3 Composition of the participants, or message senders, in our dataset Full size table
+We constructed text similarity networks by computing pairwise cosine similarities between the textual embeddings of political messages. To avoid the O ( n 2 ) time complexity incurred by comparing each embedding to every other, as done by previous studies 12 , 13 , we only computed the similarities between sets of messages sent within 2-day rolling windows.
+Table 4 Composition of the messages in our dataset Full size table
+Given our 91-day study period, we computed pairwise cosine similarities in 90 2-day time windows. For each participant pair, we retained the maximum non-zero similarity observed across all windows and used it as the edge weight. Additionally, we leveraged the messages’ posting time to create time-constrained text similarity networks where edges form only if message pairs were sent within a specified time window, such as 0 s 6 . Notably, our multilingual embeddings enabled the comparisons between English and Russian texts. Finally, we utilized the FAISS library 25 to store embeddings and retrieve pairs at specific similarity thresholds.
+After manually examining several network configurations to identify well-defined graphs, we chose to investigate the time-constrained text similarity networks connected by the sharing of identical messages ( x  ≥ 0.99 for monolingual message pairs and x  ≥ 0.90 for English–Russian message pairs) 13 , 26 . These cosine similarity thresholds were empirically derived and continuously refined, starting from 0.7 and adjusted in increments of approximately 0.05 until reaching 0.99.
+Importantly, our definition of an identical monolingual message pair—a cosine similarity threshold of 0.99—allowed us to capture minimal, non-semantic differences, such as less or extra spaces, newlines, or dots. Thus, our examination of such message pairs may capture attempts to disseminate organic-looking content while circumventing Telegram’s spam moderation algorithm, which is commonly understood to ban users who spread messages that are lexically identical.
+Channel creation analysis
+Given that Telegram operates through standalone environments, we hypothesized that IOs may attempt to broaden their reach by creating multiple such environments. These efforts could potentially be detected by analyzing spikes in the time series of environment creation activity. To this end, as shown in Fig. 8 , we used message metadata to examine the creation dates of Telegram environments. We manually reviewed the channels created on the top 2.00% of days with the highest creation volume to identify additional indicators of coordination. Specifically, we manually examined channels created within short time windows or displaying similarities in usernames, titles, or descriptions.
+Fig. 8: Time series of Telegram channel creation dates during peak activity. Full size image
+The window from January 1, 2021 to October 9, 2024 highlights spikes in activity, particularly around key geopolitical events such as the January 6 U.S. Capitol Attack and the Russian invasion of Ukraine on February 24, 2022. Red bars mark the top 2.00% of days with the highest number of channel creations, and labeled bars indicate the top 0.10%, both percentages based on the full range of available data from September 22, 2015 to October 9, 2024. Notably, while the earliest creation date we observed was in late 2015, no creation spikes in the top 2.00% were observed before January 1, 2021.
+Topic analysis
+Aiming to have a broader understanding of the potentially organic political messages shared within a network, we leveraged BERTopic 27 to conduct topic analyses on political. To this end, we used the previously generated bge-m3 embeddings for clustering and, for topic labeling, removed English and Russian stopwords, mentions, and numbers from the messages. We configured BERTopic with manually tuned, adaptive hyperparameters for UMAP and HDBSCAN based on the number of messages shared within a network, and set nr_topics to None so that the number of topics could be determined automatically.
+Ethical statement
+Our methods employed data publicly available to all Telegram users and complied with Telegram’s privacy policy ( https://telegram.org/privacy ).
+Discussion
+This study sheds light on the coordinated dissemination patterns of political content on Telegram, highlighting the scale and structure of potential IOs during a politically sensitive period.
+We observed a substantial number of identical political messages—both monolingual and cross-lingual—being shared simultaneously across multiple channels, suggesting a strong presence of automated activity. Additionally, peaks in the distribution of similar messages occur not only at the exact same timestamp but also at consistent 24-h intervals. These patterns suggest that orchestrated IOs repeatedly deploy near-identical content, with distinct actors strategically coordinating their activity over time.
+Furthermore, we uncovered highly automated and clearly coordinated IOs advancing diverse political agendas across the globe during the politically turbulent period surrounding the 2024 U.S. Presidential Election. These included a Russia-backed campaign and a cross-lingual operation—a dimension rarely explored in IO research—likely aimed at influencing distinct audiences. While the individual messages often appeared organic, a broader analysis revealed consistent alignment in rhetoric and intentional coordination across actors and channels.
+Notably, all of the IOs we uncovered disseminated identical or near-identical organic-looking content across multiple accounts, with four of the five discovered IOs doing so simultaneously. One of these four operations, the Russian war propaganda IO, disseminated alarmist and sensationalist content, along with misinformation and conspiracy narratives, to aggrandize Russian wartime successes and portray Russia as morally superior to the West and Ukraine. This IO relied solely on broadcast channels, resulting in a less elaborate outreach method in which subscribers could only consume the disseminated posts.
+The second IO, the white supremacist operation, spread racially motivated hateful content that positioned the white race as superior and sought to recruit, retain, and mobilize users across many countries worldwide, specifically to vote for candidates perceived to benefit white people. This IO combined broadcast and non-broadcast channels, enabling both the one-to-many dissemination of the first IO and a more complex campaign strategy where channel administrators could participate in and lead many-to-many conversations, potentially involving organic Telegram users.
+The third IO, the Irish populist operation, disseminated nationalist, populist, and conspiratorial content, and sought to create an environment that fostered call-to-action messaging and facilitated organic grassroots organizing. This IO relied on non-broadcast channels to host and participate in many-to-many user conversations and employed user accounts to conduct automated influence campaigns within these environments.
+The fourth operation, the pro-Palestine and pro-Yemen extremism IO, promoted anti-U.S., anti-Israel, religious, martyrdom, survival, and war-related narratives in English and Arabic to portray Palestinian and Yemeni narratives as morally superior. This IO employed broadcast channels to disseminate one-to-many posts, as done by the first IO, and user accounts to disseminate content into unaffiliated, possibly organic, non-broadcast channels.
+Lastly, the Russia-backed IO employed formal language, relied on verified channels, and used localized messaging to cast Russia in a favorable light. This IO did not disseminate content simultaneously across accounts and employed only broadcast channels, suggesting a manual approach reliant on repeated, copy-pasted content.
+Our study is not without its limitations. While rigorous and highly effective, our methodology for detecting IOs on Telegram has certain design constraints. In particular, it emphasizes simultaneous or near-simultaneous posting times between identical or near-identical message pairs. Although using tightly time-constrained text similarity networks with high thresholds has proven valuable, prior research has shown that coordinated behavior can occur across broader time windows, from minutes to a few days. This suggests that relaxing the temporal constraints in future work could further enhance the detection of less tightly synchronized coordinated activity.
+The second limitation concerns our centroid-based classification process and data filtering strategy. As detailed in section “Data filtering,” we used a set of English-language keywords to construct both the English and Russian political centroid vectors. While the bge-m3 embedder has shown comparable performance on semantic textual similarity (STS) tasks across English and Russian ( https://huggingface.co/spaces/mteb/leaderboard ), we attribute the lower classification performance for Russian messages (see Table 1 ) to our decision not to generate a dedicated Russian centroid vector using native political keywords. Furthermore, our final filtering step, retaining only channels where >50% of messages were classified as political, excluded 35.98% of political content and may have been overly rigid. Future iterations could benefit from a more adaptive or probabilistic filtering mechanism to better capture mixed-content channels.
+The third limitation concerns our cross-lingual examination. Although this study focused on examining the English and Russian linguistic spheres due to their prevalence on Telegram and their association with major influence operations, we overlooked other languages and other potential cross-lingual operations. For instance, section “Pro-Palestine and pro-Yemen extremism” uncovered two networks of coordinated Telegram channels that disseminated messages in English and Arabic and often employed code switching and inline translations, underscoring the need to investigate an English–Arabic cross-lingual operation.
+In conclusion, our findings underscore the urgent need for more robust and transparent policies to detect and moderate coordinated monolingual and cross-lingual inauthentic behavior on Telegram. The platform’s architecture, which enables semi-private broadcasting at scale, combined with the lack of algorithmic curation, creates a fertile ground for influence operations that can distort political discourse while remaining largely undetected. As we have shown, these operations can span multiple languages, geographies, and ideological agendas, often employing automation and repeated messaging to amplify narratives and manipulate public perception. Without stronger oversight and proactive moderation tools, especially during politically sensitive periods, Telegram risks becoming a haven for orchestrated campaigns that erode trust, polarize communities, and undermine the authenticity of its information ecosystem.
+Data availability
+The datasets generated and/or analyzed during the current study are available in the Harvard Dataverse repository, https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/1M5KHX .
+References
+Venâncio, O. R., Ferreira, C. H. G., Almeida, J. M. & da Silva, A. P. C. Unraveling user coordination on Telegram: a comprehensive analysis of political mobilization during the 2022 Brazilian Presidential election. Paper presented at ICWSM ’24 (2024).
+Walther, S. & McCoy, A. US extremism on Telegram: fueling disinformation, conspiracy theories, and accelerationism. Perspect. Terrorism 15 , 100–124 (2021).
+Vanetik, N., Litvak, M., Reviakin, E. & Tiamanova, M. Propaganda detection in Russian Telegram posts in the scope of the Russian invasion of Ukraine. Paper presented at RANLP ’23 (2023).
+Luceri, L., Cresci, S. & Giordano, S. in The Internet and the 2020 Campaign Ch. 1 (Bloomsbury Publishing, 2021).
+Malnar, D. & Dokman, T. Conceptualization of information operations in modelling the understanding of a security environment. Ann. Disaster Risk Sci. 2 , 49–59 (2019).
+Google Scholar
+Tardelli, S. et al. Multifaceted online coordinated behavior in the 2020 US Presidential election. EPJ Data Sci. 13 , 33 (2024).
+Article
+Google Scholar
+Shah, D., Ranka, H., Ng, L. H. X. & Mehta, S. Bridging nodes and narrative flows: identifying intervention targets for disinformation on Telegram. Preprint at https://arxiv.org/abs/2411.05922 (2024).
+Verma, A., Sear, R. & Johnson, N. How U.S. Presidential Elections strengthen global hate networks. npj Complex 1 , 18 (2024).
+Article
+Google Scholar
+Cinus, F., Minici, M., Luceri, L. & Ferrara, E. Exposing cross-platform coordinated inauthentic activity in the run-up to the 2024 US election. Paper presented at WWW ’25 (2025).
+Luceri, L. et al. Coordinated inauthentic behavior on TikTok: challenges and opportunities for detection in a video-first ecosystem. Preprint at https://arxiv.org/abs/2505.10867 (2025).
+Blas, L., Luceri, L. & Ferrara, E. Unearthing a billion Telegram posts about the 2024 U.S. Presidential Election: development of a public dataset. Paper presented at WWW ’25 (2025).
+Luceri, L., Panté, V., Burghardt, K. & Ferrara, E. Unmasking the web of deceit: uncovering coordinated activity to expose information operations on Twitter. Paper presented at WWW ’24 (2024).
+Pacheco, D., Flammini, A. & Menczer, F. Unveiling coordinated groups behind white helmets disinformation. Paper presented WWW ’20 (2020).
+Cima, L., Mannocci, L., Avvenuti, M., Tesconi, M. & Cresci, S. Coordinated behavior in information operations on Twitter. IEEE Access 12 , 61568–61585 (2024).
+Article
+Google Scholar
+Suresh Vishnuprasad, P. et al. Tracking fringe and coordinated activity on Twitter leading up to the US Capitol Attack. Paper presented at ICWSM ’24 (2024).
+Panté, V. et al. Beyond interaction patterns: assessing claims of coordinated inter-state information operations on Twitter/X. Paper presented at WWW ’25 (2025).
+Minici, M., Luceri, L., Fabbri, F. & Ferrara, E. IOhunter: graph foundation model to uncover online information operations. Paper presented at AAAI-25 (2025).
+National Intelligence Council. Foreign threats to the 2020 U.S. federal elections. https://www.dni.gov/files/ODNI/documents/assessments/ICA-declass-16MAR21.pdf (2021).
+U.S. Senate Select Committee on Intelligence. Russian active measures campaigns and interference in the 2016 U.S. election. https://www.intelligence.senate.gov/2020/08/18/publications-report-select-committee-intelligence-united-states-senate-russian-active-measures/ (2020).
+Badawy, A., Addawood, A., Lerman, K. & Ferrara, E. Characterizing the 2016 Russian IRA influence campaign. Soc. Netw. Anal. Mining 9 , 31 (2019).
+Sharma, K., Ferrara, E. & Liu, Y. Characterizing online engagement with disinformation and conspiracies in the 2020 U.S. Presidential Election. Paper presented at ICWSM ’22 (2022).
+Kosar, A., De Pauw, G. & Daelemans, W. Unsupervised text classification with neural word embeddings. Comput. Linguist. Netherlands J. 12 , 165–181 (2022).
+Google Scholar
+Chen, J. et al. M3-embedding: multi-linguality, multi-functionality, multi-granularity text embeddings through self-knowledge distillation. Paper presented at ACL ’24 (2024).
+OpenAI. GPT-4o system card. Preprint at https://arxiv.org/abs/2410.21276 (2024).
+Douze, M. et al. The Faiss library. Preprint at https://arxiv.org/abs/2401.08281 (2025).
+Pacheco, D. et al. Uncovering coordinated networks on social media: methods and case studies. Paper presented at ICWSM ’21 (2021).
+Grootendorst, M. BERTopic: neural topic modeling with a class-based TF-IDF procedure. Preprint at https://arxiv.org/abs/2203.05794 (2022).
+Download references
+Acknowledgements
+This work was partly supported by NSF award number 2331722.
+Author information
+Author notes These authors contributed equally: Diya Saraf, Tanishq Salkar.
+Authors and Affiliations
+Information Sciences Institute, University of Southern California, Marina del Rey, CA, USA
+Leonardo Blas, Diya Saraf, Tanishq Salkar, Nora Adadurova, Luca Luceri & Emilio Ferrara
+Authors Leonardo Blas View author publications
+Search author on: PubMed Google Scholar
+Diya Saraf View author publications
+Search author on: PubMed Google Scholar
+Tanishq Salkar View author publications
+Search author on: PubMed Google Scholar
+Nora Adadurova View author publications
+Search author on: PubMed Google Scholar
+Luca Luceri View author publications
+Search author on: PubMed Google Scholar
+Emilio Ferrara View author publications
+Search author on: PubMed Google Scholar
+Contributions
+L.B. and L.L. wrote the main manuscript. L.B. prepared Figs. 1 , 2 , and 8 . L.B. prepared Tables 1 – 4 . T.S. prepared Figs. 3 – 7 . L.B., D.S., L.L., and E.F. contributed to the conception of the work. L.B., D.S., T.S., and N.A. contributed to the analysis of the data. N.A. contributed to the interpretation of Russian texts. L.L. and E.F. continuously guided all other participants and the study.
+Corresponding authors
+Correspondence to
+Leonardo Blas , Luca Luceri or Emilio Ferrara .
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary information (download PDF )
+Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+Reprints and permissions
+About this article
+Cite this article
+Blas, L., Saraf, D., Salkar, T. et al. Large-scale detection of multilingual coordinated activity on Telegram.
+npj Complex 2 , 33 (2025). https://doi.org/10.1038/s44260-025-00056-w
+Download citation
+Received : 02 July 2025
+Accepted : 01 October 2025
+Published : 18 November 2025
+Version of record : 18 November 2025
+DOI : https://doi.org/10.1038/s44260-025-00056-w
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link Sorry, a shareable link is not currently available for this article.
+Copy shareable link to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Download PDF
+Advertisement
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Close
+Sign up for the Nature Briefing: AI and Robotics newsletter — what matters in AI and robotics research, free to your inbox weekly.
+Email address
+Sign up
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy .
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing: AI and Robotics

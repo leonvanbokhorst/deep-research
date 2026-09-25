@@ -1,0 +1,777 @@
+COVID-19 and 5G conspiracy theories: long term observation of a digital wildfire - PMC
+Skip to main content
+Official websites use .gov
+.gov website belongs to an official
+government organization in the United States.
+Secure .gov websites use HTTPS
+A lock (
+) or https:// means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+Search PMC Full-Text Archive
+Search in PMC
+Journal List
+User Guide
+PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+Learn more:
+PMC Disclaimer
+PMC Copyright Notice
+Int J Data Sci Anal
+. 2022 May 27;15(3):329–346. doi: 10.1007/s41060-022-00322-3
+COVID-19 and 5G conspiracy theories: long term observation of a digital wildfire
+Johannes Langguth
+Johannes Langguth
+1 Department of High Performance Computing, Simula Research Laboratory, Oslo, Norway
+2 Department Data Science and Analytics, BI Norwegian Business School, Oslo, Norway
+Find articles by Johannes Langguth
+1, 2 , Petra Filkuková
+Petra Filkuková
+1 Department of High Performance Computing, Simula Research Laboratory, Oslo, Norway
+3 Department of Psychology, Inland Norway University of Applied Sciences, Lillehammer, Norway
+Find articles by Petra Filkuková
+1, 3 , Stefan Brenner
+Stefan Brenner
+4 Department of Information and Communication, Stuttgart Media University, Stuttgart, Germany
+Find articles by Stefan Brenner
+4 , Daniel Thilo Schroeder
+Daniel Thilo Schroeder
+1 Department of High Performance Computing, Simula Research Laboratory, Oslo, Norway
+Find articles by Daniel Thilo Schroeder
+1, ✉ , Konstantin Pogorelov
+Konstantin Pogorelov
+1 Department of High Performance Computing, Simula Research Laboratory, Oslo, Norway
+Find articles by Konstantin Pogorelov
+Author information
+Article notes
+Copyright and License information
+1 Department of High Performance Computing, Simula Research Laboratory, Oslo, Norway
+2 Department Data Science and Analytics, BI Norwegian Business School, Oslo, Norway
+3 Department of Psychology, Inland Norway University of Applied Sciences, Lillehammer, Norway
+4 Department of Information and Communication, Stuttgart Media University, Stuttgart, Germany
+✉ Corresponding author.
+Received 2021 Jun 2; Accepted 2022 Mar 31; Issue date 2023.
+© The Author(s) 2022
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+PMC Copyright notice
+PMCID: PMC9137448 PMID: 35669096
+Abstract
+The COVID-19 pandemic has severely affected the lives of people worldwide, and consequently, it has dominated world news since March 2020. Thus, it is no surprise that it has also been the topic of a massive amount of misinformation, which was most likely amplified by the fact that many details about the virus were not known at the start of the pandemic. While a large amount of this misinformation was harmless, some narratives spread quickly and had a dramatic real-world effect. Such events are called digital wildfires. In this paper we study a specific digital wildfire: the idea that the COVID-19 outbreak is somehow connected to the introduction of 5G wireless technology, which caused real-world harm in April 2020 and beyond. By analyzing early social media contents we investigate the origin of this digital wildfire and the developments that lead to its wide spread. We show how the initial idea was derived from existing opposition to wireless networks, how videos rather than tweets played a crucial role in its propagation, and how commercial interests can partially explain the wide distribution of this particular piece of misinformation. We then illustrate how the initial events in the UK were echoed several months later in different countries around the world.
+Keywords: Misinformation, Digital wildfire, Twitter, COVID-19, Conspiracy theories
+Introduction
+On January 21, 2020, the first message which linked the COVID-19 outbreak in Wuhan, China, to 5G wireless technology appeared on Twitter, stating: “China is 5G now & working toward 6G. Wireless radiation is an immunosuppressor. Conincidence?” . The tweet got little reaction, but in the following days, a series of similar tweets appeared. Their number grew steadily and about ten weeks later, in early April, a series of arson attacks hit wireless network equipment, mostly cell towers, in the UK as well as in Ireland, the Netherlands, Cyprus, and New Zealand. With these attacks, the misinformation became a digital wildfire .
+Digital wildfires, which are defined as fast-spreading and inaccurate, counterfactual, or intentionally misleading pieces of information that quickly permeate public consciousness and have serious real-world implications, have been placed among the top global risks in the twenty-first century by the World Economic Forum [ 27 ]. While a sheer endless amount of misinformation exists on the Internet, only a small fraction of it spreads far and affects people to such a degree that they commit harmful acts in the real world. The alleged connection between 5G and COVID-19 differed little from other counterfactual statements which are common on the internet. However, it had a far greater effect. Similar events have been observed before, e.g., misinformation linked to mob violence in India [ 11 ] where several random people were killed after rumors about child abduction appeared on WhatsApp and were shared widely. Here, a single message in a social network was spread among a massive number of users, which was relatively easy to track afterward. On the other hand, the perceived link between 5G and COVID-19 was not caused by a single message in a social network. Instead, the digital wildfire consisted of many messages on Twitter and other social networks, which combined into a single misinformation event. We call such events complex digital wildfires .
+Clearly, investigating complex digital wildfires is far more challenging than investigating ordinary (i.e., simple) digital wildfires. In this paper, we perform such an analysis for misinformation that links 5G and COVID-19 in order to understand its origins and the factors that contributed to its spread. We search through a massive set of COVID-19-related messages from Twitter that were archived as early as January 2020, thereby finding the first tweets that mention a connection between 5G and COVID-19. Based on a manually labeled dataset, we train a machine learning classifier to distinguish between tweets that insinuate a connection between unrelated terms and those that only mention both without claiming a connection. We chart the number of such tweets over time and analyze the geographical distribution. Our goal is to investigate six fundamental questions:
+How did the 5G-COVID misinformation event start and where did it come from in January 2020?
+How did it grow from relative obscurity to a widely discussed topic in late March 2020?
+What is the connection to the serious real-world consequences observed in April 2020?
+How did the wildfire develop around the globe between April 2020 and November 2021?
+Which general observations can we make from the structure of the specific event?
+What lessons and policy recommendations can we draw from these observations?
+In the remainder of the paper, we first discuss the real-world events associated with the wildfire and investigate its origins using qualitative methods in Sect. 2 . We then extend the analysis to the main body of misinformation in Sect. 3 . By investigating a large number of Twitter messages, we lay the groundwork for quantitative analysis via machine learning methods, the results of which are presented in Sect. 4 . In Sect. 5 , we discuss the interplay between the spread of this misinformation on Twitter and on video platforms such as YouTube, and we investigate the motivations for spreading such misinformation in Sect. 6 . We finish the paper by discussing related work in Sect. 7 and present our conclusions in Sect. 8 .
+The initial 5G-COVID digital wildfire
+Different misinformation narratives that imply a causal link between 5G and COVID-19 have spread on social media, some of which are contradictory. Some suggest that the electromagnetic radiation emitted by 5G equipment causes COVID-19, while others state that 5G harms people directly and that COVID-19 is used to hide this fact. We provide a more detailed description of these narratives in Sect. 3.4 , but throughout this paper, we consider all such misinformation narratives together.
+We use the term 5G-COVID misinformation event to refer to the entirety of all communication that imply a causal link between 5G and COVID-19, i.e., all Twitter messages, Facebook posts, news articles, and videos. In addition, we consider all real-world events such as arson attacks that are presumably a direct consequence of this misinformation to be part of the event. Since it is essentially impossible to obtain an incontrovertible proof of causality between misinformation and real-world harm, we include all events where such a causality is highly likely.
+The initial event happened almost exclusively on social media from January to March 2020, with the international press taking essentially no notice of it (see Sect. 3.5 ). Between March 25 and April 2, following the release of YouTube videos promoting 5G-COVID misinformation, the daily number of tweets dealing with the topic grew fourfold. Immediately thereafter, a series of arson attacks on mobile network infrastructure in the UK and other countries began and continued for several weeks. The attacks got immediate and widespread attention by established media in the UK and in many other countries.
+On April 5, YouTube announced a ban on videos that spread 5G-COVID misinformation and removed most such videos [ 38 ]. On April 22, Twitter announced that it would ban tweets and users that call for attacks on 5G infrastructure [ 15 ]. The company later added fact checking links to tweets mentioning 5G and COVID-19. Since then, the number of tweets on the topic has declined, but the topic returned periodically in different places around the world throughout 2021.
+Attacks on telecommunication technicians and infrastructure
+Arson attacks on telecommunications equipment have happened before 2020, for example, in Germany between 2013 and late 2019 [ 7 , 18 , 19 ], which may have been motivated by opposition to wireless communications. However, we only count events that happened during the COVID-19 pandemic as part of the 5G-COVID digital wildfire.
+These events include arson attacks on infrastructure as well as attacks on or harassment of technicians. On the weekend of Friday, April 3, 2020, at least ten arson attacks happened in the UK, New Zealand, and the Netherlands, and more than 20 additional attacks happened one week later, predominantly in the UK. A series of six similar cases followed in Canada two weeks later. The total rose to 77 in the UK alone by May 7 [ 76 ] and to 121 by July 2 [ 22 ]. Another four arson attacks happened on July 3 in Cyprus [ 50 ].
+Meanwhile, technicians who were perceived to be installing 5G infrastructure were harassed or attacked, with 273 reported incidents in the UK [ 22 ], most of them minor. A major event in this regard was the kidnapping of eight technicians in Peru on June 10 [ 1 ]. Just like in the UK attacks, the perpetrators clearly stated the perceived threat of 5G as the motivation for their actions. These statements, combined with the fact that the incidents happened shortly after the 5G-COVID misinformation attained wider recognition, imply a causal relationship between the two, which justifies the use of the term digital wildfire .
+While the initial series of attacks ended in July 2020, several additional attacks have occurred thereafter, including one in South Africa in early 2021 [ 2 ] and a suspected case of arson in Canada by the end of March 2021 [ 51 ]. A list of real-world events connected to the 5G-COVID digital wildfire can be found in Table 3 in Appendix.
+Table 3.
+A collection of news articles we used to keep track of worldwide real-world consequences linked to the 5G-Corona misinformation event (arson attacks and harassment of telecommunication technicians)
+Date
+Country
+Location
+Media/Source
+Title
+Journalist/editor
+Link
+2020-01-02
+Bonn
+General Anzeiger
+Polizei vermutet Brandstiftung nach Feuer an ...
+Silke Elbern
+3p3rrtL
+2020-03-27
+Waiharara
+MSN
+Suspected cell tower arsons prompt call for witnesses
+Liu Chen
+2TsBzRl
+2020-04-02
+Belfast
+New York Times
+Burning Cell Towers, Out of Baseless Fear ...
+Adam Satariano et al.
+34v92g0
+2020-04-02
+Birmingham
+The Sun
+HOLY SMOKE Idiots “BURNING 5G masts” ...
+Holly Christodoulou
+34sYnCH
+2020-04-03
+Liverpool
+Independent
+Coronavirus 5G conspiracy theory ...
+Adam Satariano et al.
+3fS0VPX
+2020-04-04
+Beesd
+Telegraaf
+Wéér incident bij mast: verzet 5G wordt militant
+Martin Nuver
+3fy4vQm
+2020-04-05
+Manurewa
+MSN
+Suspected cell tower arsons prompt ...
+Liu Chen
+3vtShhc
+2020-04-05
+Liessel
+Omroepbrabant
+Leuzen tegen 5G bij brandende telefoonmast in Liessel
+Femke de Jong
+34Hcrc1
+2020-04-05
+Rotterdam
+Telegraaf
+Wéér incident bij mast: verzet 5G wordt militant
+Martin Nuver
+3wNbGdr
+2020-04-05
+Deurne
+DMG
+Brand in GSM-mast Liessel waarschijnlijk ...
+Ivo Boudewijns
+2R6S1G6
+2020-04-09
+Nuenen
+Omroepbrabant
+Brand in telefoonmast in Nuenen, mogelijk aangestoken
+Peter de Bekker
+3p3vF4Y
+2020-04-10
+Groningen
+Telegraaf
+Wéér incident bij mast: verzet 5G wordt militant
+Martin Nuver
+34HcyEt
+2020-04-10
+Oudenbosch
+NOS
+Waarom worden door heel ...?
+ANP
+2RTf2wx
+2020-04-11
+Birmingham
+Telegraph
+Birmingham Nightingale phone mast ...
+Matthew Field
+3vKNQip
+2020-04-11
+West Yorkshire
+Telegraph
+Birmingham Nightingale phone ...
+Matthew Field
+3i2ubGE
+2020-04-11
+Several
+Limassol
+Ars Technica
+How a 5G coronavirus ...
+Nic Fildes et al.
+3fuCjOc
+2020-04-11
+Several locations
+Businessinsider
+Vandals set 50 cellphone masts in the ...
+Isobel Asher Hamilton
+3cl4e1p
+2020-04-11
+Veldhoven in Brabant
+NOS
+Waarom worden door heel Nederland zendmasten ...?
+ANP
+3c4jdfP
+2020-04-11
+Co Donegal
+Irish Times
+Gardaí suspect masts set on fire deliberately in Co Donegal
+Stephen Maguire
+3fwdPV5
+2020-04-13
+Several
+Amsterdam (Almere)
+Ars Technica
+How a 5G coronavirus conspiracy spread across Europe
+Nic Fildes et al.
+3i16NJq
+2020-04-14
+Dagenham, Essex
+BBC
+Coronavirus: 20 suspected phone mast attacks over Easter
+Leo Kelion
+2SFdMgE
+2020-04-17
+Huddersfield
+Wired
+The 5G coronavirus conspiracy ...
+James Tamperton
+34uiP6c
+2020-04-19
+Bonn
+General Anzeiger
+Gibt es in Bonn eine Brandanschlagserie auf Funkmasten?
+Ayla Jacob
+2RSoNeg
+2020-04-22
+Wilhelmshaven
+Police press
+POL-WHV: 30-Jähriger durchtrennt ...
+3fWykcb
+2020-04-28
+Several
+Papatoetoe
+MSN
+Suspected cell tower arsons prompt call for witnesses
+Liu Chen
+3fVCuBc
+2020-05-01
+Montreal
+CTV News
+Cell tower set on fire north of Montreal
+Katelyn Thomas
+34qTkCz
+2020-05-04
+Piedmont
+CTV News
+Two more cell towers went up in flames north of Montreal
+Katelyn Thomas
+3uxRJWf
+2020-05-04
+Prévost
+CTV News
+Two more cell towers went up in flames north of Montreal
+Katelyn Thomas
+3c2tEQV
+2020-05-05
+Laval
+CTV News
+Another cell tower in Quebec - the fourth ...
+Katelyn Thomas
+3uBWzSh
+2020-05-12
+Māngere
+MSN
+Suspected cell tower arsons prompt call for witnesses
+Liu Chen
+3c1Tftr
+2020-05-15
+Ōtāhuhu
+MSN
+Suspected cell tower arsons prompt call for witnesses
+Liu Chen
+3p8r80X
+2020-05-15
+Favona
+MSN
+Suspected cell tower arsons prompt call for witnesses
+Liu Chen
+3i7ZT5n
+2020-05-18
+Melbourne
+news.com.au
+Cranbourne West phone tower fire: Counter-terrorism ...
+Jack Paynter
+3fwCQzh
+2020-08-06
+South Auckland
+TVNZ
+Cell phone towers burned in latest ’senseless’ arson ...
+Luke Appleby
+3vC0TCG
+2020-06-10
+Provinz Acobamba
+RPP
+Huancavelica: Secuestran a 8 ingenieros que arreglaban ...
+Redacción
+2RTRoA2
+2020-07-01
+Limassol
+KNEWS
+More 5G targets torched overnight
+unknown journalist
+3uBWSfT
+2020-08-10
+Essex
+Essex Live
+Police fear Chelmsford 5G mast ’will fall over’ ...
+unknown journalist
+3vwXrZO
+2020-09-10
+Bradford
+Daily Mail
+Arsonists destroy another 5G mast fueled by false ...
+Clare McCarthy
+3wIETG6
+2020-09-23
+Bradford
+Telegraph & Argus
+Police appeal for information as 5G mast set on ...
+unknown journalist
+3vzMw1t
+2020-11-05
+Bierley
+Telegraph & Argus
+Firefighters called to 5G mast blaze in Bierley
+Felicity Macnamara
+3yOPUYk
+2021-01-05
+Durban, KwaZulu-Natal
+Daily Maverick
+KZN cellphone towers torched as 5G ...
+Rebecca Pitt
+2RTfM4N
+2021-01-31
+Chelmsford, Essex
+Telegraph
+Conspiracy theorists could be behind ...
+Martin Evans
+3p2bQLc
+2021-03-31
+Scarborough
+Toronto Citynews
+Police say cell phone tower fire in ...
+“News Staff”
+3p3thuF
+2021-10-09
+Villié-Morgon
+Le Parisien
+Rhône : plongée dans le couvent des croisés de la 5G
+Vincent Mongaillard
+3dAdrmI
+Open in a new tab
+Column #e contains the number of events with an exact location mentioned in the article, #m all mentioned events in the article. Although the original table was much larger, this selection contains only those articles with precise location information. Links start with https://bit.ly/
+Origin of the 5G-COVID misinformation
+Different origins of the 5G-COVID idea have been proposed in the media [ 28 , 77 ]. A Wired article [ 69 ] identified a Belgian newspaper article from January 22, 2020, as the source of the 5G-COVID misinformation, but our Twitter data collection, which is discussed in detail in Sect. 4 , shows that the first tweets that connect 5G and COVID-19 appeared on January 21, 2020. It is not certain whether the event originated on Twitter, but there is substantial evidence that the idea grew out of existing opposition to 5G technology [ 3 , 31 ].
+During the remainder of January, 698 tweets and 1,089 retweets that mention 5G and COVID-19 appeared, of which 23 tweets and 127 retweets were classified as promoting the 5G-COVID idea by our automated classifier (see Sect. 4.1 ). In addition, several videos proposing similar ideas appeared on YouTube. Some of those videos belong to channels that also promote other misinformation. Several such channels have a comparatively large number of subscribers (between 50,000 and 300,000). The daily number of tweets on that topic grew slowly during January and most of February 2020.
+On March 11, 2020, the WHO declared COVID-19 a global pandemic [ 23 ]. In the following weeks, along with the growing number of infections in Europe and the USA, media attention to COVID-19 pandemic grew sharply, peaking between March 20 and March 25. Shortly thereafter, a series of additional videos from UK-based sources promoting 5G-COVID narratives appeared on YouTube and other video platforms and were shared widely on Twitter.
+Qualitative analysis
+To understand the 5G-COVID digital wildfire, we combine qualitative and quantitative approaches. We first describe the qualitative results since they constitute the basis for the quantitative analysis.
+Analysis of early twitter posts
+In order to understand where the idea of the 5G-COVID connection came from, we investigate the earliest tweets that mention it. A total of 104 COVID-19-related tweets by 75 accounts were made between January 21 and January 25, 2020. Among those, we identified 38 accounts that were insinuating some kind of 5G-COVID connection. 28 of these presented themselves as belonging to individual persons. One account belonged to a satirical website. We removed this account from the sample. Nineteen accounts reported their location as USA, 9 as UK, AUS, NZ, or CAN, and 9 reported other European or Asian countries as their location. We classified these 37 accounts with respect to six features, the first three features being support for Donald Trump, the QAnon conspiracy theory, and the Pizzagate and Wayfair conspiracy theories [ 49 , 66 ]. We combined the Pizzagate and Wayfair conspiracies since they are very similar, with the latter being located in Europe.
+The second set of features holds statements against vaccinations, against wearing face masks during the COVID-19 pandemic, and statements on health risks of 5G prior to 2020. Figure 1 shows the results, scaled by the number of followers of the accounts.
+Fig. 1.
+Open in a new tab
+Ideas expressed by the 37 accounts that were the first to spread 5G-COVID misinformation in January
+Since the first three features are political in nature, it is to be expected that they have less global appeal than the latter three which are health related. Among the US accounts, 11 out of 19 showed support for Trump (same for QAnon), while 27 out of 37 accounts voiced anti-vaccination and anti-5G opinions. Note that anti-vaccination refers to vaccines against diseases other than COVID-19. Additionally, such accounts had far more followers, as shown in Fig. 1 . Thus, there is a strong indication that the very early conversation on the 5G-COVID connection was dominated by people who oppose 5G rather than members of the political right.
+Creation of the initial dataset
+We perform an extensive analysis of 5G- and COVID-19-related Twitter data in order to better understand the misinformation event. Thus, the first step was to obtain this data from Twitter. The data collection was performed using a custom framework [ 62 ] to access the Twitter search API to collect a large number of statuses (i.e., tweets , retweets , quotes , and replies ) containing COVID-19 related keywords such as Corona , Coronavirus , and COVID . The data collection started on January 17, 2020, and ended on November 30, 2021. A list of the keywords is given in appendix. The resulting set of tweets forms the initial set which we refer to as the COVID-19 set of tweets.
+Next, we filtered for those that mention “ 5G ” and “ 5g ” . We did not remove the whitespaces because doing so produced too many false positives completely unrelated to 5G. We also included alternative spellings such as “ 5-G ” , although the number of tweets containing these is negligible. We refer to the resulting set of tweets as the 5G set. It is a subset of the COVID set and a superset of the misinformation sets that we discuss in Sect. 4 . We also create a subset of each set by filtering out retweets. The total counts for these sets are listed in Table 1 .
+Table 1.
+Overview over the tweet sets used in this paper
+Class
+COVID-19 Tweets
+5G Tweets
+5G-COVID Misinformation
+Other Conspiracy Tweets
+Superset
+Twitter
+COVID-19
+5G Tweets
+5G Tweets
+Obtained by
+Twitter API
+Text search
+MLP classification
+MLP classification
+Pure misinformation
+Yes
+Yes
+Total (re)tweets
+2,186,199,057
+1,181,332
+134,732
+74,013
+Total tweets
+464,702,084
+398,190
+20,436
+20,701
+Location (re)tweets
+1,124,401,420
+597,902
+68,245
+38,122
+Location tweets
+264,749,471
+202,471
+10,298
+10,576
+Open in a new tab
+The COVID-19 set is scraped from Twitter, 5G is obtained from COVID-19, and the other two are selected from 5G by a neural network classifier. Except for false positives, they contain only misinformation tweets
+Our goal is to perform a quantitative analysis of all available 5G-COVID tweets, which will be presented in Sect. 4 . However, even without retweets, our initial dataset contained 398,190 5G tweets, all of which are potential 5G-COVID, i.e., misinformation tweets. Analyzing all these tweets is impossible without an automated system, but in order to train a machine learning classifier, we need manually labeled tweets.
+Manually labeled dataset
+As part of this investigation, the authors read and labeled more than 10,000 candidate tweets. For each tweet, we denoted whether it was promoting a 5G-COVID idea or not. We also included a third category for tweets that promote other conspiracy theories, such as claims that “COVID is a hoax” or similar ideas. The dataset was also made available to other researchers [ 56 , 57 ]. With the help of this dataset, it was possible to develop an automated detection method described in Sect. 4.1 . Furthermore, performing the manual labeling of such a large number of tweets gave the authors valuable insights into the common ideas and specific underlying misinformation narratives used in 5G-COVID tweets. This allowed us to perform an extensive qualitative analysis of these narratives.
+Taxonomy of misinformation narratives
+The creation of the dataset allowed us to qualitatively understand the ideas promoted in 5G-COVID misinformation tweets. We found that a multitude of different underlying narratives exist that suggest the existence of a connection between 5G wireless technology and the COVID-19 pandemic, many of which are mutually exclusive. However, they all share the belief that 5G is harmful in some way and that the technology should not be installed, or existing installations should be dismantled.
+Our goal is to provide a qualitative overview over the main narratives of 5G-COVID misinformation since they all constitute a possible basis for attacks on mobile communication infrastructure. However, due to the nature of the misinformation, which contains a wide range of wildly contrafactual statements and highly unlikely conspiracy theories, it is neither feasible nor desirable to perform an exhaustive quantitative analysis here. We found the following main narratives:
+The Immunosuppressor narrative suggests that radiation from 5G antennas weakens the immune system, thereby making people highly susceptible to an otherwise harmless virus.
+The Cover-up narrative states that radiation of 5G equipment is lethal, and that deaths attributed to the COVID-19 pandemic are actually caused by 5G. The pandemic is alleged to have been invented to hide this.
+The Mind Control Conspiracy assumes that 5G allows some form of mind control and that the COVID-19 or a vaccine against it plants a receiver within humans.
+Finally, there are some truly Esoteric Conspiracy Theories that see 5G and COVID-19 as means to prevent humans from reaching their full potential or higher selves.
+While these ideas may sound outlandish and contradict all established scientific consensus, it is clear that belief in these ideas could drive people to violent action since they typically assert that 5G by its very nature is life- or even existence-threatening in some way.
+Furthermore, in addition to the opposition against 5G in itself, the tweets also show another angle. In the context of 5G, the use of equipment manufactured by the Chinese companies Huawei and ZTE has been widely discussed as a potential cybersecurity risk in Western countries. As a result, some countries have excluded Chinese vendors from supplying 5G infrastructure. In the US, the Trump administration passed the Secure 5G and Beyond Act [ 34 ] which was introduced on March 27, 2019 and signed on March 23, 2020. The UK later followed suit [ 21 ], reversing an earlier decision from January 28, 2020 [ 75 ]. Consequently, part of the opposition to 5G in the US stems from an anti-China sentiment of the political right, rather than opposition to the technology of 5G. One website from that spectrum [ 6 ] tweeted on April 17, 2020: “If you like Corona in your country, you’ll love Huawei in your home”. Here, the alleged connection between 5G and COVID-19 is simply based on the fact that both come from China. The narrative is essentially that COVID-19 proves that the Chinese leadership is not trustworthy, and consequently Chinese technology should not be used. An early tweet from January 26, 2020, by a pro-Republican account states: “We can end the adoption of Chinese 5G spy technology in the West by convincing people it causes #coronarvirus outbreaks.” It should be noted that this account has only 29 followers and that the tweet generated no reactions. Therefore, it is unlikely to have led to the implementation of such a strategy.
+Tracking the misinformation event on GDELT
+Before the attacks in April 2020, 5G-COVID misinformation was not known to a wider audience, and it appears that it was essentially invisible in traditional news media. We test this assumption by querying the Global Database of Events, Language, and Tone (GDELT) [ 47 ], a database of news events captured worldwide in close to real time.
+We searched the records from January to May 2020 using a custom high-performance mining system [ 58 ]. The GDELT database only contains the titles of news articles, not the text body. Therefore, we used an aggressive text mining approach. We converted every news publication record into plain text format, stripping out all non-numerical and non-alphabetical symbols. Next, we truncated all excessive word separators and performed a case-insensitive search for two sets of keywords, the first being the list of COVID-19 keywords detailed in Appendix, and the second being the various spellings of 5G. As a result, using all available keyword sources including full URL links and titles where they were available, we managed to get a relatively high number of relevant news articles, i.e., event mentions, as shown in Fig. 2 .
+Fig. 2.
+Open in a new tab
+Weekly number of articles related to 5G and COVID-19 during the period of observation
+Among the early articles mentioning COVID-19 and 5G, most discuss the impact of the pandemic on 5G rollout or equipment production. However, one article does not only mention but promote the idea of a direct connection between 5G and COVID-19 [ 73 ]. It was published on February 20, 2020. We found no other such article. Table 2 in Appendix lists the articles that appeared in the seven days starting February 20, i.e., following the conspiracy-supporting news article. Out of 32 articles found via a keyword search for the selected week, only the aforementioned article discussed the 5G-COVID conspiracy. All other articles are focused on the impact of COVID-19 on 5G technology development and deployment. Furthermore, a set of 14 out of 32 articles (which all have a different URL) are copies of the same article published by Reuters.
+Table 2.
+The collection of 5G-Corona news articles found in the GDELT database for the period from February 20 to 27 (identical titles represent articles that are essentially copies of other articles)
+Date
+Supports 5G-Corona conspiracy
+Number of referred events
+Publisher
+Title
+2020-02-20
+lightreading.com
+Coronavirus cuts into 5G standards work
+2020-02-20
+reuters.com
+Huawei says no impact on 5G supply from coronavirus
+2020-02-20
+investing.com
+Huawei says no impact on 5G supply from coronavirus
+2020-02-20
+marketscreener.com
+Huawei says no impact on 5G supply from coronavirus
+2020-02-20
+reuters.com
+Huawei says no impact on 5G supply from coronavirus
+2020-02-20
+oann.com
+# URL not found
+2020-02-20
+cnn.com
+Apple needs a 5G iPhone now more than ever
+2020-02-20
+YES
+veteranstoday.com
+UPDATE On Coronavirus, 5G, ELF, Apirin, Mismanagement - the Perfect Storm
+2020-02-20
+phonearena.com
+Production of Huawei’s 5G networking equipment unaffected by the coronavirus
+2020-02-20
+cnbc.com
+UPDATE 1-Huawei says no impact on 5G supply from coronavirus
+2020-02-21
+abs-cbn.com
+Huawei says no impact on 5G supply from coronavirus
+2020-02-21
+indiatimes.com
+Huawei says no impact on 5G supply from coronavirus
+2020-02-21
+reuters.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+reuters.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+reuters.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+channelnewsasia.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+oann.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+reuters.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+businesstimes.com.sg
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+msn.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+indiatimes.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+indiatimes.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+marketscreener.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+theepochtimes.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+marketwatch.com
+Opinion: The 5G rollout is already behind, and coronavirus could slow it even more
+2020-02-21
+msn.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+ndtv.com
+China’s ambitious 5G push heading into slow lane due to coronavirus disruptions
+2020-02-21
+lightreading.com
+# URL not found
+2020-02-22
+Nothing for the date
+2020-02-23
+nyoooz.com
+China’s ambitious 5G push slows due to coronavirus disruptions
+2020-02-24
+sputniknews.com
+India Gets ’First 5G Smartphone’ From China Amid Delayed Trials Due to Coronavirus
+2020-02-24
+computerweekly.com
+Coronavirus, global economic slowdown to cap 5G smartphone sales in 2020
+2020-02-25
+zdnet.com
+Jabil cuts outlook as coronavirus curbs manufacturing for tech giants, 5G ecosystem
+2020-02-26
+Nothing for the date
+2020-02-27
+Nothing for the date
+Open in a new tab
+Thus, we note that traditional media played essentially no role in the formation of this digital wildfire. They only became involved when real-world events occurred, which is clearly visible in Fig. 2 . The large increase in articles in April 2020 is due to reporting about the attacks on the telecommunications equipment, i.e., the events of the wildfire itself. As a result, when considering wildfire prediction and preparedness, the analysis should clearly focus on social media.
+Quantitative analysis on twitter
+In Sect. 3 , we described the creation of the COVID-19 Twitter dataset, the search for 5G tweets inside this set, and the manual labeling of 5G-COVID tweets. In this section, we describe the development of an automated classifier from this dataset and the analysis of the results we obtained using this classifier.
+Automated misinformation detection
+Naturally, simply observing the number of times 5G is mentioned on Twitter is not sufficient for a detailed analysis. On the other hand, manually evaluating almost 400,000 tweets is not feasible. While it would be possible to sample 400 tweets to obtain significance at p = 0.05 , doing so for each of the 680 days in the observed time span is not.
+Thus, we instead opted for developing a machine learning based classifier to understand which fraction of the tweets that mention 5G and COVID-19 actually insinuate a causal relationship and thus spread misinformation. Initial sampling suggested that there are several keywords that are typically used in misinformation tweets (e.g., “immunosupressor”), but other tweets that mock or parody such tweets make use of these words as well. Thus, even for human readers, it is not always easy to discern the meaning of a tweet.
+As mentioned in Sect. 3.2 , we previously created a dataset of 10,000 manually annotated tweets [ 56 , 57 ] that served as a training set for the automated classifier. Tweets were classified as either i) spreading 5G-COVID misinformation , ii) spreading other conspiracy theories , or iii) not spreading conspiracy theories . Significant effort was made to develop and test automatic classifiers for that dataset [ 63 ].
+Note that other conspiracy theories refers to both older conspiracy theories (or myths) that have been classified previously [ 12 ], as well other misinformation with similar characteristics that appeared in the context of COVID-19, such as that the virus does not exist or was released intentionally, or that the objective of vaccines is mind control. Note however that since we only classify tweets that mention 5G, this does not constitute a general investigation of such misinformation.
+We chose a multilayer perceptron (MLP) as the baseline classifier [ 61 ]. MLPs are designed to approximate any continuous function and can solve problems that are not linearly separable, which are the major use cases of pattern classification, recognition, prediction, and approximation with nonlinear mapping between input and corresponding output vectors. Furthermore, MLPs are very fast and efficient to compute, which is especially important in our case since we are dealing with a large dataset. During the initial experiments, we tried other established machine learning classifiers, such as random tree, random forest, and support vector machine. However, the resulting classification performance was low, probably due to too complex relations between classifier input features. Thus, we opted to keep focusing on MLPs. Furthermore, the size of the annotated dataset was deemed to be insufficient for more advanced deep learning (DL)-based approaches.
+Due to the difficulty of the task, even MLP as the best classifier produces a significant number of false positives and negatives. However, the attained accuracy is more than sufficient to quantify the number of misinformation tweets on a daily basis. In total, 134,732 tweets and retweets were flagged as 5G-COVID misinformation, and another 74,013 were deemed to promote some other conspiracy theory, as shown in Table 1 . Interestingly, the 5G tweets received fewer retweets than the average COVID-19 tweet, but among the 5G tweets, those that spread 5G-COVID misinformation received far more retweets, and tweets containing other conspiracy theories received an average number.
+Development over time
+Our primary goal is to understand how the 5G-COVID misinformation developed over time. To that end, we plot the number of tweets in the dataset for each day during the time of observation. As mentioned above, we keep two counts: the first being the total number of Twitter statuses in each class, while the second does not contain retweets. The numbers are given in Fig. 3 .
+Fig. 3.
+Open in a new tab
+Daily number of COVID-19 (primary axis) and 5G (secondary axis) tweets and retweets in the dataset
+The number of COVID-19 tweets peak on March 24, 2020, and retweets peak one day later. Thereafter, the number of tweets quickly declines, reaching an almost steady state in late 2020 and throughout 2021. Note that the secondary peak on October 2 is caused by the COVID-19 infection of Donald Trump. It is therefore not related to 5G-COVID misinformation.
+For the 5G tweets, the peak is reached on April 4, 2020, i.e., immediately after the attacks on 5G towers. There is a secondary peak on June 7, 2020, which coincides with tower attacks in New Zealand. A third peak in July 2020 consists predominantly of retweets. A smaller fourth peak at the beginning of 2021 coincides with attacks in South Africa.
+In Fig. 4 , we show the results of the machine learning classification as ratios of 5G and other misinformation tweets out of all 5G tweets. We also show the ratio between 5G tweets and all COVID-19 tweets on the secondary axis. This curve shows the same peaks as the total numbers discussed above.
+Fig. 4.
+Open in a new tab
+Ratio of misinformation tweets out of all 5G tweets, showing both 5G-COVID misinformation and other conspiracy theories. On the right axis in red, we also denote the ratio of 5G tweets among all COVID-19 tweets. Each data point is the average of seven daily values around the date
+The ratio of 5G misinformation tweets peaks on March 19, a few days before the global maximum of the COVID-19 tweets. On the other hand, the retweets attain their highest values later in the year 2020. This indicates that the initial wildfire was likely caused by a large number of tweets with relatively few retweets, which is quite different from the conventional idea of a single message being shared virally.
+Automated location analysis
+As discussed in Sect. 2 , the wildfire was initially based in the UK but affected other countries afterward. Thus, understanding the spatial distribution of the 5G-COVID misinformation tweets is necessary to understand the long-term behavior of the digital wildfire. In order to do so, we built a system to decode the self-reported locations of the Twitter users. Initially, we experimented with the tweet locations reported by Twitter, but only a small number of users enable this feature, and it is not clear whether this sample would be representative.
+On the other hand, about half the tweets come from users that have a meaningful self-reported location. While it is not possible for us to determine the accuracy of the locations, we assume that there is no systematic widespread misreporting, in accordance with accepted practice in the social sciences. However, decoding the locations automatically into data that can be evaluated by country poses an additional challenge.
+We solve this problem in the following way: We first count the frequency of each self-reported location string. The count shows that less than 120,000 location strings appear more than once. Therefore, it becomes possible to use the Google Geocoding API [ 33 ] which transforms the text string into a Country/State/City record. We only consider countries, and we group smaller and non-English speaking countries by continent, since they have very few English tweets. In this manner, we obtain a valid location for about half the tweets, which are then aggregated into 12 countries, groups of countries, and continents. Note that calling the Geocoding API for every individual tweet or user is possible, but prohibitively expensive, since Google charges users for each individual request.
+An overview over the distribution is given in Fig. 5 . As expected, the USA and the UK have by far the most tweets, followed by Nigeria. The total is three times higher than the set of tweets alone, which means that each tweet has two retweets on average in the dataset. The rate is highest in India with almost four retweets per tweet and lowest in the UK with about 1.5.
+Fig. 5.
+Open in a new tab
+Number of tweets and retweets by country
+Detailed spatiotemporal analysis
+In order to investigate the connection between the geographical and temporal distribution of misinformation tweets and real-world events, we first present the distribution of the 5G tweet set over time, divided by country or region. The results are given in Fig. 6 .
+Fig. 6.
+Open in a new tab
+Distribution of the tweets by country over time. The given values are fractions of the total number of 5G tweets with recorded location for that day
+In order to reduce visual clutter, we spread the data into three separate charts showing the ratio of the daily tweets. Recall from Fig. 3 that the number of tweets varies widely during the observation period, which means that the share of a country or region in early 2020 represents a far greater total number of tweets. Numbers are smoothed by taking the average over seven days.
+In the top figure, we see that for Canada, the USA, the UK, Australia, and New Zealand, the ratios go up and down periodically, but a constant interest in the topic remains. On the other hand, the middle figure shows that for Nigeria, India, and South Africa, the ratios have a single high peak for a short time span, outside of which they drop to a very low level. For other world regions, which are shown in the bottom chart of Fig. 6 , no consistent picture is discernible. Since most of these countries do not primarily speak English, we do not investigate them further, with the exception of the sharp peak for Asia and Oceania in May 2020. Further investigation showed this to be a result of unusual activity in Hong Kong, which we add to the observed countries in the next figure.
+We plot the number of misinformation tweets detected by the MLP system (see Sect. 4.1 ) by country over time. Figure 7 shows a monthly aggregation of the number of 5G-COVID tweets. The aggregation was necessary because the daily number of misinformation tweets is quite low for some countries, and daily variance among the misinformation tweets is very high, as observed in Fig. 4 . We use a logarithmic scale to adjust for the large differences between different countries and different points in time.
+Fig. 7.
+Open in a new tab
+Spatiotemporal distribution of 5G-COVID misinformation
+While almost all countries reach their maximum in April 2020, it is noteworthy that both Nigeria and the UK almost approach the US level, suggesting that these countries played a crucial role in establishing the misinformation narrative. We observe that the numbers are partially correlated, which is unsurprising since the tweets are not bound by national borders. However, the secondary peak that occurs in January 2021 coincides with a period of very high COVID-19 case numbers [ 43 ]. Furthermore, the secondary peak for India does not appear until May 2021, at the time when the country was most affected by the pandemic.
+Furthermore, we observe that there is a substantial number of misinformation tweets in Hong Kong in May 2020, which quickly declines to essentially nothing afterward. (The logarithmic scale does not resolve the difference between 1 and 0.) The same is true for non-misinformation 5G tweets, but not COVID-19 tweets in general. Thus, it is likely that this decline is the result of political action, i.e., filtering all mentions of 5G, rather than a change in user behavior.
+In Fig. 8 , we show the numbers for other conspiracy theories in the same manner. Note that this only refers to tweets that mention 5G but promote conspiracy theories other than 5G-COVID misinformation. It shows a similar behavior over time in most countries (correlation of r = 0.98 ). However, this is an artifact of the monthly aggregation. The correlation between the daily global numbers presented in Fig. 4 is r = 0.349 for the absolute and r = - 0.1 for the relative (i.e. divided by total number of tweets) number, indicating that there is no common factor that drives different types of COVID-19 misinformation.
+Fig. 8.
+Open in a new tab
+Spatiotemporal distribution of other misinformation
+Finally, in Fig. 9 , we consider only 5G-COVID misinformation tweets without retweets. The behavior is similar to Fig. 7 , but here we observe an unusually high number of tweets in January 2021 only for South Africa. As shown in Table 3 in appendix, there was a tower attack at that time in South Africa. Thus, it is likely that the high number of 5G-COVID misinformation retweets is caused by tweet activity in South Africa, potentially by bot accounts. However, investigating these accounts is outside the scope of this study.
+Fig. 9.
+Open in a new tab
+Spatiotemporal distribution of 5G-COVID misinformation excluding retweets
+Quantitative observations
+We analyzed 5G-COVID and related misinformation and studied its development over time for most major English-speaking countries. The pandemic initially caused massive activity on Twitter, which slowly declined over the following 18 months, and the 5G tweets show a similar behavior. In some countries the topic has shown a consistent presence, while in others, especially India, Nigeria, and South Africa, it appeared and then disappeared quickly.
+Following the cell tower attacks in early April 2020, the number of 5G tweets spiked. However, except for the case in South Africa, we do not observe a spike in misinformation tweets that predates the attacks. In this regard, the 5G-COVID digital wildfire differs from a simple digital wildfire, where an exponential spread of messages directly preceded real-world harm.
+Thus, observing Twitter activity is unlikely to provide advance warning of real-world effects of a digital wildfire, at least when using the methods described here. If this is at all possible, it would require detection methods that are far more powerful (and thus computationally far more expensive) than our MPL classifier. Consequently, in the following section, we investigate other factors that might have contributed to the 5G-COVID digital wildfire.
+5G-COVID misinformation videos
+In this section, we investigate the role that video platforms such as YouTube and BitChute played in the 5G-COVID misinformation event. The analysis is predominantly qualitative, aided by processing the closed caption text that is generated automatically from videos. The investigation into the origins of the 5G-COVID misinformation event in Sect. 2.2 pointed to a series of videos which show clear links to 5G opposition that existed before January 2020.
+Opposition to 5G before COVID-19 on YouTube and other video platforms
+Concerns about the safety of wireless devices have existed for a long time, and even though the scientific consensus clearly finds low-powered personal devices to be safe for human use [ 9 ], rumors to the contrary seem to persist in the many countries. The 5G standard, which was introduced in late 2018, has drawn particularly vocal criticism which in some places has delayed or stopped 5G adoption [ 71 ]. Fringe YouTube channels provide a large amount of material discussing the alleged dangers of 5G. For instance, the Swiss KlagemauerTV [ 45 ] (more than 100,000 subscribers) released more than 50 videos discussing the alleged dangers of 5G in 2018–2019 (with about 10,000 views per video). The topic was also covered by the Russian channel RT [ 60 ] in early 2019.
+Furthermore, a network of activists [ 67 ] organized protests against the adoption of 5G in 2019, i.e., before the COVID-19 pandemic. In January 2020, the group repeatedly called for protests against 5G, including a “Global Day of Protest” on January 25, with the call itself appearing shortly before the first tweets linking 5G and COVID-19 appeared. The British fact-checking organization FullFact conjectures that the 5G-COVID connection grew out of this movement [ 30 ]. This conjecture is supported by our data due to the fact that many early tweets propose the Immunosuppressor and the Cover-up narratives, which are consistent with the idea that 5G is directly harmful.
+Videos promoting 5G-COVID misinformation
+Among the early tweets investigated in Sect. 3.1 , only one had a significant number of retweets (about 500), indicating the potential to reach a wider audience. The tweet came from an account that has almost 100,000 followers and was associated with a YouTube channel named “Amazing Polly” that was promoting Mind Control Conspiracy theories. The YouTube channel was removed in October 2020, but the videos continue to be available on BitChute and a dedicated website of the same name. While the narrative differs from other sources that oppose 5G and the conversation is not linked to similar conversations on Twitter, considering the reach of this source, it is likely that it was instrumental for the misinformation to spread in the early stages. Others content creators who had opposed 5G prior to 2020 produced their own videos soon thereafter, i.e., by the end of January 2020 [ 42 ].
+Following the restrictions on public life imposed in late March 2020 by governments in Europe to slow down infection rates, a YouTube video uploaded on March 28 quickly gained popularity among anglophone conspiracy theorists. The person in the recording claims to be the former “[...] head of the largest business unit at Vodafone [...] between 2013 to 2015 [...]” and back then responsible for the implementation of IoT (Internet of Things) and 5G technologies. The Guardian [ 37 ] later was able to uncover the identity of the speaker as evangelical pastor Jonathon James who, according to The Guardian’s sources at Vodafone was hired for a sales position at Vodafone in 2014 and left the company less than a year later.
+In the 30-minute recording, James presents a narrative starting with how the frequencies emitted by cell towers with 5G technology give people radiation poisoning, making the human body produce the SARS-CoV-2 virus. He claims that vaccines are dangerous and that a New World Order and Microsoft founder Bill Gates are behind a plan to “[...] pave the way for the Antichrist [...]”. On April 2, four days after its initial upload, YouTube deleted the video after it had gained substantial attention. Thereafter, it was uploaded to different YouTube channels, and later to BitChute. We found over 1,000 tweets promoting the video. On the other hand, we found only 40 tweets that mention David Icke, who is more widely known in the UK and was commonly believed to be an important factor in motivating the perpetrators of the attacks on cell phone towers [ 13 ].
+There has been a significant discussion on how YouTube can lead to radicalization [ 5 , 46 ]. The underlying idea is that the recommendation engine guides non-radicalized users toward increasingly radical content. However, this problem can be remedied by removing content from YouTube. On the other hand, the 5GCOVID digital wildfire was not stopped, even though many related videos were quickly removed from YouTube. Some attacks occurred several months after removal. Videos which could persuade viewers to take violent action remained on lesser known sites such as BitChute. Such sites have far fewer users, and it is unlikely that non-radicalized users find such videos by chance. However, it seems that in this case the widespread sharing of the video URL on Twitter created an alternative path to advertise persuasive videos to a significant number of viewers. This possibility should be taken into account when designing mitigation strategies for digital wildfires.
+Motivation of misinformation spreaders
+So far, we have studied extensively how the 5G-COVID misinformation event spread, but we have not discussed why . In this section, we approach this question in two different lines of investigation, the first being financial and the second psychological.
+Commercial interests
+On May 28, 2020, several news sources reported that London Trading Standards was targeting a British company called BIOSHIELD DISTRIBUTION LTD. for selling USB sticks as a device that “protects against harmful radiation” [ 16 ], following a recommendation by a security company that had analyzed the product [ 54 ].
+The event has had little impact on Twitter, but searching the tweets for the name of the company pointed to a YouTube channel called “Connecting Consciousness” (CC) [ 65 ] that spreads different fringe ideas commonly classified as esoteric or conspiracy theories, including the idea that 5G is harmful to humans. The YouTube channel has around 50,000 viewers, with several hundred comments on each video.
+The channel advertised “5G defense sticks” already in October 2019, with the CC website providing a link to a webshop, even though it claimed to be independent from the manufacturers of the device. On January 6, 2020, the channel announced delays in the fulfillment of the orders and on January 16, 2020, it hosted a presentation by the alleged inventors of the device. BIOSHIELD DISTRIBUTION LTD. was incorporated at Companies House on January 20, 2020.
+Like similar products of this kind, the device seems to have been promoted at the “5G Apocalypse Event” [ 8 ] held in London in September 2019. (One of the two alleged inventors was a speaker at this event.) While the CC channel did not suggest a direct connection between 5G and COVID-19, other speakers from that event did so on January 31, 2020 [ 42 ].
+The “5G Bioshield” was sold for a price of 350 USD through a professional looking website with a web shop that was still functional in July 2020. Clearly, there is a substantial commercial interest to spread misinformation for some people, and it is likely that this contributed to the digital wildfire. While many channels on YouTube pursue financial gain, it is important to distinguish between direct monetization of content, calling for donations, and the sale of questionable products. The former can easily be controlled by the video platforms. For direct monetization, the content is irrelevant as long as the videos are watched, even if viewers disagree with their content. It suffices that the viewers find it entertaining. For donations, a higher level of agreement with the content is required. However, neither of the two directly depend on a threat narrative. On the other hand, selling so-called “protective equipment” requires creating the idea of a threat. Therefore, such actors have a direct financial motivation to spread threat narratives online.
+Action and belief in conspiracy theories
+While the perpetrators and thus the motivation of most of the arson incidents are not known, the perpetrators of the harassment of workers in the UK [ 14 ] and the kidnapping of technicians in Peru [ 1 ] clearly stated that the alleged dangers of 5G were the motivation for their actions, and their intentions were clearly stated in some social media channels [ 52 ]. Thus, we can assume that the 5G-COVID- related conspiracy theories played a crucial role in causing real-world harm, which is the characteristic of a digital wildfire .
+A survey performed in early May 2020 in the UK showed that more than 20% of the respondents agree at least a little with the statement “Coronavirus is caused by 5G and is a form of radiation poisoning transmitted through radio waves,” while 1.8 % agree completely [ 29 ]. However, considering that only 0.05 % of all COVID-19 tweets even mention 5G, this seems unlikely. The methodology of the survey has been criticized since it offered only one negative and four positive answers [ 32 ]. A similar survey conducted in Norway in April 2020 with balanced positive and negative answers showed only 2.4 % agreement and 0.7 % full agreement with the statement “The 5G network has an effect on the spread of COVID-19” [ 26 ]. Furthermore, this belief was strongly correlated ( r = 0.412 , p ≤ 0.001 ) with “The magnitude of COVID-19 is exaggerated in order to persuade the world’s population to take a vaccine,” as well as other misinformation narratives.
+The psychological literature has investigated the connection between paranoid thought and belief in conspiracy theories, but recent work highlighted differences between the two constructs [ 40 ]. Endorsement of conspiracy theories is not constant over time, and it depends on the situation. Conspiracy theories tend to be associated with major events, times of political instability and collective threats, such as the 9/11 terror attacks, the death of Princess Diana or the assassination of J. F. Kennedy [ 25 , 35 , 48 , 64 ]. Having experienced stressful life events during the past six months is connected with belief in conspiracy theories [ 68 ]. Such events elicit feelings of uncertainty, and conspiracy theories can give people an explanation for a situation and its ultimate cause and hence reduce confusion. Furthermore, experimentally induced high-anxiety situations were associated with conspiracy thinking in research participants [ 36 ]. The COVID-19 pandemic is both a major and a stressful event. Moreover, it is associated with many uncertainties [ 55 , 59 ] and these factors provide conspiracy theories with ideal conditions to flourish. Thus, a general willingness to endorse conspiracy theories exists, which can even cause contradictory narratives to combine into a widespread conspiracy belief, such as the 5G-COVID connection observed here, rather than counteracting each other [ 41 ].
+Another study found that “belief in 5G COVID-19 conspiracy theories was positively correlated with state anger, which in turn, was associated with a greater justification of real-life and hypothetical violence in response to an alleged link between 5G mobile technology and COVID-19” [ 44 ], thus providing strong support for the connection between the misinformation and the arson attacks among a small group of the population.
+Combining this information with the financial motivation to propose conspiracy theories or other threat narratives, the difficulties in counteracting such digital wildfires become clear. The surveys indicate that such ideas have a small group of convinced followers. While their number is apparently small, i.e., less than 1 % of the population, they have psychological reasons to believe in such threat narratives, and they are unlikely to abandon their beliefs based on statements by authorities.
+Furthermore, due to the borderless nature of the internet, attempts to suppress wildfire messages proved unsuccessful, as discussed in Sect. 5 . On the other hand, in Sect. 6.1 we saw that targeting BIOSHIELD DISTRIBUTION LTD. combined with demonetizing videos on YouTube appears to have been relatively successful, at least in the UK. Thus, as a general lesson from the 5G-COVID event, we conclude that eliminating the different possibilities of financially benefiting from spreading harmful misinformation is the most effective strategy for preventing or mitigating digital wildfires.
+Related work
+While many studies have investigated specific rumors [ 24 ] or pieces of misinformation such as Chemtrails [ 72 ] or conspiracies [ 25 ] a significantly smaller amount of research targeted digital wildfires. Previous research on digital wildfires [ 74 ] studied the Lord McAlpine scandal [ 70 ] in which false accusation regarding child abuse were stated against the politician.
+Misinformation has played a substantial role during the COVID-19 pandemic, to the extent where it has been labeled an “Infodemic” by the WHO [ 78 ] and discussed widely in the media. Several studies have investigated [ 39 , 79 ] these topics.
+Ahmed et. al. [ 4 ] published early results in early May 2020, shortly after the digital wildfire reached its peak. The investigation includes a graph analysis of key participant groups and essentially finds that those who participate in the discussion only believe in the narrative to a small extent. A large proportion of the participants (65.2%) merely talk about what is happening and thus indirectly contribute to its dissemination. It should be noted that the presented research is limited to the period from March 27, 2020, to April 4, 2020. This is the period in which the corresponding Twitter hashtag was trending in the UK. Moreover, Twitter is the only considered medium.
+Interviewing 601 British people related to the Covid 19 and 5G conspiracy narrative, Jolley and Peterson [ 44 ] showed a positive correlation between belief in conspiracy myths and anger. Furthermore, it shows that adherents of conspiracy myths in general and adherents of the 5G-COVID conspiracy narrative in particular are more violent than those who do not believe in conspiracy myths.
+Ovenseri-Ogbomo et. al. [ 53 ] administered a cross-sectional survey of 2032 participants between April 18, 2020, and May 16, 2020, focusing on beliefs regarding the 5G-COVID conspiracy narrative in sub-Saharan Africa. They found that up to 14.4% of the of the respondents in Central Africa and 7.9% on average believed in the narrative. This result complements our findings regarding the high number of misinformation tweets in Africa.
+Bruns et. al. [ 20 ] analyzed more than 80,000 Facebook posts from January 1, 2020, to April 12, 2020, by retracing the dynamic of rumor dissemination through time series, qualitative, and network analysis. Compared to Twitter, Facebook represents an environment that reflects local community structures with strong ties more precisely. The resulting pockets of distinct communication act more as a Petri dish in which different branches of conspiracy myths can evolve. However, similar to our conclusion in Sect. 8 , Bruns et. al. conclude that the 5G-COVID misinformation event is an amalgam of long established beliefs and narratives.
+Conclusion
+The 5G-COVID misinformation event bears all the characteristics of a digital wildfire, but unlike earlier conspiracy theories which predate the widespread use of social media, it was possible to trace the 5G-COVID misinformation to its very beginning on Twitter, giving us deep insights into the origins of the event. Based on that, our analysis produced four key findings:
+The wildfire builds on existing ideas that are interpreted in the light of the new situation.
+The wildfire depends on an interplay between different social media platforms. Twitter allows ideas to spread among a relatively small group, while thematically focused video channels reach a relatively large audience. On the other hand, news websites played no significant role except by reporting on real-world harm.
+The existence of mutually exclusive narratives has strengthened the 5G-COVID misinformation event rather than weakening it.
+A pure Twitter analysis underestimates the effect of videos with commercial interests and large numbers of viewers.
+We believe that for mitigating future digital wildfires, it is important to take all four observations into account. However, doing so is technologically challenging, especially w.r.t. the second finding. In previous work, the concept of information cascade has often been equated with a single tweet and its retweets [ 10 ]. However, for the 5G-COVID misinformation event we observe that misinformation did not only spread through a large number of tweets with comparatively small influence but also in parallel on other social media channels. This ties in with the third observation. Not only did the information cascade consist of a multitude of individual messages, but the messages also contained conflicting narratives. One could argue that this should be classified as a set of individual information cascades instead, but all these messages strengthened the core idea of the digital wildfire, i.e., that 5G and COVID-19 are somehow linked.
+There is a broad consensus in many countries that digital wildfires constitute a threat to society [ 27 ] and that measures should be taken to counteract them. However, there is a considerable disagreement on which measures are appropriate to do so. It is important to remember that although the events can be shocking, the property damage was moderate and so far, no lives were lost. Thus, censorship, which apparently happened in Hong Kong, would be grossly disproportionate. Instead, we formulate the following four policy recommendations:
+Targeting content, e.g., by removing offending videos, was not particularly successful, since alternatives to YouTube were readily available and Twitter messages promoted videos on alternative sites. Furthermore, removing content often constitutes, or is perceived as, a form of censorship, which can erode trust in authorities. Thus, it may be preferable to retain content and instead prevent it from being advertised widely (e.g., via the recommendation engine on YouTube).
+Targeting financial motivations of misinformation spreaders is far more feasible and has fewer political risks than content removal. Both demonetization of content and investigation of fraudulent products can be advisable.
+While the prediction of digital wildfires appears to be extremely difficult to achieve with current technology, ex-post observation of digital wildfires can be valuable because the same misinformation may cause harm more than once. Several 5G-COVID-related attacks happened in 2021, several months after the first wave of events.
+Finally, it is important to share results obtained in this manner internationally, since a wildfire is more likely to reappear in a country that was so far unaffected. This is especially true for counties that have little contact with the original place in which the wildfire occurs, as evidenced by the kidnapping of technicians in Peru.
+While the effects of 5G-COVID were not as devastating as those of other misinformation, it is important to consider that 5G is envisioned to provide extreme reliability for automotive and industrial applications. Therefore, damage to the infrastructure could have much more serious consequences in the future [ 17 ].
+Despite the difficulties, the analysis of social media provides the best chance for detecting potential digital wildfires while they unfold. In future work, we will investigate the use of more advanced natural language processing methods to sharpen the automated analysis, as well as enable the investigation of different misinformation narratives at the same time.
+Acknowledgements
+This work was funded by the Norwegian Research Council under contracts #272019 and #303404, The research presented in this paper has benefited from the Experimental Infrastructure for Exploration of Exascale Computing (eX3), which is financially supported by the Research Council of Norway under contract #270053. The authors acknowledge support from Michael Kreil in the collection of Twitter data.
+Appendix
+Search Keywords list of search English keywords for obtaining the initial set of COVID tweets was as follows: #corona , corona , covidiot , #covidiot , #coronaoutbreak , #coronarvirus , #coronavirus , #coronavirusde , #coronavirusoutbreak , #covid , #covid19 , #covid2019 , #covid_19 , #covid-19 , #wuhan , #wuhancoronavirus , #wuhancoronovirus , #wuhanvirus , coronarvirus , coronavirus , coronavirusde , coronavírus , covid , covid-19 , covid19 , covid2019 , covid_19 , covid-19 , epidemic , pandemic , quarantine , quarantined , wuhan .
+The search was performed concurrently with searches in other languages. However, only English tweets were included in the dataset.
+Declarations
+Conflict of Interest Statement
+On behalf of all authors, the corresponding author states that there is no conflict of interest.
+Footnotes
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Contributor Information
+Johannes Langguth, Email: langguth@simula.no.
+Petra Filkuková, Email: petrafilkukova@simula.no.
+Stefan Brenner, Email: sb288@hdm-stuttgart.de.
+Daniel Thilo Schroeder, Email: daniels@simula.no.
+Konstantin Pogorelov, Email: konstantin@simula.no.
+References
+1. 24, F.: Technicians freed in peru over covid-19 5g scare. https://bit.ly/3wG3YS4 (2020). Accessed 24 May 2021
+2. Africa, C.: Vodacom, mtn towers burnt in sa by alleged 5g conspiracy theorists. http://www.connectingafrica.com/author.asp?section_id=761 &doc_id=766499 & (2021). Accessed 24 May 2021
+3. Ahmed, W., Downing, J., Tuters, M., Knight, P.: Four experts investigate how the 5g coronavirus conspiracy theory began. Conversation (2020)
+4. Ahmed W, Vidal-Alaball J, Downing J, Seguí FL. Covid-19 and the 5g conspiracy theory: social network analysis of twitter data. J. Med. Internet Res. 2020;22(5):e19458. doi: 10.2196/19458. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+5. Alfano, M., Fard, A.E., Carter, J.A., Clutton, P., Klein, C.: Technologically scaffolded atypical cognition: the case of youtube’s recommender system. Synthese, pp. 1–24 (2020)
+6. America-First.org
+7. Anzeiger, G.: Gibt es in bonn eine brandanschlagserie auf funkmasten? https://bit.ly/34qR7Y8 (2020). Accessed 24 May 2021
+8. Apocalypse, G.: 5G apocalypse—the extinction event. https://5gapocalypse.london/ . Accessed 25 May 2021
+9. Baan R, Grosse Y, Lauby-Secretan B, El Ghissassi F, Bouvard V, Benbrahim-Tallaa L, Guha N, Islami F, Galichet L, Straif K. Carcinogenicity of radiofrequency electromagnetic fields. Lancet Oncol. 2011;12(7):624–626. doi: 10.1016/S1470-2045(11)70147-4. [ DOI ] [ PubMed ] [ Google Scholar ]
+10. Bakshy, E., Hofman, J.M., Mason, W.A., Watts, D.J.: Everyone’s an influencer: quantifying influence on twitter. In: Proceedings of the Fourth ACM International Conference on Web Search and Data Mining, pp. 65–74 (2011)
+11. Banaji, S., Bhat, R., Agarwal, A., Passanha, N., Sadhana Pravin, M.: (Whatsapp Vigilantes: An Exploration of Citizen Reception and Circulation of Whatsapp Misinformation Linked to Mob Violence in India). London School of Economics and Political Science (2019)
+12. Bartoschek, S.: Bekanntheit von und Zustimmung zu Verschwörungstheorien: eine empirische Grundlagenarbeit. Jmb-Verlag (2015)
+13. BBC: Coronavirus: YouTube tightens rules after David Icke 5G interview. https://www.bbc.com/news/technology-52198946 . Accessed 29 May 2021
+14. BBC: Coronavirus: ’Murder threats’ to telecoms engineers over 5G. BBC News (2020). https://www.bbc.com/news/newsbeat-52395771 . Accessed 25 May 2021
+15. BBC: Coronavirus: Twitter bans incitement to attack 5G towers. https://www.bbc.com/news/technology-52395158 (2020). Accessed 24 May 2021
+16. BBC: Trading Standards squad targets anti-5G USB stick. BBC News (2020). https://bbc.in/34qRK3W . Accessed 25 May 2021
+17. Benedetti, I., Giuliano, R., Lodovisi, C., Mazzenga, F.: 5g wireless dense access network for automotive applications: opportunities and costs. In: 2017 International Conference of Electrical and Electronic Technologies for Automotive, pp. 1–6. IEEE (2017)
+18. Berliner-Zeitung: Brandanschlag auf mobilfunkkonzern: Polizei vermutet linksextremistischen anschlag. https://bit.ly/2R5nqJ2 (2020). Accessed 24 May 2021
+19. Berliner-Zeitung: Brandanschlag bleibt räselhaft. https://bit.ly/3i1dPhs (2020). Accessed 24 May 2021
+20. Bruns A, Harrington S, Hurcombe E. ‘Corona? 5G? or both?’: the dynamics of COVID-19/5G conspiracy theories on Facebook. Media Int. Aust. 2020;177(1):12–29. doi: 10.1177/1329878X20946113. [ DOI ] [ Google Scholar ]
+21. Business, C.: Uk bans huawei from its 5g network in rapid about-face. https://cnn.it/3vu77o4 (2020). Accessed 25 May 2021
+22. CNET: Fake 5g coronavirus theories have real-world consequences. https://cnet.co/3oZmx0Z (2020). Accessed 24 May 2021
+23. Cucinotta D, Vanelli M. Who declares covid-19 a pandemic. Acta Bio Medica Atenei Parmensis. 2020;91(1):157. doi: 10.23750/abm.v91i1.9397. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+24. De Domenico M, Lima A, Mougel P, Musolesi M. The anatomy of a scientific rumor. Sci. Rep. 2013;3(1):1–9. doi: 10.1038/srep02980. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+25. Douglas KM, Sutton RM. The hidden impact of conspiracy theories: perceived and actual influence of theories surrounding the death of princess diana. J. Soc. Psychol. 2008;148(2):210–222. doi: 10.3200/SOCP.148.2.210-222. [ DOI ] [ PubMed ] [ Google Scholar ]
+26. Filkuková, P., Ayton, P., Rand, K., Langguth, J.: What should i trust? Individual differences in attitudes to conflicting information and misinformation on covid-19. Front. Psychol. 1392 (2021) [ DOI ] [ PMC free article ] [ PubMed ]
+27. Forum, W.E.: Digital wildfires in a hyperconnected world. In: Global Risks, 8 edn, pp. 23–28 (2013). https://bit.ly/3tGaUwO
+28. fr24news: La théorie du complot sur la 5g provoquant un coronavirus, expliquée. https://bit.ly/3q1xTmR (2020). Accessed 17 May 2021
+29. Freeman, D., Waite, F., Rosebrock, L., Petit, A., Causier, C., East, A., Jenner, L., Teale, A.L., Carr, L., Mulhall, S., et al.: Coronavirus conspiracy beliefs, mistrust, and compliance with government guidelines in England. Psychol. Med. 1–13 (2020) [ DOI ] [ PMC free article ] [ PubMed ]
+30. Full Fact: Here’s where those 5G and coronavirus conspiracy theories came from. https://fullfact.org/online/5g-and-coronavirus-conspiracy-theories-came/ . Accessed 25 May 2021
+31. Full Fact: Here’s where those 5g and coronavirus conspiracy theories came from. https://fullfact.org/online/5g-and-coronavirus-conspiracy-theories-came/ (2020). Accessed 17 May 2021
+32. Garry, J., Ford, R., Johns, R.: Coronavirus conspiracy beliefs, mistrust, and compliance: taking measurement seriously. Psychol. Med. 1–11 (2020) [ DOI ] [ PMC free article ] [ PubMed ]
+33. Google Maps Platform: Google Geocoding API. https://developers.google.com/maps/documentation/geocoding/overview (2020). Accessed 12 Dec 2021
+34. Gov, C.: S.893-secure 5g and beyond act of 2020. https://bit.ly/2SuYc77 (2020). Accessed 25 May 2021
+35. Grzesiak-Feldman M. Conspiracy thinking and state-trait anxiety in young polish adults. Psychol. Rep. 2007;100(1):199–202. doi: 10.2466/pr0.100.1.199-202. [ DOI ] [ PubMed ] [ Google Scholar ]
+36. Grzesiak-Feldman M. The effect of high-anxiety situations on conspiracy thinking. Curr. Psychol. 2013;32(1):100–118. doi: 10.1007/s12144-013-9165-6. [ DOI ] [ Google Scholar ]
+37. Guardian, T.: Revealed: ’former Vodafone executive’ in 5G conspiracy video is UK pastor. https://bit.ly/3i5oS9p (2020). Accessed 29 May 2021
+38. Guardian, T.: Youtube moves to limit spread of false coronavirus 5g theory. https://bit.ly/3vxviSp (2020). Accessed 24 May 2021
+39. Huang, B., Carley, K.M.: Disinformation and misinformation on twitter during the novel coronavirus outbreak (2020)
+40. Imhoff R, Lamberty P. How paranoid are conspiracy believers? Toward a more fine-grained understanding of the connect and disconnect between paranoia and belief in conspiracy theories. Eur. J. Soc. Psychol. 2018;48(7):909–926. doi: 10.1002/ejsp.2494. [ DOI ] [ Google Scholar ]
+41. Imhoff R, Lamberty P. A bioweapon or a hoax? The link between distinct conspiracy beliefs about the coronavirus disease (covid-19) outbreak and pandemic behavior. Social Psychol. Personal. Sci. 2020;11(8):1110–1118. doi: 10.1177/1948550620934692. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+42. Jason Liosatos Outside The Box: Coronavirus The Shocking Truth 5G Interview with David DuByne and Mark Steele (2020). https://www.youtube.com/watch?v=hjVxajUz09s . Accessed 25 May 2021
+43. John Hopkins University: Coronavirus Resource Center (2021). https://coronavirus.jhu.edu/data/new-cases
+44. Jolley D, Paterson JL. Pylons ablaze: examining the role of 5g covid-19 conspiracy beliefs and support for violence. Br. J. Soc. Psychol. 2020;59(3):628–640. doi: 10.1111/bjso.12394. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+45. KlagemauerTV.: klagemauerTV-YouTube. https://www.youtube.com/user/klagemauerTV . Accessed 25 May 2021
+46. Ledwich, M., Zaitsev, A.: Algorithmic extremism: examining youtube’s rabbit hole of radicalization. arXiv preprint arXiv:1912.11211 (2019)
+47. Leetaru K, Schrodt PA. Gdelt: global data on events, location, and tone, 1979–2012. ISA Annual Convent. 2013;2(4):1–49. [ Google Scholar ]
+48. McHoskey JW. Case closed? On the John F. Kennedy assassination: biased assimilation of evidence and attitude polarization. Basic Appl. Soc. Psychol. 1995;17(3):395–409. doi: 10.1207/s15324834basp1703_7. [ DOI ] [ Google Scholar ]
+49. Metaxas, P., Finn, S.T.: The infamous# pizzagate conspiracy theory: insight from a twittertrails investigation. Wellesley College Digital (2017)
+50. News, A.: Opponents of 5g networks set fire to cyprus’ mobile antennas. https://apnews.com/4e7cdfbfeca9ed47d3d283e2cba4ba43 (2020). Accessed 24 May 2021
+51. News, C.: Police say cell phone tower fire in scarborough considered arson. https://bit.ly/3yKlcjb (2021). Accessed 24 May 2021
+52. News, S.: Coronavirus: concern after facebook groups call for harassment of 5G engineers. https://bit.ly/3yKqMSM (2020). Accessed 26 May 2021
+53. Ovenseri-Ogbomo, G.O., Ishaya, T., Osuagwu, U.L., Abu, E.K., Nwaeze, O., Oloruntoba, R., Ekpenyong, B., Mashige, K.P., Chikasirimobi, T.G., Langsi, R., et al.: Factors associated with the myth about 5g network during covid-19 pandemic in Sub-Saharan Africa. J. Glob. Health Rep. (2020)
+54. Pen Test Patners: Reverse Engineering a 5g “Bioshield”| Pen Test Partners. https://bit.ly/3hZeArb . Accessed 25 May 2021
+55. Pfefferbaum, B., North, C.S.: Mental health and the covid-19 pandemic. New Engl. J. Med. (2020) [ DOI ] [ PubMed ]
+56. Pogorelov, K., Schroeder, D.T., Burchard, L., Moe, J., Brenner, S., Filkukova, P., Langguth, J.: Fakenews: corona virus and 5g conspiracy task at mediaeval 2020. In: MediaEval 2020 Workshop (2020)
+57. Pogorelov, K., Schroeder, D.T., Filkuková, P., Brenner, S., Langguth, J.: Wico text: a labeled dataset of conspiracy theory and 5g-corona misinformation tweets. In: Proceedings of the 2021 Workshop on Open Challenges in Online Social Networks, pp. 21–25 (2021)
+58. Pogorelov, K., Schroeder, D.T., Filkukova, P., Langguth, J.: A system for high performance mining on gdelt data. In: 2020 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), pp. 1101–1111. IEEE (2020)
+59. Rajkumar, R.P.: Covid-19 and mental health: a review of the existing literature. Asian J. Psychiatry 102066 (2020) [ DOI ] [ PMC free article ] [ PubMed ]
+60. RT America: 5G Wireless: A Dangerous “Experiment on Humanity” (2019). https://www.youtube.com/watch?v=H_f9gpg4t6c . Accessed 25 May 2021
+61. Rumelhart, D.E., Hinton, G.E., Williams, R.J.: Learning internal representations by error propagation. Technical Report. California Univ San Diego La Jolla Inst for Cognitive Science (1985)
+62. Schroeder, D.T., Pogorelov, K., Langguth, J.: Fact: a framework for analysis and capture of twitter graphs. In: 2019 Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS), pp. 134–141. IEEE (2019)
+63. Schroeder, D.T., Pogorelov, K., Langguth, J.: Evaluating standard classifiers for detecting covid-19 related misinformation. Multimed. Eval. Benchmark 2019 (2020)
+64. Sharp D. Advances in conspiracy theory. Lancet (London, England) 2008;372(9647):1371–1372. doi: 10.1016/S0140-6736(08)61570-6. [ DOI ] [ PubMed ] [ Google Scholar ]
+65. Simon Parkes: Simon Parkes-YouTube. https://www.youtube.com/c/SimonParkes/videos . Accessed 25 May 2021
+66. Spring, M.: Wayfair: the false conspiracy about a furniture firm and child trafficking (2020). https://bbc.in/3wIK9cQ
+67. Stop 5G International: Stop 5G International. https://stop5ginternational.org (2021). Accessed 29 May 2021
+68. Swami V, Furnham A, Smyth N, Weis L, Lay A, Clow A. Putting the stress on conspiracy theories: examining associations between psychological stress, anxiety, and belief in conspiracy theories. Personal. Individ. Differ. 2016;99:72–76. doi: 10.1016/j.paid.2016.04.084. [ DOI ] [ Google Scholar ]
+69. Temperton, J.: How the 5G coronavirus conspiracy theory tore through the internet. Wired UK (2020). https://www.wired.co.uk/article/5g-coronavirus-conspiracy-theory . Accessed 25 May 2021
+70. The Guardian: Newsnight mcalpine scandal—13 days that brought down the bbc’s chief (2014). https://bit.ly/34qQlu3
+71. Times, F.: Switzerland halts rollout of 5g over health concerns (2020). https://www.ft.com/content/848c5b44-4d7a-11ea-95a0-43d18ec715f5 . Accessed 25 May 2021
+72. Tingley D, Wagner G. Solar geoengineering and the chemtrails conspiracy on social media. Palgrave Commun. 2017;3(1):1–7. doi: 10.1057/s41599-017-0014-3. [ DOI ] [ Google Scholar ]
+73. Today, V.:
+74. Webb H, Burnap P, Procter R, Rana O, Stahl BC, Williams M, Housley W, Edwards A, Jirotka M. Digital wildfires: propagation, verification, regulation, and responsible innovation. ACM Trans. Inform. Syst. 2016;34(3):1–23. doi: 10.1145/2893478. [ DOI ] [ Google Scholar ]
+75. Welle, D.: Uk allows role for huawei in shaping 5g network. https://bit.ly/3yMusTO (2020). Accessed 25 May 2021
+76. Wired: The 5g coronavirus conspiracy theory just took a really dark turn. https://bit.ly/3i0a77O (2020). Accessed 24 May 2021
+77. Wired: How the 5g coronavirus conspiracy theory tore through the internet. https://www.wired.co.uk/article/5g-coronavirus-conspiracy-theory (2020). Accessed 17 May 2021
+78. World Health Organization: Infodemic (2020). https://www.who.int/health-topics/infodemic . Accessed 31 May 2021
+79. Yang, K.C., Torres-Lugo, C., Menczer, F.: Prevalence of low-credibility information on twitter during the covid-19 outbreak. arXiv preprint arXiv:2004.14484 (2020)
+ACTIONS
+View on publisher site
+PDF (2.8 MB)
+Cite
+Collections
+Permalink
+PERMALINK
+Copy
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+Cite
+Copy
+Download .nbib
+.nbib
+Format:
+AMA
+APA
+MLA
+NLM
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection
+Choose a collection
+Unable to load your collection due to an error
+Please try again
+Add
+Cancel
+Back to Top

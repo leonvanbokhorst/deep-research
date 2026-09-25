@@ -1,0 +1,69 @@
+IISS Report Names Real Russian Drone Incidents and Phantom Ones, and the Difference Is the Story Skip to content
+DEALS
+© 2026 DroneXL · New York
+Russia IISS Report Names Real Russian Drone Incidents and Phantom Ones, and the Difference Is the Story
+Haye Kesteloo · Editor-in-Chief July 2, 2026 · 18:25 ET 7 min read
+DroneXL may earn a commission when you buy through links on our site. As an Amazon Associate I earn from qualifying purchases.
+An artist impression.
+A London think tank has assembled the fullest picture yet of the drone incursions that rattled European airbases, airports and nuclear sites since late 2024, and its central claim is serious: Russian intelligence ran a coordinated surveillance campaign launched from vessels in Moscow’s sanctions-dodging “shadow fleet.” The 144-incident dataset is real, the pattern is unsettling, and one case in Swedish waters is about as close to a smoking gun as this story has produced.
+It also arrives with a problem the report itself half-acknowledges. A large share of the sightings that built the panic have since collapsed under investigation. Danish police closed a nine-month probe in June without confirming a single drone over Copenhagen Airport. Belgium’s own public broadcaster found no hard evidence of hostile drones there, and caught the defense minister passing off footage of a “large drone” that turned out to be a police helicopter. In nine years covering this beat, I have watched drone scares inflate and deflate on a loop, and this report is both things at once: a credible warning about a state actor, wrapped around a dataset padded with stars, planes and helicopters.
+The IISS Documented 144 Incidents Across 13 Countries in 18 Months
+The International Institute for Strategic Studies (IISS) analyzed 144 drone incidents in 13 European states between August 2024 and February 2026, concluding it was “highly likely” the Kremlin ran a coordinated unmanned aerial vehicle (UAV) campaign over the continent. Roughly 48 percent of sightings occurred over military facilities, 18 percent over civilian airports and 26 percent over ports and energy sites, with Germany alone logging 58.
+The report, first detailed by The Guardian and The Times , says Russian-linked vessels served as launch and recovery platforms, sailing close to European coastlines with their AIS transponders switched off. The named targets carry obvious weight. Drones were reported over RAF Lakenheath in Suffolk in late November 2024, months before US nuclear weapons were deployed there in July 2025 . Five were logged over France’s Île Longue submarine base in December 2025, with further incursions at Belgium’s Kleine-Brogel and the Netherlands’ Volkel, both linked to US B61 nuclear weapons under NATO sharing. Co-author Charlie Edwards argued the pattern across 15 months and 13 countries “cannot be explained by misidentification or opportunism alone.” That is the load-bearing sentence in the whole document, and it deserves scrutiny.
+Sweden Produced the One Incident Nobody Can Wave Away
+The strongest evidence in the report is a single February 2026 event in the Öresund Strait. While the French aircraft carrier Charles de Gaulle was docked at Malmö during NATO’s Baltic exercises, a Swedish Navy patrol vessel spotted a drone that had taken off from the Russian signals-intelligence ship Zhigulevsk , then jammed it about seven nautical miles from the carrier.
+Swedish Defence Minister Pål Jonson confirmed the drone could be of Russian origin, and USNI News reported the launch was observed directly from the Russian vessel. It remains the only incident in the entire campaign publicly tied to a specific Russian platform. This is what a confirmed maritime-launched incursion looks like: a named ship, an observed launch, a military response, an on-record minister. When the evidence exists, attribution is not shy. Hold that standard, because most of the other 143 incidents do not meet it. The report leans heavily on proximity, the recurring presence of a shadow-fleet vessel near a sighting, rather than a tracked launch. Proximity across 15 months is a real signal. It is not the same thing as the Malmö footage.
+Belgium’s Own Broadcaster Took Its Drone Panic Apart
+Belgium is the clearest warning against taking every sighting at face value. Between September 2025 and January 2026 the country logged 558 reports of suspicious drones, closing Brussels and Liège airports and triggering an emergency counter-drone spend. Defense Minister Theo Francken described the incursions as a professional operation and pointed, carefully, toward Russia. Then the investigative program Pano , produced by public broadcaster VRT , went to work.
+Francken admitted in parliament that footage he personally shared of a “large drone” over Brussels Airport actually showed a police helicopter searching for a reported drone. He later conceded most of the 550-plus reports were false, and that military intelligence judged only about 42 of 250 sightings over military barracks to be legitimate, with no physical evidence ever recovered. No drone was captured anywhere in the campaign. None was shot down and examined. The Netherlands opened fire over Volkel and found no wreckage. Germany searched the Hav Dolphin , the cargo vessel the report ties to the UK sightings, and found nothing linking it to any launch. A story this large should leave more debris than a corrected helicopter clip.
+Denmark’s Split Verdict Is the Honest Version of This Story
+The incident that launched Europe’s drone crisis ended in a split decision that neither side quotes in full. On September 22, 2025, reported sightings shut Copenhagen Airport for nearly four hours, an event Prime Minister Mette Frederiksen called the most serious attack on Danish critical infrastructure to date. Nine months later, Copenhagen Police closed the case without identifying suspects or confirming any drone.
+“We cannot confirm that there has been drone activity in and around the airport,” Chief Police Inspector Søren Thomassen told reporters , adding that police also could not rule drones out. Here is the part the skeptics skip: a week earlier, the Danish Armed Forces concluded separately that drones had overflown Danish military installations several times that September, based on soldiers’ observations and technical data. So the honest read is not “Denmark was fake.” It is narrower and stranger. Real drone activity over military sites, unconfirmed activity at the airport that shut down the country, and no suspect for either.
+That distinction is exactly what gets lost in a 144-line dataset. The pattern is familiar to anyone who followed the 2024 New Jersey wave or the officials who mistook the Orion constellation for a drone swarm . We flagged the same dynamic when Denmark’s story first broke and questioned the hybrid-attack framing before the retractions arrived. Under stress and poor night visibility, aircraft, helicopters, satellites and bright planets become “drones” in eyewitness accounts with grim regularity. The IISS knows this, which is why it explicitly stops short of claiming every sighting was real or Russian-directed. That caveat has mostly vanished from the headlines the report generated.
+The Missing Sensor Data Is Evidence of Its Own
+Skeptics have hammered one specific gap: electro-optical and infrared sensor data. Drones throw clear heat signatures from motors and batteries, and both military bases and police helicopters carry EO/IR turrets built to capture exactly that. When 20-plus illuminated drones are reported over a base like Lakenheath and no thermal imagery surfaces, the absence is itself worth weighing. The report notes the Orlan-10 reconnaissance drone runs an internal combustion engine, a detail floated to match witness accounts of petrol-engine noise at Lakenheath. That is suggestive. It is not a tracked airframe, and it is not a recovered one.
+None of this makes the campaign fiction. The Boracay boarding, where French commandos found a Chinese captain and two Russian nationals from the Moran Security Group private military company, is documented. The Zhigulevsk launch is documented. Sightings fell off after European navies started seizing shadow-fleet vessels in 2026, the kind of correlation that points at a real cause. The honest reading is that a genuine Russian maritime-drone effort existed, and a continent-wide panic wrapped itself around that kernel and inflated it well past what the evidence supports.
+DroneXL’s Take
+Two things are true at once, and refusing to hold both is how this coverage keeps going wrong. Russia almost certainly launched drones at NATO nuclear infrastructure from ships, and Sweden has the receipts. That is real, it is serious, and pretending otherwise to score a contrarian point would be its own dishonesty. But the 144 number is doing rhetorical work the underlying evidence cannot support, because a large slice of those incidents has already been walked back by the very governments that reported them.
+Not everything people see in the night sky is a drone. We have said it about New Jersey, about a former governor who photographed Betelgeuse, and about Denmark before the Danish police reached the same conclusion. Belgium shows the cost of ignoring it: a defense minister passing off a police helicopter as a hostile drone, a 50-million-euro no-bid procurement, and a criminal probe into the spending. When officials inflate a threat to move budgets, they hand every genuine warning to the skeptics for free.
+Here is the standard worth demanding, and it is not a high one. Name the vessel. Show the track. Produce the EO/IR. Recover the airframe. Sweden did the first three in a single afternoon. If a real state-backed drone threat deserves a serious response, and it does, then it deserves serious evidence, not a wall of unverified sightings that discredits the confirmed cases sitting right next to them. The strongest argument against Russian drone incursions is a sloppy report about Russian drone incursions. This one is better than most. It still let the phantom sightings ride on the real one’s coattails, and that is the sentence Moscow’s denialists will quote back for years.
+Sources: The Guardian, The Times, International Institute for Strategic Studies, Reuters, USNI News, VRT NWS.
+DroneXL uses automated tools to support research and source retrieval. All reporting and editorial perspectives are by Haye Kesteloo.
+Trending now
+Lowe's Now Flies Painter's Tape to Charlotte Yards in 20 Minutes
+FCC Says $5B Flowed Into US Drones. Its Own Filing Counts Pledges
+Amazon Tells Packed Westborough Room Its Drones Are Coming Anyway
+France and Italy Deny CIA Warned of Russian Ship-Launched Drones
+Skydio's 100 mph F10 Debuts at Ascend, Where 'Lobbying' Is Profanity
+Belgium Drone Incidents Police
+Haye Kesteloo
+Editor-in-Chief
+Haye Kesteloo is the Editor in Chief and Founder of DroneXL.co , where he covers all drone-related news, DJI rumors and writes drone reviews, and of EVXL.co , for all electric vehicle news. Haye can be reached at haye @ dronexl.co or @hayekesteloo . Also on LinkedIn , Muck Rack , Instagram and YouTube .
+Follow
+DroneXL reports under its editorial standards .
+Spotted an error? Read the corrections policy .
+How DroneXL uses automated tools .
+Keep reading
+Police Seize Drone in Luton Airport Zone, Make No Arrest
+H. Kesteloo Sep 15
+Police
+Boston Police Drone Wrecks a Parked Car Six Days Into Its DFR Pilot
+H. Kesteloo Sep 19
+Police
+AAIB’s “Record-Only” Kent Police Drone Crash Investigation Raises Troubling Questions About UK Police Drone Oversight
+H. Kesteloo Jan 9
+DJI
+No Kings, No Parachutes, No Problem?! NYPD Flies Skydio Drones Directly Over NYC Protest Crowds
+H. Kesteloo Oct 18
+Skydio
+— The DroneXL Briefing · Free Like this story? Get the next one first.
+The DroneXL Briefing — the drone news that matters, in your inbox. DJI, FAA, public safety, and everything in between.
+Join the briefing Free forever. Unsubscribe in one click.
+8,400+
+Articles published
+340+
+Beats & desks
+2020
+Covering drones since
+100%
+Independent

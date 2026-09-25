@@ -1,0 +1,43 @@
+Tax Administration: IRS Oversight of Hospitals' Tax-Exempt Status | U.S. GAO
+Skip to main content
+GAO-23-106777
+Published: Apr 26, 2023. Publicly Released: Apr 26, 2023.
+Jump To:
+Fast Facts
+This testimony covers our work on nonprofit community hospitals' tax exemptions. Hospitals can be exempt if they:
+Meet legal requirements, e.g., set billing and collection limits
+Provide community benefits, e.g., run an emergency room that's open to all—regardless of ability to pay
+While the legal requirements are easy for IRS to confirm, it's harder to verify community benefits because the law isn't specific about which services qualify. Revising tax forms so hospitals can better share such information may help justify exemptions. Our prior report asked Congress to consider clarifying the law and recommended ways to improve IRS oversight.
+Skip to Highlights
+Highlights
+What GAO Found
+Hospitals must satisfy three sets of requirements for a nonprofit tax exemption (see figure) but hospital community benefits are not defined in law.
+Requirements for Nonprofit Hospitals to Obtain and Maintain a Tax Exemption
+In 1969, the Internal Revenue Service (IRS) identified factors that can demonstrate community benefits, but they are not requirements. IRS does not have authority to specify activities hospitals must undertake and makes determinations based on facts and circumstances. As a result, tax-exempt hospitals have broad latitude to determine the community benefits they provide, but the lack of clarity creates challenges for IRS in administering tax law.
+Additionally, the form on which hospitals report community benefits solicits that information inconsistently, resulting in a lack of transparency. For example, hospitals may describe the use of surplus funds to improve facilities, equipment, and patient care narratively. This qualitative reporting format does not require tax-exempt hospitals to specify the amount of surplus funds used to improve facilities, equipment, and patient care. It could also result in incomplete information on how hospitals are providing community benefits.
+GAO’s 2020 analysis of IRS data identified 30 hospitals that reported no spending on community benefits in 2016. According to IRS officials, hospitals with little to no community benefit expenses would indicate potential noncompliance. IRS is required to review hospitals’ community benefit activities at least once every 3 years, but was unable to provide evidence that it did so because it did not have a well-documented process to ensure those activities were being reviewed. Consistent with GAO’s September 2020 recommendations, in 2021 IRS updated its overall guidance instructing its employees to document whether a hospital organization satisfies the community benefit standard and established an audit code to track that review.
+Why GAO Did This Study
+Slightly more than half of the approximately 5,000 community hospitals in the United States are private, nonprofit organizations. IRS and the Department of the Treasury have recognized the promotion of health as a charitable purpose and have specified that nonprofit hospitals are eligible for a tax exemption. IRS has further stated that these hospitals can demonstrate their charitable purpose by providing services that benefit their communities as a whole.
+In 2010, Congress and the President enacted PPACA, which established additional requirements for tax-exempt hospitals to maintain a tax exemption.
+This testimony discusses the requirements for a nonprofit hospital to qualify for tax-exempt status and challenges with verifying compliance with some of those requirements, and is based on a report that GAO issued in September 2020. This testimony reflects updated information GAO obtained from IRS regarding its implementation of the recommendations made in that report.
+Recommendations
+In September 2020, GAO recommended Congress consider specifying what services and activities demonstrate sufficient community benefit. As of April 2023, Congress had not enacted such legislation. GAO also recommended IRS update tax forms to increase transparency about hospitals' community benefits. IRS agreed and made minor adjustments to the form's instructions, but the form still relies on a narrative description of community benefits that hospitals provide.
+Full Report
+Highlights Page (1 page)
+Full Report (17 pages)
+Accessible PDF (20 pages)
+GAO Contacts
+Jessica Lucas-Judy
+Director
+Strategic Issues
+lucasjudyj@gao.gov
+Media Inquiries
+Sarah Kaczmarek
+Managing Director
+Office of Public Affairs
+media@gao.gov
+Public Inquiries
+Contact Us
+Topics
+Tax Policy and Administration
+Community benefits Compliance oversight Financial assistance Hospitals Nonprofit hospitals Regulatory noncompliance Tax administration Tax exemptions Health care Patient care

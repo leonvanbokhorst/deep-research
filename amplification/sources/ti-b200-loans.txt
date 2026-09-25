@@ -1,0 +1,126 @@
+Nvidia B200 58% Premium Fuels GPU-Backed Loans
+Skip to content
+Marcus Chen
+September 18, 2026
+13 min read
+NVIDIA’s B200 accelerator is now worth more used than it cost new. According to a report published by Wccftech , citing analysis from Silicon Data, the B200’s residual value sits at 158 percent of its original launch price roughly a year after the chip became widely available, a 58 percent premium over MSRP. That figure was echoed the same week by eTeknix , which framed the B200 as behaving less like depreciating IT equipment and more like an appreciating asset.
+That statement alone would be a strange footnote in hardware pricing. But dig past the headline number and it points to something bigger: AI GPUs are starting to function as financial collateral, not just compute. Lenders, cloud brokers, and infrastructure funds are increasingly willing to treat a rack of B200s the way a bank treats a commercial building, because unlike a laptop or a gaming card, the B200 is not losing value on anyone’s balance sheet. It is gaining it. That single fact is reshaping how AI infrastructure gets financed, insured, and resold in the back half of 2026.
+Industry insights, the latest tech news, and special interviews, all in the Tech Insider Newsletter.
+Email address
+Subscribe now
+One email a week. No spam, unsubscribe anytime.
+Google · Preferred Sources
+Don't miss new tech stories on Google
+Add Tech Insider once in the Google app and our stories appear in your news suggestions.
+Add Now
+What “158 Percent Residual Value” Actually Means
+Residual value is normally a depreciation concept: it is the percentage of an asset’s original price that remains after a set period of use. A laptop with a 158 percent residual value would be nonsensical in a normal market, since hardware degrades physically and gets replaced by faster, cheaper successors. Under standard enterprise accounting, a data center GPU written off on a 3-year straight-line schedule retains roughly two-thirds of its value after year one; on a 5-year schedule, roughly four-fifths. Either way, the number goes down, not up.
+The B200 has broken that pattern entirely. Instead of shedding 20 to 40 percent of its value in year one, as older enterprise depreciation norms would predict, it has added 58 percent on top of its original price, according to the Wccftech/Silicon Data figures. Analysts attribute this to a mix of scarcity and unbroken demand: AI factories still cannot get enough B200 capacity, and NVIDIA’s Blackwell-generation silicon remains efficient enough that buyers keep bidding on used units rather than waiting for fresh allocation.
+The Memory Shortage Behind the Premium
+The B200’s staying power is inseparable from what is happening in memory markets. Every B200 carries HBM3E stacks, and HBM3E has become one of the tightest components in the entire semiconductor supply chain. Samsung and SK hynix reportedly raised HBM3E supply prices by close to 20 percent for 2026 contracts, according to TrendForce , which called the move unusual for a product category normally governed by fixed long-term agreements. TrendForce’s reporting tied the hike directly to rising demand for NVIDIA’s H200 chip and a wave of new ASIC orders competing for the same HBM3E supply that feeds the B200 line.
+That pricing power has not eased since. TrendForce noted in mid-2026 that tight DRAM supply was giving memory suppliers greater leverage, with HBM contract prices expected to climb further into 2027. The practical effect for B200 owners is straightforward: replacing or expanding a B200 fleet has gotten steadily more expensive, which props up the resale value of units already in the field. Nobody is undercutting the secondary market when new supply costs more than the used units already sitting in a data center.
+Conventional DRAM Is Being Dragged Along Too
+The HBM squeeze has spilled over into ordinary DRAM. Memory makers have been reallocating wafer capacity away from conventional DRAM and toward HBM production for AI accelerators, which has starved the broader DRAM market at the same time HBM itself gets scarcer. TrendForce’s research showed conventional server DRAM contract prices rising 90 to 95 percent quarter-over-quarter in the first quarter of 2026, the largest jump the firm has recorded, followed by another 58 to 63 percent quarter-over-quarter increase in the second quarter, before growth began to moderate to 13 to 18 percent by the third quarter as buyers hit affordability limits, per TrendForce’s Q3 2026 memory outlook .
+Spot pricing tells the same story in sharper relief. Commodity DDR4 chips that traded around $12.18 in November 2025 were changing hands near $42.50 by August 2026, a roughly 249 percent jump in nine months, driven largely by AI infrastructure buyers competing for any available capacity. Tech Insider covered the mechanics of that squeeze in its earlier reporting on the HBM4 memory shortage and falling DRAM inventory , where days-of-supply metrics have dropped into the single digits at several major buyers.
+Memory Metric Q1 2026 Q2 2026 Q3 2026
+Server DRAM contract price (QoQ change) +90% to +95% +58% to +63% +13% to +18%
+HBM3E 2026 contract pricing ~20% full-year hike vs. prior contracts (Samsung, SK hynix)
+DDR4 commodity spot price $12.18 (Nov 2025) to $42.50 (Aug 2026), +249%
+NVIDIA B200 residual value 158% of launch price, ~1 year post-launch
+Sources: TrendForce, Wccftech/Silicon Data, September 2026 reporting.
+From Depreciating Hardware to Bankable Collateral
+Here is where the story moves past a pricing curiosity and into finance. Any asset that reliably holds or grows its value, has an active resale market, and produces a metered, billable service (compute hours) is exactly the profile lenders look for when writing asset-backed loans. Data centers full of A100s, H100s, and B200s increasingly get treated that way: as collateral against credit facilities used to fund the next round of GPU purchases, rather than as equipment that gets written down every quarter.
+That shift explains a pattern analysts have flagged around NVIDIA’s older chips too. Reporting on the B200 figures noted that A100 and H100 residual values are already running well above what standard 3-year or 5-year straight-line depreciation schedules would predict, a detail that lenders and private credit funds underwriting GPU-backed loans watch closely, since it directly affects how much they will advance against a rack of hardware used as collateral. A GPU that might be worth 80 percent of its purchase price after a year, instead of the 60 percent a conventional depreciation table would suggest, changes the loan-to-value math meaningfully in the borrower’s favor.
+The mechanism is not exotic. It mirrors how airlines finance aircraft purchases against the resale value of the jets themselves, or how equipment-leasing firms structure loans around forklifts and cranes that hold predictable value. What is new is applying that model to a category of hardware that, historically, depreciated like a used car the moment it left the loading dock. Gaming GPUs still behave that way. Data center AI accelerators, at least for now, do not.
+Price Discovery: Who Is Actually Tracking These Numbers
+A residual-value figure like 158 percent only means something if there is a functioning market generating real transaction data behind it. That is the role played by firms like Silicon Data, the analytics source cited in the original Wccftech reporting. These trackers aggregate pricing from brokers, resellers, and institutional buyers moving used AI accelerators, producing something closer to a bond-market yield curve than a traditional electronics price list. The existence of that kind of tracked, liquid secondary market is itself a signal: it means large buyers trust the pricing enough to write contracts and loans against it, rather than treating every used-GPU sale as a one-off negotiation.
+NVIDIA’s continued dominance of GPU shipment volume reinforces that liquidity. NVIDIA has been estimated to hold around 90 percent of discrete GPU shipment share in 2026, a scale advantage Tech Insider examined in its report on NVIDIA’s GPU shipment share hitting 12.5 million units . That dominance means a huge, standardized pool of B200 and H200 units in the field, which is precisely what makes the resale market deep enough for meaningful price discovery in the first place. A niche accelerator with a few thousand units sold would never generate the transaction volume needed to support a tracked residual-value index.
+How This Compares to Normal Hardware Depreciation
+To understand how unusual the B200’s trajectory is, it helps to line it up against how enterprise hardware normally loses value. The table below compares standard accounting assumptions against what current reporting shows for NVIDIA’s AI accelerator lineup.
+Asset Class Typical Value Retained After 1 Year Driving Factor
+Consumer GPU (gaming card) ~50-70% (new generation cuts prices) Annual architecture refresh, oversupply
+Enterprise server (3-yr straight-line) ~67% Standard accounting depreciation schedule
+Enterprise server (5-yr straight-line) ~80% Standard accounting depreciation schedule
+NVIDIA A100 / H100 Reported well above straight-line projections Continued demand, limited new supply of older nodes
+NVIDIA B200 158% (up 58% from launch) HBM3E scarcity, sustained AI training/inference demand
+Enterprise depreciation figures reflect standard straight-line accounting assumptions. A100/H100/B200 figures per Wccftech, Silicon Data and industry reporting, September 2026.
+Why NVIDIA’s Roadmap Isn’t Fixing This Yet
+The obvious question is whether NVIDIA’s next-generation hardware will pull the rug out from under B200 pricing by flooding the market with faster, cheaper alternatives. So far, the answer is no, largely because the next generation is bottlenecked by the same memory constraint. HBM4 mass production began ramping in the first half of 2026, with Samsung, SK hynix, and Micron all working through qualification and early output, but HBM4 pricing has moved in the same direction as HBM3E: up, not down. Industry forecasts point to HBM4 per-gigabit pricing roughly doubling within a year of ramp, which means NVIDIA’s next-generation platforms will not be cheap enough to undercut the resale value of the chips already deployed.
+That dynamic lines up with what Tech Insider has already reported on the broader GPU pricing cycle: relief for buyers has been pushed out further than expected, with DRAM prices climbing at a record pace and no meaningful capacity expansion likely before late 2027 or 2028, as covered in our analysis of the GPU relief timeline slipping to 2028 . As long as the newest hardware is memory-constrained and expensive, older, already-deployed hardware like the B200 keeps its market value instead of losing it to a cheaper successor.
+The Broader AI Chip Supply Picture
+NVIDIA’s chip manufacturing partner has been feeling the same crunch from the other direction. TSMC posted record revenue in 2026 as AI chip orders surged, a trend Tech Insider detailed in coverage of TSMC’s record revenue tied to the AI chip boom and NAND shortage . That demand signal runs in both directions: it confirms AI accelerator orders are not slowing down, which supports continued scarcity pricing for chips like the B200, while also showing that wafer capacity itself, not just memory, remains a constraint on how quickly new supply can hit the market.
+The knock-on effects are visible even in consumer GPU pricing, where AI-driven memory costs have pushed flagship gaming card prices to levels that would have seemed implausible a year ago, a trend covered in Tech Insider’s reporting on the RTX 5090 climbing past $4,329 as NVIDIA’s next consumer generation slips to 2028 . Consumer and data center GPUs are competing for the same constrained memory supply chain, which is part of why price pressure is showing up across NVIDIA’s entire product stack, not just its enterprise accelerators.
+Market Impact: Cloud Pricing, Capex, and Enterprise Budgets
+For cloud providers renting out B200 capacity by the hour, an appreciating underlying asset is, on paper, good news: it strengthens the case for treating GPU fleets as long-duration infrastructure investments rather than fast-depreciating IT gear. But it cuts the other way for anyone trying to buy in fresh. Enterprises budgeting for AI training or inference capacity in 2026 and 2027 are facing a market where the used hardware is nearly as expensive as new hardware, and new hardware itself is getting harder to secure at list price. That compresses the margin advantage that used-hardware buyers used to count on.
+It also changes how CFOs think about AI infrastructure on the balance sheet. A GPU fleet that holds its value is easier to justify as a capital investment and easier to borrow against, but it also means write-downs are no longer a reliable way to manage tax exposure on aging hardware, since the hardware in question is not obviously losing value in the way accounting schedules assume. Finance teams at hyperscalers and AI-focused startups alike are having to revisit depreciation assumptions that, a few years ago, nobody thought to question.
+Historical Context: This Isn’t the First GPU Value Spike
+Crypto Mining vs. AI Infrastructure Cycles
+Tech observers with long memories will recognize a faint echo of the 2017 and 2021 cryptocurrency mining booms, when consumer GPUs briefly sold above MSRP due to mining demand. But the comparison mostly highlights how different this cycle is. Crypto-driven GPU premiums were speculative, tied to token prices that could and did collapse within months, and the underlying demand (mining profitability) had no floor once difficulty adjusted or coin prices fell. AI accelerator demand, by contrast, is tied to enterprise training and inference workloads that companies have already committed multi-year capital budgets toward, and it is bottlenecked by a physical memory supply chain rather than a speculative asset price. That makes the current B200 premium look structurally different: it is a supply-constrained hardware story, not a speculative demand bubble.
+How AMD and the Rest of the Market Compare
+NVIDIA’s scale advantage matters here too. With NVIDIA commanding the large majority of GPU shipments, its accelerators benefit from a deeper, more liquid secondary market than rival chips from AMD or custom ASIC vendors, whose smaller installed base makes robust residual-value tracking harder to establish. That is not a statement about which architecture performs better; it is a reflection of how market depth, not just chip specs, determines whether an accelerator can develop the kind of appreciating secondary market the B200 now has.
+What Could Break the Cycle
+Nothing about the current premium is guaranteed to last. A handful of scenarios could send B200 residual values back toward a more conventional depreciation curve. A faster-than-expected HBM4 ramp that meaningfully lowers memory costs would remove the single biggest prop under current pricing. A slowdown in enterprise AI capital spending, whether from budget fatigue or disappointing returns on deployed models, would soften demand for both new and used accelerators. And a sudden surge of previously reserved capacity hitting the resale market, for instance if a large buyer cancels or downsizes a deployment, could flood supply faster than demand can absorb it. None of those conditions currently show up in the data cited by TrendForce or Silicon Data, but all three are worth watching heading into 2027.
+Predictions for the AI GPU Market Through 2027
+GPU-backed lending expands: Expect more private credit funds and specialty lenders to formalize loan products explicitly collateralized by data center GPU fleets, following the same logic already applied to aircraft and heavy equipment financing.
+Residual value indexes go mainstream: Firms tracking secondary AI-GPU pricing, in the mold of Silicon Data’s work cited by Wccftech, will likely become standard reference points for accountants and lenders the way Kelley Blue Book is for used cars.
+HBM4 ramp narrows, but does not close, the gap: As HBM4 supply grows through 2027, expect B200 and H200 premiums to compress gradually rather than collapse, given that HBM4 itself is launching at elevated prices.
+Depreciation accounting gets revisited: More enterprises will move away from generic 3-to-5-year straight-line schedules for AI accelerators toward usage-based or market-value depreciation models that better reflect actual resale behavior.
+Consumer GPU pricing stays elevated into 2027: With memory costs shared across the entire NVIDIA product stack, expect continued upward pressure on gaming GPU prices as long as data center demand keeps outbidding consumer channels for the same HBM and DRAM capacity.
+What Buyers and Investors Should Watch Next
+For enterprises weighing whether to buy, lease, or borrow against AI compute capacity, the practical takeaway is that the old rules of hardware procurement, buy low, depreciate fast, replace on a fixed cycle, no longer cleanly apply to data center GPUs. The B200’s 158 percent residual value is an extreme data point, but it is consistent with a broader pattern across NVIDIA’s recent accelerator generations. Anyone building a multi-year AI infrastructure budget in late 2026 needs to model hardware costs less like a depreciating expense and more like a volatile, memory-constrained commodity, because right now, that is closer to how the market is actually behaving.
+Frequently Asked Questions
+What does it mean that the NVIDIA B200’s residual value is 158 percent?
+It means the GPU’s current resale value on the secondary market equals 158 percent of its original launch price, roughly a year after it became widely available, according to Wccftech’s reporting on Silicon Data’s analysis. In plain terms, the chip is selling for 58 percent more than it originally cost, rather than losing value the way most hardware does.
+Why is the B200 gaining value instead of depreciating?
+Analysts point to a combination of persistent AI compute demand and a severe HBM3E memory shortage that has made new B200 units, and their replacements, more expensive and harder to secure. That scarcity supports higher prices for units already deployed.
+Are GPUs really being used as loan collateral now?
+The rise of tracked secondary-market pricing and residual values that beat standard depreciation schedules has made data center GPUs increasingly attractive as collateral for asset-backed financing, similar to how aircraft or heavy equipment are financed against their resale value.
+Will NVIDIA’s next-generation chips lower B200 prices?
+Not immediately. Next-generation platforms depend on HBM4 memory, which is itself ramping at elevated prices in 2026, so new hardware is not expected to be cheap enough to significantly undercut the resale value of already-deployed B200 units in the near term.
+How does this compare to consumer GPU depreciation?
+It is the opposite pattern. Consumer gaming GPUs typically lose value as newer generations launch at similar or lower prices. Data center AI accelerators like the B200 are instead holding or gaining value because supply constraints, not architecture refreshes, are driving the market.
+Is the HBM and DRAM shortage expected to ease soon?
+Industry reporting from TrendForce points to continued tight supply well into 2027, with meaningful capacity expansion not expected until late 2027 or 2028, meaning memory-driven pricing pressure is likely to persist for some time.
+Does this affect A100 and H100 pricing too?
+Yes. Reporting cited alongside the B200 figures noted that A100 and H100 residual values are also running well above what standard 3-year or 5-year depreciation schedules would predict, suggesting the pattern extends across NVIDIA’s recent data center GPU generations, not just the B200.
+What could cause B200 resale values to fall back toward normal depreciation?
+A faster-than-expected HBM4 supply ramp, a slowdown in enterprise AI spending, or a sudden influx of resold capacity from a large buyer scaling back deployments could all ease the current scarcity pricing, though none of those conditions are showing up in current market data.
+Related Coverage
+NVIDIA B200 Resale Value Hits 158%, 58% Over Launch [2026]
+AMD Overtakes Nvidia in GPU Sales as RTX 5090 Hits $9,500 [2026]
+Apple, Nvidia NVLink Fusion Talks for M8 Ultra Server [2026]
+Nvidia Control Panel Settings: 12 Steps to More FPS [2026]
+Akihabara GPU Prices Jump 30% as RTX PRO 6000 Hits $16K
+Marcus Chen
+Gaming & Consumer Tech Editor
+Marcus Chen is a senior editor at Tech Insider, where he leads coverage of the US online gaming market, including sweepstakes and social casinos, alongside consumer technology. He evaluates operators on their published terms, licensing and RNG certifications, stated redemption policies, and corroborating independent reporting, and writes plainly about what the evidence supports. Tech Insider does not run first-party money tests and does not gamble with reader funds. Marcus has reported on the technology and online-gaming industries for more than a decade.
+View all articles
+The Tech Insider Newsletter
+Industry insights, the latest tech news, and special interviews, every week.
+Email address
+Subscribe now
+One email a week. No spam, unsubscribe anytime.
+Tech
+Insider
+Tech Insider delivers in-depth coverage of the technologies shaping the future: AI, cybersecurity, cloud computing, hardware, and the trends that matter.
+[email protected]
+Company
+About Us
+Terms of Service
+Privacy Policy
+Contact
+Write for Us
+Explore
+AI & Machine Learning
+Cloud Computing
+Crypto Casino
+Categories
+Crypto Regulation
+Cybersecurity
+Gaming
+© 2026 Tech Insider Media AB. All rights reserved.
+We use cookies to measure traffic and improve Tech Insider. Read our Privacy Policy .
+Reject
+Accept
+The Tech Insider Newsletter: industry insights, tech news, and special interviews.
+Subscribe now

@@ -1,0 +1,101 @@
+UNCLASSIFIED
+
+ICA 2023-02286-B
+
+1 March 2023
+
+Updated Assessment of Anomalous Health Incidents
+
+This Intelligence Community Assessment was prepared under the auspices of the National Intelligence Officer (NIO) for Counterintelligence. It was drafted by the
+National Intelligence Council with contributions from the Intelligence Community.
+
+UNCLASSIFIED
+
+UNCLASSIFIED
+
+Updated Assessment of Anomalous Health Incidents
+ICA 2023-02286-B
+
+1 March 2023
+
+Scope Note: This IC-coordinated Intelligence Community Assessment addresses the question of whether one or more foreign actors
+bears responsibility, either deliberately or unintentionally, for causing anomalous health incidents (AHIs) reported by US
+Government officials across multiple agencies since 2016. The ICA was written in response to senior US policymaker interest and
+updates the IC’s previous assessment on AHIs published in January 2022.
+Since US officials first reported AHIs in Havana, Cuba in late 2016, the IC has sought to understand whether these
+events can be attributed to a foreign actor and a deliberate external mechanism. The IC pursued three separate lines of
+inquiry: the first encompassed work determining whether available data points to the involvement of a foreign
+adversary in the incidents; the second focused on the feasibility and existence of deliberate mechanisms that an
+adversary might use against US personnel to cause AHIs; and the third evaluated whether medical analysis can help
+determine if an outside actor is involved in the broad range of phenomena and symptoms associated with AHIs. Based
+on the results of these three lines of inquiry, most IC agencies have concluded that it is “very unlikely” a foreign
+adversary is responsible for the reported AHIs. IC agencies have varying confidence levels, with two agencies at
+moderate-to-high confidence while three are at moderate confidence. Two agencies judge it is “unlikely” an
+adversary was responsible for AHIs and they do so with low confidence based on collection gaps and their review
+of the same evidence.
+ Five agencies judge that available intelligence consistently points against the involvement of US adversaries in
+causing the reported incidents. Agencies employed an array of collection and investigative efforts that spanned
+hundreds of reported incidents—within the United States and abroad—and explored a range of potential
+indicators of hostile activity, from identifying suspicious persons near incident sites to searching for a pattern
+among affected personnel. These efforts could not identify an adversary as being responsible for any incident and
+in some key cases, IC agencies and partners had comprehensive information on the location where an AHI
+occurred but found no evidence of adversary activity. Most IC agencies judge it is very unlikely a foreign
+adversary played a role, although confidence in the judgment related to this line of inquiry varies, with two
+agencies having moderate-to-high confidence; three agencies having moderate confidence; and one agency
+abstaining. One agency judges it is only unlikely a foreign adversary played a role and has only low confidence in
+this judgment. This reflects its view that the evidence is less compelling because the IC has failed to detect some
+adversaries’ activities.
+ A review of intelligence reporting, open-source information, and scientific and medical literature about foreign
+weapons and research programs, as well as engagement with researchers inside and outside the US Government
+have led IC agencies to judge that there is no credible evidence that a foreign adversary has a weapon or
+collection device that is causing AHIs. As a result, most agencies assess that deliberate causal mechanisms are
+very unlikely to have caused the sensory phenomena and adverse symptoms associated with AHIs but with
+varying confidence levels. Two agencies have high confidence in this judgment while three agencies have
+moderate confidence. Two agencies judge that deliberate causal mechanisms are unlikely to have caused AHIs
+and have low confidence because they judge that radiofrequency (RF) energy is a plausible cause for AHIs, based
+in part on the findings of the IC Expert Panel and the results of research by some US laboratories. All agencies
+acknowledge the value of additional research on potential adversary capabilities in the RF field, in part because
+[1]
+UNCLASSIFIED
+
+UNCLASSIFIED
+
+there continues to be a scientific debate on whether this could result in a weapon that could produce the
+symptoms seen in some of the reported AHI cases.
+ IC agencies assess that medical analysis of AHIs has evolved since the first reported incidents in ways that point
+away from adversary involvement. While initial medical studies concluded AHIs represented a novel medical
+syndrome or consistent pattern of injuries similar to traumatic brain injury (TBI), a combination of medical and
+academic critiques pointed to methodological limitations in that work. Furthermore, the JASON panel’s review
+of preliminary data from a National Institutes of Health (NIH) longitudinal study on AHIs in 2021 does not
+convey a consistent set of physical injuries, including neurologic injuries such as TBI. This shift is notable
+because the initial medical opinions formed a central part of the IC hypothesis that US personnel had sustained
+injuries that were unlikely to be explained by natural or environmental factors and shaped the IC’s approach to
+AHIs. Medical research is ongoing but currently appears consistent with the conclusions emerging from the IC’s
+analysis of foreign involvement and potential causal mechanisms. Five agencies have moderate confidence in this
+judgment while one agency abstains. One agency has low confidence because the NIH findings have yet to be
+published.
+As part of its review, the IC identified critical assumptions surrounding the initial AHIs reported in Cuba from 2016 to
+2018, which framed the IC’s understanding of this phenomenon, but were not borne out by subsequent medical and
+technical analysis. In light of this and the evidence that points away from a foreign adversary, causal mechanism, or
+unique syndrome linked to AHIs, IC agencies assess that symptoms reported by US personnel were probably the result
+of factors that did not involve a foreign adversary, such as preexisting conditions, conventional illnesses, and
+environmental factors. IC confidence in this explanation is bolstered by the fact that we identified medical,
+environmental, and social factors that plausibly can explain many AHIs reported by US officials. Three agencies have
+high confidence in this portion of the assessment while three other agencies have moderate confidence. One agency
+has low confidence because it judges that it is unclear how many reported incidents were influenced by dynamics not
+directly related to adversary activity such as hypervigilance. All IC agencies agree that US personnel sincerely and
+honestly reported their experiences, including those that were painful or traumatic, particularly given the framing of
+AHIs as possible attacks by an unknown mechanism that could cause permanent harm such as brain damage.
+The IC considered a range of other possibilities we deemed less likely, and identified types of information that, if
+found, would prompt us to revisit our assessment, such as new medical analysis that identified a syndrome linked to
+affected personnel or the identification of a specific device that both caused the harmful effects described in AHI reports
+and was fielded by an adversary during the timeframe of the incidents.
+
+[2]
+UNCLASSIFIED
+
+UNCLASSIFIED
+
+UNCLASSIFIED
+
+

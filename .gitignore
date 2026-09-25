@@ -19,3 +19,13 @@ research/*/
 # ---- Scratch scripts ----
 research/*.py
 research/*.sh
+
+# ---- Amplification study: raw subagent scrape dirs (kept locally) ----
+amplification/raw/
+amplification/research/
+
+# ---- Binary data files ----
+*.xlsx
+*.xls
+*.csv
+*.docx

@@ -1,0 +1,136 @@
+“Havana Syndrome”: A post mortem - PMC
+Skip to main content
+Official websites use .gov
+.gov website belongs to an official
+government organization in the United States.
+Secure .gov websites use HTTPS
+A lock (
+) or https:// means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+Search PMC Full-Text Archive
+Search in PMC
+Journal List
+User Guide
+PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+Learn more:
+PMC Disclaimer
+PMC Copyright Notice
+Int J Soc Psychiatry
+. 2023 Dec 25;70(2):402–405. doi: 10.1177/00207640231208374
+“Havana Syndrome”: A post mortem
+Robert E Bartholomew
+Robert E Bartholomew
+1 Faculty of Medical and Health Sciences, The University of Auckland, Auckland, New Zealand
+Find articles by Robert E Bartholomew
+1, ✉ , Robert W Baloh
+Robert W Baloh
+2 David Geffen School of Medicine, Los Angeles, CA, USA
+Find articles by Robert W Baloh
+Author information
+Article notes
+Copyright and License information
+1 Faculty of Medical and Health Sciences, The University of Auckland, Auckland, New Zealand
+2 David Geffen School of Medicine, Los Angeles, CA, USA
+✉ Robert E Bartholomew, Faculty of Medical and Health Sciences, The University of Auckland, Building 503, 85 Park Road, Auckland 1023, New Zealand. Email: rbar757@aucklanduni.ac.nz
+Issue date 2024 Mar.
+© The Author(s) 2023
+This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License ( https://creativecommons.org/licenses/by-nc/4.0/ ) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages ( https://us.sagepub.com/en-us/nam/open-access-at-sage ).
+PMC Copyright notice
+PMCID: PMC10913303 PMID: 38146090
+See " When politics obstructs self-correction in science. " on page 207640231207571.
+See " Why the Havana Syndrome Happened. " on page 207640231212865.
+See " Politics dictating on science is like a gunshot in a concert " on page 839.
+Abstract
+Background:
+Since 2016, an array of claims and public discourse have circulated in the medical community over the origin and nature of a mysterious condition dubbed “Havana Syndrome,” so named as it was first identified in Cuba. In March 2023, the United States intelligence community concluded that the condition was a socially constructed catch-all category for an array of health conditions and stress reactions that were lumped under a single label.
+Aims:
+To examine the history of “Havana Syndrome” and the many factors that led to its erroneous categorization as a novel clinical entity.
+Method:
+A review of the literature.
+Results/Conclusions:
+Several factors led to the erroneous classification of “Havana Syndrome” as a novel entity including the failure to stay within the limitations of the data; the withholding of information by intelligence agencies, the prevalence of popular misconceptions about psychogenic illness, the inability to identify historical parallels; the role of the media, and the mixing of politics with science.
+Keywords: Iatrogenesis, mass psychogenic illness, somatoform disorders
+On March 1, 2023, five separate United States intelligence agencies announced the results of their investigation into the origin and nature of “Havana Syndrome,” a mysterious condition that afflicted dozens of American and Canadian Embassy staff stationed in Cuba beginning in 2016, and then spread to involve hundreds of people around the world ( Office of the Director of National Intelligence, 2023 ). It was deemed “highly unlikely” that the constellation of symptoms comprising the condition were caused by a sonic or microwave device or that a foreign adversary was involved. Instead, they concluded that “Havana Syndrome” was a socially constructed catch-all category for an array of pre-existing health conditions, responses to environmental factors, and stress reactions that were lumped under a single label. In reviewing the history of this condition, many factors led to its erroneous categorization as a novel clinical entity.
+1. Several studies drew conclusions that were not warranted by the data. One found that patients “appeared to have sustained injury to widespread brain networks without an associated history of head trauma” ( Swanson et al., 2018 , p. 1125). But standard MRI scans of the brain were normal and based on the criteria for abnormal neuropsychological tests, just about anybody would be diagnosed with brain injury as the threshold for impairment was excessively high ( Della Sala & Cubelli, 2018 ). Another study using functional MRI found “brain anomalies” in a small cohort of patients ( Ragini et al., 2019 ). But such anomalies are common with this imagining technique, often representing normal individual variation. Furthermore, 12 of those affected had histories of concussion compared to none in the healthy controls, which could account for the differences between the groups. A third study claimed to have found damage to the otolith organs of the inner ear which regulate balance, motion, and spatial awareness ( Hoffer et al., 2018 ). However, tests of otolith function are notoriously unreliable, and there was no appropriate control group. A fourth study suggested the possibility of neurotoxin exposure from pesticides ( Friedman et al., 2019 ), but the symptoms were inconsistent with pesticide exposure and there is no neurotoxin that selectively affects American and Canadian embassy staff and their families. It also failed to explain the subsequent spread outside Cuba.
+2. Media leaks . In 2017, the Associated Press reported on a soon to be published study that found brain damage in the form of mysterious white matter tract changes on MRI ( Lederman, 2017 ). When the study appeared in February 2018, of the 21 patients tested, only 3 exhibited white matter changes, which was within the range of normal ( Swanson et al., 2018 ). Such changes are common in conditions ranging from migraine to depression to normal aging. In August 2017, reports emerged of hearing loss in many of the patients involved in a forthcoming study. When the study was published it found that while nearly one-third of subjects believed they had experienced hearing loss after their “attacks,” when administered standard hearing tests, just two exhibited hearing loss and both were pre-existing conditions prior to arriving in Cuba ( Hoffer et al., 2018 ).
+3. The prevalence of popular misconceptions about mass psychogenic illness (MPI). In rendering their assessment, the intelligence agencies emphasized that they believed the victims “sincerely and honestly reported their experiences, including those that were painful or traumatic,” but noted that the framing of their symptoms “as possible attacks by an unknown mechanism that could cause permanent harm such as brain damage” played an influential role in how their symptoms were perceived ( Office of the Director of National Intelligence, 2023 , p. 2). This statement was likely intent on addressing common misperceptions about MPI. For instance, in September 2021, the head of a U.S. Government panel investigating “Havana Syndrome,” Pamela Spratlen, was forced to resign after refusing to rule out MPI as a possible cause ( Lederman & Breslauer, 2021 ). A former senior C.I.A. operative wrote that Spratlen’s position was “insulting to victims and automatically disqualifying” ( Lederman & Breslauer, 2021 ). A Canadian diplomat described the possibility of psychogenic illness as “ridiculous,” noting: “You’re talking about people who’ve been through military coups, states of emergency, cyclones. . . It’s the most resilient group you could have” ( Anderssen, 2019 ). When asked about the possibility of MPI, one victim said: “There is no way you can fake this,” suggesting that psychogenic illness involves feigning ( Lederman & Mitchell, 2018 ).
+These misconceptions were also reflected in the political and scientific discourse. On January 9, 2018, U.S. Senator Marco Rubio chaired a Congressional hearing on what he labelled as “attacks” in Cuba. He asked a State Department physician if there was “any thought given to the fact that this is a case of mass hysteria. That a bunch of people are just being hypochondriacs and making it up?” ( Rubio, 2018 ). Rubio later referred to supporters of a psychogenic explanation as engaging in “quackery” ( Desiderio & Seligman, 2021 ). Later a psychiatrist who interviewed several victims told journalists: “I haven’t found any evidence of psychiatric disorder. This is a very strong group, very resilient and there is no evidence of mass hysteria” ( Chartrand et al., 2019 ). This statement suggests that MPI is a mental disorder that occurs in weak-minded persons. MPI is a collective stress reaction that is based on a belief and is commonly found in normal populations. The authors of one study of “Havana Syndrome” patients dismissed the possibility of MPI by noting that the subjects were cooperative and showed no evidence of feigning, and inappropriately placed the condition in the category of “collective delusional disorders” ( Swanson et al., 2018 , p. 1131). The lead author later said that the team had dismissed a psychological cause as there was no evidence of collusion among patients. He said, for mass psychogenic illness to occur you must have all the patients “in collusion together to make sure all their symptoms match” ( Sample, 2018 ). This description demonstrates a fundamental lack of understanding of the condition. In 2022, a classified report dismissed any significant role of MPI due in large part to the high level of security training of those affected ( Declassified United States Government Commissioned Report, 2022 , p. 36). Anyone can exhibit psychogenic symptoms and they are as real as any other symptoms.
+4. The role of the National Academy of Sciences (NAS). A perplexing aspect of this saga were the actions of a panel convened by the NAS to investigate the condition. Their report was released in December 2020 and stated that they could not exclude the involvement of microwave radiation as a possible explanation, and they could not assess the possible role of MPI on the grounds that there was “no epidemiological evidence about patterns of social contacts” including the absence of any data on the index case—the first person affected ( National Academies of Sciences, Engineering, and Medicine, 2020 , p. 27). This is mystifying given that a detailed description of the spread from “patient zero” to American and Canadian embassy staff was published in February 2018 by two investigative journalists who travelled to Cuba and conducted over three dozen interviews ( Baloh & Bartholomew, 2020 , pp. 29–30). Another curious action was the decision to remove the panel’s only MPI specialist, Simon Wessely, after he publicly expressed the view that psychogenic factors may have played a role (Wessely, personal communication, December 8, 2020). Given these circumstances, it is not unreasonable to ask whether the spectre of politics may have influenced the panel’s decision-making.
+5. The withholding of information. While the U.S. Government allowed the release of the NAS findings, they withheld the results of other investigations that were skeptical of the condition. In 2018, the Federal Bureau of Investigation concluded that mass psychogenic illness was most likely responsible for the outbreak. While the report remains classified, its conclusions were leaked to the media. The contents of a second classified report were only released in September 2021 after a Freedom of Information Act filing. It found the role of microwave radiation “highly unlikely,” and that psychogenic illness appeared to play a role ( Declassified U.S. Government Study, 2018 , p. 8). The authors obtained and analysed several recordings of mysterious sounds that victims said coincided with their symptoms. They were identified as the mating call of the Indies short-tailed cricket. This was significant because victims had been counselled to be hyperaware of unusual sounds that were presumably from a foreign adversary. The report also noted that, contrary to the NAS findings, the sounds could not have been evidence of microwave radiation as such waves cannot be captured on an audio recording. The NAS panel was unaware of these findings as the report had not been shared.
+Hiding in Plain Sight
+Havana Syndrome is a case of old wine in new skins. Despite its novel appearance, it embodies key elements of two longstanding moral panics. The first is the “enemy at the gate”—the fear of an imminent threat from nefarious foreigners intent on causing harm to one’s country or its citizens. Common xenophobic scapegoats in American history include the fear of Chinese, Russians, Japanese, Jews, and Muslims. The second fear involves health threats from new technologies which can be traced back centuries from the belief that listening to the strains of certain musical instruments could cause illness to concern that exposure to electric lights would induce blindness ( Baloh & Bartholomew, 2020 ). Contemporary examples include health worries involving mobile phones, Wi-Fi, 5G, and wind turbines. “Havana Syndrome” is just the latest in a long list of health scares. In October 2021, the U.S. Congress passed a law authorizing financial compensation for government victims of “Havana Syndrome.” This is reminiscent of past decisions to award compensation for dubious conditions such as “railway spine” in the U.K. ( Gasquoine, 2020 ) and “telephone sickness” in German switchboard operators ( Killen, 2003 ).
+Over the course of their 6-year investigation into “Havana Syndrome” U.S. officials expended considerable human capital and financial resources going down a rabbit hole searching for exotic explanations. Instead of finding secret weapons and foreign conspiracies—they found only rabbits. For in the end, prosaic explanations were determined to be the cause of the events in Cuba and its subsequent global spread. That is the lesson of “Havana Syndrome”—follow the science.
+Footnotes
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+ORCID iD: Robert E. Bartholomew
+https://orcid.org/0000-0003-0657-0920
+References
+Anderssen E. (2019, May
+21). Mad Gassers, toxic buses and the Havana Syndrome: What society still gets wrong about the way stress can make us sick. The Globe and Mail (Toronto). https://www.theglobeandmail.com/canada/article-mad-gassers-toxic-buses-and-the-havana-syndrome-what-society-still/
+Baloh R., Bartholomew R. E. (2020). Havana syndrome: Mass psychogenic illness and the real story behind the embassy mystery and hysteria. Copernicus Books. [ Google Scholar ]
+Chartrand L., Movilla M., Ellenwood L. (2019, September
+29). Havana syndrome: exposure to neurotoxin may have been cause, study suggests. Canadian Broadcasting Corporation News. https://www.cbc.ca/news/canada/havana-syndrome-neurotoxin-enqu%C3%AAte-1.5288609
+Declassified United States Government Commissioned Report. (2022). Anomalous health incidents: Analysis of potential causal mechanisms, IC Experts Panel. [ Google Scholar ]
+Declassified U.S. Government Study. (2018). Acoustic signals and physiological effects on U.S. Diplomats in Cuba. [ Google Scholar ]
+Della Sala S., Cubelli R. (2018). Alleged “sonic attack” supported by poor neuropsychology. Cortex, 103, 387–388. 10.1016/j.cortex.2018.03.006
+[ DOI ] [ PubMed ] [ Google Scholar ]
+Desiderio A., Seligman L. (2021, October
+8). U.S. Investigators increasingly confident directed-energy attacks behind Havana Syndrome. Politico. https://www.politico.com/news/2021/10/08/us-investigators-increasingly-confident-directed-energy-attacks-behind-havana-syndrome-515693
+Friedman A., Calkin C., Adams A., Suarez G., Bardouille T., Hacohen N., Green A., Gupta R. R., Hashmi J., Kamintsky L., Kim J. S., Laroche R., MacKenzie D., Milikovsky D., Oystreck D., Newton J., Noel G., Ofer J., Quraan M., , . . .Bowen C. (2019). Havana syndrome among Canadian diplomats: brain imaging reveals acquired neurotoxicity (Research Report). Brain Repair Centre, Dalhousie University, Life Sciences Research Institute. [ Google Scholar ]
+Gasquoine P. (2020). Railway spine: The advent of compensation for concussive symptoms. Journal of the History of the Neurosciences, 29(2), 234–245. 10.1080/0964704X.2019.1711350
+[ DOI ] [ PubMed ] [ Google Scholar ]
+Hoffer M., Levin B., Snapp H., Buskirk J., Balaban C. (2018). Acute findings in an acquired neurosensory dysfunction. Laryngoscope Investigative Otolaryngology, 4(1), 124–131. 10.1002/lio2.231
+[ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+Killen A. (2003). From shock to Schreck: Psychiatrists, telephone operators and traumatic neurosis in Germany, 1900–26. The Journal of Contemporary History, 38(2), 201–220. http://doi.org/10.2307/3180655 [ Google Scholar ]
+Lederman J. (2017, December
+7). Doctors find brain abnormalities in victims of Cuba mystery. The Associated Press. https://apnews.com/article/cuba-north-america-ap-top-news-latin-america-international-news-bbed1d7f6f1a4320a7e60abfdce67d4d [ Google Scholar ]
+Lederman J., Breslauer B. (2021, September
+23). Diplomat overseeing “Havana Syndrome” response is out after 6 months. NBC News. https://www.nbcnews.com/politics/politics-news/diplomat-overseeing-havana-syndrome-response-out-after-6-months-n1279906
+Lederman J., & Mitchell A. (2018, November
+20). Mother of U.S. Diplomat hurt in “health attack” speaks out. NBC News. https://www.nbcnews.com/politics/national-security/mother-u-s-diplomat-hurt-health-attack-speaks-out-n938191
+National Academies of Sciences, Engineering, and Medicine. (2020, December
+5). An assessment of illness in U.S. government employees and their families at overseas embassies. National Academies Press. 10.17226/25889 [ DOI ] [ PubMed ] [ Google Scholar ]
+Office of the Director of National Intelligence. Unclassified: National Intelligence Council updated assessment on anomalous health incidents, 2023. [ Google Scholar ]
+Ragini V., Swanson R., Parker D., Ismail A., Shinohara R., Alappatt J., Doshi J., Davatzikos C., Gallaway M., Duda D., Chen H. I., Kim J. J., Gur R. C., Wolf R. L., Grady M. S., Hampton S., Diaz-Arrastia R., Smith D. H. (2019). Neuroimaging findings in US government personnel with possible exposure to directional phenomena in Havana, Cuba. JAMA, 322(4), 336–347. 10.1001/jama.2019.9269
+[ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+Rubio M. (2018, January
+9). Attacks on the U.S. Diplomats in Cuba: Response and oversight. US Senate Foreign Relations Committee Hearing. https://www.foreign/senate.gov/hearings/attacks-on-us-diplomats-in-cubaresponse-and-oversight-010918
+Sample I. (2018, February
+23). What happened to US diplomats in Cuba? The Guardian. Science Weekly Podcast. https://www.theguardian.com/science/audio/2018/feb/23/what-happened-to-us-diplomats-in-cuba-science-weekly-podcast
+Swanson R., Hampton S., Green-McKenzie J., Diaz-Arrastia R., Grady M. S., Verma R., Smith D. (2018). Neurological manifestations among US government personnel reporting directional audible and sensory phenomena in Havana, Cuba. JAMA, 319(11), 1125–1133. 10.1001/jama.2018.1742
+[ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+ACTIONS
+View on publisher site
+PDF (428.2 KB)
+Cite
+Collections
+Permalink
+PERMALINK
+Copy
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+Cite
+Copy
+Download .nbib
+.nbib
+Format:
+AMA
+APA
+MLA
+NLM
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection
+Choose a collection
+Unable to load your collection due to an error
+Please try again
+Add
+Cancel
+Back to Top

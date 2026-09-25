@@ -1,0 +1,295 @@
+How to Run Nemotron 3.5 Lightning Locally: 2026 Guide
+Skip to content
+Marcus Chen
+September 9, 2026
+17 min read
+NVIDIA shipped Nemotron 3.5 Lightning on August 11, 2026, and within weeks it became one of the most-downloaded open-weight models on Hugging Face. The pitch is simple: a 30-billion-parameter mixture-of-experts model that only activates about 3 billion parameters per token, so it runs fast enough for the kind of always-on, tool-calling agents that used to require a cloud API bill. NVIDIA’s own August 2026 benchmarks put that pitch in numbers: up to 4x the output speed of comparable models and roughly 30% faster completion on real agent-task workloads. It ships with a 1-million-token context window, a permissive OpenMDW-1.1 license covering the weights, training data, and recipes, and native day-zero support in vLLM and SGLang.
+This tutorial walks through getting Nemotron 3.5 Lightning running for inference, from picking the right checkpoint and hardware to serving it with vLLM, SGLang, an NVIDIA NIM container, or a quantized GGUF build on a single consumer GPU. By the end you will have a working OpenAI-compatible local endpoint, know which precision to pick for your GPU, and understand the pitfalls that trip up most first attempts.
+Industry insights, the latest tech news, and special interviews, all in the Tech Insider Newsletter.
+Email address
+Subscribe now
+One email a week. No spam, unsubscribe anytime.
+Google · Preferred Sources
+Don't miss new tech stories on Google
+Add Tech Insider once in the Google app and our stories appear in your news suggestions.
+Add Now
+What is Nemotron 3.5 Lightning, and why it matters right now
+Nemotron 3.5 Lightning is NVIDIA’s open-weight execution-layer model, distilled from the larger Nemotron 3 Ultra flagship. Where Ultra chases benchmark leaderboards, Lightning is built for a different job: running the repetitive, high-volume steps inside long-running agent loops (tool calls, document triage, workflow steps) as cheaply and quickly as possible. According to NVIDIA’s developer blog , the model uses a hybrid Mamba-2 plus Mixture-of-Experts plus attention architecture, with 30 billion total parameters and roughly 3 billion active per token, which keeps per-token compute close to that of a much smaller dense model while retaining a large weight pool for specialization. NVIDIA’s own August 2026 figures credit that architecture with up to 4x higher output throughput and about 30% faster agent-task completion than comparably sized dense models.
+The model is text-in, text-out, supports a context window of up to 1 million tokens, and was released in August 2026 under NVIDIA’s OpenMDW-1.1 license, which covers weights, training data, and training recipes for commercial use without the field-of-use restrictions common in other “open” model releases. It is distributed on Hugging Face , ModelScope, and OpenRouter, and packaged as an NVIDIA NIM microservice on the NGC catalog . AWS added it to SageMaker JumpStart in August 2026, describing it as built for persistent agents and high-throughput enterprise automation spanning personal assistants, financial document processing, cybersecurity triage, and telecom operations, and citing throughput of roughly 410 tokens per second in its own testing.
+The reason this topic is worth a dedicated setup guide in September 2026: Lightning is genuinely new (barely a month old at time of writing), the deployment paths are scattered across five different tools (vLLM, SGLang, NIM, Ollama-style local runners, and GGUF quantization), and NVIDIA’s own documentation assumes you already know which checkpoint variant to grab. This guide consolidates that into one path.
+How the hybrid Mamba-2, MoE, and attention architecture actually works
+It’s worth understanding what “hybrid Mamba-2 plus MoE plus attention” means in practice, because it explains most of the deployment quirks you’ll run into later. A conventional dense transformer runs every parameter on every token, which is why doubling parameter count roughly doubles compute cost. Nemotron 3.5 Lightning instead routes each token through only a subset of its expert sub-networks, so the 30 billion stored parameters translate into roughly 3 billion parameters’ worth of actual compute per forward pass. That’s the “3B active” figure you’ll see everywhere in NVIDIA’s documentation.
+The Mamba-2 layers handle long-range sequence processing more efficiently than standard attention, which is part of how Lightning supports contexts up to 1 million tokens without the quadratic memory blowup a pure-attention model of the same size would hit. Attention layers are still present, interleaved with the Mamba-2 blocks, to preserve the kind of precise token-to-token comparison that pure state-space models sometimes struggle with. The result is a model that’s cheaper to run at long context than a dense transformer of comparable capability, but that also needs newer inference-engine support, since Mamba-style kernels weren’t part of vLLM or SGLang’s original design.
+This matters for two practical reasons covered later in this guide. First, it’s why version pinning (vLLM 0.27.1+) is non-negotiable rather than a nice-to-have — older serving engines simply don’t have the Mamba-2 kernels compiled in. Second, it’s why MoE-aware flags like --moe-backend marlin and --mamba-backend flashinfer exist as separate configuration knobs from the general quantization settings you’d tune on a standard dense model.
+Prerequisites and versions you need before starting
+Before you touch a terminal, confirm you have the following. Version mismatches are the single biggest cause of failed Nemotron 3.5 Lightning deployments, since the model relies on recent kernel support for its hybrid Mamba/MoE layers.
+A Linux host (Ubuntu 22.04 or 24.04 recommended) with an NVIDIA GPU. Hopper (H100/H200) or Blackwell (B200, GB200, DGX Spark/GB10, RTX 5090) hardware is what NVIDIA validated at launch.
+NVIDIA driver 550+ and CUDA 12.4 or newer.
+Python 3.10 or 3.11 in a clean virtual environment.
+vLLM 0.27.1 or newer if you’re using vLLM (the validated container is vllm/vllm-openai:v0.28.0 ).
+SGLang, if you prefer that server, plus Docker 24+ if you want the containerized SGLang recipe.
+A free Hugging Face account and access token (the checkpoints are gated behind a license click-through, not a paid tier).
+At least 80GB of free disk space for the NVFP4 checkpoint, more if you also pull the BF16 or GGUF variants.
+For consumer-GPU/GGUF testing: an RTX 5090 (32GB) is the smallest card NVIDIA and community trackers list by name for local Lightning deployment; a 24GB RTX 4090 can run lower-context GGUF builds but is not officially validated.
+You do not need a beefy multi-GPU rig to get started. A single H100 80GB or a DGX Spark (GB10) is enough for the default NVFP4 checkpoint at moderate context lengths, and that’s the path most readers will follow first.
+Step 1: Pick the right checkpoint variant
+NVIDIA published several checkpoints of the same model, and picking the wrong one is the most common first mistake. Here is what actually exists on Hugging Face as of September 2026:
+Checkpoint Hugging Face repo Precision Best for
+NVFP4 (default deploy target) nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 W4A16 quantized Production inference on H100/H200/B200/GB200
+BF16 reference nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16 BF16 Highest fidelity, benchmarking, fine-tuning base
+Base BF16 nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-Base-BF16 BF16 Pre-instruction-tuned base for custom post-training
+NVFP4-DSpark nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4-DSpark Speculative head Used alongside the NVFP4 checkpoint for speculative decoding, not standalone
+Community GGUF unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF Quantized GGUF Consumer GPUs via llama.cpp, LM Studio, or Ollama-style runners
+For most readers, the NVFP4 checkpoint is the right first download. It is NVIDIA’s own default deployment target, it’s roughly a quarter the footprint of the BF16 reference, and it’s what the official vLLM and SGLang recipes are built around. Reach for GGUF only if you’re running on a single consumer GPU with llama.cpp-family tooling, and reach for BF16 only if you’re planning to fine-tune later or need maximum output fidelity for evaluation work.
+A note on parameter counts: you’ll see the model described both as “30B total / 3B active” (NVIDIA’s own dev blog and Hugging Face cards) and, in a handful of third-party trackers, as “31.6B total / 3.6B active.” Treat 30B/3B as the canonical figure since it comes directly from NVIDIA’s documentation; the rounding difference doesn’t change any of the deployment steps below.
+Step 2: Set up your Python environment
+Isolate this work in its own virtual environment. Mixing Nemotron’s dependency requirements with an older project’s pinned transformers or torch version is the fastest way to get cryptic kernel errors later.
+python3 -m venv nemotron-env
+source nemotron-env/bin/activate
+pip install --upgrade pip
+pip install huggingface_hub
+Log in to Hugging Face so the download commands in the next step can pull the gated checkpoint:
+huggingface-cli login
+# paste your HF access token when prompted (create one at
+# huggingface.co/settings/tokens if you don't have one yet)
+Step 3: Download the model weights
+Pull the NVFP4 checkpoint with the Hugging Face CLI. This downloads to your local HF cache ( ~/.cache/huggingface by default), and later serving commands will reference the same repo ID rather than a local path.
+huggingface-cli download nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4
+If you’d rather work with the full-precision reference checkpoint (useful if you plan to run your own quantization or later fine-tune the model), swap in the BF16 repo instead:
+huggingface-cli download nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16
+For the consumer-GPU path, grab the community GGUF build maintained by Unsloth instead:
+huggingface-cli download unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF
+Downloads run in the tens of gigabytes and can take a while depending on your connection. Let this finish fully before moving on. A partial download is a common source of “corrupted shard” errors during server startup.
+Step 4: Install and serve with vLLM (recommended path)
+vLLM has day-zero support for Nemotron 3.5 Lightning, according to the vLLM project’s own August 10, 2026 announcement , which highlights the model’s coding, tool-use, and multi-turn strengths alongside its compact MoE footprint. Install vLLM and launch the server:
+pip install vllm
+vllm serve "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4"
+That single command starts an OpenAI-compatible API server on port 8000. For longer contexts or production tuning, NVIDIA’s vLLM recipe adds explicit quantization and context flags:
+vllm serve nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B \
+--quantization nvfp4 \
+--max-model-len 1000000
+Once the server is up, test it with a standard chat completions request:
+curl -X POST "http://localhost:8000/v1/chat/completions" \
+-H "Content-Type: application/json" \
+-d '{
+"model": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+"messages": [{"role": "user", "content": "Summarize this in one sentence: Nemotron 3.5 Lightning is an agent execution model."}]
+If you want the advanced production configuration with speculative decoding, NVIDIA’s Dynamo recipe documents a more elaborate flag set that enables the DSpark speculative head, FP8 KV cache, and a MoE-aware backend:
+vllm serve --model $MODEL_CKPT \
+--moe-backend marlin \
+--kv-cache-dtype fp8 \
+--enable-prefix-caching \
+--gpu-memory-utilization 0.85 \
+--speculative_config.num_speculative_tokens 3 \
+--mamba-backend flashinfer \
+--mamba-cache-mode align \
+--reasoning-parser nemotron_v3 \
+--speculative_config.model $DSPARK_CKPT
+Set $MODEL_CKPT to the NVFP4 repo path and $DSPARK_CKPT to the NVFP4-DSpark repo. This configuration is what NVIDIA validates on H100, H200, B200, and GB200, and it’s the version you want once you’re moving past a quick local test into anything resembling a production agent backend.
+Step 5: Alternative — serve with SGLang
+SGLang is the other officially supported serving stack, and some teams prefer it for its structured-output and batching performance on agent workloads. The install and launch pattern mirrors vLLM:
+pip install sglang
+python3 -m sglang.launch_server \
+--model-path "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4" \
+--host 0.0.0.0 \
+--port 30000
+If you’d rather skip local Python dependency management entirely, NVIDIA’s model card also documents a Docker-based SGLang launch that mounts your Hugging Face cache and reads your HF token from the environment:
+docker run --gpus all \
+--shm-size 32g \
+-p 30000:30000 \
+-v ~/.cache/huggingface:/root/.cache/huggingface \
+--env "HF_TOKEN=your_token_here" \
+--ipc=host \
+lmsysorg/sglang:latest \
+python3 -m sglang.launch_server \
+--model-path "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4" \
+--host 0.0.0.0 \
+--port 30000
+For the full 1M-token context on a single node, NVIDIA’s BF16 model card documents an SGLang recipe on B200 hardware with an explicit context override, since the default max is set conservatively:
+export SGLANG_ALLOW_OVERWRITE_LONGER_CONTEXT_LEN=1
+python3 -m sglang.launch_server \
+--model-path "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16" \
+--context-length 1048576
+That 1,048,576-token figure is the model’s advertised ceiling; NVIDIA’s own hardware table notes it’s validated on B200, while a single H100 80GB is memory-bound at roughly 256K tokens in BF16. Plan your context length around the GPU you actually have, not the marketing number.
+Step 6: Deploy as an NVIDIA NIM microservice
+If you’re already standardized on NVIDIA’s NIM platform for other models, Lightning ships as a packaged microservice on NGC. Pull the container:
+docker pull nvcr.io/nim/nvidia/nemotron-3.5-lightning-30b-a3b:2.0.9-variant
+NIM containers handle model loading, health checks, and API compatibility for you, which is useful if you’re deploying inside an existing Kubernetes or enterprise MLOps pipeline that already expects NIM’s standard interface. Follow NVIDIA’s NIM get-started documentation for the specific run flags for your GPU class, since NIM configuration differs slightly between Hopper and Blackwell targets.
+Step 7: Run a quantized build on a consumer GPU
+Not everyone has an H100 lying around. If you’re testing on a workstation GPU, the community GGUF build from Unsloth is your path in through llama.cpp, LM Studio, or an Ollama-style local runner. NVIDIA’s own launch materials list local deployment targets explicitly: DGX Spark, RTX 5090, and Jetson, alongside LM Studio, llama.cpp, Ollama, Unsloth, vLLM, SGLang, and TensorRT-LLM as supported tooling.
+Download the GGUF repo and load it in llama.cpp or LM Studio the same way you would any other GGUF model:
+huggingface-cli download unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF \
+--local-dir ./nemotron-gguf
+A practical note on hardware: NVIDIA names RTX 5090 explicitly as a supported local target, but does not publish exact per-quantization VRAM figures for the GGUF build. If you’re on a 24GB card such as an RTX 4090, start with the most aggressive quantization level available in the GGUF repo and a modest context length (8K–32K tokens), then scale up only if you have headroom. Because this is a 30B-parameter model even at 3B active, don’t expect a 12GB card to hold it — the MoE architecture reduces compute, not the storage footprint you need to load the weights.
+Step 8: Verify the deployment with a real agent-style prompt
+Once your server is running (via vLLM, SGLang, or NIM), don’t just send a “hello world” prompt. Nemotron 3.5 Lightning is built for tool-calling and multi-step task execution, so test that path specifically. Here’s a Python example using the OpenAI SDK against your local vLLM endpoint:
+from openai import OpenAI
+client = OpenAI(base_url="http://localhost:8000/v1", api_key="not-needed")
+tools = [{
+"type": "function",
+"function": {
+"name": "get_weather",
+"description": "Get current weather for a city",
+"parameters": {
+"type": "object",
+"properties": {"city": {"type": "string"}},
+"required": ["city"]
+response = client.chat.completions.create(
+model="nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+messages=[{"role": "user", "content": "What's the weather in Austin?"}],
+tools=tools
+print(response.choices[0].message.tool_calls)
+A correct response returns a structured tool call rather than a plain-text guess at the weather. If tool_calls comes back empty or malformed, check that your server is using the nemotron_v3 reasoning parser flag from Step 4 — running the model with a generic parser is one of the more common causes of broken tool-call output.
+Step 9: Measure output quality against Nemotron 3 Ultra
+Lightning is explicitly not designed to top accuracy leaderboards. It’s distilled from Nemotron 3 Ultra, and NVIDIA frames it as an efficiency tier rather than an accuracy leader, trading some peak reasoning quality for throughput and cost. Before you commit a production workload to Lightning, run a side-by-side comparison on your actual task (not a generic benchmark) against your previous model.
+Dimension Nemotron 3.5 Lightning Nemotron 3 Ultra
+Total / active parameters 30B total / ~3B active 550B total (much larger dense/MoE class)
+Role Execution layer for agents Accuracy / reasoning flagship
+Context window Up to 1M tokens Up to 1M tokens
+Typical hardware 1x H100 or DGX Spark Multi-GPU cluster
+Best use case High-volume, repetitive agent steps Complex reasoning, high-accuracy tasks
+If your workload is a long-running agent that makes hundreds of small tool calls per session, Lightning’s speed advantage usually outweighs the accuracy gap. If you’re doing one-shot complex reasoning (legal analysis, multi-step math proofs, deep code review), Ultra remains the better fit despite the extra hardware cost.
+Step 10: Set up monitoring and health checks
+Before you point real traffic at this deployment, wire up basic observability. Both vLLM and SGLang expose Prometheus-compatible metrics endpoints by default, and NIM containers include built-in health checks designed for Kubernetes liveness and readiness probes.
+# vLLM metrics endpoint (Prometheus format)
+curl http://localhost:8000/metrics
+# Basic health check
+curl http://localhost:8000/health
+Track GPU memory utilization closely for the first few days. Because Lightning’s MoE routing means memory pressure can spike unpredictably under mixed workloads (some requests activate different experts than others), a deployment that looks stable at 60% GPU memory utilization in testing can still hit occasional out-of-memory events under production traffic patterns you haven’t tested yet.
+Step 11: Scale beyond a single GPU (optional)
+If you need the full 1M-token context or higher throughput than a single H100 can deliver, NVIDIA’s documented path uses B200 or GB200 hardware with SGLang’s tensor-parallel flags, or vLLM’s equivalent multi-GPU sharding. This isn’t a beginner step, and it’s not something most teams need on day one. Start on a single GPU, confirm the model behaves correctly for your task, and only scale out once you’ve hit a real throughput ceiling rather than a hypothetical one.
+Common pitfalls when deploying Nemotron 3.5 Lightning
+These are the mistakes that come up repeatedly across NVIDIA’s own documentation, the Hugging Face discussion threads, and the vLLM/SGLang recipe pages.
+Using a vLLM build older than 0.27.1. Lightning’s hybrid Mamba/MoE layers need kernel support that only landed in recent vLLM releases. The validated container is vllm/vllm-openai:v0.28.0 ; anything much older will throw unsupported-config or missing-kernel errors at startup.
+Pushing context length past what your GPU can hold. The 1M-token figure is a ceiling, not a default. A single H100 80GB is memory-bound around 256K tokens in BF16 — trying to force 1M context on that hardware produces OOM crashes, not graceful degradation.
+Loading the DSpark checkpoint as a standalone model. NVFP4-DSpark is a speculative-decoding head meant to be passed via --speculative_config.model alongside the main NVFP4 checkpoint, not run on its own.
+Skipping the nemotron_v3 reasoning parser flag. Without it, tool-calling output can come back malformed or as plain text instead of structured function calls, which breaks agent frameworks expecting standard tool-call responses.
+Missing the Hugging Face token in Docker deployments. The containerized SGLang recipe needs HF_TOKEN set in the environment and your HF cache directory mounted. Skip either and the container re-downloads the full model on every restart, or fails outright since these are gated repos.
+Assuming MoE means low VRAM. The “3B active parameters” figure describes compute per token, not memory footprint. You still need to load all 30B parameters’ worth of weights into VRAM, so a 12GB consumer card is not going to work regardless of quantization.
+Mixing up the checkpoint variants. There are five separate Hugging Face repos for this one model family (NVFP4, BF16, Base-BF16, NVFP4-DSpark, and the community GGUF). Pulling the wrong one for your serving stack is a common source of “model loads but behaves strangely” reports.
+Not setting gpu-memory-utilization appropriately. vLLM defaults can leave too little headroom for KV cache growth under long conversations. NVIDIA’s production recipe sets this explicitly to 0.85 rather than relying on defaults.
+Expected output and what a healthy deployment looks like
+When your vLLM server starts successfully, you should see log lines confirming the model config was loaded, the KV cache was allocated, and the server is listening on your configured port. A typical healthy startup ends with a confirmation that the OpenAI-compatible API is available at http://0.0.0.0:8000 , followed by the server sitting idle waiting for requests. Your first curl test against /v1/chat/completions should return a JSON response within a few seconds for short prompts, with a choices array containing the generated message. If you’re testing tool calls, a working deployment returns a tool_calls array with a function name and JSON-encoded arguments rather than a text description of what it would call.
+Troubleshooting guide
+Work through these in order if your deployment isn’t behaving as expected.
+Server crashes immediately with a CUDA out-of-memory error. Lower --max-model-len , reduce --gpu-memory-utilization , or switch from BF16 to the NVFP4 checkpoint, which has a smaller memory footprint at the same context length.
+“Unsupported architecture” or kernel errors at startup. Upgrade vLLM or SGLang to the latest release. This almost always means your serving framework predates Lightning’s hybrid Mamba/MoE kernel support.
+Model downloads fail with a 401 or gated-repo error. Run huggingface-cli login again and confirm you’ve accepted the model’s license terms on the Hugging Face repo page in your browser first. The gate is a manual click-through, not automatic.
+Tool calls come back as plain text instead of structured JSON. Add --reasoning-parser nemotron_v3 to your vLLM launch command.
+Docker container re-downloads the model on every restart. Mount your Hugging Face cache directory ( -v ~/.cache/huggingface:/root/.cache/huggingface ) and pass HF_TOKEN as an environment variable.
+Context length requests beyond 256K fail on a single H100. This is expected. A single H100 80GB is memory-bound around 256K tokens in BF16. Use NVFP4 for more headroom, or move to B200/GB200 for the full 1M-token window.
+GGUF build won’t load on a consumer GPU. Try a more aggressive quantization level and shorten your context window. If it still fails, your card likely doesn’t have enough VRAM for even the quantized 30B weight set — RTX 5090 (32GB) is the smallest card NVIDIA names by default.
+Responses are noticeably slower than expected. Confirm you’re actually using the NVFP4 checkpoint with speculative decoding enabled (DSpark or MTP), not the BF16 reference checkpoint, which is meant for fidelity testing rather than throughput.
+SGLang server won’t accept requests beyond the default context limit. Set the environment variable SGLANG_ALLOW_OVERWRITE_LONGER_CONTEXT_LEN=1 before launching, then pass your desired --context-length explicitly.
+Advanced tips for production deployments
+Once your basic deployment is stable, a few adjustments make a meaningful difference for real workloads. Enable prefix caching ( --enable-prefix-caching ) if your agent workflows reuse the same system prompt or tool definitions across requests. This is common in agent loops and can meaningfully cut latency on repeated calls. Use FP8 KV cache ( --kv-cache-dtype fp8 ) to stretch your effective context budget further on the same GPU without a full precision downgrade of the model weights themselves. If you’re running multiple concurrent agent sessions, batch them through a single server instance rather than spinning up one server per session — vLLM and SGLang are both built to handle concurrent request batching efficiently, and running separate instances wastes GPU memory on duplicated weight loading.
+For teams standardizing on NIM for governance or compliance reasons, the NIM container abstracts away most of the flag-tuning shown above, at the cost of some flexibility. That trade-off is usually worth it for organizations that already run NIM for other NVIDIA models and want one consistent operational pattern rather than a stack of custom flags per model.
+Access control and network exposure when self-hosting
+The vLLM and SGLang commands in this guide bind to localhost or 0.0.0.0 with no authentication by default, which is fine for a single-developer test but not something to leave running on a shared network or a cloud instance with a public IP. Before you expose the endpoint beyond your own machine, put it behind a reverse proxy (nginx or Caddy work well) that enforces an API key header, and restrict inbound traffic at the security-group or firewall level to only the hosts that actually need to reach it.
+This matters more for Lightning than for a typical chatbot deployment, because agent use cases frequently give the model tool-calling access to real systems: databases, internal APIs, file systems. If your inference endpoint is reachable by anyone on your network, so is every tool you’ve wired up behind it. Treat the model server itself as part of your application’s attack surface, not just an internal implementation detail, and log every request at the proxy layer so you have an audit trail if something behaves unexpectedly during testing.
+If you’re running the NIM container inside Kubernetes, use standard network policies to restrict which pods can reach the Lightning service, rather than relying on the cluster’s default pod-to-pod networking. This is a five-minute step during initial setup that’s considerably more painful to retrofit once other services depend on the endpoint being reachable exactly the way it was configured on day one.
+Complete working project: a local agent backend
+Here’s how the full setup comes together as a minimal but complete local deployment, from a clean machine to a tested agent endpoint.
+# 1. Environment setup
+python3 -m venv nemotron-env
+source nemotron-env/bin/activate
+pip install --upgrade pip vllm huggingface_hub openai
+# 2. Authenticate and download
+huggingface-cli login
+huggingface-cli download nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4
+# 3. Serve with production-ready flags
+vllm serve nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 \
+--max-model-len 256000 \
+--gpu-memory-utilization 0.85 \
+--enable-prefix-caching \
+--kv-cache-dtype fp8 \
+--reasoning-parser nemotron_v3 &
+# 4. Wait for startup, then verify health
+sleep 30
+curl http://localhost:8000/health
+# 5. Run a tool-calling test
+python3 -
+This gives you a running, verified, OpenAI-compatible endpoint backed by Nemotron 3.5 Lightning that you can point any existing agent framework at (LangChain, LlamaIndex, or a custom harness) by simply changing the base URL and model name in your client configuration.
+Connecting Nemotron 3.5 Lightning to an agent framework
+Because vLLM, SGLang, and NIM all expose an OpenAI-compatible /v1/chat/completions endpoint, wiring Lightning into an existing agent stack is mostly a matter of pointing your framework's base URL at your local server instead of a hosted API. Here's a minimal LangChain example that treats your self-hosted Lightning deployment as a drop-in replacement for a cloud LLM:
+from langchain_openai import ChatOpenAI
+llm = ChatOpenAI(
+base_url="http://localhost:8000/v1",
+api_key="not-needed",
+model="nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+temperature=0.2,
+response = llm.invoke("Draft a one-paragraph incident summary from these logs: [log excerpt]")
+print(response.content)
+The same pattern works for LlamaIndex, CrewAI, or any framework built around the OpenAI client interface. The one thing to watch: agent frameworks that assume a hosted API will happily retry a request forever if your local server is still loading the model on startup, which can look like a hang rather than a clear error. Add a short health-check loop against /health before your framework's first real request, especially in CI or containerized deployments where the server and the client start at roughly the same time.
+Cost considerations: cloud GPU pricing for self-hosting
+The appeal of a model like Lightning is that it moves inference cost from a per-token API bill to a per-hour GPU rental (or owned hardware), which changes the economics for high-volume agent workloads. If you'd rather skip self-hosting entirely, OpenRouter listed Nemotron 3.5 Lightning at $0.10 per million input tokens and $0.25 per million output tokens as of August 2026, which is a useful benchmark for deciding whether renting a GPU actually pencils out for your request volume. The specific hourly rate you'll pay depends heavily on your cloud provider, region, and whether you're using on-demand or reserved capacity, so treat the ranges below as a planning starting point rather than a quote, and check current pricing pages before committing budget.
+Deployment target Typical use case Checkpoint Notes
+Single H100 80GB (cloud rental) Production inference, moderate context (up to ~256K) NVFP4 NVIDIA's documented single-GPU baseline for this model
+DGX Spark (GB10) Local/desktop development and testing NVFP4 Listed alongside RTX 5090 as an official local target
+B200 / GB200 Full 1M-token context, highest throughput BF16 or NVFP4 Required for the model's advertised context ceiling
+RTX 5090 (32GB, consumer) Local experimentation, smaller context windows Community GGUF Smallest card NVIDIA names explicitly for local use
+NVIDIA NIM on build.nvidia.com Managed hosted inference, no local GPU needed Managed by NVIDIA Fastest way to evaluate the model before buying hardware
+If you're just evaluating whether Lightning fits your use case before committing to infrastructure, the fastest path is testing it through OpenRouter or NVIDIA's own hosted NIM endpoint on build.nvidia.com rather than provisioning a GPU up front. Once you've confirmed the model handles your specific agent tasks well, move to self-hosted vLLM or SGLang for production, where the per-hour GPU cost typically undercuts a comparable-volume hosted API bill for sustained, high-request-volume workloads.
+Where Nemotron 3.5 Lightning fits versus other recent open-weight releases
+Lightning arrives into a crowded field of recent open-weight releases aimed at agent workloads. Its differentiation is the combination of a 1M-token context window, native day-zero vLLM and SGLang support, and NVIDIA's own NIM packaging, which fewer community-trained open models offer out of the box. If your infrastructure is already NVIDIA-centric (Hopper or Blackwell GPUs, NIM, TensorRT-LLM), the tooling overlap makes Lightning a lower-friction choice than pulling in a differently-optimized open model and building your own serving pipeline from scratch. If your stack is GPU-agnostic or already standardized on a different quantization format, weigh the setup cost against Lightning's throughput and context advantages for your specific workload before committing.
+It's also worth deciding upfront whether Lightning or Ultra is the right base model for your agent, since switching later means re-testing your prompts and tool schemas. Teams building a single-purpose, high-frequency automation (ticket triage, log summarization, routine document extraction) tend to get more value from Lightning's throughput than from Ultra's extra reasoning depth. Teams building a smaller number of high-stakes, complex reasoning agents should default to Ultra and only add Lightning later as a cost-optimization step for the simpler sub-tasks inside that same pipeline.
+Frequently asked questions
+Is Nemotron 3.5 Lightning free to use commercially?
+Yes. It's released under NVIDIA's OpenMDW-1.1 license, which covers the weights, training data, and training recipes for commercial use without the field-of-use restrictions found in some other open-weight licenses.
+What's the difference between the NVFP4 and BF16 checkpoints?
+NVFP4 is a W4A16 quantized checkpoint and NVIDIA's default deployment target, with a smaller memory footprint. BF16 is the full-precision reference checkpoint, useful for benchmarking or as a fine-tuning base, but it needs more VRAM and more powerful hardware to hit the same context lengths.
+Can I run Nemotron 3.5 Lightning on a gaming GPU?
+NVIDIA names the RTX 5090 (32GB) as a supported local target via GGUF, llama.cpp, and similar tooling. A 24GB card such as an RTX 4090 can potentially run a heavily quantized GGUF build at a reduced context length, but it isn't an officially validated configuration.
+Does Nemotron 3.5 Lightning support the full 1 million token context on any GPU?
+No. The 1M-token figure is validated on B200-class hardware. A single H100 80GB is memory-bound around 256K tokens in BF16; use the NVFP4 checkpoint or multi-GPU setups to push closer to the full window.
+How does Lightning compare to Nemotron 3 Ultra for accuracy?
+Lightning is distilled from Ultra and explicitly optimized for speed and throughput rather than peak accuracy. For complex, one-shot reasoning tasks, Ultra remains the stronger choice; for high-volume, repetitive agent steps, Lightning's speed advantage typically wins out.
+Which serving framework should I use: vLLM, SGLang, or NIM?
+vLLM and SGLang both have official day-zero support and are the right choice for most self-managed deployments. NIM is worth it if you're already standardized on NVIDIA's NIM platform for governance or operational consistency across multiple models.
+Why are my tool calls coming back as plain text instead of structured JSON?
+You're most likely missing the --reasoning-parser nemotron_v3 flag in your vLLM launch command. This flag tells vLLM how to correctly parse Lightning's structured tool-call output.
+Is Ollama officially supported?
+NVIDIA's own launch materials list Ollama among the supported local tools alongside LM Studio, llama.cpp, and Unsloth, though the exact model slug for a one-line ollama pull command was not published at launch. The GGUF build from Unsloth is the most reliably documented path for local, non-vLLM/SGLang deployment.
+Can I fine-tune Nemotron 3.5 Lightning after deploying it for inference?
+Yes, using the BF16 or Base-BF16 checkpoint as your starting point rather than the NVFP4 deployment checkpoint. Fine-tuning a quantized deployment checkpoint directly is not the recommended path; start from full precision, then re-quantize the tuned result for serving.
+What's a realistic first GPU budget for testing Lightning before production?
+Renting a single H100 80GB by the hour from a cloud GPU provider is the most common starting point, since it matches NVIDIA's documented single-GPU baseline and lets you validate the NVFP4 checkpoint at moderate context lengths before deciding whether to scale to multi-GPU B200 hardware for the full 1M-token window.
+Related Coverage
+How to Write AI Image Prompts: 12 Steps, 90 Min [2026]
+Claude Managed Agents Setup: 12 Steps, $0.08/Hr [2026]
+AI Image Generator API Costs: 12 Steps, $150 Gap [2026]
+How to Build an MCP Server: 12 Steps, 90 Min [2026]
+How to Use Seedream 5.0 Pro & Lite: 12 Steps, $0.035/Image [2026]
+Marcus Chen
+Gaming & Consumer Tech Editor
+Marcus Chen is a senior editor at Tech Insider, where he leads coverage of the US online gaming market, including sweepstakes and social casinos, alongside consumer technology. He evaluates operators on their published terms, licensing and RNG certifications, stated redemption policies, and corroborating independent reporting, and writes plainly about what the evidence supports. Tech Insider does not run first-party money tests and does not gamble with reader funds. Marcus has reported on the technology and online-gaming industries for more than a decade.
+View all articles
+The Tech Insider Newsletter
+Industry insights, the latest tech news, and special interviews, every week.
+Email address
+Subscribe now
+One email a week. No spam, unsubscribe anytime.
+Tech
+Insider
+Tech Insider delivers in-depth coverage of the technologies shaping the future: AI, cybersecurity, cloud computing, hardware, and the trends that matter.
+[email protected]
+Company
+About Us
+Terms of Service
+Privacy Policy
+Contact
+Write for Us
+Explore
+AI & Machine Learning
+Cloud Computing
+Crypto Casino
+Categories
+Crypto Regulation
+Cybersecurity
+Gaming
+© 2026 Tech Insider Media AB. All rights reserved.
+We use cookies to measure traffic and improve Tech Insider. Read our Privacy Policy .
+Reject
+Accept
+The Tech Insider Newsletter: industry insights, tech news, and special interviews.
+Subscribe now

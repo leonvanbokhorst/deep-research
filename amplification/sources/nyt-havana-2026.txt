@@ -1,0 +1,11 @@
+Not Authorized - The New York Times
+Not Authorized
+You have been blocked from The New York Times because we suspect
+that you're a robot. If you believe you have been blocked
+incorrectly, please
+contact our help team here.
+Why am I seeing this? There are a few possibilities:
+You are browsing and clicking much faster than is typical of a
+human being
+We couldn't verify your user agent
+There is a bot with the same user agent or IP address as you

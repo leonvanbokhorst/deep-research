@@ -1,0 +1,197 @@
+GLM-5.2 vs Qwen3.8-Max vs Kimi K3: 17x Price Gap [2026]
+Skip to content
+Marcus Chen
+September 10, 2026
+22 min read
+Four open-weight language models shipped between April and August 2026, and together they rewrote what “open source AI” means for anyone running production workloads. GLM-5.2, Qwen3.8-Max, Kimi K3, and DeepSeek V4 Pro each claim a 1-million-token context window and frontier-class coding scores, but the similarities stop at the spec sheet. One of them isn’t actually open-weight at all. Another needs 1.56TB of storage just for its raw weights. A third charges 17 times more per output token than the cheapest option in the group.
+This comparison breaks down the real differences between GLM-5.2 vs Qwen3.8-Max vs Kimi K3 vs DeepSeek V4 Pro: parameters, licenses, benchmark scores, self-hosting costs, and which one actually fits your workload. The pace hasn’t slowed since: DeepSeek pushed out a smaller V4.1 Flash model in September 2026 with 552 billion parameters and the same 1M-token context window, and Moonshot published a fresh Terminal-Bench 2.1 score of 88.3 for Kimi K3 that same month, according to Morph LLM. If you’re evaluating the best open source LLM 2026 has produced so far as part of a broader look at the current AI model landscape , the answer depends heavily on what “open” means to you and how much GPU budget you’re working with.
+Industry insights, the latest tech news, and special interviews, all in the Tech Insider Newsletter.
+Email address
+Subscribe now
+One email a week. No spam, unsubscribe anytime.
+Google · Preferred Sources
+Don't miss new tech stories on Google
+Add Tech Insider once in the Google app and our stories appear in your news suggestions.
+Add Now
+Why the Open-Weight LLM Race Suddenly Matters
+A year ago, choosing a self-hosted model meant accepting a quality gap against GPT or Claude. That gap has closed fast. DeepSeek V4 Pro now matches Gemini 3.1 Pro on SWE-bench Verified at 80.6%, according to DeepSeek’s own release notes and independent trackers at HokAI . GLM-5.2 reportedly edged out GPT-5.5 on SWE-bench Pro, scoring 62.1 against 58.6, while running at roughly one-sixth the inference cost. Kimi K3 posted a GPQA Diamond score of 93.5%, a figure that puts it ahead of several closed frontier models on graduate-level science reasoning.
+None of this happened by accident. Chinese AI labs, facing export restrictions on the newest Nvidia accelerators, leaned hard into architecture efficiency instead of raw compute. Mixture-of-Experts routing, sparse attention, and FP4/FP8 mixed precision now let a 2.8-trillion-parameter model like Kimi K3 activate only 104 billion parameters per token. That efficiency is exactly why self-hosting these models has become a real option for mid-size engineering teams, not just hyperscalers.
+The catch is that “open weight” and “open source” aren’t the same thing, and mixing them up leads to bad procurement decisions. Two of the four models in this comparison ship genuinely permissive MIT licenses. One uses a modified license with model-specific terms. One isn’t open at all, despite showing up constantly in “open source LLM” search results.
+Meet the Contenders: Four Models, Four Different Bets
+GLM-5.2 (Zhipu / Z.ai)
+Z.ai shipped GLM-5.2 on June 16, 2026, as its long-context coding and agentic flagship. It’s the smallest of the four by total parameter count at roughly 744-753 billion, with about 40 billion active per token across a mixture-of-experts transformer running 256 experts and 8 active per pass. The headline architecture feature is IndexShare, a sparse attention mechanism that reuses the same indexer across every four attention layers, cutting per-token compute by close to 2.9x at full 1M context. Z.ai publishes the weights on Hugging Face under an MIT license with no regional restrictions, which makes GLM-5.2 the easiest of the four to actually download and deploy today.
+Qwen3.8-Max (Alibaba)
+Alibaba’s Qwen3.8-Max reached general availability on Alibaba Cloud Model Studio on August 3, 2026, with a refreshed 0902 checkpoint arriving September 2. At 2.4 trillion total parameters and 95 billion active, it’s built on the Qwen 3.5 architectural foundation using a hybrid Gated-DeltaNet and full-attention design across 92 layers and 512 experts. It’s also the only model in this group with native multimodal input, accepting text, images, and video. Here’s the part that surprises a lot of buyers: Qwen3.8-Max ships under a custom license, not Apache 2.0 or MIT. Alibaba has not released downloadable open weights for this model. You access it exclusively through Alibaba’s API or compatible resellers, which means it doesn’t belong in a strict “open source” comparison at all, even though it constantly appears in searches for one.
+Kimi K3 (Moonshot AI)
+Moonshot AI announced Kimi K3 on July 16, 2026, and released the open weights eleven days later, on July 27, under what the company calls the Kimi K3 License, a modified-MIT term set. At 2.8 trillion total parameters and 104 billion active, it’s the largest model in this comparison and, per Moonshot’s own technical blog , one of the largest open-weight models shipped to date. The architecture combines Kimi Delta Attention (a hybrid linear-attention scheme) with Attention Residuals across 93 layers routing 16 of 896 experts per token. Kimi K3 is natively multimodal with real vision understanding rather than an adapter bolted onto a text model, and reasoning mode is always on, with adjustable effort levels. Moonshot’s own pricing page still lists Kimi K3 at $3 per million input tokens and $15 per million output tokens as of September 2026, the same rates published alongside the July 27 weight release, so the cost premium discussed later in this piece isn’t a launch-week artifact. It follows an earlier three-way open-weight matchup we covered in Tencent Hy3 vs GLM-5.3-Flash vs Kimi K3 , which focused on pricing rather than the licensing and self-hosting angle covered here.
+DeepSeek V4 Pro (DeepSeek)
+DeepSeek previewed V4 Pro on April 24, 2026, and reached general availability with the V4-Pro-0813 checkpoint on August 13. It’s the smallest by total parameters at 1.6 trillion, with just 49 billion active, and DeepSeek paired that leaner footprint with a hybrid attention scheme (Compressed Sparse Attention plus Heavily Compressed Attention) that cuts inference FLOPs to 27% and KV-cache usage to 10% of what the previous V3.2 generation needed at 1M-token context. Weights use mixed FP4 (experts) and FP8 (everything else) precision. Like GLM-5.2, it ships under a clean MIT license with weights published on Hugging Face and ModelScope, and per DeepSeek’s API changelog , it’s the current SWE-bench Verified leader among the open-weight group.
+Full Specs Comparison Table
+Spec GLM-5.2 Qwen3.8-Max Kimi K3 DeepSeek V4 Pro
+Developer Zhipu / Z.ai Alibaba Moonshot AI DeepSeek
+Release date June 16, 2026 Aug 3, 2026 (0902 checkpoint Sept 2) July 16, 2026 (weights July 27) Preview Apr 24, GA Aug 13, 2026
+Total parameters ~744-753B 2.4T 2.8T 1.6T
+Active parameters ~40B 95B 104B 49B
+Architecture MoE, 256 experts, 8 active, IndexShare sparse attention MoE, 512 experts, 10 routed + 1 shared MoE, 896 experts, 16 routed + 2 shared, Kimi Delta Attention MoE, hybrid Compressed/Heavily Compressed Attention
+Context window 1M tokens 1M tokens (991K input non-thinking) 1,048,576 tokens 1M tokens
+Max output ~64K-131K tokens 131,072 tokens 131,072 default, up to 1M 384,000 tokens
+License MIT (open weights) Custom, proprietary (no open weights) Kimi K3 License, modified-MIT (open weights) MIT (open weights)
+Multimodal No, text only Yes, text/image/video input Yes, native vision No, text only
+Weight size (quantized) Not disclosed at MXFP4 scale Not applicable, closed weights ~1.56TB at MXFP4 Not disclosed at FP4/FP8 scale
+Minimum self-host GPUs 2x 80GB H100 (reduced context) Not self-hostable 4x 80GB H100 (reduced context) 2x 80GB H100 (reduced context)
+Full-context self-host GPUs 4x-8x 80GB H100 Not self-hostable 8x 80GB H100/H200 4x-8x 80GB H100
+The pattern that jumps out immediately: total parameter count and self-hosting difficulty don’t move together in a straight line. Kimi K3 is the largest and most demanding to run. GLM-5.2, despite claiming the strongest coding benchmark story, is by far the lightest, which matters enormously once you start pricing out GPU rental.
+Benchmark Performance: Coding, Reasoning, and Agentic Tasks
+Benchmark numbers for these models come from a mix of official release posts, independent trackers, and hardware documentation, and they don’t always agree on methodology. What follows pulls only figures that multiple sources converge on, cited from APXML’s model specification database , Moonshot’s own technical blog, and Alibaba’s Model Studio documentation.
+Benchmark GLM-5.2 Qwen3.8-Max Kimi K3 DeepSeek V4 Pro (Max)
+SWE-bench Verified Not publicly disclosed Not publicly disclosed Not publicly disclosed 80.6%
+SWE-bench Pro 62.1 67.7% Not publicly disclosed 55.4%
+GPQA Diamond Not publicly disclosed 92.6% 93.5% 90.1%
+SWE Marathon (long-horizon coding) Not publicly disclosed Not publicly disclosed 42.0 Not publicly disclosed
+LiveCodeBench Not publicly disclosed Not publicly disclosed Not publicly disclosed 93.5%
+Codeforces rating Not publicly disclosed Not publicly disclosed Not publicly disclosed 3,206
+DeepSeek V4 Pro’s 80.6% on SWE-bench Verified is the standout number in this table, matching Gemini 3.1 Pro’s score on the same public leaderboard and, at time of writing, sitting at the top of the open-weight tier for that specific benchmark. GLM-5.2’s SWE-bench Pro score of 62.1, compared against GPT-5.5’s 58.6 on the same test, is why several coding-model directories have started describing it as the strongest open-weight coding model released so far, even without a headline GPQA number to point to.
+Kimi K3’s GPQA Diamond score of 93.5% is the highest of the group on graduate-level reasoning, narrowly ahead of Qwen3.8-Max’s 92.6% and comfortably ahead of DeepSeek V4 Pro’s 90.1%. On Moonshot’s own SWE Marathon test, which measures long-horizon coding sessions rather than single-shot fixes, Kimi K3 scored 42.0 against Claude Fable 5’s 35.0 and GPT-5.6 Sol’s 39.0, a gap that reflects how the model’s always-on reasoning mode is tuned for sustained, multi-step work rather than quick single-turn answers. Kimi K3 also posted a Terminal-Bench 2.1 score of 88.3% in September 2026, according to independent evaluator Morph LLM, extending its agentic lead into a benchmark that grades real command-line task completion rather than static question answering.
+A caveat worth flagging: not every lab discloses every benchmark. GLM-5.2 and Kimi K3 haven’t published SWE-bench Verified numbers in their release materials, and GLM-5.2 hasn’t published a GPQA Diamond score at all. Treat the blanks in that table as genuine gaps in public disclosure, not zero scores.
+Pricing Breakdown: API Costs Compared
+Even models with open weights are usually accessed through hosted APIs for day-to-day work, since self-hosting a multi-terabyte MoE model isn’t practical for most teams. Here’s how the four compare on the metered API pricing published by each vendor.
+Model Input ($/1M tokens) Cached input ($/1M tokens) Output ($/1M tokens)
+GLM-5.2 $1.40 $0.26 $4.40
+Qwen3.8-Max $2.00 Not offered $6.00
+Kimi K3 $3.00 $0.30 $15.00
+DeepSeek V4 Pro $0.435 $0.003625 $0.87
+DeepSeek V4 Pro is the clear budget option, undercutting every other model in this group on both input and output pricing by a wide margin. Its cache-hit input rate of $0.003625 per million tokens is so low that repeated-context workloads, like a coding agent that resends the same file tree on every turn, cost almost nothing on cache hits. Kimi K3 sits at the other extreme: its $15.00 per million output tokens is roughly 17 times DeepSeek V4 Pro’s $0.87 rate, and 2.5 times Qwen3.8-Max’s $6.00. That premium buys the highest GPQA score and the largest active-parameter count in the group, but for high-output-volume applications like long-form code generation, it adds up fast. As of late September 2026, that gap has narrowed on DeepSeek’s side: DeepSeek moved V4 Pro to official time-based peak and off-peak API pricing, with its Models and Pricing page last updated September 22, 2026, listing output at $1.98 per million tokens off-peak and $3.96 at peak, cache-miss input at $0.66 off-peak and $1.32 at peak, and off-peak rates set at exactly half of peak. Measured against those current official figures, Kimi K3’s $15.00 output rate is roughly 7.6 times DeepSeek V4 Pro’s off-peak output price and about 3.8 times its peak rate, rather than the 17x gap that held at V4 Pro’s launch-day flat pricing shown in the table above.
+GLM-5.2 lands in the middle and, combined with its lighter self-hosting footprint, makes a strong case as the pragmatic default for teams that want open weights without committing to Kimi K3’s hardware bill.
+License Terms: What “Open” Actually Means Here
+This is where the four models split hardest, and it’s the detail most likely to bite a legal or procurement team that assumes “open weight” is a single, uniform category.
+GLM-5.2: Straight MIT license, weights published on Hugging Face, no regional restrictions. You can fine-tune, redistribute, and deploy commercially without asking permission.
+DeepSeek V4 Pro: Also MIT, also on Hugging Face and ModelScope. Same freedoms as GLM-5.2.
+Kimi K3: Open weights under the Kimi K3 License, a modified-MIT term set with Moonshot-specific clauses. It’s broadly permissive for self-hosting and commercial use, but read the actual license text before you assume it behaves identically to a stock MIT license.
+Qwen3.8-Max: Custom, proprietary license. Alibaba has not released downloadable weights. You’re locked into their API or an approved reseller, full stop. This is the model that most often gets miscategorized as “open source” in comparison articles, purely because it’s part of the Qwen family, whose earlier releases were genuinely open.
+If your procurement process requires verified open-source licensing, GLM-5.2 and DeepSeek V4 Pro are the only two models here that qualify without a legal review of custom terms. Kimi K3 is open but not identical to a vanilla MIT project. Qwen3.8-Max shouldn’t appear on an open-source shortlist at all.
+Self-Hosting Requirements: VRAM, GPUs, and Real Costs
+Total parameter count is a poor proxy for hosting cost with MoE architectures, since only the active parameters need to be resident and computed per token, but the full expert set still has to live in memory somewhere. Kimi K3’s weights alone run to roughly 1.56TB at MXFP4 precision, according to hardware guidance published by GMI Cloud, which is why practical deployments lean on 8x 80GB H100 or H200 GPUs for full 1M-context, max-reasoning inference. Scale that down to a 4x or 2x GPU setup and you’re trading away context length and reasoning depth to fit the budget.
+GLM-5.2 and DeepSeek V4 Pro are considerably lighter. Both can run meaningful workloads on 2x 80GB H100 GPUs at reduced context, scaling to 4x-8x for full 1M-token, max-effort inference. Qwen3.8-Max doesn’t factor into this comparison at all, since Alibaba hasn’t released downloadable weights.
+On AWS, an 8x H100 p5.48xlarge instance runs $55.04 to $98.32 per hour on demand depending on region and pricing tier, which works out to roughly $39,600 to $70,800 per month for continuous 24/7 use, per pricing trackers at Spheron Network and Thunder Compute. Spot instances cut that by roughly half, to somewhere between $21,000 and $35,000 a month, with the tradeoff of possible interruption. Running the same instance for four hours a day instead of continuously drops the bill to roughly $6,600 to $11,800 monthly, which is realistic for batch workloads like overnight code review or scheduled document processing rather than always-on customer-facing inference.
+Usage pattern 8x H100 monthly cost (on-demand) 8x H100 monthly cost (spot)
+24/7 continuous $39,628-$70,800 $21,000-$35,000
+4 hours/day (batch) $6,605-$11,798 $3,300-$5,900
+Against those numbers, DeepSeek V4 Pro’s API pricing of $0.87 per million output tokens looks close to free. A team would need to process an enormous volume of tokens before self-hosting DeepSeek V4 Pro on a dedicated H100 cluster beats simply calling the hosted API. Self-hosting only starts making financial sense at very high, sustained volume, or when data residency and privacy requirements rule out sending prompts to a third-party endpoint at all.
+Context Windows and Multimodal Capabilities
+All four models advertise roughly 1-million-token context windows, but the fine print differs. Kimi K3’s window is the most precisely specified at 1,048,576 tokens, with a default output cap of 131,072 tokens that can be raised to the full window if needed. Qwen3.8-Max’s effective input tops out at 991,808 tokens without thinking mode enabled and drops slightly to 983,616 with it on, since the reasoning process consumes part of the token budget. DeepSeek V4 Pro stands out for output length specifically, supporting up to 384,000 tokens of generated text in a single response, more than double what GLM-5.2 or Kimi K3 offer by default.
+On multimodality, Kimi K3 and Qwen3.8-Max both accept image input natively, with Kimi K3 built around genuine visual understanding rather than an adapter layer and Qwen3.8-Max additionally accepting video. GLM-5.2 and DeepSeek V4 Pro are both text-only in their current releases. If your pipeline needs to reason over screenshots, diagrams, or video frames, that narrows the open-weight field down to Kimi K3 immediately, since Qwen3.8-Max’s multimodal strength comes locked behind a closed API.
+Architecture Deep Dive: How Each Model Cuts Compute Costs
+The parameter counts get the headlines, but the real engineering story in this generation of open-weight models is how each lab attacked the same problem: a 1-million-token context window makes naive attention prohibitively expensive, since compute and memory both scale with the square of sequence length. Each of these four models solves that differently, and the solution shapes what the model is actually good at.
+GLM-5.2’s IndexShare mechanism reuses a single sparse-attention indexer across every four layers instead of recomputing it per layer, which is where its reported 2.9x FLOP reduction at full context comes from. Combined with improved multi-token prediction that raises token-acceptance length by roughly 20%, Z.ai’s approach optimizes specifically for long-context coding sessions where the model needs to hold an entire repository in working memory without the cost exploding.
+Kimi K3 takes a different route with Kimi Delta Attention, a hybrid linear-attention scheme paired with what Moonshot calls Attention Residuals. Of its 93 layers, 69 use KDA and 24 use Gated Multi-head Latent Attention, a split that trades some of the precision of full quadratic attention for dramatically lower memory pressure at scale. That’s part of why Kimi K3 can support native vision without the token cost spiraling: linear attention keeps the KV cache manageable even when image tokens get folded into the same 1M-token sequence as text.
+DeepSeek V4 Pro’s hybrid Compressed Sparse Attention and Heavily Compressed Attention design is the most aggressive of the four on paper, cutting inference FLOPs to 27% and KV-cache size to 10% of the prior V3.2 generation at 1M-token context. That efficiency gain is the direct reason DeepSeek can price output tokens at $0.87 per million and still turn a margin. Qwen3.8-Max, by contrast, uses a more conventional hybrid Gated-DeltaNet and full-attention stack layered onto the existing Qwen 3.5 foundation, prioritizing multimodal flexibility over the aggressive compute savings the other three chase.
+Inference Speed and Throughput
+Raw tokens-per-second figures for these models are inconsistently reported, since throughput depends heavily on the serving stack (vLLM, SGLang, TensorRT-LLM), batch size, and quantization level, not just the model itself. That said, a few directional data points are worth knowing before you commit to a deployment plan.
+GLM-5.2’s IndexShare optimizations are specifically aimed at long-context throughput, and reviewers running it against the prior GLM-5.1 generation report noticeably better speed at the same hardware tier once context length passes roughly 256K tokens. DeepSeek V4 Pro’s 27%-of-baseline FLOP usage at 1M context translates into meaningfully faster generation than a dense model of comparable active-parameter size would achieve, though DeepSeek hasn’t published exact tokens-per-second figures in its release documentation. Kimi K3’s MXFP4 weights paired with KDA keep throughput “interactive” even at 1M context on an 8x H100 cluster, according to hardware guidance from GMI Cloud, though again without a precise published number.
+The practical takeaway: don’t pick a model purely on a benchmark table without running your own latency test on your actual serving stack. A model that looks fast in a vendor’s own documentation can behave very differently once you add your specific harness, whether that’s Aider, Cline, Continue, or a custom agent loop, on top of it. The harness and backend often matter as much as the underlying weights for real-world responsiveness.
+How These Open Models Stack Up Against Closed Frontier Models
+None of these four models exist in a vacuum. Every one of them gets benchmarked, explicitly or implicitly, against closed frontier options like GPT-6 Astra, Claude Opus 5, and Gemini 3.8 Flash, and understanding where the open-weight tier now sits relative to those is part of the buying decision. DeepSeek V4 Pro’s 80.6% SWE-bench Verified score matching Gemini 3.1 Pro is the clearest data point that the open-weight tier is no longer a discount option on raw capability, it’s a genuine alternative on at least some benchmarks. For a broader look at how the current closed-model frontier compares, see our coverage of GPT-6 Astra vs Claude Opus 5 vs Gemini 3.8 Flash , and for a head-to-head on coding performance specifically, our Claude Opus 4.8 vs GPT-5.6 Sol coding comparison covers how the closed-model leaders stack up on the same class of benchmarks used here.
+Where the gap still shows up is consistency and tooling maturity. Closed frontier labs run larger, more diverse reinforcement-learning pipelines and typically ship better-integrated agent tooling, structured output reliability, and safety filtering out of the box. Open-weight models require more engineering investment to reach the same production reliability, even when the raw benchmark numbers look comparable. That investment is exactly why the pricing gap matters so much: a team saving $14 per million output tokens by choosing DeepSeek V4 Pro over Kimi K3, or avoiding a six-figure annual closed-API bill entirely, can reinvest that budget into the harness and evaluation work needed to close the reliability gap themselves.
+Fine-Tuning and Customization
+Open weights matter most when you plan to actually modify the model, not just call it through an API. Here the four options diverge sharply again. GLM-5.2 and DeepSeek V4 Pro, both under clean MIT licenses with weights on Hugging Face, support standard fine-tuning workflows using common frameworks, though the MoE architecture means full fine-tuning still requires substantial multi-GPU infrastructure even if inference doesn’t. Parameter-efficient approaches like LoRA are more realistic for teams without a dedicated training cluster.
+Kimi K3’s weights are downloadable and technically fine-tunable, but its 1.56TB footprint at MXFP4 makes anything beyond LoRA-style adapter training impractical outside a well-resourced lab. Moonshot’s modified license also means teams should confirm that fine-tuning and redistribution of derivative models falls within the Kimi K3 License terms before investing engineering time. Qwen3.8-Max, again, isn’t part of this conversation at all: with no downloadable weights, any customization has to happen through Alibaba’s own fine-tuning service, if and when one becomes available, rather than on infrastructure you control.
+Real-World Deployment Scenarios
+The specs matter less than how they translate into actual engineering decisions. Here are five scenarios where the differences between these models change the outcome.
+A fintech startup building a coding agent for internal tooling picks DeepSeek V4 Pro for the API, mainly because the $0.003625 cache-hit input rate makes repeated large-context requests, like resending an entire repository on every turn, nearly free compared to Kimi K3 or Qwen3.8-Max.
+A healthcare software vendor with strict data residency rules self-hosts GLM-5.2 on-premises specifically because its MIT license and lighter 2x-4x H100 footprint make on-site deployment financially realistic in a way that Kimi K3’s 8-GPU requirement would not.
+A media analytics company processing video and screenshots at scale ends up on Kimi K3 rather than a closed multimodal API, since it’s the only genuinely open-weight model in the group with native vision, letting them fine-tune on proprietary visual data without a licensing negotiation.
+An enterprise procurement team evaluating “open source LLM” vendors disqualifies Qwen3.8-Max from a shortlist during legal review once they discover Alibaba hasn’t published downloadable weights, despite the model showing up in early vendor comparisons as “open.”
+A research lab running long, multi-step agentic experiments chooses Kimi K3 for its always-on reasoning mode and SWE Marathon lead of 42.0, accepting the higher $15 per million output token cost because the workload is exploratory and low-volume rather than production-scale.
+Migration Guide: Moving From a Closed API to an Open-Weight Model
+Switching a production workload from GPT-class or Claude-class closed models to an open-weight alternative like GLM-5.2 or DeepSeek V4 Pro isn’t a drop-in swap. Here’s the practical path teams have used to move over without breaking things.
+Audit your current prompts for provider-specific formatting, like OpenAI’s function-calling schema or Anthropic’s system-prompt conventions, since most open-weight models expose OpenAI-compatible endpoints but don’t guarantee identical behavior under load.
+Start with the hosted API version of your target model, not self-hosting, so you can validate output quality and latency before committing to GPU infrastructure.
+Run a side-by-side evaluation on your actual task, not published benchmarks. SWE-bench and GPQA scores don’t always predict performance on your specific codebase or document set.
+Check the license text directly rather than trusting a “MIT” label secondhand, especially for Kimi K3, whose modified-MIT terms include Moonshot-specific clauses.
+Rebuild your prompt-caching strategy around the new provider’s cache-hit pricing. DeepSeek V4 Pro’s cache-hit rate is roughly 120 times cheaper than its cache-miss rate, so restructuring prompts to maximize cache reuse pays off fast.
+If you plan to self-host, benchmark on a scaled-down GPU config first (2x H100) at reduced context before committing to a full 8x H100 cluster.
+Set up a fallback path to your previous provider during the transition window, since open-weight models can behave differently on edge cases like malformed JSON output or unusual token sequences.
+Monitor cost per resolved task, not cost per token, once you’re in production. A cheaper model that requires more retries can end up costing more than a pricier one that gets it right the first time.
+Pros and Cons of Each Model
+GLM-5.2
+Pros: Clean MIT license, lightest self-hosting footprint of the group, strong coding benchmark (SWE-bench Pro 62.1 versus GPT-5.5’s 58.6), competitive mid-tier pricing.
+Cons: No multimodal support, and Z.ai hasn’t published a GPQA Diamond score, making it harder to evaluate raw reasoning ability against the other three.
+Qwen3.8-Max
+Pros: Strong benchmark numbers across the board (SWE-bench Pro 67.7%, GPQA Diamond 92.6%), the only model here with native video input.
+Cons: Not actually open-weight. Custom proprietary license, no downloadable weights, full dependency on Alibaba’s API.
+Kimi K3
+Pros: Highest GPQA Diamond score (93.5%), largest active-parameter count, native vision understanding, strong long-horizon agentic performance.
+Cons: Heaviest self-hosting requirements at 1.56TB of MXFP4 weights, most expensive API output pricing in the group at $15 per million tokens, modified license terms that need individual review.
+DeepSeek V4 Pro
+Pros: Cheapest API pricing by a wide margin, MIT license, top SWE-bench Verified score in the group at 80.6%, longest max output at 384K tokens.
+Cons: No multimodal support, smallest total and active parameter count, which can show up as a ceiling on the hardest reasoning tasks despite strong coding scores.
+Use-Case Recommendations
+Best for budget-conscious coding agents: DeepSeek V4 Pro. The $0.87 per million output token rate and 80.6% SWE-bench Verified score make it the strongest value-to-performance ratio in the group.
+Best for on-premises self-hosting: GLM-5.2. Lightest hardware footprint, MIT license, no legal review needed before deployment.
+Best for multimodal or vision-heavy pipelines: Kimi K3, the only genuinely open-weight model in this comparison with native image and video understanding.
+Best for long-horizon agentic research: Kimi K3, based on its SWE Marathon lead and always-on reasoning mode, if budget allows for the higher token cost.
+Best raw benchmark scores if you don’t need open weights: Qwen3.8-Max, provided you’re comfortable depending entirely on Alibaba’s hosted API with no self-hosting fallback.
+Best for teams needing the longest single response: DeepSeek V4 Pro, with its 384,000-token max output, useful for generating large documents or extensive code diffs in one pass.
+The Verdict: Which Model Actually Wins
+There’s no single winner here, and that’s the honest takeaway. If the question is purely “which open-weight model should a self-hosting team default to,” DeepSeek V4 Pro takes it on cost and coding benchmark strength, with GLM-5.2 close behind for teams that want the lightest possible GPU footprint. If the question is “which model has the best raw benchmark scores regardless of licensing,” Qwen3.8-Max and Kimi K3 trade the lead depending on the test, but only Kimi K3 actually qualifies as open.
+The one clear mistake to avoid: treating Qwen3.8-Max as part of an open-source shortlist. It’s a strong model, but it’s a closed one, and procurement teams that skip verifying the license text on a “best open source LLM 2026” list are the ones who find out the hard way, usually after committing engineering time to an integration they can’t self-host if pricing or terms change.
+For most engineering teams evaluating GLM-5.2 vs Qwen3.8-Max vs Kimi K3 vs DeepSeek V4 Pro today, the practical shortlist comes down to two real open-weight options: DeepSeek V4 Pro for cost-sensitive coding and text workloads, and Kimi K3 for teams that need multimodal input and can absorb the higher hosting and API costs that come with it.
+Security and Data Privacy Considerations
+Licensing gets most of the attention in these comparisons, but data handling deserves equal scrutiny, especially for regulated industries. Calling any of these models through their vendor APIs, Alibaba’s Model Studio for Qwen3.8-Max, Moonshot’s endpoint for Kimi K3, Z.ai’s for GLM-5.2, or DeepSeek’s own platform, means your prompts and outputs pass through infrastructure outside your control, regardless of how permissive the model’s license is. A model shipping under MIT doesn’t automatically mean the hosted API inherits the same openness around data retention or training-data usage.
+This is precisely why self-hosting matters for some teams even when it costs more than the API. Running GLM-5.2 or DeepSeek V4 Pro on your own H100 cluster means prompts never leave your infrastructure, which is often the deciding factor for healthcare, financial services, or government contractors who can’t send regulated data to a third-party endpoint no matter how good the pricing looks. For those teams, Qwen3.8-Max is disqualified immediately, since there’s no self-hosting path at all, and Kimi K3’s 8-GPU requirement needs to be weighed against the actual sensitivity of the data being processed. Teams building agentic pipelines that touch credentials or infrastructure secrets should also review hardening practices separately. Our guide on building an MCP server covers some of the access-control patterns worth applying regardless of which model sits behind the agent, and if you’re weighing self-hosting against squeezing a large MoE model onto smaller hardware, our GGUF quantization guide walks through the tradeoffs.
+Frequently Asked Questions
+Is Qwen3.8-Max actually open source?
+No. Despite frequently appearing in open-source LLM comparisons because of the Qwen brand’s earlier open releases, Qwen3.8-Max ships under a custom, proprietary license with no downloadable weights. It’s accessible only through Alibaba Cloud Model Studio or approved resellers.
+Which of these four models is cheapest to run via API?
+DeepSeek V4 Pro, at $0.435 per million input tokens and $0.87 per million output tokens. Its cache-hit input rate of $0.003625 per million tokens is also the lowest in the group by a wide margin.
+Can I self-host Kimi K3 on a single GPU?
+Not realistically. Kimi K3’s weights total roughly 1.56TB at MXFP4 precision, and practical deployments for full 1M-token context at maximum reasoning effort require 8x 80GB H100 or H200 GPUs. Smaller setups are possible only with reduced context and reasoning effort.
+Which model has the best coding benchmark score?
+DeepSeek V4 Pro leads on SWE-bench Verified at 80.6%, matching Gemini 3.1 Pro. Qwen3.8-Max leads on SWE-bench Pro at 67.7%, ahead of GLM-5.2’s 62.1. Kimi K3 hasn’t published comparable SWE-bench Verified or Pro numbers, though it leads on the SWE Marathon long-horizon coding test at 42.0.
+Do any of these models support image or video input?
+Kimi K3 and Qwen3.8-Max both support image input, with Qwen3.8-Max additionally supporting video. GLM-5.2 and DeepSeek V4 Pro are text-only in their current releases.
+What does it cost to self-host one of these models on AWS?
+An 8x H100 p5.48xlarge instance, the configuration needed for full-context inference on the larger models here, runs $55.04 to $98.32 per hour on demand, or roughly $39,600 to $70,800 per month for continuous use. Spot pricing can cut that to $21,000-$35,000 monthly, and part-time batch usage (around 4 hours a day) brings it down to $6,600-$11,800 a month.
+Which model should a solo developer or small team pick?
+DeepSeek V4 Pro’s API pricing makes it the most accessible starting point for small teams, since self-hosting any of these four models requires a multi-GPU H100 cluster that’s out of reach for most individual developers. GLM-5.2 is the next best option if a team later wants to move to self-hosting without a major infrastructure jump. If you’re already using DeepSeek’s smaller Flash tier, which launched in September 2026 as a 552-billion-parameter model with the same 1M-token context window and a reported 90.6 on Terminal-Bench, our walkthrough on how to use the DeepSeek V4.1 Flash API covers the setup steps, which carry over closely to the Pro tier discussed here.
+How often are these models updated?
+Qwen3.8-Max already received a refreshed checkpoint (0902) less than a month after its August 3 general availability launch, and DeepSeek V4 Pro moved from an April 24 preview to an August 13 GA checkpoint. Open-weight labs in this segment have been shipping incremental updates roughly every one to two months through mid-to-late 2026.
+Related Coverage
+ChatGPT vs Copilot vs Gemini: 30-Store Checkout Gap [2026]
+GPT-6 Astra vs Claude Opus 5 vs Gemini 3.8 Flash: 107x Gap [2026]
+AI Image Generator API Costs: 12 Steps, $150 Gap [2026]
+GPT-5.6 Sol vs Fable 5.1 vs Gemini 3.8 Flash: 30-Point Gap [2026]
+Genie 3 vs Marble vs NVIDIA Cosmos: $200 AI World Model Gap [2026]
+Marcus Chen
+Gaming & Consumer Tech Editor
+Marcus Chen is a senior editor at Tech Insider, where he leads coverage of the US online gaming market, including sweepstakes and social casinos, alongside consumer technology. He evaluates operators on their published terms, licensing and RNG certifications, stated redemption policies, and corroborating independent reporting, and writes plainly about what the evidence supports. Tech Insider does not run first-party money tests and does not gamble with reader funds. Marcus has reported on the technology and online-gaming industries for more than a decade.
+View all articles
+The Tech Insider Newsletter
+Industry insights, the latest tech news, and special interviews, every week.
+Email address
+Subscribe now
+One email a week. No spam, unsubscribe anytime.
+Tech
+Insider
+Tech Insider delivers in-depth coverage of the technologies shaping the future: AI, cybersecurity, cloud computing, hardware, and the trends that matter.
+[email protected]
+Company
+About Us
+Terms of Service
+Privacy Policy
+Contact
+Write for Us
+Explore
+AI & Machine Learning
+Cloud Computing
+Crypto Casino
+Categories
+Crypto Regulation
+Cybersecurity
+Gaming
+© 2026 Tech Insider Media AB. All rights reserved.
+We use cookies to measure traffic and improve Tech Insider. Read our Privacy Policy .
+Reject
+Accept
+The Tech Insider Newsletter: industry insights, tech news, and special interviews.
+Subscribe now

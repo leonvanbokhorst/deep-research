@@ -1,0 +1,75 @@
+UK Bases Logged 340 Drone Incidents in a Year. The MoD Names Nobody Skip to content
+DEALS
+© 2026 DroneXL · New York
+Counter-Drone UK Bases Logged 340 Drone Incidents in a Year. The MoD Names Nobody
+Haye Kesteloo · Editor-in-Chief September 19, 2026 · 08:14 ET 7 min read
+DroneXL may earn a commission when you buy through links on our site. As an Amazon Associate I earn from qualifying purchases.
+A No Drone Zone sign warns of prosecution for unauthorised drone use near a UK prison perimeter wall. Photo credit: Phil Nash / Wikimedia Commons (Rodhullandemu)
+British military sites logged 340 drone security incidents in the year to August 2026, according to Ministry of Defence figures released to the Independent under a Freedom of Information request. That is roughly one a day. The ministry recorded 250 incidents in 2025 and 126 in 2024.
+The MoD will not say who flew any of them. Its statement says Russia is constantly probing and testing the UK, that the government does not believe Vladimir Putin wants a direct confrontation with NATO, and that part of the rise reflects better detection equipment and better reporting at bases. Tobias Ellwood, a Conservative former defence minister, told the Independent the government is asleep to the threat and puts Russia and Iran behind many of the incidents.
+DroneXL has followed British base incursions since the first drones appeared over RAF Lakenheath in November 2024. The MoD’s response then was that it took threats seriously and maintained security measures at defence sites. Twenty-two months later the language is the same, and the count has close to tripled.
+Three MoD Channels Have Given Three Different 2025 Counts
+The FOI response puts 2025 at 250 incidents. On February 2, the MoD’s own press release announcing the Armed Forces Bill put the same year at 266. Last autumn, defence minister Lord Coaker told Parliament of 187 sightings near military sites since January 1. Neither later release explains the gap.
+The February statement from Defence Secretary John Healey used the 266 figure to justify new shoot-down powers, calling the doubling of rogue drones near military sites evidence of a changing threat. The Coaker answer , given in response to a question from Lord Wigley, counted sightings rather than security incidents, which may account for part of the gap. None of the three documents defines an incident or says what turns a sighting into one.
+The ministry’s explanation for the growth, given to the Independent’s Harriette Boucher, is that the numbers reflect improvements in reporting, better counter-drone detection technology and greater awareness among personnel. Ellwood called that explanation shocking, and said the size of the numbers means the activity has been going on for a long time while the UK ignored it.
+A count that rises because a base installed a new sensor is a count of what the sensor sees. It says nothing about who is flying. The MoD’s own caveat concedes that, and its own 2024 baseline of 126 was collected with whatever detection existed then.
+Ellwood Names Russia and Iran While the Ministry Names Nobody
+Ellwood, who chaired the Defence Select Committee from 2020 to 2023, told the Independent that Russia and Iran are behind many of the incidents and that the British military is viewed as a target. The MoD’s statement names no perpetrator and calls national security the first duty of Government.
+Ellwood’s case is that the drones flown so far have been passive, and that adding a warhead to one is not a large step. “We are doing nothing about protecting our critical national infrastructure,” he told the paper. He expects intrusions into UK airspace to increase over the coming months and years as Britain steps up arms to Ukraine and Russia looks to retaliate.
+He made the same point in August with an aircraft rather than an interview. The News in Portsmouth reported that a light aircraft circled at about 1,000 feet (305 meters) over HMS Prince of Wales and HMS Queen Elizabeth while both carriers sat alongside at HMNB Portsmouth. Ellwood said he was responsible, and told Forces News he could not think of another country that would allow it and that he knew for a fact there was no air defence at the base.
+The diplomatic backdrop moved on Friday. The Russian foreign ministry summoned Danae Dholakia, the UK’s deputy head of mission in Moscow, to protest British supplies of drones and other weapons to Ukraine, and warned of retaliatory measures. The Kremlin has separately said British military facilities in Ukraine would be legitimate targets if used to support long-range strikes on Russia. Poland’s prime minister, Donald Tusk, said Moscow is planning hybrid strikes with drones or rockets on European countries supporting Kyiv, Poland among them.
+That warning lands in a Europe that has already seen the passive-to-kinetic step Ellwood describes. Germany blamed Russia for the Leipzig drone bomb earlier this month, weeks after drones circled a Patriot repair base at Mechernich . In the UK count, by contrast, not one of the 340 incidents has been publicly attributed to anyone.
+Troops Still Cannot Legally Bring Down Most of Those Drones
+Under UK law, only police and a few named agencies may interfere with a drone to prevent a crime. Soldiers guarding a base can jam or divert one and may shoot only where life is at risk. The Armed Forces Bill would change that. It is not law.
+The bill was introduced in the Commons on January 15, 2026, cleared the Commons on June 22 with 81 government amendments at report stage, and had its second reading in the Lords on July 6 . It is now at Lords report stage, with amendments tabled through September 16 . The drone clauses create a defence authorisation scheme letting personnel use approved equipment to detect and prevent offences committed with drones near defence sites, including land and underwater drones. Louise Sandher-Jones, the Minister for the Armed Forces, told the Independent the bill will be law by the end of the year.
+She also gave the government’s fullest answer yet on what it has done in the meantime: restricted airspace over 44 critical defence sites since February, a further 160 sites this autumn, and £750 million for counter-drone systems in the Defence Investment Plan, which she said quadruples the spending the government inherited. Restricted airspace is a line in a flight-planning app. It stops a hobbyist who checks the map; it does not stop, or identify, anyone else.
+Britain’s neighbours moved faster. Germany authorized its military to shoot down drones in November 2025, Belgium did the same that month, and Dutch troops fired on drones over Volkel air base days later. The UK, in the same month, sent RAF counter-drone specialists to Belgium to help defend Belgian bases with equipment its own soldiers could not lawfully use to bring down a drone at home.
+American Aircraft Sit on Four of the Bases in Question
+RAF Lakenheath, RAF Mildenhall, RAF Feltwell and RAF Fairford are Ministry of Defence stations operated by the US Air Force . Drones were spotted over them repeatedly in November 2024, and 60 British troops deployed to investigate. Whatever a British soldier may lawfully do about a drone applies over American aircraft.
+DroneXL first reported the Lakenheath sightings on November 24, 2024 and the British government’s response five days later . The US Air Force said at the time that the drones varied in size and configuration and that none of the incursions affected base residents, facilities or assets. The figures released to the Independent carry no per-site breakdown, so the share of the 340 that belongs to the American-run stations is not public.
+One British base has already taken the hit Ellwood warns about, outside the UK count. On March 2, a Shahed-type drone struck a hangar at RAF Akrotiri in Cyprus during Iran’s regional strikes; the MoD later said the drone had not launched from Iran. The FOI figures cover sites in the UK, so Akrotiri sits in a different column. The kinetic step Ellwood describes is already in use against British forces; the UK count records none of it.
+DroneXL’s Take
+The 340 figure is a count of what the MoD noticed, and the ministry’s own statement says so. Better sensors, better reporting, more vigilance: each describes the observer. The 2024 baseline of 126 predates that upgrading, so the comparison measures British detection as much as anyone’s intent.
+Until shown otherwise, “nearly tripled” is a fact about the UK’s counter-UAS build-out. State-linked drone activity in Europe is real. Germany has attributed the Leipzig bomb to Russia, and a Shahed-type aircraft hit a British hangar in Cyprus. Some of the 340 are almost certainly hostile. The problem is that Britain cannot say which, and after two years of rising counts it has not publicly attributed a single one. Retired Brigadier Ben Barry, a former NATO commander, told the Independent the explanations run from hobbyists to thieves to hostile intelligence services to terrorists doing reconnaissance, and nothing in the released figures separates them. Denmark, at the height of its September 2025 airport closures, quietly walked back some of its own sightings once investigators looked closely. The MoD has confirmed nothing and debunked nothing. Its answer is restricted airspace and money, and neither tells you who is flying.
+Some share of those 340 is a hobbyist with a Mini who never checked the map. In 2017 an amateur landed a DJI Phantom on the flight deck of HMS Queen Elizabeth at Invergordon by accident and walked away with photographs. Nine years on, the UK’s answer is a bill that lets soldiers bring down drones they still have no published means of identifying, while the shoot-down powers its neighbours already have wait on the Lords. Ellwood is right that the government has been slow. My read is that speed is the wrong fix: a shoot-down authority applied to unattributed contacts protects nothing and puts a 249-gram camera drone and a Russian reconnaissance platform in the same firing solution.
+A per-site, per-classification breakdown of the 340 would change my mind, and the MoD could release one tomorrow without compromising a single security arrangement. So would the final text of the Armed Forces Bill, if it requires an identification step before interference rather than simply authorising it. American aircraft sit on four of the bases that law will govern, so the Pentagon has a stake in the answer as well.
+Sources: The Independent , The Telegraph , The News (Portsmouth), Forces News, House of Lords Library, UK Parliament, UK Ministry of Defence.
+DroneXL uses automated tools to support research and source retrieval. All reporting and editorial perspectives are by Haye Kesteloo. Read our editorial standards .
+Trending now
+Lowe's Now Flies Painter's Tape to Charlotte Yards in 20 Minutes
+FCC Says $5B Flowed Into US Drones. Its Own Filing Counts Pledges
+Amazon Tells Packed Westborough Room Its Drones Are Coming Anyway
+France and Italy Deny CIA Warned of Russian Ship-Launched Drones
+Skydio's 100 mph F10 Debuts at Ascend, Where 'Lobbying' Is Profanity
+United Kingdom Drone Incursion Counter-Drone Russia US Air Force Military
+Haye Kesteloo
+Editor-in-Chief
+Haye Kesteloo is the Editor in Chief and Founder of DroneXL.co , where he covers all drone-related news, DJI rumors and writes drone reviews, and of EVXL.co , for all electric vehicle news. Haye can be reached at haye @ dronexl.co or @hayekesteloo . Also on LinkedIn , Muck Rack , Instagram and YouTube .
+Follow
+DroneXL reports under its editorial standards .
+Spotted an error? Read the corrections policy .
+How DroneXL uses automated tools .
+Keep reading
+Russian Drone Off Poland Carried a Live Warhead. Its Route Is Unknown
+H. Kesteloo Sep 16
+Counter-Drone
+NATO Jets Down a Drone Over Lithuania, Days After Chasing Birds
+H. Kesteloo Sep 15
+Counter-Drone
+Airsentinel.ai Unveils Drone Detection App for Android
+H. Kesteloo May 24
+Counter-Drone
+Ondas and Mistral Partner to Boost Autonomous Drone Sales for U.S. Defense
+H. Kesteloo Jun 24
+Counter-Drone
+— The DroneXL Briefing · Free Like this story? Get the next one first.
+The DroneXL Briefing — the drone news that matters, in your inbox. DJI, FAA, public safety, and everything in between.
+Join the briefing Free forever. Unsubscribe in one click.
+8,400+
+Articles published
+340+
+Beats & desks
+2020
+Covering drones since
+100%
+Independent

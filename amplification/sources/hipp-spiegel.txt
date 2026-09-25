@@ -1,0 +1,121 @@
+Hipp-Erpressung in Österreich: Polizei nimmt Verdächtigen fest - Rattengift in Babynahrung - DER SPIEGEL
+Zum Inhalt springen
+$swiper.update(), 300);},close() {this.isOpen = false;setTimeout(() => $swiper.update(), 300);}}" @keyup.escape="if (!$event.defaultPrevented) {$event.preventDefault();close();$focus($refs.toggle);}" @mousedown.outside="close()" :class="{'lg:w-4/12': isOpen,'md:w-5/12': isOpen,}">
+Suche starten
+Suche öffnen
+EILMELDUNG —
+__proto_headline__
+EILMELDUNG —
+__proto_headline__
+Dieser Ausdruck wurde am 25.09.2026 erstellt und ist ausschließlich für den persönlichen Gebrauch lizenziert.
+Andere Nutzungen verletzen das Urheberrecht
+Zur Merkliste hinzufügen
+Artikel anhören (2 Minuten)
+2 Min
+X.com
+Facebook
+E-Mail
+Link kopieren
+Weitere Optionen zum Teilen
+X.com
+Facebook
+E-Mail
+Messenger
+WhatsApp
+Link kopieren
+SPIEGEL bei Google bevorzugen
+aufklappen
+Automatisch erstellt mit KI. Mehr Informationen dazu hier .
+War die Zusammenfassung hilfreich?
+Danke für Ihr Feedback!
+positiv bewerten
+negativ bewerten
+image">
+Bild vergrößern
+Hipp-Babynahrung in einem Regal in České Budějovice, Tschechien – in dem Land wurden mit Rattengift manipulierte Gläser entdeckt
+Foto: Stanislav Hodina / AP
+Im Fall des Erpressungsversuchs gegen den Babynahrungshersteller Hipp haben österreichische Ermittler einen Tatverdächtigen festgenommen. Wie unter anderem die Nachrichtenagentur dpa mit Verweis auf die Staatsanwaltschaft Eisenstadt berichtet, handelt es sich um einen 39-jährigen Mann, der in Österreich festgenommen wurde.
+Die Festnahme erfolgte durch die Polizei im Burgenland mit Unterstützung des österreichischen Bundeskriminalamts. Der Verdächtige wird derzeit verhört. Weitere Angaben zu seiner Identität machten die Behörden mit Verweis auf ermittlungstaktische Gründe zunächst nicht.
+Der Fall hatte für Aufsehen gesorgt, nachdem ein Unbekannter versucht hatte, das Unternehmen mit der Drohung zu erpressen, Babynahrung zu vergiften. Tatsächlich entdeckten Ermittler in Österreich, Tschechien und der Slowakei insgesamt fünf manipulierte Gläser.
+In einem in Österreich sichergestellten 190-Gramm-Gläschen der Sorte »Karotten mit Kartoffeln« wurden demnach 15 Mikrogramm Rattengift nachgewiesen. Um welche Substanz es sich genau handelt, ist bislang unklar.
+Nach einem weiteren möglicherweise kontaminierten Glas wird weiterhin gesucht. Das in Deutschland vertriebene Sortiment war nach Angaben des Unternehmens nicht betroffen.
+Mehr zum Thema
+Erpressung von Babynahrungshersteller: Hipp-Gläschen enthielt 15 Mikrogramm Rattengift
+1 Min
+Zur Merkliste hinzufügen
+1 Min
+Zur Merkliste hinzufügen
+Rattengift in Babynahrung: Hersteller Hipp wird nach eigenen Angaben erpresst
+3 Min
+Zur Merkliste hinzufügen
+3 Min
+Zur Merkliste hinzufügen
+Rattengift im Gläschen: Auch deutsche Behörden ermitteln wegen verunreinigter Babynahrung
+3 Min
+Zur Merkliste hinzufügen
+3 Min
+Zur Merkliste hinzufügen
+Bereits am 20. April hatte Hipp den Erpressungsversuch öffentlich gemacht und erklärt, umgehend Polizei und Behörden eingeschaltet sowie einen internen Krisenstab eingerichtet zu haben.
+Erpressungen mit manipulierten Lebensmitteln sind kein neues Phänomen. In der Vergangenheit gerieten wiederholt bekannte Unternehmen ins Visier von Tätern, wobei auch Babynahrung bereits Ziel entsprechender Drohungen war.
+dtt/dpa
+{if (response.status !== 200) {throw new Error(`smartfeed init - failed to fetch prototypes, URL: ${response.url}`);}response.text().then((result) => {const containerElement = document.createElement('template');containerElement.innerHTML = result;const templates = containerElement.content.querySelectorAll('template');templates.forEach((template) => {if (template.id === 'svg-sources') {const svgSourcesContainerElement = document.body.querySelector('[data-el=svgSources]');if (svgSourcesContainerElement instanceof Element) {const prototypesvgSources = template.content.querySelectorAll('svg[id]');prototypesvgSources.forEach((prototypeFooterSvg) => {if (prototypeFooterSvg.id && !svgSourcesContainerElement.querySelector(`#${prototypeFooterSvg.id}`)) {svgSourcesContainerElement.append(prototypeFooterSvg);}});}return;}document.body.append(template);});this.prototypesInitialized = true;}).catch((error) => { console.error(`smartfeed init - failed to parse prototypes, URL: ${response.url}`); });}).catch((error) => { console.error(error.message); });},async getTeasersFromSmartfeedAPI(block) {let teasers;const payload = {sortBy: block?.sortBy || 'newest',pageSize: block?.pageSize || 10,};if (block?.type === 'channel' && block.channel) {payload.channel = block.channel;if (block.subchannel && payload.sortBy === 'newest') {payload.subchannel = block.subchannel;}if (block.cluster) {payload.cluster = block.cluster;}try {teasers = await $smartfeedAPI.getTeasersByChannel(payload);} catch (e) {return [];}} else if (block?.type === 'domain' && block.domain) {payload.domain = block.domain;if (block.cluster) {payload.cluster = block.cluster;}try {teasers = await $smartfeedAPI.getTeasersByDomain(payload);} catch (e) {return [];}} else if (block?.type === 'style' && block.style) {payload.style = block.style;try {teasers = await $smartfeedAPI.getTeasersByStyle(payload);} catch (e) {return [];}} else {return [];}if (!Array.isArray(teasers)) {return [];}if (Number.isInteger(block.maxAge)) {teasers = teasers.filter((teaser) => {return !teaser.time || teaser.time > 1790328359 - block.maxAge;});}if (teasers.length === 0) {return [];}const breakpoint = $store.MediaQuery?.breakpoint ? $store.MediaQuery.breakpoint : 'lg';const teaserLayouts = Array.isArray(block?.teaserLayouts?.[breakpoint]) ? block.teaserLayouts[breakpoint] : [];const teaserCount = teaserLayouts.length > 0 ? teaserLayouts.length : 3;const filteredTeasers = teasers.filter((teaser) => teaser.id && !this.consumedArticleIds.includes(teaser.id));teasers = filteredTeasers.length {teaser.layout = teaserLayouts[teaserIndex] ? teaserLayouts[teaserIndex] : 'm';teaser.pos = `${block.index + 1}:${teaserIndex + 1}`;if (teaser.id) {this.consumedArticleIds.push(teaser.id);}});return teasers;},async getTeasersFromRECOService(block) {if (!$store.User.isLoggedIn || !$store.User.recommendations?.smartfeed) {return null;};await $waitForCustomVendorConsents();const recommendationsPurposeId = $store.User.hasNoAdsAccess ? '64bf9cc6b4a67c0535f66213' : '655f1ab47129a00595f31a65';if (!$arePurposeIdsVerified([recommendationsPurposeId])) {return null;}let recoResponse;try {recoResponse = await $RECO.getRecommendedArticles(type='smartfeed');} catch (e) {return null;}if (!Array.isArray(recoResponse?.articleIds) || recoResponse.articleIds.length === 0) {return null;}let articleIds = recoResponse.articleIds;const runId = recoResponse.runId;const createdAt = recoResponse.createdAt ?? undefined;const breakpoint = $store.MediaQuery?.breakpoint ? $store.MediaQuery.breakpoint : 'lg';const teaserLayouts = Array.isArray(block?.teaserLayouts?.[breakpoint]) ? block.teaserLayouts[breakpoint] : [];const teaserCount = teaserLayouts.length > 0 ? teaserLayouts.length : 3;const filteredArticleIds = articleIds.filter((articleId) => !this.consumedArticleIds.includes(articleId));articleIds = filteredArticleIds.length {teaser.layout = teaserLayouts[teaserIndex] ? teaserLayouts[teaserIndex] : 'm';teaser.pos = `${block.index + 1}:${teaserIndex + 1}`;});return {teasers,runId,createdAt,};},}" x-lazyload data-area="smartfeed">
+$publish('LAZYLOADING_UPDATE'))">
+0}">
+smartfeed">
+0) {teasers = response?.teasers;this.runId = response.runId;this.createdAt = response.createdAt;this.itemSource = 'RECO';sarasViewEventName = 'recommendation';}if (!teasers && block.fallback?.type) {teasers = await this.getTeasersFromSmartfeedAPI(block.fallback);this.itemSource = block.fallback.itemSource || this.itemSource;}if (!teasers || teasers.length === 0) {return;}const teaserContainer = $teaserFactory.blocksContentArticleTeaserFull({ teasers, headlineOffset: !!this.label });const container = $el.querySelector('[x-ref=container]');if (!container || !teaserContainer) {return;}container.append(teaserContainer);$publish('LAZYLOADING_UPDATE');if (typeof window.polygon?.componentLoader?.scan === 'function') {window.polygon.componentLoader.scan();}this.isLoading = false;this.items = teasers.map((teaser, index) => ({item_id: teaser.id,item_title: teaser.headline || '',item_pos: index + 1,}));$SARAs.sendComponentViewEvent(block.id, sarasViewEventName);},}" x-lazyload x-ignore x-effect="if (prototypesInitialized) loadTeasers();" :data-sara-component="JSON.stringify(saraComponentObject)" :data-sara-action="!isLoading ? 'impression' : null">
+smartfeed">
+smartfeed">
+{if (!response || response.status !== 200) {throw new Error(`smartfeed collection - failed to fetch block, URL: ${block.path}`);}return response.text();}).then((result) => {if (!result) {throw new Error(`smartfeed collection - empty response body, URL: ${block.path}`);}const containerElement = document.createElement('div');containerElement.innerHTML = result;const templateElement = containerElement.querySelector('template');if (!templateElement) { return; }const container = $el.querySelector('[x-ref=container]');if (!container) { return; }container.appendChild(templateElement.content.cloneNode(true));this.isLoading = false;$publish('LAZYLOADING_UPDATE');}).catch((error) => {console.error(error.message);})},}" x-lazyload x-ignore>
+smartfeed">
+Mehr lesen über
+Babys
+Lebensmittel
+{$data.initialX = event.touches[0].clientX;$data.initialY = event.touches[0].clientY;},onTouchMove: (event) => {if ($data.initialX === null || $data.initialY === null) {return;}const currentX = event.touches[0].clientX;const currentY = event.touches[0].clientY;const diffX = $data.initialX - currentX;const diffY = $data.initialY - currentY;const tolerance = 5;const yTolerance = (diffY > -Math.abs(tolerance)) && (diffY Math.abs(diffY)) {$data.isOpen = !(diffX > 0 && yTolerance);}$data.initialX = null;$data.initialY = null;},}" x-subscribe.open_menu_drawer="isOpen = true" @keyup.escape="if (!$event.defaultPrevented && isOpen) { $event.preventDefault(); isOpen = false; }" @touchstart.passive="onTouchStart($event)" @touchmove.passive="onTouchMove($event)">
+{$data.initialX = event.touches[0].clientX;$data.initialY = event.touches[0].clientY;},onTouchMove: (event) => {if ($data.initialX === null || $data.initialY === null) {return;}const currentX = event.touches[0].clientX;const currentY = event.touches[0].clientY;const diffX = $data.initialX - currentX;const diffY = $data.initialY - currentY;const tolerance = 5;const yTolerance = (diffY > -Math.abs(tolerance)) && (diffY Math.abs(diffY)) {$data.isOpen = !(diffX
+onClipChanged())" x-if="isPlayerAttached">
+isInitialized = true)" x-effect="document.documentElement.classList.toggle('audio-player-open', isOpen)" data-area="audio-player">
+Audio Player maximieren
+Die Wiedergabe wurde unterbrochen.
+Wiedergabe fortsetzen?
+Wiedergabe beenden
+0 ? $store.WebAudio.currentTime / $store.WebAudio.duration * 100 : 0) + '%' }">
+Audio Player minimieren
+playbackRate === $store.WebAudio.playbackRate);const nextIndex = (index + 1) % this.playbackRates.length;return this.playbackRates[nextIndex];}}" class="border font-bold font-sansUI h-24 px-6 rounded-oval text-xs border-sec2-dark dark:border-shade-lighter hover:border-sec2-darker dark:hover:border-shade-lightest text-sec2-dark dark:text-shade-lighter hover:text-sec2-darker dark:hover:text-shade-lightest" title="Wiedergabegeschwindigkeit ändern" @click="$publish('AUDIO_PLAYER_SET_PLAYBACK_RATE', nextPlaybackRate)" data-sara-click-el="button">
+Wiedergabegeschwindigkeit ändern
+15 Sekunden zurück
+30 Sekunden vor
+0 ? $store.WebAudio.volume : this.lastVolume" class="md:hidden sm:hidden px-12 text-sec2-dark dark:text-shade-lighter hover:text-sec2-darker dark:hover:text-shade-lightest" :title="$store.WebAudio.volume === 0 ? 'Stummschaltung aufheben' : 'Stummschalten'" @click="$store.WebAudio.volume = $store.WebAudio.volume === 0 ? this.lastVolume : 0" data-sara-click-el="button">
+Stummschalten
+Stummschaltung aufheben
+min ? Math.min(($store.WebAudio.volume - min) / (max - min), 1) : 0;
+}" class="relative h-2 self-center bottom-px md:hidden sm:hidden w-64" :style="{ '--polygon-range-progress': progress }">
+min ? Math.min(($store.WebAudio.currentTime - min) / (max - min), 1) : 0;
+}" class="relative h-2 w-full mb-12" :style="{ '--polygon-range-progress': progress }">
+${type}`">
+Dialog schließen
+© Patrick Mariathasan / DER SPIEGEL
+Anmelden oder Konto erstellen
+Bild schließen
+Hipp-Babynahrung in einem Regal in České Budějovice, Tschechien – in dem Land wurden mit Rattengift manipulierte Gläser entdeckt
+Foto: Stanislav Hodina / AP
+Helfen Sie uns, besser zu werden
+Dialog schließen
+© Patrick Mariathasan / DER SPIEGEL
+Haben Sie einen Fehler im Text gefunden, auf den Sie uns hinweisen wollen? Oder gibt es ein technisches Problem? Melden Sie sich gern mit Ihrem Anliegen.
+Redaktionellen Fehler melden
+Technisches Problem melden
+Sie haben weiteres inhaltliches Feedback oder eine Frage an uns?
+Zum Kontaktformular
+Mehrfachnutzung erkannt
+Die gleichzeitige Nutzung von SPIEGEL+-Inhalten ist auf ein Gerät beschränkt.
+Sie können SPIEGEL+ auf diesem Gerät weiterlesen oder sich abmelden, um Ihr Abo auf einem anderen Gerät zu nutzen.
+Auf diesem Gerät weiterlesen
+Dieses Gerät abmelden
+Sie möchten SPIEGEL+ auf mehreren Geräten zeitgleich nutzen?
+Zu unseren Angeboten
+__proto_headline__
+__proto_description__
+Hinweis schließen
+__proto_headline__
+__proto_description__
+Hinweis schließen

@@ -1,0 +1,75 @@
+Havana Syndrome: Better Patient Communication and Monitoring of Key DOD Tasks Needed to Better Ensure Timely Treatment | U.S. GAO
+Skip to main content
+GAO-24-106593
+Published: Jul 29, 2024. Publicly Released: Jul 29, 2024.
+Jump To:
+Fast Facts
+In 2016, U.S. Embassy staff and their families in Havana, Cuba, suddenly began having symptoms such as head pain, tinnitus, blurry vision, vertigo, and more. These symptoms, once called "Havana Syndrome," have since been reported by personnel around the world and are now called "anomalous health incidents."
+Laws require DOD to treat current and former federal employees and family members diagnosed with this poorly understood condition. But many of these people have said it's hard to access care in a military health system they aren't familiar with.
+We recommended DOD develop written guidance to standardize care for such patients, and more.
+U.S. Embassy in Havana, Cuba
+Skip to Highlights
+Highlights
+What GAO Found
+U.S. government employees and family members in several countries have experienced a sudden onset of symptoms referred to as anomalous health incidents (AHI). GAO interviewed 65 AHI patients, who reported a variety of challenges in accessing the Military Health System (MHS). They included inconsistent support from home agencies before seeking MHS treatment, limited information and unclear points of contact upon entering the MHS, and difficulty scheduling appointments when using the MHS. According to officials, civilian AHI patients are not as familiar with the MHS as active-duty military and need additional support to navigate the system. In addition, the Department of Defense (DOD) lacks an official mechanism to communicate authoritative information to AHI patients, which led some to use informal support groups to navigate the MHS. While some patients found these groups valuable, other patients and DOD officials noted these groups sometimes communicated inaccurate information. For example, some officials reported misinformation in the groups about the availability of appointments in the MHS. Without an official DOD mechanism to communicate with AHI patients, this situation can perpetuate inaccuracies, fuel perceptions of inequity, and lessen trust in MHS providers.
+Challenges Reported by Anomalous Health Incident Patients Accessing the Military Health System
+DOD has created a plan to address some access concerns of AHI patients, but it contains uncertain timeframes and lacks monitoring provisions. For example, the plan produced a new approval process for AHI patients to enter the MHS and calls for an enhanced AHI Care Coordination Cell to centralize administrative and clinical processes. However, the timeframe for implementing the care cell has been delayed. Moreover, the plan does not contain components for monitoring these two key tasks, which could undercut its success.
+DOD has developed a registry as required by law to include certain data on AHI patients assessed or treated by DOD. However, the AHI Registry data fields remain under development. Moreover, delays in obtaining individual consent for inclusion have limited the number of patients contained in the AHI Registry. DOD did not initially seek consent from individuals to be included in the registry when they entered the MHS, limiting the number of participants. Of 334 AHI patients who had qualified for care in the MHS in January 2024, only 33 had been entered in the AHI Registry as of May 2024. According to DOD, key agencies also have not signed memorandums of agreement with DOD, which has contributed to the slow inclusion of AHI patients. Without a plan to gather consent from AHI patients who have left the MHS, DOD will have a limited number of patients in the AHI Registry to analyze, which could limit its usefulness for supporting AHI analysis and research activities.
+Why GAO Did This Study
+In 2016, Department of State staff at the U.S. Embassy in Havana, Cuba, began experiencing a sudden onset of symptoms, usually following a loud sound. These included head pain, tinnitus, vision problems, vertigo, and cognitive difficulties. These events, first labeled “Havana Syndrome,” are now referred to as AHIs and have affected employees (and their families) of various federal agencies overseas and domestically. Federal law requires DOD to provide treatment to U.S. government employees (current and former) and their family members diagnosed with AHI conditions or related afflictions at an appropriate military treatment facility.
+GAO was asked to review DOD's efforts to facilitate AHI patients' access to the MHS and develop an AHI Registry. This report examines (1) the challenges AHI patients have faced accessing care in the MHS, (2) how DOD is facilitating AHI patients' access to the MHS, and (3) the extent to which DOD has developed a registry to facilitate AHI research. GAO reviewed DOD planning documents and interviewed officials. GAO also interviewed, both in-person and virtually, 65 AHI patients from various federal entities on their experiences accessing the MHS.
+Recommendations
+GAO is making six recommendations to DOD, including that DOD develop written guidance, establish a mechanism for official communication with AHI patients, implement its AHI care cell, monitor initiatives, and create a plan to gather registry consent from patients who have left the MHS. DOD concurred with the recommendations.
+Recommendations for Executive Action
+Agency Affected
+Recommendation
+Status
+Defense Health Agency
+The Director of DHA should develop written guidance to facilitate AHI patient understanding of the MHS, such as through the handbook proposed in the Plan of Action and Milestones. (Recommendation 1)
+Open
+When we confirm what actions the agency has taken in response to this recommendation, we will provide updated information.
+Defense Health Agency
+The Director of DHA should establish a mechanism to systematically furnish official information to its AHI patients. (Recommendation 2)
+Open
+When we confirm what actions the agency has taken in response to this recommendation, we will provide updated information.
+Defense Health Agency
+The Director of DHA should fully implement the new care cell for AHI patients. (Recommendation 3)
+Open
+When we confirm what actions the agency has taken in response to this recommendation, we will provide updated information.
+Defense Health Agency
+The Director of DHA should add a monitoring component to the Plan of Action and Milestones on the new AHI entry process' timing. (Recommendation 4)
+Open
+When we confirm what actions the agency has taken in response to this recommendation, we will provide updated information.
+Defense Health Agency
+The Director of DHA should add a monitoring component to the Plan of Action and Milestones on the performance of the new care cell for AHI patients. (Recommendation 5)
+Open
+When we confirm what actions the agency has taken in response to this recommendation, we will provide updated information.
+Defense Health Agency
+The Director of DHA should develop a plan to gather AHI Trauma Registry consent from individuals who have finished their care in the MHS. (Recommendation 6)
+Open
+When we confirm what actions the agency has taken in response to this recommendation, we will provide updated information.
+See All 6 Recommendations
+Full Report
+Highlights Page (1 page)
+Full Report (50 pages)
+Accessible PDF (49 pages)
+GAO Contacts
+Kimberly Gianopoulos
+Managing Director
+International Affairs and Trade
+gianopoulosk@gao.gov
+Media Inquiries
+Sarah Kaczmarek
+Managing Director
+Office of Public Affairs
+media@gao.gov
+Public Inquiries
+Contact Us
+Topics
+Health Care
+Access to health care Government employees Health care Health care standards Intelligence community Military communication Military health care Military readiness Military treatment facilities Patient care State employees
+Multimedia
+Blog Post
+Havana Syndrome—Americans Affected by Mysterious Symptoms May Struggle to Get Care
+Monday, July 29, 2024
+Severe headaches, dizziness, blurred vision, tinnitus, vertigo. About a decade ago, American...

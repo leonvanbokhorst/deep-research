@@ -1,0 +1,7 @@
+404 Not found
+404 Not found
+The page you were looking for doesn't exist on www.frontiersin.org.
+Visit our homepage to browse the full site.
+Go to Home page URL : /journals/public-health/articles/10.3389/fpubh.2024.1348911/full
+Status code : 404
+Message : article-01-init.global: Article DOI 10.3389/fpubh.2024.1348911 not found

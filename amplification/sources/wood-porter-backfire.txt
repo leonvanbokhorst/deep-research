@@ -1,0 +1,2610 @@
+       The elusive backfire effect: mass attitudes’ steadfast factual
+                                 adherence
+
+
+
+
+Thomas Wood                                                                            Ethan Porter
+The Ohio State University                                               George Washington University
+wood.1080@osu.edu                                                                  evporter@gw.edu
+
+                                           August 5, 2016
+
+
+
+
+                                              abstract
+
+      Can citizens heed factual information, even when such information challenges their
+      partisan and ideological attachments? The “backfire effect,” described by Nyhan and
+      Reifler (2010), says no: rather than simply ignoring factual information, presenting re-
+      spondents with facts can compound their ignorance. In their study, conservatives pre-
+      sented with factual information about the absence of Weapons of Mass Destruction in
+      Iraq became more convinced that such weapons had been found. The present paper
+      presents results from four experiments in which we enrolled more than 8,100 subjects
+      and tested 36 issues of potential backfire. Across all experiments, we found only one is-
+      sue capable of triggering backfire: whether WMD were found in Iraq in 2003. Even this
+      limited case was susceptible to a survey item effect; when presented with a less elab-
+      orate survey item, we found no WMD factual backfire. Comparably elaborate items
+      were incapable of instilling backfire in questions other than WMD. Evidence of factual
+      backfire is far more tenuous than prior research suggests. By and large, citizens heed fac-
+      tual information, even when such information challenges their partisan and ideological
+      commitments.
+
+
+
+
+We acknowledge the generous guidance of John Brehm, Emily Ekins, Jim Gimpel, Don Green, Will
+Howell, David Kirby, Michael Neblo, Brendan Nyhan, and the participants at Center for Strategic
+Initiatives workshop. The Cato Institute generously provided financial support for this research.
+1       Introduction
+
+
+
+C
+         an citizens affirm factual information about politics, even when the facts cut against their
+          ideological and partisan beliefs? Or are they destined to view the facts through the “percep-
+tual screen” (Campbell et. al 1960) that partisanship and ideology impress upon them? The answer
+
+has significant implications for citizen’ competence in a democracy. If indeed individuals are ca-
+pable of prioritizing empirical facts over their political allegiances, the prospects for democratic
+accountability appear bright. If, on the other hand, they are blinded by their perceptual screens,
+it would be unclear how citizens could hold their elected officials accountable, or indeed what role
+
+facts should play in shaping mass attitudes. Nyhan and Reifler (2010) offer strong evidence for
+
+the latter position: subjects presented with facts correcting misperceptions relevant to their ideol-
+ogy responded by doubling down on their misperceptions. Particularly among conservatives, at-
+tempts to correct misperceptions activated a “backfire effect” against empirical facts, with subjects
+
+more strongly expressing a non-factual belief. Subsequent research has corroborated Nyhan and
+
+Reifler’s initial finding. Republican subjects provided evidence of the scientific consensus on an-
+
+thropogenic climate change became more opposed the need for environmental regulation (Hart and
+
+Nisbet 2011). Providing evidence for the safety of common vaccines to parents already indisposed
+to vaccinate their children further reduced their willingness to vaccinate (Nyhan, Reifler and Richey
+
+2014). Confirming that the Affordable Care Act did not introduce “death panels” for terminal pa-
+
+tients entrenched this conviction (Berinsky 2015; Nyhan, Reifler and Ubel 2013). Equally significant
+
+is the backfire effect’s prominence in popular political accounts. Political elites habitually cite this
+research to explain the public’s failure to heed facts consistent with the elite’s policy proposal of the
+
+moment.1
+         Another line of research, however, draws a different, less worrisome conclusion. Despite the
+    1   A Google News search for the “backfire”, “backlash”, or “boomerang” effect and the names of Nyhan or
+
+Reifler returns over 300 unique articles.
+
+
+
+
+                                                      2
+power of party and ideology, citizens are indeed capable of learning (Gerber and Green 1999; How-
+
+ell and West 2009; Fishkin and Luskin 2005). Sometimes with encouragements, and sometimes
+with small monetary incentives, citizens can absorb and retain complex new political information
+(Barnes, Feller, Haselswerdt and Porter 2016; Fishkin 1995; Kuklinski, Quirk, Jerit, Schweider and
+Rich 2000); and factual receptivity can take place despite partisan differences ( Bullock, Gerber, Hill
+and Huber 2015; Prior 2007; Prior, Sood and Khanna 2015).
+      Building on Nyhan and Reifler, the present project maps the boundaries of the backfire effect.
+What issues provoke resistance to factual information? Which ideological groups, and members of
+which parties, are most likely to evince backfire? And which issues provoke which ideological groups
+
+to backfire? Nyhan and Reifler observed backfire on two high salience issues (whether WMD were
+found in Iraq and whether tax cuts ultimately increase tax receipts) and found no backfire on one
+
+less salient, more technical issue (the specific types of stem cell research prohibited by President
+
+Bush.) Testing only three issues makes it to difficult to determine if backfire is caused by ideological
+group differences in factual receptivity, or if their results instead reflect the salience and ideological
+
+importance issues being corrected. That is, might liberals also prove factually maladaptive when
+
+presented with correction to the right issue?
+
+      To address these outstanding questions, we staged four separate studies comprised of more
+than 30 commonly misunderstood policy areas. Table 1 summarizes the issues corrected. The ma-
+
+jority of issues have been purposefully chosen to tap some of the most important ideological symbols
+
+along the political spectrum. For liberals, this means correcting their incumbent President’s state-
+ment about the role of drug sentencing in growing the incarcerated population, and contradicting
+their party’s presumptive Presidential nominee’s claim about the incidence of gun violence. For con-
+servatives, we contradicted their presumptive nominee’s claim about undocumented immigrants’
+criminal records, and provided corrections about the incidence of abortion and teen pregnancy. If
+any correction should prompt a respondent to counter-argue unwelcome facts, and inadvertently
+entrench their pre-correction attitudes, these politically important, readily understood, recurrently
+debated issues stand out as likely candidates. In Carmines and Stimson’s (1980) memorable turn of
+
+                                                    3
+phrase, such issues are deemed “easy”, because their recurrence in American politics has rehearsed
+
+individuals on how to respond.
+      Across four studies, in which we enrolled more than 8,100 subjects and tested 36 issues of
+potential backfire, we observed almost no evidence of a backfire effect. Indeed, we observed only
+one significant instance of backfire—and even that instance was ameliorated by simplifying the sur-
+vey item. When presented with facts that correct political leaders, subjects along the ideological
+spectrum, in possession of diverse partisan attachments, are capable of heeding the correction and
+bringing their beliefs in alignment with the facts. This occurs even when the corrections directly
+conflict with subjects’ ideological and partisan commitments.
+
+      Ultimately, our results suggest that, contrary to the most skeptical accounts, citizens possess
+the prerequisites for democratic competence. When presented with factual information, they can
+
+heed the facts, even when doing so forces them to separate from their ideological attachments. Of
+
+course, ideology and partisanship shaped the extent of our subjects’ factual receptivity. The “per-
+ceptual screen” that partisanship instills (Campbell et. al 1960) is real. Yet evidence of differential
+
+learning along partisan lines does not obviate the overall learning we observe (Green and Gerber
+
+1999). The average subject exposed to the correction subsequently expressed attitudes more in line
+
+with the facts. As Lupia and McCubbins (1998) write, “The capabilities of the people and the re-
+quirements of democracy are not as mismatched as many critics would have us believe.” Our data
+
+lead us to agree.
+
+      Our experiments used real instances of misstatements by political leaders from both sides of
+the aisle. Some subjects were randomly vended a correction, consisting of neutral data from govern-
+mental sources. All subjects were then asked whether they agreed with the original misstatement.
+Two of the studies presented the misstatements as if they were excerpts from a longer newspaper
+article; a third presented subjects with complete fictitious news articles. Among all issues tested,
+the only one to generate backfire related to the presence of WMD in Iraq. Yet even this instance of
+backfire was susceptible to a survey item effect: when presented with a less elaborate survey item,
+no WMD backfire was detected. For all 35 other issues, subjects exposed to the correction did not
+
+                                                  4
+             Issue                 .   Speaker                                      Correction
+
+                  Study 1 (Full text of statements, corrections, and items can be found in table 3 on page iii.)
+Spiraling Gun Violence                 H.Clinton                   Gun homicides declined by 50% since 1994
+Drugs Drive Prison Growth               Obama                 Only 20% of prisoners incarcerated for Drug crimes
+Hedge fund mangers pay less
+                                       H.Clinton          Average hedge fund manager pays twenty times as much tax
+tax than workers
+Discrimination sole cause of            Obama          Discrimination accounts for only a fraction of the wage difference
+gender wage gap
+Obama cuts defense                      Rubio                Obama has increased defense spending relative to Bush
+Mexican Immigrants
+                                        Trump       Undocumented immigrants offend at lower rate than general population
+disproportionately criminal
+Rising violence against police           Cruz               Number of police officers killed currently at 130 year low
+US taxes highest in world               Trump                  US taxes second lowest among all OECD members
+
+                  Study 2 (Full text of statements, corrections, and items can be found in table 5 on page x.)
+
+Obama Passed TARP                        Palin                        TARP was passed by George W Bush
+                                        Obama
+Obama accommodates                      Cruz       Obama deported undocumented immigrants at twice the rate of George W
+undocumented immigrants                Gutierrez                                Bush
+Spiraling teenage pregnancy rate        Carson         Since 1991, black teen pregnancy fallen by 66%, 50% among whites
+                                          Lee
+                                       Romney
+China holds most US debt                Obama                           China holds about 12% of US debt
+
+Whites soon a racial minority          Graham      Whites will be a majority until at least 2045, majority of voters until 2070
+                                       Langoria
+Spiraling Chicago homicides            LaPierre                         Chicago homicides at 36 year low
+                                        Obama
+                                         Ryan
+Spiraling abortion rate                                                    Abortion rate at 40 year low
+                                        Obama
+Obama curtails drones’ use             Graham           Obama has ordered ten times as many strikes as his predecessor
+                                        Obama
+
+                            Study 3 (Articles and corrections can be found in section A.5 on page xii)
+
+Spiraling Chicago homicides            Obama                            Chicago homicides at 36 year low
+                                       LaPierre
+Mexican Immigrants
+                                        Trump       Undocumented immigrants offend at lower rate than general population
+disproportionately criminal
+Spiraling Abortion Rate                  Ryan                            Abortion rate at 40 year low
+Solar has more jobs than oil           Clinton           Oil industry employs four times more people than solar power.
+US Health care twice as                Sanders          Swiss health care only 40% less expensive per capita than the US
+expensive as all other states
+WMD were found in Iraq                   Bush                             No WMD were found in Iraq.
+
+  Study 4 (Articles and corrections can be found in section A.8 on page xv. Survey items can be found in table 9 on page xx)
+
+WMD were found in Iraq                   Bush                           No WMD were found in Iraq.
+Spiraling Abortion Rate                  Ryan                            Abortion rate at 40 year low
+Real unemployment rate >30%             Trump                  Unemployment is currently 4.9% (February 2016)
+Tax cuts will pay for themselves        Trump              Trump tax plan will increase deficit by almost $10 trillion
+EPA: fracking pollutes water           Sanders     EPA finds no systematic relationship between fracking and water pollution
+Solar has more jobs than oil           Clinton          Oil industry employs four times more people than solar power.
+
+                      Table 1: Summary of Issues, Speakers, and Corrections across four studies.
+reject it—even when the correction conflicted with a speaker who shared their ideology and partisan
+
+affiliation.
+       In the first study, we showed subjects eight instances of actual public comments from political
+figures, in which the speaker diverged from available empirical evidence. Four of the misstatements
+came from Democrats; four came from Republicans. On no issue did we observe backfire. Regard-
+less of their party and ideology, the average subject who saw a correction brought her views closer
+in line with the facts. For the second study, we identified issues about which politicians from both
+ends of the ideological spectrum had made misstatements that could be corrected by reference to
+neutral data. For example, political leaders from both parties have made erroneous claims about
+
+the abortion rate and immigration enforcement. Yet once again, regardless of party or ideology, the
+average subject exposed to corrective facts was made more in agreement with these facts, even when
+
+doing so required her to reject a co-partisan leader’s misstatements.
+
+       In the third study, subjects read fictitious newspaper articles containing real misstatements
+from politicians. For each article, some subjects were randomly assigned to read a version of the
+
+article in which a corrective paragraph was embedded. The paragraph recited data from a neutral
+
+source. Subjects in this study were also exposed to a replication of the original Nyhan and Reifler
+
+news article about WMD in Iraq. When presented with the original survey item that Nyhan and
+Reifler used to measure backfire, subjects did indeed backfire, rejecting the facts presented to them.
+
+Yet subjects shown a more succinct survey item did not display backfire. In all other cases in Study 3,
+
+regardless of party or ideology, the average subject exposed to a correction expressed greater agree-
+ment with the facts than those to whom no correction had been vended.
+       In our final study, we test if comparably complicated survey items can induce backfire in other
+policy areas. Subjects again read fictitious newspaper articles with randomized corrections, before
+being presented a survey item from one of three levels of complexity. While we again find that WMD
+backfire is only apparent with a complicated survey item, comparably complex items failed to induce
+backfire in other policy areas. The ability of WMD and a particular survey item to provoke backfire
+is unique among all those we tested.
+
+                                                  6
+      Our findings do not lead us to conclude that backfire is categorically impossible. Certain is-
+
+sues and certain questions—perhaps asked at moments when ideology or partisanship, or both, are
+particularly salient—might plausibly trigger factual backfire. However, despite conducting our ex-
+periments during the height of the presidential primary, on issues of keen political interest, we were
+unable to locate a single issue of backfire robust to survey item effects. The backfire effect is far less
+prevalent than existing research would indicate. It also does not appear to be the exclusive prove-
+nance of one ideological group or one party. Instead, we observe members of both parties, and
+individuals across the ideological spectrum, reliably adopting corrections. When presented with in-
+formation that conflicts with their political leaders, citizens take a Joe Friday approach: They choose
+
+just the facts, ahead of their party or ideology.
+
+
+
+2 Why Would Backfire Matter?
+
+Were the backfire effect to be observed across a population, the implications for democracy would
+
+be dire. Facts are meant to matter in a democracy. This is not always the case, of course; politicians
+
+frequently make claims that depart from the truth (Mearsheimer 2012), as do individuals trying to
+
+win political arguments. Yet citizens are expected to be able to use facts to hold their leaders, and
+
+each other, accountable. If a politician promised something but fails to achieve it, the fact of that
+promise may be recalled in the voting booth; if an interlocutor claims something has happened that
+plainly has not happened, the discrepancy may be pointed out. While consensus on contentious
+
+political issues will rarely be achieved, the public debate around such topics is meant to be reason-
+
+and evidence-based (Rawls 1997). Conceptions of democracy that focus on citizen deliberation
+emphasize the necessity of sincere, fact-based debate (Cohen and Sabel 2002). Over 200 years ago,
+Condorcet imagined that collective democratic judgments would benefit from a “miracle of aggre-
+gation,” where misunderstanding due to informational lassitude or ideological bias would offset, and
+average opinions would reflect an informed weighted consensus (Converse 1990).
+      In the memorable words of Delli Carpini and Keeter (1996), factual information constitutes
+
+
+                                                    7
+the “currency of citizenship.” The backfire effect would render this currency close to worthless. A
+
+citizen who rejects facts, instead opting to strongly adopt her preferred leader’s mistruths, would
+have difficulty holding her leaders accountable (Hochschild and Einstein 2015). She would be unable
+to differentiate propaganda (political information that hinges on falsehoods Stanley 2016), from
+evidence-based information desirable for democratic deliberation (Gutmann and Thompson 2004).
+For the individual who reject the facts, a speaker’s ideological polarity is all that matters–not the
+probity of their claims.
+      The backfire effect is one part of a broader literature that gives us reason to doubt citizens’
+democratic competence. There is voluminous evidence that the average citizen is misinformed about
+
+politics–lacking knowledge about candidates, their policies, and especially the factual circumstances
+that shape policy response (Campbell et al 1960; Converse 1964). Low levels of political knowledge
+
+have persisted for decades (Delli Carpini and Keeter 1996). Without a modicum of political knowl-
+
+edge, voters make egregious mistakes, such as holding politicians accountable for shark attacks (Bar-
+tels and Achen 2012) and local sports scores (Healy, Malhotra, and Mo 2010), or using recent local
+
+weather to evaluate the plausibility of anthropogenic climate change (Egan and Mullen 2012).
+
+      A divergent perspective posits that, despite low default levels of political knowledge, citizens
+
+make do by relying on a toolkit of cognitive shortcuts. These heuristics cut through the clutter
+and prove startlingly efficient as decision aids (Lau and Redlawsk 2001; Lupia 1994; Popkin 1995).
+
+Though the modal amount of political knowledge may be “astonishingly low” (Converse 1964), cit-
+
+izens are capable of changing their beliefs in response to new, contrary information (Gilens 2001;
+Howell and West 2009; Kuklinski et al 2000). Citizens can learn new political information even when
+it’s complex (Fishkin 1996; Barnes, Feller, Haselswerdt and Porter 2016), and can demonstrate fealty
+to the facts despite partisan attachments (; Bullock, Gerber, Hill and Huber 2015; Prior 2007; Prior,
+Sood and Khanna 2015). Research which portrays citizens as deficient in political knowledge or
+unable to evaluate political information without bias may suffer suffer from measurement error or
+exaggeration (Achen 1975; Druckman, Fein, and Leeper 2011; Gibson and Caldiera 2009).
+      Given limitations on citizens’ time and cognitive capacities, parties and political leaders beckon
+
+                                                   8
+as promising decision aids. A voter does not have to know everything about an issue to evaluate it;
+
+she can rely on what trusted leaders have to say about the issue in question (Zaller 1992). Reliance
+on partisan cues, however, breeds its own perversions. Partisans have fundamentally divergent un-
+derstandings of the factual landscape (Bartels 2002; Jerit and Barabas 2012). Partisan stereotypes
+shape candidate evaluation (Rahn 1993), assessments of how politicians have performed in office,
+and agreement with objective facts about macroeconomic behavior (Bartels 2002). Partisans may
+be intrinsically motivated to support or agree with their co-partisans, at a cost to factual accuracy
+(Taber and Lodge 2006). By the comprehensive accounting of Lenz (2012), citizens utilize facts when
+considering performative aspects of a politician’s time in office—how well the economy fared under
+
+a president’s stewardship, for example—but disregard them when thinking through policy matters.
+In their description of the influence that party wields over political behavior, Campbell et al (1960)
+
+find that partisanship brings with it “a persistent adherence and a resistance to contrary influence.”
+
+      The backfire effect exemplifies such resistance. Citizens who demonstrate it are only follow-
+ing the implications of their supposed dependence on ideological cues. In Nyhan and Reifler’s initial
+
+landmark work on the subject (2010), college-age respondents were presented with fictitious news
+
+articles, designed to look and read like real news articles. In some of the articles, Nyhan and Rei-
+
+fler embedded a correction, consisting of factual evidence contradicting a political leader. Most
+famously, they showed all subjects an article about President Bush’s search for WMD in Iraq, while
+
+showing subjects in the treatment condition a factual correction emphasizing that, in fact, no WMD
+
+were found. Conservatives exposed to the correction became more likely, on average, to think that
+WMD were found. Conversely, the average liberal exposed to facts about President Bush’s stem cell
+prohibitions—he prohibited some, but not all, research—heeded the correction.
+      Our experiments were designed to provide subjects with a hard test of their receptivity to
+factual information, and an easy test for the factual backfire hypothesis. We clearly marked each
+leader’s partisan affiliation, to underscore the fact that agreeing with the correction would mean
+disagreeing with the party. To increase the chance of factual backfire, we corrected issues which
+are subject to frequent and pitched political debate, so that rehearsed partisan arguments might
+
+                                                  9
+be readily accessible to our respondents. We conducted the studies at the height of both parties’
+
+presidential primaries, and in many cases, corrected leading primary candidates on issues central
+to their candidacy. To reject the leader and accept the correction would be tantamount to rejecting
+one’s partisan “team” (Green, Palmquist and Shickler 2002). Crucially, unlike previous studies that
+have found the effects of partisanship on factual receptivity can be lessened, we did not offer subjects
+monetary incentives to provide correct answers (Prior 2007; Prior, Sood and Khanna 2015; Bullock,
+Gerber, Hill and Huber 2015). We did not even ask or encourage them to provide correct answers,
+as has been done elsewhere (Bolsen, Druckman and Cook; 2014Prior and Lupia, 2008). We simply
+presented subjects in the correction condition with a political leader’s misstatement and a neutral
+
+correction. In sum, we provided the ideal experimental context to observe factual backfire.
+
+
+
+3 The nature of our factual corrections and issues
+
+Journalistic fact checkers strictly appraise the express meaning of officials’ public statements. We
+
+follow Nyhan and Reifler by eschewing this standard. Inspecting our statements demonstrates that,
+
+in most cases, politicians allude to some inaccurate circumstance, without expressly lying. Since
+
+we exclusively use genuine pieces of political rhetoric, elites’ rhetorical strategies limit the extent to
+
+which we can directly contradict the public speaker. For instance, President Bush referred to the
+risk that Saddam Hussein would pass WMD to terrorists, Congressman Ryan said that President
+Obama sought to make abortions more common, President Obama indicated that drone strikes de-
+
+grade America’s standing abroad and accordingly should be subjected to strenuous restrictions.2 In
+
+these cases, the respective misapprehensions these speakers sought to instill–respectively: that Hus-
+sein possessed WMD, that abortions have become more frequent, and drone strikes less so–was not
+   2   There are some cases among our misstatements where the speaker’s statement is directly corrected–for
+
+instance, Trump’s statement about the criminal propensities of undocumented immigrants, or Clinton’s claim
+
+about the relative number of Americans employed in the solar sector.
+
+
+
+
+                                                    10
+directly expressed, but was rather the obvious conclusion that a reasonable respondent might reach.
+
+It’s these impressionistic inferences of survey respondents, rather than the literal interpretation of
+each statement, which guide our choice of corrections.
+      In setting this standard, we are guided by our desire to measure the determinants of mass
+attitudes, rather than scrutinize office holders’ public statements. If it was the case that survey re-
+spondents closely scrutinize the precise limits of a speech, and refuse to make any inference not
+directly expressed in a statement, this will be apparent in our experiments. Specifically, we would
+observe consistent rejection of these misapprehensions across the ideological spectrum, even absent
+a correction. If, however, respondents are only fleetingly engaged with the experiments, minimiz-
+
+ing the effort they spend parsing treatments (Krosnick 1991, Krosnick, Narayan, Smith 1996), and
+use their metaphorical capacity to quickly elaborate a statement’s implications (Tversky and Kah-
+
+neman 1983), even when the statements are figurative–these suggestive statements should prompt
+
+misapprehensions outside their strict interpretation.
+      In our experiments, we correct misstatements that refer to unambiguous political and social
+
+truths, rather than taking a side in a political debate. Americans can strenuously debate the wisdom
+
+of the Iraq War, what limits to place on abortion, the ideal size of the US prison population–these de-
+
+bates reflect differences in political identities and moral priorities, rather than different sets of facts.
+Accordingly, we do not ask respondents to change their policy preferences in response to facts–they
+
+are instead asked to adopt an authoritative source’s description of the facts, in the face of contradic-
+
+tory political rhetoric.
+
+
+
+4 Study 1
+
+In the first study, subjects were presented with eight genuine public comments from politicians. In
+each instance, the politician’s comments were at odds with available empirical facts. We selected
+misstatements about issues important to both ends of the ideological spectrum, and we evenly di-
+vided our speakers between the major parties. For each issue, a subject was randomly exposed, or
+
+
+                                                    11
+not exposed, to a correction that cited neutral government data to rebut the speaker. For each issue,
+
+all subjects were asked whether or not they agreed with the position that the speaker had articulated,
+for which the empirical data served as the correction.
+      For example, we presented all subjects with remarks made by Secretary Hillary Clinton on the
+subject of gun violence. In October 2015, Secretary Clinton said:
+
+      “Between 88 and 92 people a day are killed by guns in America. It’s the leading cause
+      of death for young black men, the second leading cause for young Hispanic men, the
+      fourth leading cause for young white men. This epidemic of gun violence knows no
+      boundaries, knows no limits, of any kind.”
+
+Those randomly vended a correction were then told:
+
+      “In fact, according to the FBI, the number of gun homicides has fallen since the mid
+      1990s, declining by about 50% between 1994 and 2013.”
+
+All subjects were then asked to agree or disagree, on a five-point scale, with the following claim:
+
+      “The number of gun homicides is currently at an all time high.”
+
+We repeated this structure with comments from President Obama on the causes of incarceration;
+
+Secretary Clinton on the progressivity, or lack thereof, of the US tax rate; President Obama on the
+
+causes of the gender wage gap; Senator Rubio on the trajectory of U.S. defense spending; Donald
+
+Trump on immigration from Mexico; Senator Cruz on violence against police officers; and Donald
+Trump on the U.S. tax rate in comparative perspective. With a dateline at the top, the statements were
+
+designed to look like excerpts from news articles. All corrections provided came from governmental
+organizations and were cited as such. The order of issues was randomized for each subject. All
+speakers’ partisan affiliations were prominently displayed. (Consult table 3 on page iii for the full
+
+text of the speakers’ remarks, the corrections appended, and the wording of the agreement item.)
+      More formally, each experiment is an adapted latin squares design (Cochran & Cox, 1960):
+
+                                           T1    T2   · · · TJ
+                                                             ..
+                                           T2    T3           .
+                                            ..        ...
+                                             .
+                                           TJ · · ·         T1
+                                                   12
+where j indexes the total number of treatments in some study, the rows indicate the order in which a
+
+respondent saw each treatment, and the columns indicate the possible permutations of treatments.
+       An additional complication comes in the form that every treatment was either corrected or
+uncorrected. That is, each respondent was exposed to some c count of corrections, where c is an ele-
+ment of the set {0, 1, 2... j}. Section 8.2 on page 29 describes the tests to ensure that these elements of
+correction exposure did not introduce confounding related to respondents’ characteristics. Section
+8.3 on page 31 describes results which show that this design did not introduce demand characteris-
+tics or otherwise affect responses. A final complication came in study 4, where each respondent was
+exposed to one of three levels of survey item complexity. These items are provided in table 9 in the
+
+appendix on page xx.
+
+
+4.1 Study 1 Results
+
+Subjects (n=3,127) were recruited via Amazon’s Mechanical Turk platform. For all three studies, we
+
+estimated linear models of the following form
+
+
+
+
+           Agreementi = b0 + b1 (ideology) + b2 (correction) + b3 (ideology × correction) +                 (1)
+
+                           b4 (ideology2 ) + b5 (ideology2 × correction)+
+
+                           b6 (ideology3 ) + b7 (ideology3 × correction)
+
+
+where i indexes issues. Agreement was measured on a five point likert scale, with larger values
+indicating stronger agreement. Ideology is measured on a 7 point likert scale, with larger values
+indicating increased conservatism. Corrections are measured with a dummy variable.3 Polynomial
+   3   The choice of the OLS model, and the specific measures for agreement, ideology, and correction, were
+
+chosen to reflect Nyhan and Reifler’s (2010) original specifications. This aids the comparison of our respective
+
+results.
+
+
+
+
+                                                      13
+terms for ideology and its interaction with the correction were included to capture these variables’
+
+non-linear interactions.
+      Figure 1 presents the predicted values and their 95% confidence intervals from each regression
+model, with ideology mapped to the x-axis and separate curves for uncorrected (light gray) and cor-
+rected (dark gray) ribbons. For each issue, the average corrected subject increased their agreement
+with the facts. No ideological group exposed to the correction moved in the opposite direction;
+that is, no group demonstrated what Nyhan and Reifler called backfire. Section A.11 shows that
+estimating correction effects along the partisan spectrum also shows no evidence of backfire.
+      The arrangement of issues within figure 1 is also informative. The facets are sorted by mean
+
+slope between agreement and ideology–with the strongest ideological effects in the top left and bot-
+tom right facets. Correction effects (depicted here as the vertical difference between ribbons) are as
+
+large as the total effect of ideology for certain issues. Consider, for instance, the ideological effects
+
+among those evaluating the level of gun violence (in response to Secretary Clinton) or President
+Obama’s level of defense spending (in response to Senator Rubio). For both issues, the correction
+
+moves respondents about 1 point along the 5 point scale, which is the same total ideological effect.
+
+These are the issues with the weakest ideological effects, and the largest correction effects. Those
+
+issues with the strongest ideological differences (Donald Trump’s statement on immigrants, and
+President Obama’s claim on the causes of the gender wage gap) feature a mean correction effect
+
+which is less than a fifth the size of total ideological effect. This study evidently succeeded in testing
+
+issues of varied ideological salience. Despite what the backfire hypothesis would predict, neither
+issues of high nor low salience issues triggered factual backfire.
+
+
+
+
+5 Study 2
+
+For this study, we identified issues about which speakers from both sides of the aisle had departed
+from the available evidence. While the comments themselves were naturally distinct, they could
+
+
+                                                   14
+                                                                                                  15
+
+
+
+
+                 t   ed
+           o rrec
+          c
+     Un
+                 t    ed
+           o rrec
+          C
+
+
+
+
+Figure 1: Study 1 correction effects. Curves are the conditional predictions and their 95% confidence
+intervals drawn from the regression models described in table 4, on page iv. Issues are sorted by the
+overall relationship between ideology and agreement.
+both be corrected with reference to the same data. For each issue, subjects were randomly assigned
+
+to see a misstatement by either a Conservative or a Liberal. For example, in December 2015, Senator
+Ted Cruz said the following on the subject of immigration:
+
+      “[As President], I will enforce the law. That means you stop the Obama administration’s
+      policy of releasing criminal illegal aliens. Do you know how many aliens Bill Clinton
+      deported? 12 million. Do you know how many illegal aliens, George W. Bush deported?
+      10 million.”
+
+In July 2015, Representative Luis Gutierrez said the following:
+
+      “[President Obama] said he will flex his executive muscle, to be as big and as bold as
+      he can be, to reduce deportations of undocumented immigrants... to keep families to-
+      gether. I saw our champion.”
+
+In the first instance, a Republican paints the president as weak on immigration enforcement; in the
+second, a Democrat paints the president as political ally of the immigrant community. Once again,
+
+on an issue-by-issue basis, some subjects randomly saw, or did not see, a correction. In this case, the
+
+correction read:
+
+      “In fact, according to the Department of Homeland Security, President Obama has de-
+      ported illegal immigrants at twice the rate of his predecessor, President George W Bush.”
+
+Then, all subjects were asked to agree or disagree with the following, again on a five-point scale:
+“President Obama has been more tolerant of illegal immigration than previous presidents.”
+
+      We repeated this structure with teen pregnancy rates, for which we featured misstatements
+by Representative Barbara Lee (a California Democrat), and Dr. Ben Carson (a GOP Presidential
+
+candidate); the bank bailouts, with misstatements by President Obama and Governor Sarah Palin;
+China and the U.S. debt, with statements by President Obama and Governor Romney (a GOP Presi-
+dential nominee); coming demographic changes to the United States, with misstatements by Senator
+Lindsey Graham and Eva Longoria (chairwoman of the 2012 Obama Campaign); gun violence in
+Chicago, with misstatements by President Obama and NRA Executive Director Wayne LaPierre;
+abortion, with misstatements by President Obama and Speaker Ryan; and drone warfare, with mis-
+statements by President Obama and Senator Graham. Once again, all speakers’ partisan affiliations
+                                             16
+were prominently displayed and the order of issues was randomized for each subject. (Consult ta-
+
+ble 5 on page x for the full text of the speakers’ remarks, the corrections appended, and the wording
+of the agreement question.)
+
+
+5.1 Study 2 Results
+
+Subjects (n=2,801) were recruited via Amazon’s Mechanical Turk platform. We estimate the same
+group of models described in equation 1 to find that, regardless of subjects’ ideology, and regard-
+less of whether the correction corrected a Democratic or Republican-aligned speaker, the average
+
+subject exposed to the correction brought their views closer in line with the facts. Figure 2 presents
+the predicted effect of ideology, the correction, for all 8 issues and both speaker ideologies. As with
+
+figure 1, darker ribbons below the lighter ribbons indicate movement toward the facts. And once
+again, for no ideological group did we observe the correction leading to greater agreement with the
+
+speaker and thus deviation from the correction. Of course, subjects with different political leanings
+
+responded differently to the correction provided to them–within each correction type and issue,
+
+ribbons’ steep gradients attest to these ideological effects. Unsurprisingly, respondents had residual
+reluctance to abandon co-ideologues and were generally eager to correct ideological opponents. Yet
+
+in no case did an ideological group respond to a co-ideologue being corrected by rejecting the cor-
+
+rection. Furthermore, as discussed in section A.11 on page xxi, partisan affiliation also did not lead
+subjects to backfire.
+
+
+
+
+6 Study 3
+
+In the third study, our design simply extended that of Nyhan and Reifler (2010), and concealed
+factual corrections within fictitious original news articles. The articles were designed to mimic the
+design of an actual news article, with a visible dateline and headline. All subjects read eight arti-
+cles, with each article containing an actual misstatement by politician. For each news article, some
+
+                                                  17
+Figure 2: Study 2 correction effects. Curves are the conditional predictions and their 95% confidence intervals drawn from the regression
+models described in table 4, which is on page iv. Separate issues are included in columns, while speaker ideology is mapped to rows. Issues
+are sorted by the overall relationship between ideology and agreement.
+subjects were randomly assigned to view a version of the article that contained a factual correction
+
+provided by a neutral government source. For example, all subjects read a news article about Speaker
+Ryan’s views on abortion, in which this quote by Ryan is displayed:
+
+       “Ryan’s most cutting criticism, met with enthusiastic applause, was made of the Pres-
+       iden’s changed policy on abortion : ‘In the Clinton years, the stated goal was to make
+       abortion ’safe, legal and rare.’ Obama stands for an absolute, unqualified right to abortion–
+       at any time, under any circumstances, and paid for by taxpayers.”
+
+Subjects who saw the corrected version of the article then saw the following:
+
+       “Statistics from the Center for Disease Control tell a different story. The number of
+       abortions steadily declined during President Obama’s first term, with fewer abortions
+       in 2012 than any year since 1973.”
+
+       All subjects were then asked to agree or disagree with the information provided by the cor-
+
+rection. We repeated this structure with articles about Senator Clinton’s comments on solar power;
+Senator Sanders’ on tax progressivity; and Donald Trump on immigration. For the issue of gun
+
+violence in Chicago, we assigned subjects to read articles with misstatements by either President
+
+Obama or NRA Executive Director Wayne LaPierre, with some seeing a correction with data from
+
+city government. All speakers’ partisan affiliations were prominently displayed and the order of is-
+sues was randomized for each subject. (Consult section A.5 on page xii for the full text of fictitious
+
+news articles and the wording of the agreement question.) Subjects in this study were also assigned
+
+to read the same news article about WMD in Iraq that Nyhan and Reifler (2010) use; we describe
+
+those results in sections 6.2 and 6.2.1.
+
+
+6.1 Study 3 Results
+
+Subjects (n=977) were recruited via Amazon’s Mechanical Turk platform. Correction effects were
+estimated with the same linear model depicted in equation 1. The predicted values for each model
+are depicted in figure 3. For every issue, the average subject who saw a newspaper article that con-
+tained a correction expressed less agreement with the factual inaccuracy,4 all along the ideological
+   4   WMD’s discovery in Iraq did generate backfire with a particular survey item. This finding is discussed
+
+further in section 6.2 on page 20.
+                                                     19
+spectrum. On average, respondents were even willing to contradict co-ideologues, though these
+
+correction effects were smaller.5 The effect of the correction observed in Study 3 was indeed smaller
+than the effects in the previous studies. This should not be surprising, as the correction itself was less
+conspicuous, since it was embedded in a longer body of text. In addition, conservatives were espe-
+cially eager to reject liberal speakers, and conservatives were overall less responsive to corrections.
+Figure 3 demonstrates that the most conservative respondents were least responsive to corrections to
+conservatives (the top three facets) and were most responsive to corrections of liberals (the bottom
+three). Yet only the article about WMD in Iraq led subjects to reject the correction altogether—and
+when the survey item about WMD was worded differently, the backfire effect disappeared.
+
+
+6.2 WMD Backfire and Question Wording Effects
+
+All subjects in Study 3 were also presented with the same fictitious article about WMD in Iraq that
+
+Nyhan and Reifler (2010) used in their original study, with some subjects randomly shown the same
+
+correction that Nyhan and Reifler used. Like Nyhan and Reifler, we also tested for source effects,
+by randomly varying whether the article the subjects saw appeared to have been published in The
+
+New York Times, a reputedly liberal outlet, or Fox News, a supposedly conservative one. However,
+
+we departed from Nyhan and Reifler in one crucial respect. To test whether backfire can originate
+
+due to question-wording, we randomly varied whether subjects were asked to agree with Nyhan and
+
+Reifler’s original survey item, or a version we authored.
+      Nyhan and Reifler’s original survey item read:
+
+      Immediately before the U.S. invasion, Iraq had an active weapons of mass destruction
+      program, the ability to produce these weapons, and large stockpiles of WMD, but Sad-
+      dam Hussein was able to hide or destroy these weapons right before U.S. forces arrived.
+
+Our alternative version of the item read:
+
+      Following the US invasion of Iraq in 2003, US forces did not find weapons of mass
+      destruction.
+
+   5 This relationship persisted if we compare respondents along the partisan scale. This result is described
+
+in section A.11 on page xxi.
+                                                    20
+                                                                                                  21
+
+
+
+
+                           e   d
+                n co rrect
+               U
+
+                      re   cted
+                   Cor
+
+
+
+
+                                            Respondent Ideology
+
+
+Figure 3: Study 3 correction effects. Curves are the conditional predictions and their 95% confidence
+intervals drawn from the regression models described in table 7 on page xvi.
+The simpler item more directly taps respondents’ factual understanding of the post invasion history,
+
+and does not offer parenthetical statements to measure attitudes about possible strategies Saddam
+Hussein might have employed to disperse or conceal WMD. The simpler version also more closely
+reflects the common interpretation of Nyhan and Reifler’s finding. The average American voter is not
+expected to be familiar with the details of Iraq’s prewar history. To adequately assess President Bush,
+and his undertaking to go to war to mitigate the threat posed by Iraqi WMD, citizens should be aware
+that no such weapons were found.6 Our simpler item directly measures this factual understanding.
+
+
+6.2.1 WMD Correction Results
+
+The WMD survey item to which subjects were exposed strongly conditioned their level of factual
+backfire. Conservatives presented with Nyhan and Reifler’s version rejected the empirical correction,
+
+becoming more convinced that Saddam Hussein had maintained a WMD program which the US did
+
+not find (replicating the original finding.) Yet conservatives presented with our survey item did not
+
+display backfire.
+
+      In figure 4, we plot the marginal effects of the correction, for both survey items. Respondent
+ideology appears on the x-axis. Effects above the red line indicate backfire—subjects rejecting the
+
+correction—while effects below the red line indicate uptake of the correction. Nyhan and Reifler’s
+
+statement prompted conservatives to backfire while our version had no effect on them–they neither
+heeded nor backfired against the correction.
+      To understand why the two items yielded divergent effects, consider what distinguishes them.
+Both items relate to one overarching fact: despite the pledges of the Bush Administration, no WMD
+were found in Iraq. Our statements simply asks subjects to agree or disagree with this fact. In
+contrast, Nyhan and Reifler’s item presents multiple ways to account for the failure to find WMD.
+Together, the facts convey a time line about Hussein’s maintenance of his supposed WMD program
+   6 Of course, the attitudinal consequence of this fact remains at the respondent’s discretion, but democratic
+
+
+competition requires that voters’ adopt a basic set of shared facts.
+
+
+
+
+                                                       22
+                                                                                              23
+
+
+
+   Adoption Back�ire
+
+
+
+
+Figure 4: Ideology and factual backfire to WMD discovery, by survey item wording. Longer survey
+item is from Nyhan and Reifler (2010). Both groups were otherwise provided identical articles and
+corrections .
+prior to the invasion of Iraq. A subject’s understanding of WMD’s absence in Iraq appears to have
+
+limited bearing on this item–-instead, respondents may have interpreted the question as an invita-
+tion to appraise the war in general. What appears to be conservative factual backfire may instead be
+conservatives becoming more convinced that the Iraq War was justified.
+       More broadly, the sheer number of facts in the statement might have overwhelmed respon-
+dents, causing them to fall back with their ideological cohort, in which they had greater confidence.
+Imagine a conservative subject who understands that no WMD were found, but has no beliefs about
+the other facts that Nyhan and Reifler’s item conveys. When presented with the WMD correction
+(and its implied criticism of her co-ideologue President) she might be pushed to adopt a policy po-
+
+sition she believes is ideologically consistent. Such a subject would not be rejecting a factual correc-
+tion, inasmuch as she would be preferring the certainty of co-ideologues over the ambiguity of her
+
+factual beliefs in Nyhan and Reifler’s survey item.
+
+
+
+
+7 Study 4
+
+Might the complexity of survey items account for much of the incidence of factual backfire? That
+
+is: when posed a question which directly tests a their factual understanding, respondents might
+privilege available facts. When posed a more convoluted item, respondents might weigh facts against
+
+their ideological priorities. This pattern would both account for previous findings and illuminate the
+
+role of factual interventions in conditioning attitudes.
+       To test this possibility, 1,333 respondents were recruited from Mechanical Turk, and shown
+6 mock newspaper articles,7 with our usual practice of randomizing article order and corrections.
+   7   Three articles were taken from study 3: the original Bush WMD article, the piece by Speaker Paul
+
+Ryan criticizing President Obama’s policy toward abortion, and Secretary Hillary Clinton claim that twice
+
+as many Americans were employed in solar than in the oil industry. Three novel mock articles were also
+
+provided: Senator Sanders claiming that the EPA had found fracking was responsible for polluting water
+
+supplies, Donald Trump claiming that his tax cut plan would grow federal tax receipts, and Trump claiming
+                                                   24
+Using Nyhan and Reifler’s original WMD item as a model, we wrote comparably complex items
+
+for the other issues, along with moderate and simple versions. Each respondent saw one item per
+issue. To test the effect of item complexity, we used four issues by conservatives, and two by liberals,
+including a tax claim by Donald Trump that was comparable to the those which generated backfire
+in the original Nyhan and Reifer piece.
+      Table 9 (found in the appendix, on page xx) describes all 18 items. For instance, to measure
+agreement with Donald Trump’s claim that the real unemployment rate was greater than 30%, the
+three items were:
+
+
+
+Simple:      The true unemployment rate is greater than 30%.
+
+Moderate: After removing the effects of politicians interfering with the data, the true unemploy-
+          ment rate is greater than 30%.
+
+Complex: The unemployment rate has important political ramifications, and government statisti-
+         cians are susceptible to threats and influence. After removing the effects of politicians
+         interfering with the data, the true unemployment rate is greater than 30%.
+
+
+Using Nyhan and Reifler’s original WMD item as a model, a more complicated survey items offered
+
+preambulatory explanations for the fact which comprised the question’s substance. Moderate items
+
+provide fewer explanations.
+
+
+7.1 Study 4 Results
+
+Figure 5 shows the marginal effects of each correction, with different issues mapped to the column
+
+facets, and survey item complexity mapped to the row facets. Ribbons above the dashed horizontal
+indicate factual backfire. Among the eighteen item× complexity combinations, only one generated
+backfire–the factual correction of WMD when measured using a complex survey item. The tax cut
+that the true unemployment rate was actually higher than 30%. These mock articles can be read in section
+
+A.8, which can be found in the appendix on page xv. The items can be read in table 9 on page xx.
+
+
+
+
+                                                    25
+cost issue, which generated backfire with a simple item for Nyhan and Reifler, was not replicated,
+
+with all three complexity types providing similar factual adherence.
+       These items provide what should be an even easier test for backfire, by loading measures of
+factual attitudes with preambulatory clauses that should crowd out the correction’s influence. Com-
+plicated items also seem prone to induce factual counter-arguing by listing separate ways to account
+for some outcome. This study also tested two items from Donald Trump, a candidate whose rejec-
+tion of fact checkers and the judgment of the national political establishment is central to his appeal.
+Yet when Trump alleges a complicated political conspiracy to hide the true extent of unemployment,
+a correction which cites the very federal agency implicated by Trump (the Bureau of Labor Statistics)
+
+is accepted by our subjects. The influence of facts even in these circumstance invites us to imagine
+the exceptional circumstances needed to engender factual backfire.
+
+
+
+8 Robustness Checks
+
+8.1 Post-Stratification
+
+The demographic composition of the MTurk population does not mirror America. To participate in
+an online labor market, an individual must have a reliable internet connection and ample free-time.
+
+Accordingly, MTurk samples tend to be whiter, younger, less affluent, and less religious than the
+
+population at large (Berinsky, Huber, and Lenz, 2012, Huff and Tingley 2015). Despite this, MTurk
+
+respondents have been shown to be largely indistinguishable from co-ideologues in recruited online
+panels (Clifford, Jewel, and Waggoner 2015), and that simply controlling for demographic charac-
+
+teristics makes the attitudinal distribution of an MTurk sample appear very similar to a national face
+to face survey (Levay, Freese, and Druckman 2016).8
+   8   If face to face probability samples comprise the “gold standard” of survey research, it’s increasingly ap-
+
+parent that the undergraduate convenience sample is the worst method for making inferences about mass
+
+political correlates (Heinrich, Heine and Norenzayan, 2010). Across a slew of important measures for po-
+
+litical attitudes–racial resentment, ideological constraint, attentiveness to political news–undergraduates are
+
+                                                       26
+Adoption Back�ire
+    Figure 5: Study 4’s test the effect of survey item complexity and factual backfire. Ribbons show estimated marginal effects and their 95%
+    confidence interval from the linear models in table 8, on page xvii. The rightmost two columns aggregate corrections according to the ideology
+    of the speakers. All survey items can be read in table 9, on page xx. Areas entirely above the dashed origin indicate factual backfire.
+      Since weighting on observed demographics has been demonstrated to improve the represen-
+
+tativeness of the MTurk attitudinal distributions, we used rake weights to determine if making the
+sample more representative would affect correction sizes. If the young MTurk sample is more re-
+ceptive of new political information, or if the heightened education of this group made them more
+ideologically constrained and hence inclined to resist new political information, making the sample
+more representative provides a better indication of how a national probability sample might respond
+to factual corrections. Using population estimates from the US Census, Pew Foundation, and the
+American National Election studies, weights allowed us to compare mean differences according to
+corrections and ideological cohorts, to weighted mean differences conditional on the same covari-
+
+ates.9 For all issues and studies, these mean differences are plotted in figure 6. The pre and post
+weighted distributions are in table 10 in the appendix, on page xxiii .
+
+      This figure depicts the correction among the MTurk sample with a hollow point, and the mean
+
+difference among the sample weighed to appear like the US population with a solid point. Across
+the 36 corrections, post stratification generally makes a negligible difference to a correction effect’s
+categorically dissimilar to other Americans. This compounds the difficulty in using these findings to under-
+
+stand political behavior, since so many foundational papers (Nyhan and Reifler (2010) among them) used
+
+undergraduate samples or samples of comparably aged subjects.
+
+
+
+   9 More formally, the unweighted correction effect for issue i (c ) was estimated as follows:
+                                                                   i
+                                                ∑m                   ∑m
+                                                  j=1 Isc (j)yj       j=1 Isu (j)yj
+                                        ci =     ∑m             −    ∑m
+                                                   j=1 Isc (j)         j=1 Isu (j)
+
+  where i indexes issues, and j indexes respondents, so that and I indicates which correction*ideology sub-
+
+population a respondent falls into–so Isc is an indicator that the respondent saw a correction, and Iuc indicates
+
+they didn’t see a correction. The weighted correction effect (c∗ ) were computed as follows
+
+
+                                               ∑m                    ∑m
+                                                j=1 Isc (j)yj wj      j=1 Isu (j)yj wj
+                                  c∗i    =     ∑m                −   ∑m
+                                                 j=1 Isc (j)wj         j=1 Isu (j)wj
+
+  where notation is as above, except wj is the post stratification weight for the jth respondent.
+
+
+                                                          28
+magnitude. Large differences in correction effects are attributable to certain issues–for instance,
+
+corrected attitudes on teen pregnancy, gun violence, and China’s ownership of US debt were more
+than 1.5 points lower than uncorrected attitudes, while other issues had correction effects a third
+as big. Compared to this variance, weighting differences are generally smaller than two tenths of
+a point. Similarly, neither unweighted nor weighted corrections are smaller or larger overall. This
+suggests that the MTurk estimates of the correction effects are close to what would be observed in a
+national sample.
+
+
+8.2 Did Exposure to Corrections Affect Ideological and Partisan Self-Identification?
+
+Our survey design for all three studies presented subjects with either a corrected or uncorrected
+
+version of an issue, with the issue of orders randomized. Some tiny number of respondents saw
+only uncorrected or corrected issues; others saw extended sequences of a single issue type. To check
+
+against an inadvertent relationship between the sequence and count of corrections a respondent saw,
+
+and survey respondents’ other characteristics, we performed two separate tests for categorical and
+
+continuous covariates. These results are reported in table 2.
+      The rows in table 2 are organized in two groups–the first four rows report associations be-
+
+tween survey design and respondents’ categorical covariates (measured with Cramer’s V effect size
+
+estimate), while the next four report association with continuous covariates (measured with a Pear-
+
+son correlation coefficient). The columns are organized in three groups, according to three different
+
+measures of a respondent’s pattern of correction exposure. The first column group indicates the
+count of total corrections to which a respondent was exposed, the second, the longest unbroken se-
+
+quence of corrections a respondent saw, and the third, the count of sequences of corrections two or
+longer. Each statistic is reported separately by study wave.
+      The tiny effects in table 2 demonstrate two things. First, the randomization of corrections and
+issue order succeeded. Second, there was no apparent effect running from the pattern of correc-
+tion exposure to respondents’ characteristics–that is, the number of corrections a respondent saw
+did not move them along the ideological or partisan spectrum, or cause them to report different
+
+                                                  29
+                                                                                                                           30
+
+
+
+
+                                                   ●
+                                                   ●                        ●●                            ●
+                                                                                                          ●
+                                                   ●
+                                                   ●                         ●●                              ●
+                                                                                                             ●
+                                           ●                             ● ●                            ●●
+                                            ●●                            ● ●                           ●●
+                                                   ● ●                   ●●                            ● ●
+                                               ●                          ●●                                  ●●
+                                                   ●●                      ●                                 ●●
+                                                        ●●                           ●●                         ● ●
+                                                          ●
+                                                          ●                          ●●                          ●●
+                                                          ●
+                                                          ●                           ●
+                                                                                      ●                          ● ●
+
+                                           ●
+                                           ●                            ●●                            ●
+                                                                                                      ●
+                                   ●     ●                        ●●                                ●●
+                                       ● ●                       ● ●                               ● ●
+                                        ●
+                                        ●                          ●●                             ● ●
+                                       ●
+                                       ●                            ● ●                              ● ●
+                                         ●●                        ●                                ● ●
+                                           ●
+                                           ●                          ● ●                          ●     ●
+                                           ●●                       ●●                                 ●●
+                                          ●                            ●   ●                         ●●
+                                             ●●                     ●●                                    ●●
+                                          ●●                          ● ●                                  ●●
+                                         ●●                           ●●                                        ●
+                                                                                                                ●
+                                              ●●                       ●●                               ●
+                                             ●●                         ● ●                           ●●
+                                               ●●                     ●●                               ● ●
+                                               ●●                         ●●                                 ●
+                                                ●                         ● ●                                ●●
+
+                                                   ●                             ●                                  ● ●
+                                           ●●                           ●    ●                               ● ●
+                                            ● ●                         ●               ●                     ●●
+                                                        ●●              ●       ●                               ● ●
+                                               ●●                              ●          ●                   ●      ●
+                                                 ● ●                         ●●                                   ●  ●
+                                                    ●        ●                ●               ●                    ● ●
+
+                                                         ●●                      ●●                                 ●●
+                                                   ●    ●           ●    ●                                      ● ●
+                                                        ●●                   ●          ●                       ●
+                                                                                                                ●
+                                                   ●
+                                                   ●                                 ●●                           ●    ●
+                                                         ●●                          ●●                             ● ●
+                                                          ●●                            ● ●                       ● ●
+                                                          ●                            ● ●                          ●●
+
+
+
+
+                                           ●                                     ●
+
+
+
+
+Figure 6: Effect of post stratification on correction effects. Issues are listed in the y axis, with the
+respective speaker in parentheses. Hollow points indicate the size of the correction among the MTurk
+sample. Solid points indicate the size of the correction after weighting for US population margins in
+race, income, education, religion, ideology, partisanship, age, and gender. Larger points average over
+separate items. The pre and post weighted distributions of these variables is provided in table xxiii on
+page 10.
+                                   Total Corrections           Maximum sequence of                Corrections sequences
+                            .............(count)                corrections length                two or longer (count)
+                 Study:          1         2      3      4       1      2        3          4       1        2       3        4
+Categorical
+
+
+
+
+              Education  .065         .049     .092    .034    .057       .05   .069      .012     .017    .029     .062    .074
+              Employment .047         .045     .068     .061   .048     .049    .067     .076     .027     .038     .064    .023
+              Gender     .059         .042      .073   .093    .062     .028    .065     .076       .05    .034     .054     .019
+              Race         .05        .053      .081   .049    .043     .036    .069      .031     .031    .029     .038    .059
+
+              Age            .025        0     -.015    .012   -.003     .023     .019    -.012   -.024       .02   .003    -.034
+Continuous
+
+
+
+
+              Ideology        .014   -.027    -.045    .032    -.022    .006     .022    -.067     -.012   -.005    .032    -.077
+              Income         -.011    .014     .026    .087     .006    .008     .028     .026    -.034    -.023    .039    -.023
+              Patisanship   -.018     .027      .017    .019    .006    -.016   -.032     .088     .002     .005     -.03     .012
+
+
+              Table 2: Tests of covariate balance. Columns report different measures of correction exposure–in
+              order: the count of total corrections a respondent saw, the longest unbroken sequence of corrections,
+              and the count of correction sequences two or longer, for all three studies. The first four rows report
+              tests with categorical covariates: these cells reports the Cramer’s V effect size estimate. The second
+              four rows report tests with continuous covariates: thse cells reports the Pearson correlation coefficient.
+
+
+              characteristics.
+
+
+              8.3 Did the experimental design reduce the efficiency of our model estimates?
+
+              In each of our studies, respondents saw a sequence of issues, uncorrected or corrected on a ran-
+
+              dom basis, and in a random order. While the results in table 2 demonstrated that experimental
+              design was not related to respondents’ characteristics, it remains possible that design factors in-
+              advertently conditioned factual agreement to the tested issues. This would be a classic case of a
+              “demand characteristic”–where subjects’ awareness of an experiment’s purpose affects their other-
+              wise ingenuous responses. Respondents who had been exposed to a long sequence of corrections
+              might become conditioned to be more accepting of factual correction. Conversely, a respondent
+              might resent the provision of corrections and the resultant ideological confusion–as the number of
+              successive corrections accrue, such a respondent might rest increasingly on their ideological priors
+              in answering attitudes. Because we randomize the order of issues to which subjects are exposed,
+
+                                                                   31
+neither potential effect (whether it increased or decreased the average correction effect) would bias
+
+our overall results, but they would introduce hetereogeneity which would decrease our estimates’
+precision.
+      To test this possibility, we estimated two classes of linear models, wherein agreement to each
+issue was made a function of two survey quantities–the order in which a respondent was exposed to
+a particular issue, and the cumulative sum of corrections a respondent observed prior to a question,
+with interactions between ideology and correction status. More formally, the models were:
+
+
+
+
+  Agreementi = b0 + b1 (Survey Quantityj )+                                                          (2)
+
+                     b2 (Ideology) + b3 (Correction)+
+
+                     b4 (Ideology × Survey Quantityj ) + b5 (Correction × Survey Quantityj )+
+
+                     b6 (Correction × Ideology) + b7 (Correction × Ideology × Survey Quantityj )
+
+
+Where i indexes issues, and j indexes survey quantities: the order in which an item was exposed
+
+(measured by the rank) and the number of corrections exposed prior to an item (measured with
+
+a count). To simplify this analysis, in figure 7, we provide a parallel coordinates plot with all the
+
+coefficients that pertain to the survey quantities–so, terms b1 , b4 , b5 , and b7 , from the equation
+above.
+      Figure 7 shows that neither the order in which an issue was vended, nor the count of prior cor-
+
+rections a respondent saw, affected issue agreement, either directly or via an interaction. If subjects
+had experienced significant demand characteristics, figure 7 would show that experimental charac-
+teristics were having a significant effect on these coefficients, across many issues. Instead, 222 of the
+240 coefficients tested were insignificant. Second, those few variables which did feature some small
+number of significant coefficients (for instance, the b4 term in the bottom facet) tended to have di-
+ametric effects–sometimes previous corrections increased correction effects, other times it shrunk
+them. Finally, the only issue that feature four significant terms (President Obama implying that
+
+                                                   32
+                                                                                                                            33
+
+
+
+
+            Region of statistical signi�icance
+                                                                                                           ●
+            ●                                                                                              ●
+
+
+
+
+                                                                               ●
+                                                                               ●                           ●
+            ●
+            ●
+
+
+
+
+            ●                                      China holds most
+                                                 ● US debt (Obama)             ●
+            ●
+
+
+
+
+            ●
+            ●
+                                                                               ●                           ●
+            ●
+                                                                               ●
+
+             b1:                                b7:                             b4:                         b6:
+       Survey Quant j         Correction × Ideology × Survey Quantj Correction × Survey Quantj   Ideology × Survey Quantj
+
+
+
+                                                                                    ●
+
+
+
+
+Figure 7: Parallel coordinates plot showing relationship between survey design and factual agree-
+ment. Each line is a separate linear model, estimating agreement as a function of the term indicated
+on the x-axis. Hollow points indicate insignificant coefficients, solid points indicate significant coef-
+ficients. The top top facet reports effect of question order, bottom facet reports effects of previous
+corrections observed. Shaded areas are regions of coefficient significance. These results demonstrate
+that experimental design factors did not systematically influence respondents.
+China holds the bulk of US debt) was paired, and its conservative speaking counterpart issue saw no
+
+such significant effects.
+
+
+
+9 Discussion
+
+If citizens were to systematically reject empirical facts that conflicted with their ideological and parti-
+san sympathies, the possibility of democratic accountability would be imperiled. We find, however,
+that backfire appears to be largely a function of question wording, not a characteristic of the general
+public’s relationship to factual information. Across four experiments in which we enrolled more
+than 8,100 subjects and tested 36 issues of potential backfire, we observed backfire only in response
+
+to a correction about WMD in Iraq; an issue on which Nyhan and Reifler (2010) originally observed
+
+backfire. Even this instance of backfire disappeared when we simplified the wording of the survey
+
+item. Across all the potential backfire we studied, figure 8 depicts the mean correction size, aver-
+aging across separate issues, by respondent ideology and speaker ideology. Overwhelmingly, when
+
+presented with factual information that corrects politicians–even when the politician in question
+
+is an ally–subjects responded by agreeing with the correction and distancing themselves from the
+
+corrected politician.
+
+      Our findings are consistent with one of the most well-documented aspects of mass public
+opinion: respondents shy away from cognitive effort, and will deploy shrewd strategies to avoid it
+
+(Lippmann, 1922). In contrast, the backfire hypothesis proposes that a subject, when furnished facts
+inconsistent with her ideological commitments, will resolve the challenge of these facts by concoct-
+
+ing new considerations to offset the threatening information. As Nyhan and Reifler (2010) describe
+it, backfire may be the “possible result of the process by which people counter-argue preference-
+incongruent information and bolster their preexisting views.” Developing counter-arguments would
+be unusually effortful, as sophisticated respondents can simply filter out, rather than counterargue,
+unwelcome facts (Zaller, 1992). If indeed subjects who backfire are counter-arguing, it is worth re-
+calling that many of the samples that have identified backfire were gathered in university settings.
+
+
+                                                    34
+                                                                                                  35
+
+
+
+
+                                                                               Speaker Ideology
+                                      ●     ● ●                                C:Conservatives
+                                                                               A: All Speakers
+                                                ●                              L: Liberal
+                                              ●●
+                                                 ●         ●
+                                           ●
+
+
+                                 ● ●
+                               ●
+                                 ●
+                                 ●
+                                 ●
+                                    ●
+                                ●●
+
+                                                                ●
+                                                               ●●
+                                                      ●●
+                                                       ●
+                                                     ●●
+                                                       ●
+
+                                                         ● ●
+                                                       ●
+                                                      ●  ●
+                                                  ●
+                                                    ●    ●
+                                      ●
+
+                                          ●●
+                                            ●
+                                            ●●
+                                            ●
+                                        ● ●                         Adoption     Back�ire
+                                      ●
+
+
+
+
+Figure 8: Overall correction effects and 95% confidence interval, by study, respondent ideology, and
+speaker ideology. Mean effect indicated by label position. Label text corresponds to speaker types–
+whether it includes only Conservative speakers (C), all speakers (A), or Liberal speakers (L).
+Social psychologists have long known that students and faculty take unusual pleasure in cognitive
+
+effort (Petty, Cacciopo, Morris 1983). For this reason, undergraduates or college-aged respondents
+may simply be more prone to displaying backfire than the broader population.
+       Other findings that paint citizens as alarmingly ill-equipped for democracy have suffered from
+similar sample selection issues. For example, by one accounting, voters factors in local sports scores
+when deciding to reelect an incumbent (Healy, Malhotra and Mo 2010). More recent research, how-
+ever, has challenged this finding, suggesting that the purported connection may actually be a false
+positive (Fowler and Montagnes 2016). Research that claims to show widespread democratic in-
+competence may mistake the snapshot that any one study represents for the sum total of citizens’
+
+abilities.
+       Our findings are not without their own limits. That voters do not reject the facts presented to
+
+them does not mean that they have retained the information that the corrections convey. The facts
+
+we have provided subjects may quickly become inaccessible to them. Yet they do not reflexively
+reject that information–and plainly, they do not go to the effort of compounding inaccurate beliefs,
+
+as the backfire hypothesis would predict. At least for a brief moment, their perceptual screens dim,
+
+and the facts prevail.
+
+
+
+
+                                                  36
+10 References
+
+        Achen, Christopher. “Mass Political Attitudes and the Survey Response.” American Political
+Science Review, 1975. http://journals.cambridge.org/abstract_S0003055400245012.
+        Achen, Christopher H, and Larry M Bartels. Blind Retrospection : Why Shark Attacks Are Bad
+For Democracy. Center for the Study of Democratic Institutions, 2012.
+        Barnes, L, A Feller, J Haselswerdt, and E Porter. Information and Preferences over Redistributive
+Policy: A Field Experiment, n.d.
+        Bartels, Larry M. “Beyond the Running Tally: Partisan Bias in Political Perceptions.” Political
+
+Behavior 24, 2 (2002): 117–50.
+        Berinsky, Adam J. “Rumors and Health Care Reform: Experiments in Political Misinforma-
+
+tion.” British Journal of Political Science, June (2015): 1–22. doi:10.1017/S0007123415000186.
+        Berinsky, Adam J., Gregory A. Huber, and Gabriel S. Lenz. “Evaluating Online Labor Markets
+
+for Experimental Research: Amazon.com’s Mechanical Turk.” Political Analysis 20, 3 (2012): 351–
+
+68. doi:10.1093/pan/mpr057.
+
+        Bullock, John G., Alan S. Gerber, Seth J. Hill, and Gregory A. Huber. “Partisan Bias in Factual
+Beliefs about Politics.” Working Paper, March (2013): 1–73. doi:10.1561/100.00014074.
+
+        Cacioppo, John T., Richard E. Petty, and Katherine J. Morris. “Effects of Need for Cognition
+
+on Message Evaluation, Recall, and Persuasion.” Journal of Personality and Social Psychology, 1983.
+
+doi:10.1037/0022-3514.45.4.805.
+        Campbell, Angus, Philip E. Converse, Miller, Warren E., and Donald E. Stokes. The American
+Voter. John Wiley and sons, 1960.
+        Carpini, M, and S Keeter. What Americans Know about Politics and Why It Matters. New
+Haven: Yale University Press, 1997.
+        Clifford, S., R. M. Jewell, and P. D. Waggoner. “Are Samples Drawn from Mechanical Turk Valid
+for Research on Political Ideology?” Research & Politics 2, 4 (2015). doi:10.1177/2053168015622072.
+        Cochran, William G., and Gertrude M Cox. Experimental Designs. John Wiley & Sons, Ltd,
+1957.
+                                                    37
+        Converse, Philip E. “The Nature of Belief Systems in Mass Publics (1964).” Critical Review: A
+
+Journal of Politics and Society, 18, 1–3 (2006): 1–74. doi:10.1080/08913810608443650.
+        Druckman, James N., Jordan Fein, and Thomas J. Leeper. “A Source of Bias in Public Opinion
+Stability.” American Political Science Review 106, no. 02 (2012): 430–54. doi:10.1017/S0003055412000123.
+        Egan, Patrick J., and Megan Mullin. “Turning Personal Experience into Political Attitudes: The
+Effect of Local Weather on Americans’ Perceptions about Global Warming.” The Journal of Politics,
+74, 3 (July 11, 2012): 796–809. doi:10.1017/S0022381612000448.
+        Fishkin, James S. The Voice of the People: Public Opinion and Democracy. Yale University Press,
+1997.
+
+        Fishkin, James S, and Robert C Luskin. “Experimenting with a Democratic Ideal: Deliberative
+Polling and Public Opinion.” Acta Politica, 2005. doi:10.1057/palgrave.ap.5500121.
+
+        Galston, WA. The Practice of Liberal Pluralism, 2005.
+
+        Gerber, Alan, and Donald Green. “Misperceptions About Perceptual Bias.” Annual Review of
+Political Science 2 (1999): 189–210. doi:10.1146/annurev.polisci.2.1.189.
+
+        Gibson, James L, and Gregory A Caldeira. Citizens, Courts, and Confirmations: Posivity Theory
+
+and the Judgements of the American People. 2009.
+
+        Gilens, Martin. “Policy Ignorance.” American Political Science Review 95, 2 (2001): 379–96.
+        Green, Donald, Bradley Palmquist, and Eric Schickler. Partisan Hearts and Minds. Yale Uni-
+
+versity Press, 2004.
+
+        Hart, P. S., and E. C. Nisbet. “Boomerang Effects in Science Communication: How Moti-
+vated Reasoning and Identity Cues Amplify Opinion Polarization About Climate Mitigation Poli-
+cies.” Communication Research 39, no. 6 (2012): 701–23. doi:10.1177/0093650211416646.
+        Henrich, Joseph, Steven J Heine, and Ara Norenzayan. “The Weirdest People in the World?”
+The Behavioral and Brain Sciences 33, 2–3 (2010): 61–135. doi:10.1017/S0140525X0999152X
+        Hochschild, Jennifer, and Katherine Levine Einstein. Do Facts Matter?: Information and Mis-
+information in American Politics. Norman, OK: University of Oklahoma Press, 2015.
+        Howell, William G, and Martin R West. “Educating the Public.” Education Next 9, 3 (2009):
+
+                                                   38
+40–47.
+
+        Huckfeldt, Robert, Jeffrey Levine, William Morgan, and John Sprague. “Accessibility and the
+Political Utility of Partisan and Ideological Orientations.” American Journal of Political Science, 43,
+3 (1999): 888–911. doi:10.2307/2991839.
+        Huff, Connor, and Dustin Tingley. “‘Who Are These people?’ Evaluating the Demographic
+Characteristics and Political Preferences of MTurk Survey Respondents.” Research & Politics 2, 3
+(2015). doi:10.1177/2053168015604648.
+        Jerit, Jennifer, and Jason Barabas. “Partisan Perceptual Bias and the Information Environ-
+ment.” The Journal of Politics 74, 3 (2012): 672–84. doi:10.1017/S0022381612000187.
+
+        Krosnick, Jon A. “Response Strategies for Coping with the Cognitive Demands of Attitude
+Measures in Surveys.” Applied Cognitive Psychology 5, no. 3 (May 1991): 213–36. doi:10.1002/acp.2350050305.
+
+        Krosnick, Jon A, Sowmya Narayan, and Wendy R Smith. “Satisficing in Surveys: Initial Evi-
+
+dence.” New Directions for Evaluation, 70 (1996): 29–44. doi:10.1002/ev.1033.
+        Kuklinski, James H., and Paul J. Quirk. “Reconsidering the Rational Public: Cognition, Heuris-
+
+tics, and Mass Opinion.” Elements of Reason: Cognition, Choice and the Bounds of Rationality, 2000,
+
+153–82.
+
+        Lenz, Gabriel S. Follow the Leader?: How Voters Respond to Politicians’ Policies and Perfor-
+mance. University of Chicago Press, 2013.
+
+        Levay, K. E., J. Freese, and J. N. Druckman. “The Demographic and Political Composition of
+
+Mechanical Turk Samples.” SAGE Open 6, 1 (2016). doi:10.1177/2158244016636433.
+        Lodge, Milton, and Charles S. Taber. The Rationalizing Voter. Cambridge University Press,
+2013.
+        Lupia, Arthur. “Shortcuts versus Encyclopedias: Information and Voting Behavior in Cal-
+ifornia Insurance Reform Elections.” The American Political Science Review, 88, 1 (1994): 63–76.
+doi:10.2307/2944882.
+        Lupia, Arthur, and Mathew D. McCubbins. The Democratic Dilemma: Can Citizens Learn
+What They Need to Know? 1998.
+
+                                                  39
+      Nyhan, Brenda., J. Reifler, S. Richey, and G. L. Freed. “Effective Messages in Vaccine Promo-
+
+tion: A Randomized Trial.” Pediatrics 133, 4 (2014): e835–42. doi:10.1542/peds.2013-2365.
+      Nyhan, Brendan, and Jason Reifler. “When Corrections Fail: The Persistence of Political Mis-
+perceptions.” Political Behavior 32, 2 (2010): 303–30. doi:10.1007/s11109-010-9112-2.
+      Nyhan, Brendan, Jason Reifler, Christopher Edelman, William Passo, Ashley Banks, Emma
+Boston, Andrew Brown, et al. “Answering on Cue ?,” 2015.
+      Nyhan, Brendan, Jason Reifler, and Peter A. Ubel. “The Hazards of Correcting Myths about
+Health Care Reform.” Medical Care, 51, 2 (2013): 127–32. doi:10.1097/MLR.0b013e318279486b.
+      Popkin, Samule. The Reasoning Voter: Communication and Persuasion in Presidential Cam-
+
+paigns. University of Chicago Press, 1994.
+      Prior, Markus. “Is Partisan Bias in Perceptions of Objective Conditions Real? The Effect of
+
+an Accuracy Incentive on the Stated Beliefs of Partisans.” In Annual Conference of the Midwestern
+
+Political Science Association, 2007.
+      Prior, Markus, Gaurav Sood, and Kabir Khanna. “The Impact of Accuracy Incentives on Par-
+
+tisan Bias in Reports of Economic Perceptions.” Quarterly Journal of Political Science 10, no. July
+
+(2015): 489–518. doi:10.1561/100.00014127.
+
+      Rahn, Wendy M. “The Role of Partisan Stereotypes in Information Processing about Political
+Candidates.” American Journal of Political Science 37, 2 (1993): 472–96.
+
+      Thorson, Emily. “Belief Echoes: The Persistent Effects of Corrected Misinformation.” Political
+
+Communication, 46, 9, November (2015): 1–21. doi:10.1080/10584609.2015.1102187.
+      Tversky, Amos, and Daniel Kahneman. “Extensional Versus Intuititive Reasoning: The Con-
+juction Fallacy in Probability Judgment.” Psychological Review, 90, 4 (1983). http://psycnet.apa.org/journals/rev/90/
+      Wood, Thomas, and Eric Oliver. “Toward a More Reliable Implementation of Ideology in Mea-
+sures of Public Opinion.” Public Opinion Quarterly 76, no. 4 (2012): 636–62. doi:10.1093/poq/nfs045.
+      Zaller, John R. The Nature and Origins of Mass Opinion Cambridge University Press, 1992.
+
+
+
+
+                                                 40
+A Appendix (Online Only)
+
+A.1 Study 1 Misstatements, Corrections, and Survey Items
+
+    Misstatement                                     Correction                 Survey Item
+
+    “Between 88 and 92 people a day are killed by
+    guns in America. It’s the leading cause of       In fact, according to
+    death for young black men, the second            the FBI, the number of
+    leading cause for young Hispanic men, the        gun homicides has          The number of gun
+    fourth leading cause for young white men.        fallen since the mid       homicides is currently
+    This epidemic of gun violence knows no           1990s, declining by        at an all time high
+    boundaries, knows no limits, of any kind.”       about 50% between
+    Secretary Hillary Clinton (D) ”Town Hall         1994 and 2013.
+    Meeting”, Manchester NH, October 5, 2015
+
+
+    ”In 1980, there were 500,000 people behind       In fact, according to
+    bars in America. Today there are 2.2 million.    the Federal Bureau of
+    Over the last few decades, we’ve also locked     Justice Statistics, only
+    up more and more nonviolent drug offenders       20% of prisoners in        Drug convictions are
+    than ever before, for longer than ever before.   the US committed a         the main cause of the
+    And that is the real reason our prison           nonviolent drug            high prison
+    population is so high.”                          offense. Over half of      population.
+    President Barack Obama (D) ”Remarks at the       all prisoners were
+    NAACP Conference”, Philadelphia, PA, July        convicted of violent
+    14, 2015                                         crimes.
+
+
+    ”We need to get back into the habit of
+    actually rewarding workers with increases in     In fact, according to
+    their paychecks... Warren Buffett has said it,   the Bureau of Labor
+    but so have a lot of other people. There’s       Statistics, the average    Nurses and truck
+    something wrong when hedge fund managers         hedge fund manager         drivers pay more in
+    make more, and pay less in taxes, than nurses    pays about 20 times as     taxes than hedge fund
+    or truck drivers.”                               much income tax as         managers.
+    Secretary Hillary Clinton (D) ”Remarks on        the average truck
+    Small Business”, Cedar Rapids, IA, May 19,       driver or nurse.
+    2015
+
+
+
+
+                                                     i
+Misstatement                                     Correction                  Survey Item
+
+                                                 In fact, a report for the
+                                                 Department of Labor
+“Today, women make up about half our             found that the Wage
+workforce. But they still make 77 cents for      Gap claim does not
+every dollar a man earns. That is wrong, and     take into account
+in 2014, it’s an embarrassment. A woman          differences in              Women are paid less
+deserves equal pay for equal work... It’s time   occupation, position,       than men for the same
+to do away with workplace policies that          education, job tenure       work, mainly becuase
+belong in a “Mad Men” episode.”                  or hours worked per         of discrimination
+President Barack Obama (D) ”2014 State of        week. After adjusting
+the Union Address”, Washington, DC, January      for these factors,
+28, 2014                                         women earn 95 cents
+                                                 for every dollar men
+                                                 earn.
+
+
+“Defense spending has fallen dramatically on
+President Obama’s watch, and our forces have     In fact, according to
+been reduced and suffered readiness              the Defense
+                                                                             Defense spending
+challenges even as threats abroad increase.      Department, defense
+                                                                             under President
+Our military therefore needs a serious           spending under
+                                                                             Barack Obama is
+program of reinvestment and                      President Obama is
+                                                                             lower than it was
+modernization.”                                  higher than it was
+                                                                             under President Bush.
+Senator Marco Rubio (R-FL) ”Campaign             under President
+Rally: My Plan to Restore American Strength”,    George W. Bush.
+Manchester NH, November 5 2015
+
+
+”When Mexico sends its people, they’re not       In fact, according to
+sending their best. They’re sending people       the Congressional
+that have lots of problems, and they’re          Research Service,           Undocumented/illegal
+bringing those problems to us. They’re           undocumented/illegal        immigrants commit
+bringing drugs. They’re bringing crime.          immigrants commit           crimes at a higher rate
+They’re rapists.”                                crimes at a lower rate      than most Americans.
+Donald Trump (R-NY) ”Campaign Launch”,           than the general
+New York, NY, June 16, 2015                      population.
+
+
+
+
+                                                 ii
+Misstatement                                        Correction                Survey Item
+
+”The number of law enforcement officers
+killed as a result of violence has been on a
+precipitous upswing. If the police are              In fact, according to
+intimidated, if they are scared, if they are not    public records,
+willing to do their jobs, we know the result.       homicides of law
+                                                                              The number of police
+The result is the loss of life. The result is       enforcement officers
+                                                                              officers killed in the
+rising crime.”                                      have been declining
+                                                                              line of duty is rising
+Sen Ted Cruz (R-TX), “US Senate Judiciary           for decades. Fewer
+                                                                              fast.
+Subcommittee Hearing: The War on                    police officers were
+Police–How the Federal Government                   killer in 2015 than any
+Undermines State and Local Law                      year since the 1890s.
+Enforcement.” Washington DC, Tuesday
+November 17, 2015.
+
+
+                                                    In fact, according to
+”Our taxes–we just put in a plan the other          the Organization for
+day–we’re going to reduce taxes                     Economic
+tremendously because we have the highest            Cooperation and
+tax rate anywhere in the world and our              Development, taxes        U.S. tax rates are the
+middle class is being absolutely destroyed.”        account for only about    highest in the world.
+Donald Trump(R-NY), “Presidential                   25% of the US
+Campaign Rally” Richmond,VA, Wednesday              economy–the second
+October 14, 2015.                                   smallest share among
+                                                    all advanced nations.
+
+                Table 3: Study 1 Misstatements, Corrections, and Survey Items
+
+
+
+
+                                                   iii
+                                                                                                               iv
+
+
+
+
+  A.2 Study 1 Linear Model Coefficients
+                Discrim.     Gun           Most        Obama      Surge in      Undoc.     US taxes     Workers
+                sole         Violence      prisoners   cuts       killings of   immi-      highest in   pay more
+                cause        at all time   serving     defense    police        grants     world        tax than
+                gender       high          drug        spending   officers      disprop.   (Trump)      hedge
+                wage         (Clinton)     sentences   (Rubio)    (Cruz)        criminal                fund
+                gap                        (Obama)                              (Trump)                 managers
+                (Obama)                                                                                 (Clinton)
+Intercept       3.5**        3.2**         3.9**       3.3**      3.0**         2.5**      2.7**        3.4**
+                0.03         0.03          0.03        0.03       0.03          0.03       0.03         0.03
+Correction      -0.5**       -0.9**        -1.0**      -1.1**     -0.9**        -0.4**     -0.4**       -0.8**
+                0.04         0.04          0.04        0.04       0.04          0.04       0.04         0.04
+Ideology        -27.8**      -18.7**       -16.3**     15.0**     24.3**        34.3**     23.3**       -15.5**
+                1.65         1.63          1.47        1.51       1.47          1.49       1.70         1.61
+Ideology 2      0.0          -0.6          -1.9        4.8*       -1.7*         3.0*       -3.6*        -1.1
+                1.64         1.62          1.45        1.53       1.46          1.49       1.75         1.62
+Ideology3       0.8          1.9           -2.0        1.9        1.8           0.2        2.5*         0.6
+                1.63         1.62          1.45        1.53       1.46          1.48       1.74         1.61
+Correction×     4.1*         9.7**         0.4         -0.2       -5.7*         -5.5*      -5.1*        0.3
+Ideology        2.35         2.30          2.06        2.14       2.11          2.11       2.37         2.26
+Correction×     -1.1         -3.5*         -2.1        -2.9       -0.5          -0.8       0.0          0.2
+Ideology2       2.35         2.30          2.06        2.14       2.11          2.11       2.38         2.26
+Correction×     -0.9         -1.3          2.8         -2.6       -2.6          0.3        -2.4         -1.1
+Ideology3       2.35         2.30          2.06        2.14       2.11          2.11       2.38         2.26
+
+
+n               3124         3124          3125        3125       3125          3125       3124         3126
+Adj. R2         0.16         0.17          0.24        0.24       0.24          0.25       0.11         0.15
+AIC             9863         9748          9062        9295       9194          9200       9927         9631
+
+* p < 0.05, ** p < 0.01, ***p < 0.001,
+
+  Table 4: Study 1 Linear Model Coefficients. Cell entries are beta coefficients with their standard error
+  below.These models provide the predicted values in figure 1, on page 15.
+A.3 Study 2 Misstatements (paired by partisanship), Corrections, and Survey Items
+
+ Misstatement                                       Correction                 Survey Item
+
+                     Bipartisan Misconception 1: President Obama passed TARP
+
+
+ ”Barack Obama is owned by Wall Street. The         .                          .
+ fat cats, as he calls them, they’re his friends.   .                          .
+ They’re his pals. That’s where he gets his         In fact, the Wall Street   .
+ campaign donations. And he’s very generous         bailout (known as          .
+ about giving these cats their cat nip — bigger     TARP) was signed           .
+ returns on their investments in bailouts.”         into law by President      .
+ Gov Sarah Palin (R), ”Speech to GOP Donors”,       George W. Bush in          President Obama
+ Lake Buena Vista, November 4, 2011.                October 2008, before       signed the Wall Street
+                                                    President Obama took       bailouts into law.
+                                                    office. While in office,
+ “We got back every dime we used to rescue          President Obama
+ the financial system, but we also passed a         oversaw the program’s
+ historic law to end taxpayer-funded Wall           partial
+ Street bailouts for good.”                         implementation.
+ President Barack Obama (D), “Remarks by
+ The President at a Campaign Even in Miami,
+ FL”, October 11, 2012
+
+
+ Bipartisan Misconception 2: President Obama accommodates illegal/undocumented immigrants
+
+
+ “[As President] I will enforce the law. That       .                          .
+ means you stop the Obama administration’s          .                          .
+ policy of releasing criminal illegal aliens. Do    .                          .
+ you know how many aliens Bill Clinton              .                          .
+ deported? 12 million. Do you know how              .                          ..
+ many illegal aliens, George W. Bush                In fact, according to      .
+ deported? 10 million.”                             the Department of
+ Senator Ted Cruz (R-TX), “CNN/Salem                Homeland Security,         President Obama has
+ Radio GOP Presidential Candidate Debate”,          President Obama has        been more tolerant of
+ Las Vegas NV, December 15, 2015.                   deported illegal           illegal immigration
+                                                    immigrants at twice        than previous
+                                                    the rate of his            Presidents.
+                                                    predecessor, President
+                                                    George W. Bush.
+
+                                                      v
+Misstatement                                    Correction                Survey Item
+
+
+
+“[President Obama] said he will flex his
+executive muscle, to be as big and as bold as
+he can be, to reduce deportations of
+undocumented immigrants, to keep families
+together. Today, I saw our champion.”
+Representative Luis Gutierrez (D-IL), “Rep
+Gutierrez: Statement After Meeting With
+President Obama on Immigration”,
+Washington, DC, July 16, 2014.
+
+
+
+
+                   Bipartisan Misconception 3: Teen pregnancy rate is spiraling
+
+
+“In the black community, I think we have to     .                         .
+be honest with ourselves. With what’s going     .                         .
+on in Chicago and Detroit and New Orleans       .                         .
+and Washington, D.C, where just tons of         .                         .
+shootings, murder, violence, all the time,      .                         .
+where we have tons of teenage pregnancy.        .
+Women giving birth, it ends their education.    .                         .
+It send their children into poverty. It         .                         .
+continues the cycle of poverty and              In fact, according to     .
+dependence.”                                    the Center for Disease    .
+Dr Ben Carson (R-TN), “The Sean Hannity         Control, the              .
+Show”, November 14, 2014.                       pregnancy rate among      .
+                                                black teenagers           The pregnancy rate
+                                                declined by 66%           among black teenagers
+                                                between 1991 and          has increased over the
+                                                2013. Among white         last thirty years.
+                                                teenagers it has fallen
+                                                by 50% during that
+                                                period.
+
+
+
+
+                                                  vi
+Misstatement                                         Correction               Survey Item
+
+
+
+“Comprehensive sex education programs are
+successful at reducing behaviors that put
+young people at risk. These programs also
+reduce unintended pregnancy and the
+transmissions of STIs, including HIV. The
+United States still has the highest teen
+pregnancy rate in the industrialized world,
+and recent reports have shown that teen birth
+rates are on the rise.”
+Rep Barbara Lee (D-CA), “Congresswoman
+Barbara Lee and Senator Frank Lautenburg
+Introduce Bill to Expand Comprehensive Sex
+Education”, February 21, 2013, Washington
+DC
+
+
+
+            Bipartisan Misconception 4: China holds the majority of US sovereign debt
+
+
+“I’m going to look at every federal program          .                        .
+and I’ll ask this question: “Is a program so         .                        .
+critical it’s worth borrowing money from             .                        .
+China to pay for it?” And if it doesn’t pass         .                        .
+that test, I’m going to eliminate that               .                        .
+program.”                                            .                        .
+Gov Mitt Romney (R-MA), “Romney’s                    .In fact, according to   .
+Litmus Test for federal programs: is it worth        the Treasury             .
+a Chinese loan?” Foreign Policy, September           Department, China
+24, 2012.                                            owns less than 12% of    Most US debt is
+                                                     all US Debt. The         owned by China.
+                                                     majority is held by
+“The way [President George W. Bush] has              American banks and
+done it over the last eight years is to take out a   investors
+credit card from the Bank of China in the
+name of our children, driving up our national
+debt from $5 trillion... so that now we have
+over $9 trillion. That’s irresponsible. That’s
+unpatriotic.”
+then Senator Barack Obama (D-IL),
+“Campaign Rally”, Fargo, ND July 3, 2008.
+
+                                                      vii
+Misstatement                                     Correction               Survey Item
+
+
+
+       Bipartisan Misconception 5: Whites will imminently be a racial minority in the US
+
+
+”[The Republican Party] is losing the            .                        .
+demographics race badly. We’re not               .                        .
+generating enough angry white guys to stay       .                        .
+in business for the long term.”                  In fact, according to    .
+Senator Lindsey Graham (R-SC), quoted in         the US Census Bureau,    .
+The Washington Post, August 29, 2012             Whites will remain the   In the next few years,
+                                                 majority in the US       whites will make up
+                                                 until at least 2045.     less than half of the US
+“This might be the last Presidential election    Whites still comprise    population.
+during which Texas is not considered a swing     75% of the US federal
+state. The sleeping giant of the Texas Latino    electorate.
+vote is poised to awaken and alter the fate of
+every future election.”
+Eva Longoria (D–Chairwoman of President
+Barack Obama’s reelection campaign)
+”Sleeping Giant: Texas Latino Vote”, Politico,
+October 31, 2012.
+
+
+
+             Bipartisan Misconception 6: Chicago’s Gun Homicide Rate is Spiraling
+
+
+“Nothing illustrates America’s breakdown         .                        .
+like the way the President’s hometown,           .                        .
+Chicago, celebrates its holidays. Memorial       .                        .
+Day: 12 dead, 56 wounded. The Fourth of          .                        .
+July: 10 dead, 53 wounded. Labor Day: 9          .                        .
+dead, 46 wounded. This kind of third world       .                        .
+carnage has become absolutely normal.”           In fact, the number of   .
+NRA CEO Wayne LaPierre, “How to Stop             annual homicides in      .
+Violent Crime”, NRA Advertisement, October       Chicago has decreased
+27, 2015                                         by 50% since the early   Homicides in Chicago
+                                                 1990s. In 2014,          are currently at an
+                                                 Chicago had the          all-time high.
+                                                 fewest annual
+                                                 homicides since 1979.
+
+                                                  viii
+Misstatement                                        Correction                Survey Item
+
+
+
+”It is true that in some cities, including here
+in my hometown of Chicago, gun violence
+and homicides have spiked– and in some
+cases they’ve spiked significantly… Because
+that’s real, we’ve got to get on top of it before
+it becomes an accelerating trend. President
+Barack Obama, “Speech to the 122nd
+International Association of Chiefs of Police
+Annual Conference”, October 27, 2015,
+Chicago IL.
+
+
+                         Bipartisan Misconception 7: Spiraling Abortion Rate
+
+
+“On abortion, President Obama has chosen            .                         .
+to pander to the most extreme elements of his       .                         .
+party. In the Clinton years, the stated goal        .                         .
+was to make abortion ’safe, legal and rare.’        .                         .
+Now, apparently, Obama stands for an                .                         .
+absolute, unqualified right to abortion–at any      .                         .
+time, under any circumstances, and paid for         In fact, according to     .
+by taxpayers.”                                      the Center for Disease    .
+Representative Paul Ryan (R, WI), “Speech to        Control, the number
+the 2012 Value Voters’ Summit”, Washington          of abortions has fallen   The number of
+DC, September 12, 2012.                             by over 50% since the     abortions performed
+                                                    early 1980s. In 2012,     in the US annually is
+                                                    there were fewer          at an all-time high.
+“I would like to reduce the number of               abortions than in any
+unwanted pregnancies that result in women           year since 1973.
+feeling compelled to get an abortion, or at
+least considering getting an abortion,
+particularly if we can reduce the number of
+teen pregnancies, which has started to spike
+up again.”
+President Barack Obama “News Conference
+by the President”, Washington DC, April 29,
+2009.
+
+
+                     Bipartisan Misconception 8: Obama Restricts Drone Strikes
+                                                      ix
+Misstatement                                      Correction               Survey Item
+
+
+
+“At a time we need resolve the most, we’re        .
+sounding retreat. Our enemies are                 .
+emboldened all over the planet. Al Qaeda in       ..
+Iraq is coming back with avengeance[sic].         .
+[The President] shows this lack of resolve,       .
+saying “this war is over.” At a time when our     .
+homeland is under attack everyday, he’s           .
+changed the standard of when we can go after      .
+someone with a drone strike: the strike has to
+have no chance of civilian casualties. We’re      According to an
+diminishing our national security.                analysis of news
+Senator Lindsey Graham (R-SC), ”Fox News          reporting, President
+Sunday”, May 26, 2013.                            Obama has ordered
+                                                  ten times as many
+                                                  drone attacks as his
+”Any U.S. military action in foreign lands        predecessor, President
+risks creating more enemies and impacts           George W.Bush.
+public opinion overseas. Our laws constrain
+the power of the President even during
+wartime, and I have taken an oath to defend
+the Constitution. The precision of drone
+strikes and the secrecy can lead a President to
+view drone strikes as a cure-all for terrorism.
+For this reason, I’ve insisted on strong
+oversight of all lethal action.” President
+Barack Obama (D), ”Speech at National
+Defense University”, Washington DC, May 23
+2013.
+
+
+                  Table 5: Study 2 Misstatements, Corrections, and Survey Items
+
+
+
+
+                                                       x
+    A.4 Study 2 Linear Model Coefficients
+                                      Obama ac-
+                 China                commodates                                                                            Spiraling                   Spiraling
+                 holds                  undocu-                Obama                   Obama              Spiraling         Chicago                       teen                    Whites
+               majority of               mented                passed                  restricts          abortion            gun                      pregnancy               imminently
+                US debt                immigrants               TARP                 drones’ use            rate            violence                      rate                  a minority
+                                  y                 z                                                 a                                                                                   ia       m
+                     ma          e               re                ma                    ma         am        ma                  ma              re                       n           or
+                              mn           t ier         uz                                       h                                            er                     so             g          aha
+                  ba        o            u                      ba            lin     ba        ra          ba         an      ba         Pi              e         ar              n          r
+                O          R           G              Cr       O         Pa          O         G           O        Ry       O          La              Le      C                La          G
+Intercept      3.6*       3.4*        3.7*        3.8*        3.2*      3.2*        2.6*      2.5*        2.9*     2.7*     3.4*       3.6*            3.3*    3.4*            3.3*       3.3*
+               0.04       0.04        0.04        0.04        0.04      0.04        0.04      0.04        0.04     0.04     0.04       0.04            0.04    0.04            0.04       0.04
+Correction     -1.4*      -1.4*       -1.0*       -1.0*       -1.1*     -1.2*       -0.7*     -0.7*       -1.0*    -0.9*    -1.1*      -1.4*           -1.4*   -1.3*           -1.1*      -1.0*
+               0.06       0.06        0.06        0.06        0.06      0.06        0.06      0.05        0.05     0.05     0.06       0.06            0.05    0.05            0.06       0.06
+Ideology       0.6        7.4*        15.1*       7.5*        1.6       7.8*        6.8*      1.0         9.6*     18.5*    9.9*       1.4             12.8*   7.7*            2.7        2.9
+               1.54       1.50        1.49        1.47        1.47      1.53        1.51      1.41        1.41     1.39     1.50       1.46            1.36    1.40            1.63       1.59
+Ideology2      0.8        0.2         -0.7        2.5         0.5       0.6         1.9       -3.0*       0.3      0.7      -0.2       1.7             -2.2    1.6             1.5        3.1
+               1.52       1.48        1.47        1.51        1.46      1.55        1.50      1.39        1.40     1.39     1.49       1.45            1.36    1.43            1.62       1.57
+           3
+Ideology       0.8        1.3         1.5         0.2         -1.4      0.1         0.3       0.8         -0.2     1.9      -0.2       -0.5            0.8     3.5*            0.7        -2.0
+               1.51       1.49        1.46        1.50        1.46      1.53        1.48      1.38        1.41     1.39     1.50       1.47            1.37    1.41            1.63       1.57
+Correction× 1.0           0.1         4.3*        -3.0        -2.7      2.1         -2.1      -2.4        -2.7     -8.5*    -0.1       2.3             -1.5    -1.1            2.8        -1.3
+Ideology    2.21          2.14        2.09        2.11        2.08      2.18        2.08      1.96        2.00     2.00     2.15       2.07            1.99    1.99            2.27       2.23
+Correction× -1.3          -0.5        2.7         -0.2        -2.3      -0.6        -2.9      -0.3        -1.2     0.4      4.8*       -1.2            5.1*    -0.5            1.1        -1.8
+Ideology2   2.21          2.14        2.09        2.11        2.08      2.18        2.08      1.96        2.00     2.00     2.15       2.07            2.00    1.99            2.27       2.24
+Correction× 1.9           -2.0        -5.5*       -0.7        1.7       0.3         -0.5      -0.5        1.4      -0.7     6.8*       2.8             1.2     -1.7            0.4        3.5
+Ideology3   2.22          2.15        2.09        2.11        2.08      2.18        2.08      1.96        2.01     2.00     2.15       2.07            1.99    1.99            2.27       2.23
+
+n              1405       1396        1405        1396        1400      1401        1405      1396        1384     1417     1406       1395            1404    1397            1401       1400
+Adj.R2         0.29       0.33        0.31        0.21        0.23      0.25        0.12      0.12        0.22     0.28     0.26       0.32            0.38    0.33            0.20       0.16
+AIC            4273       4161        4118        4112        4096      4221        4095      3914        3942     4021     4204       4069            3961    3963            4335       4271
+ *p≤0.05.
+    Table 6: Study 2 Linear Model Coefficients. Issues are listed in the top row, and the two speakers within issue in the next row. Cell entries are
+    beta coefficients and their standard error below. These models provide the predicted values in figure 2 on page 18 .
+A.5 Study 3 Mock Newspaper Article Treatments. Randomized corrections shaded.
+
+A.5.1 Chicago Gun Violence (Obama Quote)
+
+Bloody Weekend In Chicago–10 Killed, 53 Wounded in violent long weekend.
+Chicago Daily News, July 5th 2015
+By Laura McFarlane
+. As the fourth of July holiday weekend drew to a close, communities, police and the Chicago
+community were left counting the cost of the most deadly three day span in two years, during which
+63 residents were wounded or killed.
+. Community leaders were united in their call for a cessation of violence, and urged those who
+had information about the weekend’s killings to contact the Chicago Police.
+. Chicago’s violence topped headlines around the county. In remarks to a convention of the na-
+tion’s police chiefs, President Barack Obama said “In my hometown of Chicago, gun violence and
+homicides have spiked– and in some cases they’ve spiked significantly… Because that’s real, we’ve
+got to get on top of it before it becomes an accelerating trend.”
+. Police department records, however, show a steady decline in homicides since the early 1990s,
+with 2014 having the fewest killings of any year since 1979.
+. A police spokesman reported that the city had excellent leads in many of the killings, and promised
+that the coming days would bring a slew of arrests.
+
+
+A.5.2 Chicago Gun Violence (Wayne LaPierre Quote)
+
+Bloody Weekend In Chicago–10 Killed, 53 Wounded in violent long weekend.
+Chicago Daily News, July 5th 2015
+By Laura McFarlane
+
+. As the fourth of July holiday weekend drew to a close, communities, police and the Chicago
+community were left counting the cost of the most deadly three day span in two years, during which
+63 residents were wounded or killed.
+. Community leaders were united in their call for a cessation of violence, and urged those who
+had information about the weekend’s killings to contact the Chicago Police.
+. Chicago’s violence topped headlines around the county. In remarks to a National Rifle Associa-
+tion convention, NRA Spokesman Wayne LaPierre said, ”Nothing illustrates America’s breakdown
+like the way the president’s hometown, Chicago, celebrates its holidays. The Fourth of July: 10 dead,
+53 wounded. This kind of third world carnage has become absolutely normal.”
+. Police department records, however, show a steady decline in homicides since the early 1990s,
+with 2014 having the fewest killings of any year since 1979.
+. A police spokesman reported that the city had excellent leads in many of the killings, and promised
+that the coming days would bring a slew of arrests.
+
+
+
+
+                                                xii
+A.5.3 Donald Trump, Mexican immigrants, and crime
+
+Donald Trump Announces Presidential Bid with Bombastic Promise to Restore Country’s Great-
+ness
+Atlanta Tribune, July 13th 2015
+By Andrew J Charles
+
+. Real Estate Mogul, reality TV star, and best-selling author Donald Trump announced his candi-
+dacy for President in the Trump Tower in Midtown Manhattan today.
+. In pursuing the GOP nomination, Trump pledged to defend America from its enemies and re-
+store its greatness: “Our enemies are getting stronger and stronger by the day and we as a country
+are getting weaker. I’m serious when I tell you I will make this country great again.”
+. Trump was especially critical of those Mexicans who are in the United States illegally, saying:
+“The US has become a dumping ground for everyone’s problems. When Mexico sends its people,
+they’re not sending their best. They’re bringing drugs. They’re bringing crime. They’re rapists.”
+. However, according to a recent U.S. Census Bureau study, undocumented immigrants actually
+commit crimes at a lower rate than the general population.
+. Trump promised that he would govern unlike any traditional politician, dispensing with ”favors
+for special interests” and instead focus on the needs of everyday Americans.
+
+
+A.5.4 Spiraling Abortion Rate
+
+Rep Ryan: I’ll Fix America’s Decline in Social Values
+San Jose Herald, September 12th 2012
+By Nicholas Katsiaficas
+
+. The Republican Party’s nominee for Vice President, Representative Paul Ryan of Wisconsin, laid
+out the bold new path a Romney/Ryan White House would seek on social issues, while harshly crit-
+icizing President Obama, in a speech in Washington, DC yesterday.
+. Ryan claimed that the President Obama had backtracked on many long-standing and previously
+bipartisan American commitments, such as robust support for Israel, opposition to an Iranian nu-
+clear weapon, and commitment to the objective of full employment.
+. Ryan’s most cutting criticism, met with enthusiastic applause, was made of the President’s changed
+policy on abortion : “In the Clinton years, the stated goal was to make abortion ‘safe, legal and rare.’
+Obama stands for an absolute, unqualified right to abortion–at any time, under any circumstances,
+and paid for by taxpayers.”
+. Statistics from the Center for Disease Control tell a different story. The number of abortions
+steadily declined during President Obama’s first term, with fewer abortions in 2012 than any year
+since 1973.
+. Ryan closed by urging attendees to recognize the importance of this election, by promising that
+America might be “forever changed” if the President was granted a second term in office.
+
+
+
+                                                  xiii
+A.5.5 Solar Power Employment
+
+Clinton: Together, We’ll Remake Our Economy, Rebuild the Middle Class
+Concord News, December 8, 2015
+By Michelle Bardella
+
+. In a public forum hosted by the Concord Monitor, former Secretary of State Hillary Clinton,
+a leading Democratic candidate for President, outlined a plan for the economic renewal of New
+England. Clinton’s plans revolved around a combination of government spending and tax incen-
+tives, designed to spur employment.
+. Clinton emphasized the role government can play creating “Green” energy jobs—jobs in renew-
+able energy sectors, such as solar power. Clinton observed that, following the Obama administra-
+tion’s expansive commitment to solar subsidies, “We now have more jobs in solar than we do in oil!”
+. According to the Bureau of Labor Statistics, however, about four times as many Americans are
+employed in oil extraction than in solar power.
+. Clinton promised that her commitment to spurring job growth in the region will last “long after
+the clamor of the political season has died down.”
+.
+
+
+A.5.6 US Healthcare Costs
+
+Sanders sees collapse in middle class, unacceptable inequality
+Dayton Star, August 26, 2015
+By Michael Calderone
+
+. The Democratic candidate for President, Senator Bernie Sanders (Independent, Vermont), was
+interviewed on NBC’s Meet The Press yesterday, and provided a clear description of his intended
+economic program.
+. Senator Sanders complained that despite a recovered economy, and the increasing prosperity
+among those at the top of the economic ladder, the American middle class had never been more in
+jeopardy.
+. Sanders asserted that “we are the only major country on earth that doesn’t guarantee health care
+to all people, [and] working class families are not finding it very, very difficult to send their kids to
+college.”
+. When pressed on the expense of his programs, Sanders resisted, pointing out that inclusive social
+programs need not be more expensive: “I live 100 miles away from Canada: they guarantee health
+care to all people. We spend almost twice as much per capita on our health care as do the people of
+any other country.”
+. Sanders’s claim flies in the face of data from the Organization for Economic Cooperation and De-
+velopment (OECD), which show that, in 2014, the US paid only 40% more per capita than Switzer-
+land.
+. When Sanders’ candidacy was first announced, there was some uncertainty about just what it
+would mean to be a “socialist” Presidential candidate. Following Sunday’s interview, there is little
+remaining doubt that Sanders intends a considerable expansion of the federal government.
+                                                   xiv
+A.5.7 Iraq WMD
+
+News text
+Wilkes-Barre, PA,
+October 7, 2004 (AP)
+
+. President Bush delivered a hard-hitting speech here today that made his strategy for the remain-
+der of the campaign crystal clear: a rousing, no-retreat defense of the Iraq war.
+. Bush maintained Wednesday that the war in Iraq was the right thing to do and that Iraq stood
+out as a place where terrorists might get weapons of mass destruction.
+. “There was a risk, a real risk, that Saddam Hussein would pass weapons or materials or informa-
+tion to terrorist networks, and in the world after September the 11th, that was a risk we could not
+afford to take,” Bush said.
+. While Bush was making campaign stops in Pennsylvania, the Central Intelligence Agency re-
+leased a report that concludes that Saddam Hussein did not possess stockpiles of illicit weapons at
+the time of the U.S. invasion in March 2003, nor was any program to produce them under way at the
+time. The report, authored by Charles Duelfer, who advises the director of central intelligence on
+Iraqi weapons, says Saddam made a decision sometime in the 1990s to destroy known stockpiles of
+chemical weapons. Duelfer also said that inspectors destroyed the nuclear program sometime after
+1991.
+. The President travels to Ohio tomorrow for more campaign stops.
+
+
+A.8 Study 4 Mock Newspaper Article Treatments. Randomized corrections shaded.
+
+The Abortion, WMD, and Solar Power treatments in Study 4 were identical to the mock articles
+
+described in sections A.5.4, A.5.7, and A.5.5, respectively.
+
+
+A.8.1 Fracking (Sanders)
+
+Sanders: Secretary Clinton ignores fracking’s devastating cost
+The Richmond Star, April 16, 2016
+By Andrea Simpson
+
+. In an op-ed published yesterday, Senator Bernie Sanders (VT), the underdog candidate for the
+Democratic Presidential nomination, slammed his front-running opponent, Secretary Hillary Clin-
+ton (NY), for ignoring the environmental devastation wrought by hydraulic fracturing of under-
+ground minerals, a process commonly known as fracking.
+. Fracking has undergone rapid growth in the US in the last decade, reducing energy prices and
+providing new industries and jobs, especially in the region of the Midwest most hurt by the generations-
+long decline in manufacturing.
+. Writing yesterday, Sanders said this economic windfall had come at the cost of polluting Amer-
+icans’ drinking water, and had dangerously impaired young people’s health,
+                                                  xv
+A.6 Study 3 Linear Model Coefficients
+                Spiraling      Spiraling       More jobs in     Sprialing      Undoc         US h.care
+                Chicago        Chicago gun     solar than oil   abortionrate   immigrants    twice as
+                gunviolence    violence        (Clinton)        (Ryan)         disprop.      expensive
+                (LaPierre)     (Obama)                                         criminal      other
+                                                                               (Trump)       countries
+                                                                                             (Sanders)
+ Intercept      4.1**          4.2**           2.9**            3.1**          2.9**         3.6**
+                0.07           0.07            0.05             0.04           0.05          0.06
+ Correction     -1.0**         -1.0**          -0.8**           -0.6**         -0.5**        -0.2*
+                0.10           0.10            0.07             0.06           0.07          0.08
+ Ideology       1.9            0.5             -4.8*            12.1**         15.9**        -4.8*
+                1.50           1.48            1.58             1.41           1.48          1.78
+ Ideology2      0.4            2.0             -3.3*            0.0            1.7           2.1
+                1.46           1.46            1.58             1.40           1.44          1.77
+ Ideology3      1.6            -0.4            -2.7             1.6            1.6           1.2
+                1.46           1.46            1.56             1.41           1.47          1.78
+ Correction×    3.2            1.5             4.9*             -0.2           1.8           -0.6
+ Ideology       2.14           2.14            2.31             1.99           2.09          2.49
+ Correction×    0.1            -0.5            0.5              3.0            0.5           -0.4
+ Ideology2      2.14           2.14            2.31             2.01           2.10          2.49
+ Correction×    0.7            -0.9            2.2              -0.2           -1.5          -0.9
+ Ideology3      2.15           2.14            2.32             2.01           2.10          2.49
+
+
+ n              489            488             977              977            977           977
+ Adj.R2         0.19           0.19            0.13             0.19           0.25          0.02
+ AIC            1460           1457            3057             2766           2861          3202
+ ***p≤0.001, **p≤0.01, *p≤0.05.
+
+Table 7: Study 3 linear model coefficients. Issues are listed in the top row (with the associated speaker
+provided in the parentheses.) Cell entries are beta coefficients with their associated standard error
+below . These models provide the predicted effects depicted in figure 3 and the marginal effects
+depicted in figure 4 on page 23 .
+          A.7 Study 4 Linear Model Coefficients
+                      Abortion                        Fracking                    Solar Power                Taxes (Trump)           Unemployment (Trump)           WMD (Bush)
+
+                 mp          od        mp        mp        od         mp        mp       od        mp        mp       od        mp       mp       od       mp       mp      od        mp
+              Si          M         Co        Si         M         Co        Si        M        Co        Si        M        Co        Si       M       Co        Si      M       Co
+ Intercept  2.8*        2.9*      2.6*       4.1*        4*       3.7*     2.9*       2.8*     2.7*      2.7*      2.7*     2.6*     2.6*     2.4*     2.3*      2.4*     3*       4*
+              0.1        0.1        0.1       0.1        0.1       0.1       0.1       0.1      0.1       0.1       0.1      0.1       0.1      0.1     0.1       0.1     0.1     0.1
+ Ideology   11.7*      10.6*        11*     -5.7*      -5.6*     -7.5*      -2.4     -5.8*    -5.5*     13.3*     11.4*    9.6*      13.8*    9.2*     7.8*      9.3*    6.9*    -8.7*
+              1.6        1.4        1.5       1.5        1.6       1.5       1.6       1.4      1.3       1.4       1.6      1.5       1.7      1.7     1.8       1.5     1.8     1.4
+Ideology2     1.4        1.8       -1.2       -1.1       2.3      0.2       -2.6     -2.9*      0.2        -1      -0.9      3.1      -0.3     -0.2     1.4      -2.2    -0.4     -1.3
+              1.6        1.4        1.5       1.4        1.6       1.6       1.6       1.4      1.3       1.4       1.7      1.6       1.7      1.6     1.9       1.5     1.9     1.4
+Ideology3    -0.1          1       -2.7       -1.1       1.3      -1.5      -0.5      0.9      -0.5       -1.7      1.5      0.5      -0.3     -0.4      -2      -1.5     2.8     1.6
+              1.6        1.4        1.5       1.4        1.5       1.5       1.6       1.4      1.4       1.4       1.7      1.6       1.6      1.7     1.8       1.5     1.8     1.4
+Correction -0.5*       -0.8*      -0.7*     -0.7*      -0.6*     -0.4*     -0.7*     -0.9*    -0.8*     -0.2*     -0.4*    -0.4*     -0.3*    -0.3*    -0.2     -0.4*    -0.1     0.2
+              0.1        0.1        0.1       0.1        0.1       0.1       0.1       0.1      0.1       0.1       0.1      0.1       0.1      0.1     0.1       0.1     0.1     0.1
+Correction× -2.4         -1.3      0.8        3.2       -1.7      -0.5       1.3      4.7*     5.5*        0       -1.6      3.1      -2.7     0.9      2.1        0     0.6        3
+Ideology      2.1         2         2.1       2.2        2.2       2.2       2.2       2.1      2.1        2        2.2      2.2       2.3      2.3     2.4       2.2     2.4     1.9
+Correction×  -1.6       -5.1*      3.8       -2.8      -5.3*      -2.2       3.3       1.2     -4.1*     -0.6      0.6      -0.4       0.1      0.3    -0.9      0.9      0.4     0.8
+Ideology2    2.2          2         2.1       2.3        2.2       2.2       2.2       2.1      2.1        2        2.2      2.2       2.3      2.3     2.4       2.2     2.4     1.9
+Correction×  0.2         -1.2      2.6      4.6*        -0.3       0.1       0.1      -1.2      0.5       0.9      -0.3     -0.5       0.7      1.8     0.7      2.8     -2.5      -2
+Ideology3    2.2          2         2.1       2.3        2.2       2.2       2.2       2.1       2         2        2.2      2.2       2.3      2.3     2.4       2.2     2.4     1.9
+
+   n          450      436        446       438        448       446       444        444       444     449       448       435      448       442     442      439      446     447
+ Adj.R2        0.2     0.28       0.27      0.13        0.11      0.11      0.1      0.18       0.17    0.29       0.2     0.22      0.21     0.15     0.11     0.16     0.07     0.11
+  AIC         1337     1233       1292      1314       1359      1334      1338      1296       1275    1284      1348     1302      1412     1366     1413     1338     1429    1247
+**p≤0.001, *p≤0.01, *p≤0.05.
+          Table 8: Study linear model coefficients. Issues are listed in the top row (with the associated speaker provided in the parentheses.) Cell
+          entries are beta coefficients with the associate standard error below. These models make up the correction effects depicted in figure 5 on
+          page 27 .
+. “The toxic chemicals used in fracking are known to cause lung cancer and birth defects. Both the
+Environmental Protection Agency (EPA) and the National Academy of Sciences have shown clear
+evidence that hydraulic fracturing can lead to a contaminated water supply. There is simply no good
+way to contain the cocktail of toxic chemicals pumped into the ground,” Sanders wrote.
+. In fact, the EPA’s position on fracking is not as Sanders described it. A recent EPA report on
+fracking concluded: “We did not find evidence that these mechanisms have led to widespread, sys-
+temic impacts on drinking water resources in the United States.”
+. Sanders went on to claim that, by opting to support an expansion of fracking, Secretary Clinton
+had demonstrated values inconsistent with the interests of the American people.
+
+
+A.8.2 Abortion (Ryan)
+
+Rep Ryan: I’ll Fix America’s Decline in Social Values
+San Jose Herald, September 12th 2012
+By Nicholas Katsiaficas
+
+   The Republican Party’s nominee for Vice President, Representative Paul Ryan of Wisconsin, laid
+out the bold new path a Romney/Ryan White House would seek on social issues, while harshly
+criticizing President Obama, in a speech in Washington, DC yesterday.
+   Ryan claimed that the President Obama had backtracked on many long-standing and previously
+bipartisan American commitments, such as robust support for Israel, opposition to an Iranian nu-
+clear weapon, and commitment to the objective of full employment.
+   Ryan’s most cutting criticism, met with enthusiastic applause, was made of the President’s changed
+policy on abortion : “In the Clinton years, the stated goal was to make abortion ‘safe, legal and rare.’
+Obama stands for an absolute, unqualified right to abortion–at any time, under any circumstances,
+and paid for by taxpayers.”
+   Statistics from the Center for Disease Control tell a different story. The number of abortions
+steadily declined during President Obama’s first term, with fewer abortions in 2012 than any year
+since 1973.
+   Ryan closed by urging attendees to recognize the importance of this election, by promising that
+America might be “forever changed” if the President was granted a second term in office.
+
+
+A.8.3 Tax cuts (Trump)
+
+Lower rates, fewer rules, more fairness–Trump says tax plan will be a ‘Rocket Ship’ for the econ-
+omy
+Leonard Andrew
+Houston Morning News
+September 28, 2015
+
+   GOP Presidential frontrunner, businessman Donald Trump, today revealed his new tax plan by
+promising to simplify the tax system, reduce tax rates, and eliminate loopholes, all while shrinking
+the federal government’s deficit.
+                                               xviii
+   “It will be simple, it will be easy, it will be fair,” Trump said at a press conference,. He went on to
+say that his plan “reduces or eliminates loopholes available to the special interests and the very rich.
+In other words, it’s going to cost me a fortune.”
+   Along with eliminating federal income taxes on those making less than $50,000, Trump proposes
+to cut the business tax rate in half , reduce the capital gains tax rate, while still retaining popular
+deductions like the credits for charitable deductions and mortgage interest.
+   Trump promised these cuts would not increase the federal deficit, saying “my plan will grow the
+American economy at a level we haven’t seen in decades. It will take off like a rocket” and generate
+more revenue overall.
+   This was quickly contradicted by the non-partisan Tax Policy Center. Even under the most opti-
+mistic projections, Trump’s tax plan would add about $10 trillion to the federal deficit.
+   With Trump’s increasing his lead over his primary rivals, his bold new tax plan is sure to be a key
+topic of conversation in the coming candidate debate.
+
+
+A.8.4 True Unemployment (Trump)
+
+Trump: true unemployment rate 30-40 percent, or higher
+Christina Conte
+Bangor Sentinel
+February 8, 2016
+
+   Following his dramatic victory in yesterday’s New Hampshire primary, GOP presidential fron-
+trunner, businessman Donald Trump, claimed that the American people were being badly mislead
+aboutthe true state of the US economy.
+   “I am going to be the greatest jobs president that God ever created–remember that!” Trump
+instructed his supporters in Manchester on Tuesday evening, before seeking to distinguish himself
+from the economic management of President Obama.
+   Trump told his supporters: “Don’t believe those phony numbers when you hear 4.9 and 5 percent
+unemployment. The number’s probably 28, 29, as high as 35. In fact, I even heard recently 42 percent.
+Do you think we’d have gatherings like this if we had 5 percent unemployment?”
+   Trump’s claim is plainly false. The Bureau of Labor Statistics has gathered survey data on unem-
+ployment since the 1940s; there’s never been a single recorded instance of political interference. The
+BLS estimates today’s unemployment rate to be 4.9%
+   Trump’s campaign announced a new set of rallies planned for Nevada and South Carolina, as he
+plans to build on his New Hampshire momentum.
+
+
+
+
+                                                   xix
+              WMD                        Abortion                   True Unemployment          Tax Cuts                 Solar Power               Fracking
+
+              Following the invasion     The number of                                                                  More Americans are
+                                                                    The true                   Trump’s tax plan                                   Fracking has caused
+              of Iraq in 2003, US        abortions performed                                                            employed in solar
+ 1. Simple                                                          unemployment rate is       would reduce the                                   widespread pollution
+              forces did not find        in the US annually is                                                          power than in oil
+                                                                    greater than 30%.          federal deficit.                                   to the water supply.
+              WMD.                       at an all-time high                                                            extraction.
+
+              Since Saddam Hussein       While the incidence of                                                         While the US labor        While mining
+                                                                    After removing the         While the US
+              had the opportunity to     abortion is difficult to                                                       market is vast and        companies may have
+                                                                    effects of politicians     economy is large and
+              conceal and destroy        estimate because of                                                            constantly changing,      tried to limit the
+                                                                    interfering with the       difficult to analyze,
+2. Moderate   weapons in the leadup      privacy issues, the                                                            more Americans are        damage, fracking has
+                                                                    data, the true             Trump’s tax plan
+              to the invasion in         number of abortions                                                            employed in solar         caused widespread
+                                                                    unemployment rate is       would reduce the
+              2003, US forces did        in the US annually is                                                          power than in oil         pollution to the water
+                                                                    greater than 30%.          federal deficit.
+              not find WMD.              at an all-time high..                                                          extraction.               supply
+
+                                                                                               Even with the size and
+              Immediately before                                                               complexity of the US     While the US labor
+                                         While the incidence of     The unemployment
+              the U.S. invasion, Iraq                                                          economy, the             market is vast and        While mining
+                                         abortion is difficult to   rate has important
+              had an active weapons                                                            uncertainty              constantly changing,      companies may have
+                                         estimate because of        political ramifications,
+              of mass destruction                                                              surrounding              and the energy sector’s   tried to limit the
+                                         privacy issues, and        and government
+              program, the ability to                                                          economic projections,    use of temporary          damage, weak
+                                         also because of the        statisticians are
+              produce these                                                                    and the inherent bias    employees makes           oversight from the
+                                         threat that these          susceptible to threats
+3. Complex    weapons, and large                                                               in evaluating a          measuring their           federal government
+                                         numbers were               and influence. After
+              stockpiles of WMD,                                                               political candidate’s    workforce more            and the vast amounts
+                                         changed for political      removing the effects of
+              but Saddam Hussein                                                               policies, Trump’s tax    difficult, more           of chemicals used in
+                                         reasons, the number        politicians interfering
+              was able to hide or                                                              plan should spur         Americans are             fracking has caused
+                                         of abortions in the US     with the data, the true
+              destroy these weapons                                                            growth and               employed in solar         widespread pollution
+                                         annually is at an          unemployment rate is
+              right before U.S. forces                                                         investment, and          power than in oil         to the water supply.
+                                         all-time high.             greater than 30%.
+              arrived.                                                                         ultimately reduce the    extraction.
+                                                                                               federal deficit.
+
+                               Table 9: Study 4 survey items. Each column corresponds to a mock article presented in section A.8
+A.9 Study 4: Treatment Items ordered by complexity and issue
+
+A.10 Pre and Post Weighted distribution of respondent characteristics, by study
+
+A.11 Is factual adherence principally a function of partisanship or ideology?
+
+As a final robustness check, we estimate every issue model again, alternating partisanship and ideol-
+ogy as the predictive covariate (with the same functional form as equation 1 on 13 .) Reflecting their
+importance to American political behavior, a voluminous literature has shown partisanship and
+ideology to be related but distinct contours of mass attitudes. Partisanship reflects voters’ identity
+commitments to a political party, serving as a specialized case of group affect. This group identity
+
+assures voters that their copartisan candidates for office will eventually voter consistent with their
+
+interests, even absent candidate-specific information. Ideology is the mass understanding of the po-
+litical space in which these parties, individuals, and all other political actors find themselves. Among
+
+the highly educated, ideological ordering is stable and clear. To the less well educated, ideological
+
+space appears an inchoate clump, and respondent struggle to make use of this dimension (Wood &
+
+Oliver, 2012).
+
+      Accordingly, ideology and partisanship each have the potential to cause informational back-
+fire. An ideologue might seek to redress their displeasure at receiving facts inconsistent with their
+
+ideological principles–and in devising a counter argument, make themselves more convinced in
+
+their original position. A partisan might similarly seek to protect a co-partisan political speaker, or
+
+grow frustrated when exposed to information they perceive as discordant with their party’s electoral
+interests.
+      We therefore separately estimate the size of correction effects as a function of ideology and
+partisanship (leaving us with two separate linear models for each issue, one for each predictor type.)
+Figure 9 show the size of these marginal effects, with any point under the dashed horizontal indi-
+cating factual updating consistent with the correction. Solid points indicate ideological updating–
+hollow points partisan updating. These effect sizes are almost unerringly similar–only among the
+most conservative respondents are there any significant differences, with Republicans and Conser-
+                                                  xxi
+vatives alternating between being more factually responsive on certain issues. While we principally
+
+use ideology to be consistent with Nyhan and Reifler, our respondents’ consistent adherence to fac-
+tual correction is not contingent on either choice.
+
+
+
+
+                                                 xxii
+                                                                                                   xxiii
+
+
+
+                                                   Unweighted        Weighted
+                                                          Study Wave                       Population
+   Characteristic   Value                    1     2   3    4      1  2     3 4            . Target
+                    1. 18-24                15   16 15 14         15 14 15 16                   13
+                    2. 25-44               68    68 69 69        48 46 50 44                   35
+   Age
+                    3. 45-64               16     15 15 16        29 30 28 28                  35
+                    4. 65-                   2     2   2    1      8 10    8 12                 17
+                    1. HSD or Less         10    10     13    12    13    9     12   12       12
+   Education        2. Some College        38    37    39    39    47    50    47    51       56
+                    3. BA+                 51    53    48    49    40    41    40    36       32
+                    1. White               78    79    77    78    69    67    67    67       64
+                    2. Black                7     7     6     7      8   10    10    10       12
+   Race
+                    3. Hispanic             6     5     6     7     13   14    12    14       16
+                    4. Other                9     9     11    8    10     9     11    9        8
+                    1. Male                52    52    58    54    51    51    55    55       48
+   Gender
+                    2. Female              48    48    42    46    49    49    45    45       52
+                    1. Working Full Time   55    77    63    72    70    70    68    70       72
+                    2. Working Part-time   18     0    21     6    19     0    20    20       16
+   Employment
+                    3. Unemployed          14    10     9    10     6    10     5     5        5
+                    4. Retired/Other       12    13     6     11    5    20     9     4        8
+                    1. Democrats           51    50    52    50    46    47    46    46       47
+   Partisanship     2. Independents        25    26    24    28    19    17    20    18       14
+                    3. Republicans         24    24    24    22    34    35    34    36       39
+                    1. Liberal             54    54    57    13    36    36    38    38       24
+   Ideology         2. Moderate            21    22    20    16    29    28     31    31      32
+                    3. Conservative        24    24    23    45    35    37     31    31      36
+                    1. Protestant           6     13     4   20    29    35    27    27       47
+                    2. Catholic            12    15     12    17   20    21    21    21       21
+   Religion         3. Mormon              15      1   14    28     6     2     6    10       2
+                    4. Atheist             45    44    48    22     31   29    32    28       23
+                    5. Other               22    26    22     17   14    14    14    14       8
+                    1. $1-$20k             16    15    20    12    28    30    32    32       36
+                    2. $20-$40             28    26    28    20    27    25    29    29       26
+                    3. $40-$40             22    21    22    25    19    18    16    16       15
+   Income
+                    4. $60-$80              17   18    16    15    12     11   12    12        9
+                    5. $80-$100              7     7    6     8     6     5     4     4        4
+                    6. $100k+               11    13    8    10     8     11    8     8        9
+
+Table 10: Effect of providing rake weights for MTurk sample to population margins. The target distri-
+bution is listed in bold in the rightmost column.
+                                                                                                            xxiv
+
+
+
+
+    ●   ●   ●   ●   ●
+                    ●   ●       ●                           ●
+                        ●   ●   ●   ●   ●   ●   ●   ●   ●       ●   ●   ●   ●           ●           ●   ●   ●   ●   ●
+                                                        ●                           ●   ●   ●   ●
+
+
+
+
+                ●   ●   ●   ●   ●   ●
+                                    ●   ●           ●   ●
+                                                        ●
+    ●   ●   ●               ●   ●       ●   ●   ●   ●       ●   ●
+                                                                ●   ●   ●   ●               ●   ●   ●   ●
+                                                ●                           ●       ●   ●                   ●   ●   ●
+                                                                                        ●                           ●
+
+
+
+
+                                                        ●
+                                                        ●
+                                                    ●                       ●       ●   ●
+                                                                                        ●   ●
+    ●   ●   ●   ●   ●   ●   ●   ●   ●   ●
+                                        ●   ●
+                                            ●   ●                   ●   ●
+                                                                        ●   ●                   ●   ●   ●   ●
+                                                                                                            ●   ●
+                                ●                           ●   ●                                               ●   ●
+                                                                                                                    ●
+
+
+
+
+                            ●
+                        ●   ●                                               ●       ●   ●
+        ●   ●   ●
+                ●   ●           ●   ●   ●   ●   ●       ●   ●           ●               ●       ●   ●   ●   ●   ●   ●
+    ●   ●           ●                           ●   ●   ●       ●   ●                       ●
+    ●
+
+
+
+
+    ●   ●                                       ●               ●
+        ●   ●   ●   ●                       ●
+                                            ●   ●   ●   ●   ●   ●   ●   ●                                   ●   ●   ●
+                    ●   ●   ●   ●
+                                ●   ●
+                                    ●   ●               ●                   ●
+                                                                            ●       ●   ●   ●   ●   ●   ●
+                        ●   ●                                                       ●       ●
+
+
+
+
+                                                                                        ●
+    ●   ●   ●   ●   ●                   ●   ●   ●               ●                       ●
+        ●           ●   ●   ●   ●   ●               ●   ●   ●       ●   ●   ●       ●       ●
+                                                                                            ●   ●   ●   ●   ●   ●   ●
+                                                                        ●   ●
+
+
+
+
+    ●   ●   ●
+            ●   ●       ●   ●                               ●                           ●
+                                                                                        ●                           ●
+                    ●   ●   ●   ●   ●   ●   ●   ●   ●
+                                                    ●   ●   ●   ●   ●   ●   ●       ●           ●   ●   ●   ●   ●
+
+
+
+
+                                                                                ●
+
+                                                                                ●
+
+    ●   ●   ●
+            ●   ●   ●   ●   ●   ●   ●   ●   ●   ●   ●
+                                                    ●   ●
+
+
+
+
+Figure 9: Comparing the effect of ideology and partisanship on corrections effects. Hollow points
+show the effect of corrections when modeled using partisanship, solid when modeled using ideology.
+The number in the facet label indicates study in which a particular issue was tested.
+

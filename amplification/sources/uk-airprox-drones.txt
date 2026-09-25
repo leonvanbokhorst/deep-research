@@ -1,0 +1,19 @@
+Drones | UK Airprox Board
+We use necessary cookies to make our website work. We'd also like to use optional cookies to understand how you use it, and to help us improve it.
+For more information, please read our cookie policy .
+Accept optional cookies
+Reject optional cookies
+Drones
+Small unmanned air system (SUAS) assessment
+For Airprox reporting purposes, SUAS are broken down into 4 categories:
+drones
+balloons (including toy balloons and meteorological/research balloons)
+model aircraft
+unknown objects
+SUAS Airprox usually involve only a fleeting encounter wherein the reporting pilot is often only able to give an outline description of the other air vehicle; as a result, the distinction between a drone, model aircraft and object is often down to the choice of wording by the reporting pilot.
+UKAB policy is to review the associated description and, if the reporting pilot has positively described something with drone-like properties (e.g. ‘4 rotors’) then that is taken at face-value as a drone; if the reporting pilot can only vaguely describe ‘an object’ then that is classified as an unknown object.
+The distinction between ‘drone’ and ‘model aircraft’ is more difficult given that many fixed-wing drones are not easily distinguishable from model aircraft. Although the UKAB tries to take the context of the sighting into account, it is therefore likely that some reported ‘Model Aircraft’ or ‘Unknown Object’ incidents were probably drones, and vice versa.
+The RAF Safety Centre have produced an informative video about flying drones in the same airspace as military aircraft. See their video titled ‘ Ask, Look, Listen ’
+UA and Other Airprox Count and Information can be downloaded in Excel Format (.xslx).
+CAP722: Unmanned Aircraft Systems Operations in UK Airspace
+Provide feedback for this page
