@@ -132,9 +132,15 @@ Two cautions are essential, and both cut against over-claiming:
 
 **Network amplification attacks.** A computer-security concept in which an attacker turns a system's own resources against it — using the target's bandwidth, reflexes or trust relationships as the weapon. Structurally identical to the hypothesised mechanism. **Fit: High as an analogy**, limited as a source of substantive claim since the domains differ in kind (deterministic systems versus sense-making populations).
 
-**Perception management and information operations / MISO.** US doctrine explicitly includes managing perceptions and influencing behaviour, including through *withholding* and *shaping* as well as falsehood. Fit: **High for the mechanism, moderate for the novelty** — nothing in the hypothesis is outside the definitional scope of IO.
+**Information operations, PSYOP and MISO — with two doctrine corrections.** US doctrine explicitly includes influencing behaviour, including through *withholding* and *shaping* as well as falsehood. Fit: **High for scope, low for novelty** — nothing in the hypothesis falls outside the definitional scope of information operations.
+
+Two corrections matter to anyone citing this lineage:
+
+- **"Perception management" is not a current US Department of Defense term, despite being widely cited as one.** Its last dictionary appearance was JCS Pub 1-02 (1 December 1989); it was **dropped in the 8 November 2010 reissue** and appears in neither the November 2021, September 2024 nor June 2025 DoD dictionaries. It is also a sender-to-message model aimed at foreign audiences, with **no concept of the audience manufacturing meaning** — which is precisely the mechanism of interest here. **It therefore fits poorly, and this report does not rely on it.** Influential secondary sources (including *The Intercept* in 2023 and Tennant in 2026) treat the term as current; they are wrong.
+- **The direction of the recent PSYOP/MISO renaming is routinely reported backwards.** The December 2025 US memo renamed **MISO back to PSYOP** — not MISO to "information operations". Nor was it abrupt: the US Army had already reverted its **unit names** to PSYOP in **October 2017** while retaining MISO as the *function* ("PSYOP forces conduct MISO; PSYOP refers to the name of units, while MISO refers to the function"). The 2025 memo completed an Army-led reversion. Separately, **JP 3-13's successor is JP 3-04, "Information in Joint Operations" (14 September 2022)** — a useful marker of where the doctrine actually went.
 
 **Active measures.** Soviet practice (disinformation, forgeries, front organisations, agent-of-influence operations), documented extensively in the Mitrokhin archive and analysed by Rid. Fit: **High.** Active measures supply the historical proof that states run such operations and the historical record of how often they failed. What is new is not the intent but the labour model.
+
 
 **Hybrid warfare and the "grey zone".** Fit: **High as context, poor as an analytical tool.** The term has been criticised as over-broad and unfalsifiable; it usefully locates the hypothesis in a strategic setting but adds little explanatory precision. Note that much of the European drone-sighting activity has been *attributed* to hybrid warfare on far weaker evidence than the term's use implies (§5.1).
 
@@ -199,7 +205,8 @@ Stripping away the parts that existing concepts already cover, **three elements 
 | Strategy of tension | Italian, 1960s–80s | Deliberate | **High** | Supplies the *motive* — fear as an objective, not a by-product |
 | Network amplification attacks | Computer security | Deliberate | **High (analogy)** | The "turn the target's own resources against it" structure |
 | Active measures | Soviet practice | Deliberate | **High** | Historical proof of intent and of failure |
-| Perception management / IO / MISO | US doctrine | Deliberate | **High (scope), Low (novelty)** | Definitional umbrella |
+| Information ops / PSYOP (MISO is the function, PSYOP the unit name) | US doctrine | Deliberate | **High (scope), Low (novelty)** | Definitional umbrella |
+| Perception management | US doctrine, **retired 2010** | Deliberate | **Poor** | Sender→message model with no audience-as-amplifier; **not a current term — do not cite as one** |
 | Availability cascades | Kuran & Sunstein 1999 | Emergent, with entrepreneurs | **High** | Small-input/large-output mechanism; probability neglect |
 | Rumour theory | Allport & Postman | Emergent; **self-correction is a myth** (correction:claim ratios up to 44:1) | **High** | Importance × ambiguity; the informational vacuum |
 | Social amplification of risk | Kasperson et al. 1988 | Emergent (accidents) | **High (description), Poor (prediction)** | Amplification stations = the causal chain. **Contains no attacker** |
