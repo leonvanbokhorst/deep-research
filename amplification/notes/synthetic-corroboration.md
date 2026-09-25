@@ -389,7 +389,29 @@ The framing that matters, and which the sibling notes already support: the evide
 
 ---
 
+# 4. CROSS-CUTTING ASSESSMENT — the enforced/unenforced asymmetry
+
+The single most useful analytic result to come out of assembling both topics is a **clean asymmetry in what the law actually enforces**:
+
+| Dimension | Synthetic **sexual** abuse (NCII) | Synthetic **political** content |
+|---|---|---|
+| First US federal conviction | **Yes** — Ohio, April 2026 (TAKE IT DOWN Act), sentenced 15 years on 8 Sep 2026 | **None anywhere** |
+| Custodial sentences | S. Korea 18 months (1,141 items); Australia; Japan; Ohio | **None** |
+| Platform duties | **Yes** — 48-hour takedown on individual request, enforceable from 19 May 2026; FTC enforcement live | **No** — CA AB 2655 enjoined, AB 2839 struck down |
+| EU enforcement | **Yes** — Commission DSA investigation into X/Grok (26 Jan 2026); Dutch court order (26 Mar 2026); Irish DPC probe (17 Feb 2026) | **None found** |
+| Injunctive relief | Yes | India (Chadha, Jun 2026); NH civil case (Nov 2025) — narrow and defied |
+
+**Why the asymmetry exists.** NCII regulation is **content-neutral as to viewpoint** — it targets a category of harm (non-consensual intimate depiction) without requiring any judgment about the truth or falsity of a political claim. Political-deepfake regulation, by contrast, necessarily requires the state to decide what is "materially deceptive" about **election speech**, which is why every serious attempt has collided with the First Amendment (US states) or been confined to **transparency and labelling** rather than prohibition (EU Article 50, with a *voluntary* marking code).
+
+**The defensive implication, stated carefully.** A defender cannot rely on criminal or civil law to deter political deepfakes in 2026 — the record shows acquittals, uncollected fines, defied judgments and struck-down statutes. What *does* have demonstrated teeth is (a) **carrier-level liability** (Lingo paid $1m for signing calls it could not validate — the only money collected in the NH affair) and (b) **platform-level takedown duties anchored to individual harm** rather than to political falsity. Both are **chokepoint** strategies, and both are where the enforcement energy in 2026 actually sits. Provenance and authentication at the network layer — STIR/SHAKEN attestation and caller-ID integrity — is the mechanism that produced the only real financial consequence in the best-documented case in the world.
+
+**What would change this assessment.** (i) A conviction for a political deepfake in any major jurisdiction. (ii) Actual collection of the Kramer forfeiture, or a DOJ referral. (iii) Enactment of the NO FAKES Act (cleared Senate Judiciary 18 Jun 2026) with meaningful remedies. (iv) A DSA or EU AI Act enforcement action aimed at *political* synthetic content rather than NCII. (v) Any peer-reviewed study demonstrating a measured belief or turnout effect from a real political deepfake. As of 25 September 2026, **none of these has occurred.**
+
+---
+
 # 5. FAILED SEARCHES / NEGATIVE FINDINGS
+
+## 5.1 Claims and figures I could NOT verify
 
 1. **No evidence Kramer ever paid any part of the $6,000,000 FCC forfeiture.** Searches for payment, DOJ referral, or collection action returned nothing. The FCC's order (FCC 24-104 ¶50) provides for referral to DOJ, but I found **no record of referral**. Treat "$6M forfeiture" as **imposed but uncollected**.
 2. **I could not retrieve the docket** in *League of Women Voters of New Hampshire v. Kramer* to confirm the court (AP says "federal court"; the tort claim reads like a state action), the exact judgment date beyond "Friday" = 21 Nov 2025, or the injunction's precise wording. The **$22,500 ($7,500 × 3)** figure and the nationwide injunction rest on a single AP report republished by the Boston Herald. **Grade C, single-source.**
