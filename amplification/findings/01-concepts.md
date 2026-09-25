@@ -92,12 +92,10 @@ population as uncontrolled co-producer**. **M**.
 cognitive warfare as reflexive control rebranded. The Chinese lineage includes the
 "Three Warfares", PLA "cognitive domain operations", and — closest prior art for the AI version —
 SCSP (2024) on PLA "algorithmic cognitive warfare" using algorithms and LLMs for individualised
-influence. **H** du Cluzel; **M** PLA material. It claims conflict is waged over cognition itself,
-whole-of-society; the "black box problem" critique (*Small Wars Journal*, July 2026) notes "targeting
-cognition" is under-specified. **Misfit — the sharpest distinction here:** cognitive warfare contests
-**what people believe**; H1 engineers **what institutions do**. Belief is H1's instrument, not its
-objective, and H1's payoff can arrive in one news cycle rather than a prolonged legitimacy campaign.
-**M**.
+influence. **H** du Cluzel; **M** PLA material. **Misfit — the sharpest distinction here:** cognitive
+warfare contests **what people believe**; H1 engineers **what institutions do**. Belief is H1's
+instrument, not its objective, and H1's payoff can arrive in one news cycle rather than a prolonged
+legitimacy campaign. **M**.
 
 **Strategic signalling — Partial, and clarifying.** Schelling, *The Strategy of Conflict* (1960) and
 *Arms and Influence* (1966): the "threat that leaves something to chance"; brinkmanship as
@@ -124,21 +122,25 @@ physical precedents (Operation Infektion; the 1980s nuclear-freeze forgery) are 
 physical things, not exploitation of real ambiguity — which changes the countermeasure from
 provenance analysis to decision discipline. **M**.
 
-**CIB / computational propaganda — Partial (enabling layer only).** Meta's 2018–19 "Coordinated
-Inauthentic Behaviour" vocabulary, later migrating toward "influence operations" reporting; X, TikTok
-and Google TAG equivalents; Woolley & Howard (eds.), *Computational Propaganda* (Oxford UP, 2018).
-**M** on the verbatim current Meta definition — **UNVERIFIED** here. CIB covers coordinated
-fake-account networks and explicitly **excludes authentic organic speech** — a critical boundary,
-since a cascade of genuine citizen drone reports is not CIB even when it causes more damage. **Fit:
-Partial** — it names the practice agents would automate. **Misfit — and here the evidence cuts
-against H1.** Effects are small and concentrated: Eady et al. (2023) found 1% of accounts received 70%
-of exposures with "no evidence of a meaningful relationship" to attitude change. Anthropic's September
-2026 report
-(https://www.anthropic.com/threat-intelligence-report-september-2026) records: *"Most of the content
-we discovered drew little or no authentic engagement."* A commercial operation publishing **8,913
+**CIB / computational propaganda — Partial (enabling layer only).** Meta introduced "Coordinated
+Inauthentic Behaviour" in its 2018 takedowns and defined it in a 2019 policy update as groups of
+accounts "working together to mislead people about who they are and what they're doing" — false
+identities central, and **"agnostic of content or ideology"** (the brand later became the Adversarial
+Threat Report). **H**. That framing matters: CIB targets the fake-account *network* and explicitly
+**excludes authentic organic amplification** — exactly H1's payload, since a cascade of genuine
+citizen drone reports is not CIB even when it does more damage. The canonical critique is Starbird, Arif & Wilson (2019),
+documenting "authentic accounts (real people, sincerely participating)" inside disinformation
+campaigns that CIB policy "would have difficulty addressing". **Fit: Partial** — it names the practice
+agents would automate. **Misfit — and here the evidence cuts hard against
+H1.** Effects are small and concentrated: Eady et al. (2023) found 1% of accounts received 70% of
+exposures with "no evidence of a meaningful relationship" to attitude change. OpenAI's own threat
+reports state that AI-enabled operations "do not appear to have meaningfully increased their audience
+engagement or reach", and Anthropic's September 2026 report records: *"Most of the content we
+discovered drew little or no authentic engagement."* A commercial operation publishing **8,913
 articles in ~20 languages** across ~70 fake news sites reached only **Category Two on the Breakout
-Scale**; the widest authentic reach came from **state broadcast media**. **H** (first-party
-disclosure). **Production scales; reach and persuasion do not.**
+Scale**. Decisively, **autonomous agent-to-agent propaganda coordination has been demonstrated only in
+simulation, never observed in the wild** (USC, WWW 2026). **H**. **Production scales; reach and
+persuasion do not.**
 
 ---
 
@@ -163,15 +165,14 @@ it is applied to the European drone wave on **weaker evidence than its use impli
 likely Kremlin campaign" finding is a think-tank judgement, and IISS notes **no European government
 has publicly attributed a UAV sighting to Russia**. **H**.
 
-**Perception management — Poor.** It is **not a current DoD term**: dropped from the dictionary in
-the **2010 reissue** and absent from the 2021, 2024 and June 2025 editions. Its model is
-sender→message to foreign audiences, with no concept of the audience manufacturing its own meaning.
-**H**.
+**Perception management — Poor.** Not a current DoD term: dropped in the **2010 reissue** and absent
+from the 2021, 2024 and June 2025 dictionaries. Its model is sender→message to foreign audiences, with
+no concept of the audience manufacturing its own meaning. **H**.
 
 **Information laundering — Moderate, technique only.** Adam Klein's term describes moving material
 through progressively more reputable channels until provenance is obscured. Anthropic documents the AI
-version: actors stripping state attribution so claims "read as independently confirmed", and removing
-caveats so unverified claims present as fact. A *technique inside* the mechanism, not the mechanism.
+version: actors stripping state attribution so claims "read as independently confirmed". A *technique
+inside* the mechanism, not the mechanism.
 
 
 ---
@@ -203,10 +204,6 @@ of the situation evoking a new behavior which makes the originally false concept
 bank run ("the prophecy of collapse led to its own fulfilment") — but it **requires no attacker**,
 which is the gap H1 fills.
 
-**Prior-art conclusion.** Every component is named; only the combination is not (see §5). The term
-returns zero hits in arXiv and Crossref; no peer-reviewed "AI-driven reflexive control" work was found;
-SARF has no adversarial branch.
-
 ---
 
 ## 5. Fit verdict
@@ -236,16 +233,16 @@ threat class is over-claiming, and that is what the evidence shows.**
    and changes the defence from counter-messaging to **decision discipline under uncertainty**. **M**.
    The sharpest distinctive claim.
 2. **The labour model, not the logic.** Reflexive control and active measures were limited by the
-   number of people who could run personas, translate, maintain accounts and work shifts. Anthropic
-   documents that constraint being removed: persistent campaign memory, doctrine files reused across
-   hundreds of sessions, 8,913 articles in ~20 languages. In operations cost and scale *are* strategy,
-   but this is a change in degree. **H** on capability; **L** on any physical-threat effect.
+   number of people who could run personas, translate and maintain accounts. Anthropic documents that
+   constraint being removed: persistent campaign memory, doctrine files reused across hundreds of
+   sessions, 8,913 articles in ~20 languages. In operations cost and scale *are* strategy, but this is
+   a change in degree. **H** capability; **L** physical-threat effect.
 3. **Continuous reflexive coupling.** Prior reflexive-control theory assumed a planning cycle and a
    human model of the adversary. An agent system can observe reaction and adjust within the same news
    cycle, converting a discrete operation into a closed loop — and can do so **without modelling the
-   target**, because the exploited reflex ("ambiguous physical threat → act as if real") is universal.
-   Reflexive control automated, decoupled from intelligence requirements, and pointed at institutions
-   rather than commanders. **M/L**.
+   target**, because the exploited reflex ("ambiguous physical threat → act as if real") is universal:
+   reflexive control automated, decoupled from intelligence requirements, aimed at institutions rather
+   than commanders. **M/L**.
 4. **Synthetic corroboration at scale.** Presenting one ambiguous event as many *independent*
    witnesses converts an unresolvable incident into a well-attested one. Historically expensive; now
    plausibly cheap. **M** capability, **L** deployed use.
@@ -284,4 +281,5 @@ Works cited inline by author and year. Key retrieval URLs:
 
 - Kuran & Sunstein 1999 — https://chicagounbound.uchicago.edu/public_law_and_legal_theory/37 · Rid 2020 — https://hewlett.org/the-secret-history-of-disinformation-and-political-warfare-five-questions-for-thomas-rid/
 - Thomas *JSLS* 2004 — https://www.tandfonline.com/doi/full/10.1080/13518040490450529 · du Cluzel, NATO ACT 2021 — https://innovationhub-act.org/wp-content/uploads/2023/12/20210113_CW-Final-v2-.pdf · SCSP 2024 — https://www.scsp.ai/wp-content/uploads/2024/11/Decoding-Chinas-AI-Powered-%E2%80%98Algorithmic-Cognitive-Warfare-Final.pdf
-- Hegseth memo 2 Dec 2025 — https://media.defense.gov/2025/Dec/08/2003839440/-1/-1/0/CHANGING-THE-TERM-MILITARY-INFORMATION-SUPPORT-OPERATIONS-BACK-TO-PSYCHOLOGICAL-OPERATIONS.PDF · Eady 2023 — https://www.nature.com/articles/s41467-022-35576-9 · Anthropic Sept 2026 — https://www.anthropic.com/threat-intelligence-report-september-2026 · IISS 2026 — https://www.iiss.org/research-paper/2026/06/russias-uav-campaign-over-europe/
+- Meta CIB policy (2019) — https://about.fb.com/2019/10/inauthentic-behavior-policy-update/ · Starbird, Arif & Wilson 2019 — https://dl.acm.org/doi/10.1145/3359228 · Eady 2023 — https://www.nature.com/articles/s41467-022-35576-9
+- Hegseth memo 2 Dec 2025 — https://media.defense.gov/2025/Dec/08/2003839440/-1/-1/0/CHANGING-THE-TERM-MILITARY-INFORMATION-SUPPORT-OPERATIONS-BACK-TO-PSYCHOLOGICAL-OPERATIONS.PDF · Anthropic Sept 2026 — https://www.anthropic.com/threat-intelligence-report-september-2026 · IISS 2026 — https://www.iiss.org/research-paper/2026/06/russias-uav-campaign-over-europe/

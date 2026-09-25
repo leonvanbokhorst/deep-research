@@ -76,6 +76,8 @@ Two further changes deserve equal billing, and both are easy to miss:
 
 **The verdict.** Partially supported, substantially overstated as commonly framed, and worth monitoring for a specific and narrow reason: the mechanism is **cheap to attempt, hard to attribute, and the target does most of the work**. That is a bad combination for deterrence, even when the expected effect is modest.
 
+**And the hypothesis should be framed as plausible, novel and currently unobserved — not as an extrapolation from demonstrated effects.** Six independent evidence streams converged on that formulation. The single decisive constraint is this: **autonomous agent-to-agent propaganda coordination has been demonstrated only in simulation, never observed in the wild.** That removes the one element that would make the hypothesis genuinely novel — everything else can be assembled from components already documented. The evidence base here is **strong on mechanism and weak on measured effect, and the decisive gap is measurement, not understanding** (§7.5).
+
 ---
 
 ## 2. The hypothesis in falsifiable form
@@ -765,6 +767,38 @@ Setting this out in advance makes the hypothesis testable rather than rhetorical
 
 
 **The single most useful of these is the temporal-decoupling test.** Organic cascades have a characteristic signature: interest rises after an event, peaks, and decays. An engineered campaign would in principle show a different curve — activity preceding the triggering event, or a secondary rise after organic interest has decayed. **This is measurable, falsifiable, and has not, on the evidence located, been systematically applied.** It is the most concrete recommendation this study makes for making the hypothesis testable (§10.3).
+
+---
+
+### 7.5 The single most important constraint finding in the study
+
+Six independent evidence streams converged on the same conclusion, and the strongest element of it deserves to be stated on its own.
+
+> **Autonomous agent-to-agent propaganda coordination has been demonstrated only in simulation — never observed in the wild.**
+
+The demonstration is a 2026 USC study presented at the Web Conference (arXiv:2510.25003). It shows what agents *could* do under controlled conditions. **No real-world case has been observed.**
+
+**This matters more than any other negative finding in this report, because it removes the one element that would make the hypothesis genuinely novel.** Everything else in H1 can be assembled from components that already exist and are already documented — active measures, reflexive control, availability cascades, ordinary coordinated inauthentic behaviour. **"AI agents as the amplification engine" is the new part, and it is precisely the part with zero field evidence.**
+
+It joins three confirmed non-findings:
+
+| Non-finding | Status |
+|---|---|
+| AI generating or orchestrating **physical-incident** amplification | **No case found** (two independent searches) |
+| A **fully autonomous** real-world agentic influence campaign | **No case found** |
+| A **campaign-level causal estimate** that influence operations changed opinion or vote | **None exists** in the literature |
+
+**And the anti-hype evidence is not only from critics — it is from the platforms and labs themselves.** OpenAI's own threat reporting states that AI-enabled influence operations **"do not appear to have meaningfully increased their audience engagement or reach"**, and that it has **"not observed any cases of election-related influence operations attracting viral engagement or building sustained audiences."** Every election-related influence operation it disrupted scored at **Breakout Category 2**.
+
+**The cleanest natural experiment located.** In February 2026 OpenAI reported a case in which a single prompt produced one post with **150,000 views** and another with **57**. The difference tracked **follower count, not AI**. That is the entire distribution-versus-generation finding in one comparison: **the same tool, the same prompt, a factor of 2,600 in outcome — and the variable was the audience the account already had.**
+
+**A caution that undermines the detection layer too.** The bot-detection literature is a warning about false positives: **Botometer achieved an AUC of 0.85, not the widely cited 0.94**, and roughly **76% of accounts labelled "bots" were human** (Rauchfleisch & Kaiser, 2020); a separate analysis (Gallwitz & Kreil, 2022) found **"not a single social bot"** in its sample. **Coordination-detection tools systematically over-detect, which means attributing a cascade to automation is more likely to be wrong than right.**
+
+**A governance framing problem worth flagging.** Coordinated inauthentic behaviour is now properly defined — Meta formalised it on 21 October 2019, with **false identities central** and explicitly **"agnostic of content or ideology"**. It was never retired as policy; only the *reporting brand* changed. But **CIB targets the fake-account *network* and explicitly excludes authentic organic amplification — which is this hypothesis's entire payload.** The canonical critique (Starbird, Arif & Wilson, 2019) is titled, in its §5.2, "The Trouble with 'Coordinated Inauthentic Behavior'", and documents **"authentic accounts (real people, sincerely participating)"** that CIB policy "would have difficulty addressing."
+
+**The governance implication is direct: CIB is the wrong frame for this threat.** A mechanism that works through *genuine* citizens amplifying an ambiguous event cannot be governed by a policy designed to catch fake ones — and applying that frame risks the failure mode of mislabelling real public concern as coordinated manipulation.
+
+**Where this leaves the hypothesis, in the words all six strands converged on independently:** *plausible, novel, and currently unobserved* — **not** an extrapolation from demonstrated effects. The evidence base is strong on vocabulary and mechanism and weak on measured impact. **The decisive gap is measurement, not understanding.**
 
 ---
 
