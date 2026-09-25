@@ -1,0 +1,74 @@
+Russia-Ukraine war is accelerating the dangerous race toward fully autonomous drones
+Skip to content
+A Ukrainian soldier remotely controls an interceptor drone on Sept. 1, 2026.
+Alex Nikitenko/Global Images Ukraine via Getty Images
+https://theconversation.com/russia-ukraine-war-is-accelerating-the-dangerous-race-toward-fully-autonomous-drones-290877
+https://theconversation.com/russia-ukraine-war-is-accelerating-the-dangerous-race-toward-fully-autonomous-drones-290877
+Link copied
+Share article
+Share article
+Copy link
+Email
+Bluesky
+Facebook
+WhatsApp
+Messenger
+LinkedIn
+X (Twitter)
+Print article
+A battlefield dominated by fully autonomous drones capable of selecting and engaging targets without human intervention sounds like a dystopian sci-fi plot. And while that scenario has not yet arrived, the conflict between Russia and Ukraine has moved modern warfare a notch down that road.
+In recent years, both nations have deployed semi-autonomous drones in combat and are rapidly racing toward fully autonomous unmanned aerial vehicles.
+Given these developments and the pace of Russian and Ukrainian drone production, a battlefield with hundreds to thousands of fully autonomous drones operating is plausible within the next few years. Yet, the technology underpinning autonomous warfare risks outpacing the Russian and Ukrainian frameworks for maintaining some degree of human control over weapons.
+As an expert on weapons technology , I worry that the battlefield incentives to deploy more autonomous drones will completely push aside human targeting decisions related to using proportional force, avoiding strikes on non-combatants and limiting collateral damage.
+The creeping drone war
+Both Ukraine and Russia have increasingly prioritized the use and production of drones since the war began in February 2022. Unable to produce large numbers of one-way attack drones at first, Russia turned to Tehran for technological assistance – and has steadily developed its own capacity. Ukraine had a nascent drone industry and has grown it using private defense firms and technological innovation.
+Flames engulf a building in Dnipro, Ukraine, hit by a Russian drone on Sept. 19, 2026.
+Danyil Nikolaenko/Suspilne Ukraine/Global Images Ukraine via Getty Images
+As the war has progressed, both sides have added autonomous features to existing drones, as well as developed new drones with autonomous capabilities. Specifically, both Russia and Ukraine have deployed drones with autonomous functions using AI on the battlefield to recognize targets, navigate and self-guide to targets.
+In November 2025, a Ukrainian first-person-view drone used an AI-assisted guidance system to strike a probable Russian tank after the drone’s communications link with its operator was disrupted. A human operator selected the target, but the drone itself guided the final stages of the attack.
+Reliable estimates of the numbers of these drones on the battlefield are unavailable. However, reports on their usage suggest they represent only a small percentage of the millions of drones both sides have deployed to date.
+At the advanced end of the spectrum, Russia reportedly fielded at least one model of a fully autonomous unmanned aerial vehicle in early 2025. Ukrainian analysis of recovered Russian V2U drones revealed a small Nvidia computer designed to run AI-enabled decision-making software. Variants recovered in late 2025 no longer contained the external communications systems suggestive of operator control.
+Autonomous targeting
+The V2U’s technical systems are configured to enable autonomous selection and engagement of targets without operator intervention following launch.
+Human operators have generally selected intended targets or target areas for moral reasons, highlighting the significance of the V2U’s ability to carry out these missions autonomously.
+The onboard AI utilizes computer vision, allowing the drone to analyze images from its onboard sensors. It can autonomously recognize objects, track them, navigate and select potential targets.
+In July, Russia employed a different AI-enabled drone in combat that demonstrated a less comprehensive form of autonomous targeting. The strike, on a gas station in Zaporizhzhia, killed three Ukrainian civilians . Human operators selected the gas station as the target area, while onboard software independently picked the final aim point.
+Russia is also integrating versions of a similar technology into its Geran series unmanned aerial vehicles, which are based on Iran’s delta-wing Shaheed-136 attack drone. Some Gerans include a seeker guidance package that allows the onboard computer to guide the drone in the final flight phase, after a human operator initially selects the target.
+Ukraine, for its part, has focused on modular AI-driven packages , including chips with embedded software and sometimes cameras, that it can install widely across drone and other platforms. It has fielded drones that use onboard AI to identify targets and guide them in their final flight phase.
+One such module tracks targets and guides the drone the final 500 meters to them. The company that makes the computer advertises more advanced modules, which it claims will provide additional and even full autonomy.
+Ukraine claims to have used more advanced autonomous drones on the battlefield as well. Former Defense Minister Mykhailo Fedorov said in July that Ukraine used a drone that autonomously chooses targets with no radio connection to a human pilot in strikes in Russian-occupied Crimea at an unspecified date. He added that Ukraine has not mass-produced this drone.
+Ukraine also reportedly employed what have been dubbed fully autonomous quadcopter drones two years ago against Russian forces near Bakhmut, Ukraine, killing Russian soldiers . However, reports that the drones were preprogrammed raise questions about whether the drones independently selected the targets.
+Smoke rises from Russian oil producer Gazprom Neft’s Moscow oil refinery on Sept. 20, 2026, after a drone attack.
+AFP via Getty Images
+Battlefield advantages, ethical concerns
+Russian and Ukrainian drones with autonomous capabilities already have had battlefield impact, even though Kyiv and Moscow have not yet deployed the most advanced systems in large numbers.
+The benefits of deployment are clear. Drones with autonomous functions reduce their dependence on communications links and can continue despite jamming and other forms of electronic warfare. These capabilities help enable strikes deep into each other’s territory.
+Autonomous navigation and guidance in the final portion of flight can also improve drones’ ability to engage moving targets. Deployment of fully autonomous drones at scale could reduce the personnel required to operate large numbers.
+But autonomous drones come with serious ethical concerns.
+A major risk is that the development and employment of this technology leapfrogs the ability of Russia and Ukraine to maintain some type of human control over autonomous weapons. Ukrainian Ministry of Defense rules require keeping humans in the loop for “combat” decisions, meaning that humans verify targets in the “ final stages of interception .”
+In contrast, Russia’s arms control positions provide insights into its views on human control. Russian officials highlight “ human control ,” with a focus on the ability to alter the system, deactivate it or provide limitations, such as on the types of targets that it can engage. But Moscow does not stress that a human has to be in the loop for verifying targets before they strike them.
+As worrying as that sounds now, the next step in AI drone warfare is even more concerning: Swarming drones that can hunt in packs of a few to thousands and autonomously alter their behavior based on communicating with one another present a frightening challenge to maintaining human control.
+Artificial intelligence (AI)
+Europe
+Conflict
+Russia
+Weapons
+Drones
+Eastern Europe
+Ukraine
+Drone warfare
+Ukraine invasion 2022
+Russian-Ukraine war
+Amy McAuliffe , University of Notre Dame
+Author
+Amy McAuliffe
+Visiting Distinguished Professor of the Practice, University of Notre Dame
+Disclosure statement
+The views expressed represent those of the author and not the US Government.
+Partners
+University of Notre Dame provides funding as a member of The Conversation US.
+View all partners
+DOI
+https://doi.org/10.64628/AAI.3y6pm9433
+Events
+More events

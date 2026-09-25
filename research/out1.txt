@@ -1,0 +1,174 @@
+########## QUERY: drönare kärnkraftverk
+--- BING NEWS ---
+* Ryssland: Ukrainsk drönare mot kärnkraftverk
+  DATE: Fri, 12 Sep 2025 07:55:00 GMT
+  URL: https://www.dn.se/direkt/ukraina/2025-09-12/ryssland-ukrainsk-dronare-mot-karnkraftverk/
+  DESC: Ukraina har skickat en attackdrönare mot ett kärnkraftverk i ryska Smolensk, uppger det ryska statliga kärnenergiföretaget Rosatom. Kärnkraftverket ligger runt 30 mil väst om Moskva. Enligt ett ...
+* Ryskt kärnkraftverk träffat av drönare
+  DATE: Fri, 18 Sep 2026 09:56:00 GMT
+  URL: https://www.gp.se/nyheter/varlden/ryskt-karnkraftverk-traffat-av-dronare.4bd17f69-9a29-5837-94fb-2ac34c79a475
+  DESC: En drönare träffade ett kyltorn på en reaktor på kärnkraftverket i Kursk i Ryssland på torsdagen, uppger FN:s kärnenergiorgan IAEA.
+* Drönare gjorde hål i vägg på kärnkraftverk
+  DATE: Mon, 03 Feb 2025 03:47:00 GMT
+  URL: https://www.expressen.se/nyheter/expressen-direkt/?post=6eff59d7-48a6-4ac9-a060-e8e9bb8dfceb
+  DESC: Internationella atomenergiorganet IAEA skriver på plattformen X att man har informerats om att en drönare träffat en turbinbyggnad vid kärnkraftverket Zaporizjzja i Ukraina och orsakat ett hål i en ...
+* IAEA: Kärnkraftverk träffat av drönare
+  DATE: Sun, 31 May 2026 02:34:00 GMT
+  URL: https://www.aftonbladet.se/nyheter/a/8p9k3E/ryska-uppgifter-karnkraftverk-traffat-av-dronare
+  DESC: Ukrainska drönare ska även ha träffat en oljedepå i södra Ryssland, långt från frontlinjen i det ryska invasionskriget. Även en pumpanläggning vid en oljeledning angreps i en separat drönarattack, ...
+* Kärnkraft – nyheter och fördjupning • Ny Teknik
+  DATE: Tue, 08 Sep 2026 23:41:00 GMT
+  URL: https://www.nyteknik.se/amnen/teknikvisionarerna/k%C3%A4rnkraft
+  DESC: Bill Gates kärnkraftsbolag Terrapower har fått byggtillstånd för sin natriumkylda reaktor i Wyoming. Det är första gången en ny avancerad reaktordesign i kommersiell skala får klartecken av ...
+* IAEA: Drönarincident vid kärnkraftverk
+  DATE: Sun, 03 May 2026 09:42:00 GMT
+  URL: https://www.dn.se/direkt/ukraina/2026-05-03/iaea-dronarincident-vid-karnkraftverk/
+  DESC: Ryssland har beskjutit ett Antigua och Barbuda-flaggat civilt fartyg i Svarta havet, skriver Ukrainas hamnmyndighet på Telegram. En brand ska ha utbrutit och den ukrainska kaptenen dödades medan övrig ...
+* IAEA: Kärnkraftverk träffat av drönare
+  DATE: Sat, 30 May 2026 20:12:00 GMT
+  URL: https://www.vk.se/2026-05-31/iaea-karnkraftverk-traffat-av-dronare-faa8b
+  DESC: Drönaren i angreppet i Zaporizjzja ska enligt anläggningens ryska ledning ha träffat en turbinbyggnad och uppges ha orsakat ett hål i en vägg. Viktig kärnteknisk utrustning skadades inte, enligt ...
+* Kärnkraftverk attackerat av drönare
+  DATE: Sun, 17 May 2026 04:25:00 GMT
+  URL: https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1466212
+  DESC: 47 kaniner har omhändertagits från en uppfödare i Lidköping efter att länsstyrelsen konstaterat flera brister. Djuren ska ha saknat vatten, skriver P4 Örebro. Åtta kaniner avlivades efter att ha ...
+* IAEA: Kärnkraftverk träffat av drönare
+  DATE: Sun, 31 May 2026 03:11:00 GMT
+  URL: https://www.tv4.se/artikel/tt-260531-ukrainaoro1-ad00fa41/iaea-karnkraftverk-traffat-av-dronare
+  DESC: Kärnkraftverket i Zaporizjzja i det ryskockuperade södra Ukraina har träffats av en drönare, enligt ryska uppgifter till FN:s atomenergiorgan IAEA. Ukrainska drönare ska även ha träffat en oljedepå i ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: drönare Forsmark
+--- BING NEWS ---
+* Drönare flög över Forsmark - igen
+  DATE: Wed, 20 Nov 2019 09:00:00 GMT
+  URL: https://www.unt.se/nyheter/osthammar/artikel/dronare-flog-over-forsmark-igen-/wl6249wr
+  DESC: Det var strax efter klockan 06 som kärnkraftverkets personal uppmärksammade drönaren. Den otillåtna flygningen är den tredje inom loppet av en månad. – Det har skett relativt ofta och det verkar vara ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: drönare Ringhals Oskarshamn
+--- BING NEWS ---
+(no items)
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: Säpo drönare kärnkraftverk
+--- BING NEWS ---
+(no items)
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: drone kerncentrale Doel
+--- BING NEWS ---
+* Drone vliegt boven kerncentrale Doel
+  DATE: Sun, 21 Dec 2014 19:00:00 GMT
+  URL: https://www.standaard.be/binnenland/drone-vliegt-boven-kerncentrale-doel/43223015.html
+  DESC: Een drone is zaterdag over de nucleaire centrale van Doel gevlogen. Dat laat Electrabel weten in een persbericht. ‘Het toestel werd onmiddellijk opgemerkt door de ploegen van Electrabel. De bevoegde ...
+* Explosie in kerncentrale Doel: "Geen aanwijzingen voor kwaad opzet"
+  DATE: Sat, 31 Oct 2015 15:42:00 GMT
+  URL: https://www.demorgen.be/tech-wetenschap/explosie-in-kerncentrale-doel-geen-aanwijzingen-voor-kwaad-opzet~b9e13555/
+  DESC: Rond 23 uur gisteravond is in de kerncentrale van Doel alarm geslagen, nadat een transformator was ontploft op de site van kernreactor Doel 1. De ontploffing ging gepaard met een kleine brand. Het is ...
+* Drone vliegt over Belgische kerncentrale
+  DATE: Sat, 20 Dec 2014 08:22:00 GMT
+  URL: https://www.telegraaf.nl/video/drone-vliegt-over-belgische-kerncentrale/84106729.html
+  DESC: Minister-president Rob Jetten spreekt zich kort voor de Canal Parade uit over de chaos in de Spaanse exclave Ceuta. Daar kwamen meer dan vijftigduizend mensen massaal de Spaans-Marokkaanse grens over.
+* 'Destructieve staalnames' maken opnieuw in gebruik nemen van kernreactoren Doel 3 en Tihange 2 zo goed als onmogelijk
+  DATE: Fri, 11 Sep 2026 10:25:00 GMT
+  URL: https://www.vrt.be/vrtnws/nl/2026/09/03/kernreactoren-doel-3-en-tihange-2-definitief-verloren-engie-voe/
+  DESC: Kernreactoren Doel 3 en Tihange 2 lijken vrijwel zeker verloren na zogenaamde 'destructieve staalnames' op de reactorvaten, 2 jaar geleden. De regering, die de reactoren wil overnemen, is op de hoogte ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: drone centrale nucléaire Tihange
+--- BING NEWS ---
+* La centrale nucléaire de Tihange n'est pas à l'abri des drones, faut-il renforcer sa sécurité?
+  DATE: Fri, 07 Nov 2025 07:42:00 GMT
+  URL: https://www.lavenir.net/regions/huy-waremme/2025/11/07/la-centrale-nucleaire-de-tihange-nest-pas-a-labri-des-drones-faut-il-renforcer-sa-securite-CEUAHVGLWZBDLK5HELOOTIBDOE/
+  DESC: Après les survols de drones suspects à des fins supposées d'espionnage au-dessus de plusieurs sites militaires et des aéroports de Zaventem et Bierset, on a appris ce jeudi que le centre de recherche ...
+* Une fuite d’acide repérée à la centrale nucléaire de Tihange
+  DATE: Wed, 31 Dec 2025 00:25:00 GMT
+  URL: https://www.7sur7.be/belgique/une-fuite-dacide-reperee-a-la-centrale-nucleaire-de-tihange~a7210883/
+  DESC: Les pompiers sont en intervention ce mercredi sur le site de la centrale nucléaire de Tihange (province de Liège), a communiqué en début d’après-midi le dispatching de la zone de secours 2.
+* Centrale nucléaire de Tihange : on a simulé ce jeudi matin une intrusion avec menace
+  DATE: Thu, 17 Sep 2026 09:39:00 GMT
+  URL: https://www.lavenir.net/regions/huy-waremme/huy/2026/09/17/centrale-nucleaire-de-tihange-on-a-simule-ce-jeudi-matin-une-intrusion-avec-menace-BEFQXL2IDZDZBIHGIHCTWUOQQU/
+  DESC: Des forces de l'ordre et des unités spécialisées de la Défense sont intervenues ce jeudi matin à la centrale nucléaire. Il s'agissait d'un exercice.
+* Simulation d’intrusion à la centrale de Tihange (Huy) : policiers, militaires et agents de sécurité mobilisés
+  DATE: Thu, 17 Sep 2026 05:54:00 GMT
+  URL: https://www.sudinfo.be/id1194851/article/2026-09-17/simulation-dintrusion-la-centrale-de-tihange-huy-policiers-militaires-et-agents
+  DESC: Ce jeudi matin, un message diffusé par les équipes du Gouverneur de la province de Liège, Hervé Jamar, faisait état d’un important déploiement de police et des forces spéciales de la Défense pour un e ...
+* Énorme faille dans la sécurité de la centrale de Tihange: un drone l'a survolée en toute tranquillité
+  DATE: Thu, 04 Dec 2014 02:01:00 GMT
+  URL: https://www.rtl.be/art/d-18261207-ZVXYDW
+  DESC: Nos journalistes ont réalisé un reportage qui pose de sérieuses questions de sécurité. Suite au survol de nombreuses centrales nucléaires en France par des drones, Electrabel affirmait surveiller de ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: drone kerncentrale
+--- BING NEWS ---
+* Drone slaat in bij Russische kerncentrale
+  DATE: Fri, 18 Sep 2026 11:32:00 GMT
+  URL: https://nieuws.nl/buitenland/drone-slaat-in-bij-russische-kerncentrale
+  DESC: WENEN (ANP) - Een koeltoren van een Russische kerncentrale in Koersk zou geraakt zijn door een drone. Het Internationaal Atoomenergieagentschap (IAEA) laat via X weten dat het daar een melding van hee ...
+* Rusland: Oekraïense drone neergestort bij kerncentrale Zaporizja
+  DATE: Sat, 16 May 2026 07:05:00 GMT
+  URL: https://nieuws.nl/buitenland/rusland-oekraiense-drone-neergestort-bij-kerncentrale-zaporizja
+  DESC: MOSKOU (ANP/RTR) - Een Oekraïense drone is zaterdag neergestort op het terrein van de kerncentrale van Zaporizja in het zuidoosten van Oekraïne, meldt de door Rusland aangestelde directie van de ...
+* Live Oorlog Oekraïne | Rapport waarschuwt: Europese Unie is niet op tijd klaar voor verdediging tegen Rusland
+  DATE: Thu, 24 Sep 2026 03:22:00 GMT
+  URL: https://www.bndestem.nl/buitenland/live-oorlog-oekraine-zelensky-russische-drone-heeft-chinees-vrachtschip-geraakt~adfb97be/
+  DESC: Denemarken gaat nieuwe steun voor Oekraïne sneller overmaken. Dat gebeurt omdat maandag een incident plaatsvond waarbij een Russisch oorlogsschip lichtkogels afvuurde richting een Deense helikopter. „ ...
+* Liveblog Oekraïne | Drone slaat in bij Russische kerncentrale
+  DATE: Fri, 18 Sep 2026 13:51:00 GMT
+  URL: https://www.bnr.nl/nieuws/internationaal/10610568/liveblog-oekraine-moskou-claimt-neerhalen-honderden-drones
+  DESC: De Russische luchtverdediging heeft voor het openen van de stembussen in Moskou honderden Oekraïense drones onderschept ...
+* Oekraïense droneaanvallen in Rusland, brand bij kerncentrale Koersk
+  DATE: Sun, 24 Aug 2025 03:51:00 GMT
+  URL: https://nos.nl/artikel/2579703-oekraiense-droneaanvallen-in-rusland-brand-bij-kerncentrale-koersk
+  DESC: Oekraïne heeft volgens Rusland tientallen drones op diverse Russische steden afgestuurd. Een van de drones veroorzaakte voor korte tijd brand in de kerncentrale van Koersk, aan de grens met Oekraïne, ...
+* Opnieuw drones gespot bij gevoelige locaties: zwerm vliegt ’s nachts langs kerncentrale Borssele
+  DATE: Thu, 23 Jul 2026 02:38:00 GMT
+  URL: https://www.ad.nl/binnenland/opnieuw-drones-gespot-bij-gevoelige-locaties-zwerm-vliegt-s-nachts-langs-kerncentrale-borssele~a28e1b8d/
+  DESC: In Nederland en andere Europese landen werd in november vorig jaar een hele reeks meldingen gedaan van dronevluchten boven gevoelige locaties als vliegvelden, militaire complexen, havens en chemische ...
+* Weer drones boven België: waarnemingen bij vliegveld Luik en kerncentrale Antwerpen
+  DATE: Mon, 10 Nov 2025 00:40:00 GMT
+  URL: https://www.bnr.nl/nieuws/internationaal/10587283/weer-drones-boven-belgie-waarnemingen-bij-vliegveld-luik-en-kerncentrale-antwerpen
+  DESC: Het vliegverkeer bij de luchthaven van Luik werd zondagavond opnieuw tijdelijk stilgelegd om een melding van een drone. Dat meldt luchtverkeersleider Skeyes. Rond 20.30 uur werd het vliegverkeer ...
+* LIVE Oorlog Oekraïne | Enige stroomkabel van grootste kerncentrale van Europa opnieuw kapot, drone opgedoken in Roemenië
+  DATE: Thu, 20 Aug 2026 06:43:00 GMT
+  URL: https://www.pzc.nl/buitenland/live-oorlog-oekraine-oekraine-denkt-snel-zelf-raketten-voor-patriots-te-kunnen-maken-defensieminister-stapt-op~adfb97be/?slug_rd=1
+  DESC: De enige externe stroomkabel naar de bezette kerncentrale Zaporizja in Oekraïne is opnieuw kapot, meldt het Internationaal Atoomenergieagentschap (IAEA). Dat laat ook weten dat de noodgeneratoren ...
+* Drones gezien bij Belgische kerncentrale Doel en luchthaven Luik
+  DATE: Sun, 09 Nov 2025 14:28:00 GMT
+  URL: https://nos.nl/artikel/2589862-drones-gezien-bij-belgische-kerncentrale-doel-en-luchthaven-luik
+  DESC: In België zijn opnieuw drones gesignaleerd, nu boven de kerncentrale in Doel. De uitbater van de kerncentrale, Engie, meldt dat er drie drones zijn gezien. Er zijn geen gevolgen voor de werking van de ...
+* Brand bij kerncentrale in Verenigde Arabische Emiraten na aanval met drone, aanval zet staakt-het-vuren verder onder druk
+  DATE: Sun, 17 May 2026 05:15:00 GMT
+  URL: https://www.nrc.nl/nieuws/2026/05/17/brand-bij-kerncentrale-in-verenigde-arabische-emiraten-na-aanval-met-drone-aanval-zet-staakt-het-vuren-verder-onder-druk-a4928024
+  DESC: Nieuws Feitelijke berichtgeving, waargenomen en geverifieerd door de verslaggever of door bronnen met kennis van zaken Er is brand ontstaan bij de kerncentrale Barakah in de Verenigde Arabische ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: FAI drone kerncentrale
+--- BING NEWS ---
+* Drones gespot boven kerncentrale Doel
+  DATE: Mon, 10 Nov 2025 01:24:00 GMT
+  URL: https://www.tijd.be/ondernemen/milieu-energie/drones-gespot-boven-kerncentrale-doel/10635096.html
+  DESC: Ondernemen Milieu & Energie Advertentie Drones gespot boven kerncentrale Doel Zondagavond zijn drie drones gesignaleerd boven de nucleaire site van Electrabel (Engie) in de Antwerpse haven. Er waren ...
+* Na de drones boven de kerncentrale in Doel: zijn sabotage en nucleair gevaar echt uitgesloten?
+  DATE: Sun, 09 Nov 2025 22:50:00 GMT
+  URL: https://www.hln.be/binnenland/na-de-drones-boven-de-kerncentrale-in-doel-zijn-sabotage-en-nucleair-gevaar-echt-uitgesloten~adac9c3a/
+  DESC: Gisteravond hebben medewerkers van de nucleaire site drie drones boven de kerncentrale van Doel gesignaleerd. Dat incident heeft niet voor nucleair gevaar gezorgd, maar doet wel de vraag rijzen: ...
+* Aanbieding voor €0,49/week
+  DATE: Sun, 09 Nov 2025 22:51:00 GMT
+  URL: https://www.telegraaf.nl/buitenland/bewakers-spotten-drie-drones-boven-belgische-kerncentrale-van-doel/103880365.html
+  DESC: Er zijn zondagavond drie drones gespot boven de Belgische kerncentrale van Doel, vlak over de grens met Nederland. Bewakers hebben hierop de politie ingeschakeld. Dat meldt energieleverancier Engie.
+* Overkapping kerncentrale Tsjernobyl niet meer stralingsdicht door droneaanval, zegt IAEA
+  DATE: Sat, 06 Dec 2025 01:51:00 GMT
+  URL: https://www.demorgen.be/nieuws/overkapping-kerncentrale-tsjernobyl-niet-meer-stralingsdicht-door-droneaanval-zegt-iaea~bc43d13f/
+  DESC: Volgens Oekraïne is de schade het gevolg van een Russische droneaanval. In februari raakte een drone de beschermende sarcofaag, de ‘New Safe Confinement’ die met veel moeite voor een bedrag van € 1,5 ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================

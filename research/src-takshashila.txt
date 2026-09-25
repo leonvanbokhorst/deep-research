@@ -1,0 +1,392 @@
+Title: The Shahed Drone
+
+URL Source: https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html
+
+Published Time: Thu, 24 Sep 2026 22:04:03 GMT
+
+Markdown Content:
+## Executive Summary
+
+This Issue Brief finds that:
+
+*   **The Shahed is representative of the accessible proliferation of precision strike capability.** Iran has been able to engineer a low-cost UAV and produce it en masse. This UAV has been able to perform nearly as well as much more expensive systems. The Shahed challenges traditional cost-benefit calculations in air defence and enables sustained attritional campaigns against more powerful adversaries.
+
+*   **Drone technology diffusion is accelerating.** Many realities, ranging from Russia’s domestic Shahed production and the US’s production of LUCAS copies of Shahed, to the transfer of drone technology to and from China as a hub, and proliferation to non-state actors, are pointing to a global drone arms race underway. The Shahed template is now being adopted, reverse-engineered, and exported globally to reshape military calculus akin to Iran in its 2026 war with the US and Israel.
+
+*   **Global sanctions have failed to constrain Shahed’s supply lines.** Despite being heavily sanctioned, Iran has built a fully operational Shahed ecosystem using 80 per cent American components sourced through shell companies, Chinese re-export hubs, and exploiting dual-use trade loopholes. Tehran epitomises why turnkey equipment sanctions fail to address component-level free flow.
+
+## Introduction
+
+The US-Israel war on Iran, starting February 28, 2026, and spilling over both in terms of geographic scope and intended outcomes, has spotlighted, among other crucial aspects, Tehran’s attritional capabilities against a much-too superior adversary. Its use of uncrewed aerial systems, or ‘drones’, in this regard, has emerged as key in both, explaining Tehran’s strategy, and epitomising the revolution in the global means and methods of warfighting in an era of network-centric, beyond-visual-range, and asymmetric warfare.
+
+Most of Iran’s target strikes in West Asia so far have deployed a combination of surveillance and reconnaissance, combat, and attack drones. Notable incidents of Tehran’s drone use between February 28, and April 8, when a temporary ceasefire was announced, are as follows:[1](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn1)
+
+*   On March 1, a Shahed-type drone struck RAF Akrotiri in Cyprus, hitting a hangar, and leading to the partial evacuation of stationed troops. RAF Akrotiri is a British sovereign base on a NATO country’s territory – roughly 1,700 km from Iran’s western launch areas. On the same day, Iranian drones also struck Camp Buehring – a major US training and logistical base in Kuwait – damaging US Chinook helicopters and causing the fatalities of 6 soldiers, as well as the French Navy’s Al Salam Base (Camp De La Paix) in the UAE, but no casualties were reported.
+
+*   In Bahrain in particular, on February 28, and then on March 8 and 9, three major sites were targeted by Iranian drones – first, the US Navy’s Fifth Fleet HQ in Manama, then a water desalination plant (which sustained damage), and finally, a petroleum oil refinery operated by BAPCO (which caught fire, and declared force majeure). In terms of commercial activity, too, the activities of Amazon Web Services Bahrain were disrupted twice by Iranian drone strikes, as a result of which, on March 23, Amazon announced that it is planning to shift operations out.
+
+*   Iranian drones hit a fuel depot at one of the busiest airports in the world – the Dubai International (DXB) – on March 16, causing a massive fire and a halting of flights and operations. Two days before the same, in Al Kharj, Saudi Arabia, on March 14, an Iranian drone strike destroyed at least 5 US refuelling aircraft based at the Prince Sultan Air Base.
+
+This Issue Brief studies the characteristics of an Iranian ‘Shahed’ drone – a class of one-way attack (OWA) drones developed by Shahed Aviation Industries and manufactured by the state-owned Iran Aircraft Manufacturing Industries Corporation or HESA. It examines Iran’s domestic production and export model in the military drone sector, as detailed in reports and public accounts. The brief concludes with a preliminary assessment of supply chain integration pathways and the techniques Iran employs in procuring global drone equipment.
+
+## Types of Shahed
+
+‘Shahed’ is a class or family of propeller-driven cruise missiles, designed to be OWA munitions that fly toward pre-programmed coordinates using satellite navigation and inertial sensors (See Table 1). They cost anywhere between US$ 20,000 and US$ 50,000 to produce, with some export variants sold to Russia (and renamed the ‘Geran’ class) likely[2](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn2) costing around US$ 80,000. The export price ranges[3](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn3) from US$ 100,000 to US$ 290,000. In principle, they should be irrecoverable as they are expected to explode upon reaching target, but their fuselages and internal components have often been recovered in whole or part, especially from the Ukrainian battleground since 2022, but also from Iraq following the Baghdad clashes in 2021, and the UAV attack on Kurds in northern Iraq in 2022, which was publicly claimed by Tehran. This has enabled[4](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn4) the US not only to study their make and model but also to replicate them in the form of the US Central Command’s own Low-Cost Uncrewed Combat Attack System (or ‘LUCAS’) drone.
+
+### Table 1
+
+Types of Shahed Drones
+
+| **Variant** | **Length** | **Wingspan** | **Weight** | **Warhead** | **Range** | **Speed** | **Key Feature** | **Engine/Power** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Shahed-107** | 2.5m | 3m | ~26 kg | ~15 kg | ~1,500 km | 120-185 km/h | Loitering munition + reconnaissance | Chinese DLE 111 gasoline engine |
+| **Shahed-131** | 2.6m | 2.2m | ~900 kg | ~20 kg | ~900 km | ~185 km/h | Smaller, shorter-range predecessor | Wankel rotary engine (Chinese MDR-208, reverse-engineered from British AR-371) |
+| **Shahed-136** | 3.5m | 2.5m | ~200 kg | ~50 kg | 1,500-2,500 km | 185+ km/h | Most popular variant; OWA munition | MD-550 two-stroke, four-piston engine (reverse-engineered from German Limbach L550) |
+| **Shahed-238** | 3.5m | ~3m | ~380 kg | ~50 kg | ~2,000 km | ~520 km/h (cruise) | High-speed; turbojet engine; diverse guidance versions (IR/optical, radar-homing, inertial+GPS) | Czech-made TJ150 turbojet |
+| **Shahed-149 ‘Gaza’** | 10m | 21m | 3,000+ kg | ~500 kg (across 8-13 hardpoints) | 4,000+ km | 350 km/h | HALE drone for strike missions; real-time target acquisition | Russian Klimov TV3-117 Turboprop |
+
+In addition to the benefits of cost, design philosophy, and attrition capabilities, the Shaheds’ launch profile adds to these advantages. This is because the IRGC can fire them from portable rails or racks on trucks, with a small pulse rocket booster on the bottom,[5](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn5) which first pushes the drone to attain cruise speed, and is subsequently jettisoned. The portability of the launch frame and drone assembly enables the entire system to be mounted on the back of any civilian or military truck. Hence, the ‘Rocket-Assisted Take Off’ (RATO) provides the necessary energy for take-off, while the rail-mounted trucks can recede post-launch and remain mobile or underground, providing a significant edge in launch stealth over missile battery systems that are relatively immobile.
+
+## Composition of The Family
+
+The Shahed-136 is the most popular variant of the class to emerge in 2026. It is[6](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn6) ~3.5 metres long with a 2.5-metre wingspan, flies at a speed of over 185 km/h, weighs roughly 200 kg, and carries a warhead estimated at 50 kg in the nose. The range estimates for the same vary from 1,500 to 2,500 km, depending on the configuration. Its airframe and body build is a most interesting feature, in that there are various accounts of what actually goes in, but the nature of the lightweight, easily manufactured and scalable speaks to Tehran’s philosophy of producing a good-enough drone.
+
+The airframe proper is built from composite materials with fiber-glass delta wings containing honeycomb structural fillers. Later versions incorporate carbon fiber reinforcement in the wings and fuselage. When the UK-based Conflict Armament Research studied captured Russian variants in 2023, they found[7](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn7) “major differences in the airframe construction,” including a fuselage now made of fiber-glass over woven carbon fiber rather than lightweight honeycomb. Analysts examining another Russian-assembled unit described[8](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn8) it as a dense foam[9](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn9) material covered by a grey or dark, charcoal-coloured fiber-glass. Some sources[10](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn10) also mention “balsa wood” in the Shahed-136, which may refer to its use as a honeycomb core filler, given that balsa is a common core material in composite sandwich panels in the aerospace industry. This composite material absorbs or scatters radar signals more effectively than metal-bodied airframes, resulting in better radar evasion.
+
+A Delta-Wing drone design with a characteristic triangular wing shape outperforms a rectangular or swept-wing drone design by providing greater natural mid-flight stability at high speeds, easier manufacturing, and reduced infrastructure (as it removes the need for supporting ribs or a separate horizontal stabiliser tail). Of course, a delta-wing design is not perfect, as it experiences high drag at low speeds and is not ideal for loitering or high-endurance operations.
+
+Then, there is the Shahed-131, which is a smaller, shorter-range predecessor of the 136. The 131 is used[11](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn11) by the Houthis, a Tehran-backed militia group, in the 2019 east-west oil pipeline attack in Saudi Arabia. Its length and wingspan stand at ~2.6 m and ~2.2 m respectively, its weight at 900 kg, and the weight of the warhead in its cone can go[12](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn12) up to ~20 kg.
+
+The key similarities between the 131 and 136 are three-fold – they both have a delta wing design; they both carry similar types of warheads in their nose, which include high-explosive fragmentation (HE-FRAG), thermobaric (vacuum) explosives, and shaped-charge warheads; and they both use Global Navigation Satellite Systems (GNSS) as they cannot be remotely controlled. For that purpose, both their right wings host a ‘Puck-4’ GNSS antenna for high precision.
+
+**HE-FRAG** is the most common Shahed warhead. The explosive charge is surrounded by a metal casing, sometimes with pre-formed fragments, such as tungsten balls, embedded in it (as Russia added to later Geran-2 variants). When the explosive detonates, it shatters the casing outward at enormous velocity, sending hundreds or thousands of metal fragments in all directions like a giant shotgun blast. The blast wave itself, in addition to the fragments, causes significant damage to targets. The **Thermobaric (Vacuum) Explosives** work in two stages. The first charge disperses a cloud of fuel – usually a fine aerosol of metal powder (often aluminium) mixed with an organic fuel – into the air around the point of impact. A fraction of a second later, a secondary charge ignites that cloud. Finally, **shaped-charge explosives** are lined with a concave metal cone, usually made of copper. When the explosive detonates, it collapses the metal cone inward at tremendous velocity, forming a superplastic jet of molten metal moving at roughly 7-8 km/s (about 25 times the speed of sound).
+
+The key differences between the two are their powerhouses and vertical wing stabilisers. On the latter front, while the 131’s wing stabiliser only extends upward from the delta wings, the 136’s wing stabilisers extend both upward and downward. On the former front, the Shahed-131 operates on a ‘Wankel’ rotary engine, which provides just the right amount of power for its small size, and has a range of ~900 km. It is reportedly[13](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn13) reverse-engineered from the Chinese MDR-208 Wankel engine developed by the company Micropilot UAV Control System Ltd, which in turn is reverse-engineered from the British AR-371 engine. It is important to note that there is a heavy hand of the Mado Company (Oje Parvaz Mado Nafar Company) behind these reverse-engineering and drone engine design endeavours.
+
+The 136 is powered by the MD-550 two-stroke, four-piston engine, reverse-engineered from the German-designed Limbach L550 motor. The technology was reportedly[14](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn14) obtained by Iran when it captured a German-made LIMBACH FLUGMOTOREN L-550 aircraft engine in 2006. The MD-550 is more fuel-efficient than a rotary engine, is air-cooled and drives a two-bladed propeller, and creates a buzzing sound, earning[15](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn15) it the nickname, “the Moped,” from the Ukrainians. The Russian Garpiya A1 Kamikaze drone, which Moscow has created for itself as an alternative to reduce dependence on the ‘Gerans’, also uses a similar four-cylinder, two-stroke piston engine, reportedly[16](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn16) manufactured in and/ or resold by China’s Micropilot. The firm may have either purchased the technology from the Iranians, or adopted[17](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn17) it from the Xiamen-Limbach manufacturing facility in Fujian.
+
+Three other noteworthy variants are the Shahed-107, the Shahed-238, and the Shahed-149 ‘Gaza’. The 107 is a loitering munition with possible reconnaissance capability, approximately 2.5m long, with a 3m wingspan, a warhead capability of ~15 kg, and an estimated range of 1,500 km. It is reportedly[18](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn18) powered by a Chinese two‑stroke DLE 111 gasoline engine, and was deployed widely by both Russia against Ukraine, and the Islamic Revolutionary Guard Corps (IRGC) against Israel in the 12-day war of June 2025. The 238 is a newer variant that uses a turbojet engine (the Czech-made TJ150), dramatically increasing the cruising speed to around 520 km/h, compared to the standard 180 km/h. A most fascinating feature of the 238 is its diverse set of versions[19](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn19) – while one carries an infrared/optical guidance system, another has radar-homing guidance. A third, baseline version uses autonomous inertial navigation, followed by satellite guidance for mid-course updates, and with terminal guidance relying on inertial continuation or, in advanced variants, onboard seekers. Its ‘Geran-3’ model is in use by Russia, and, by some estimates,[20](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn20) the 238 may have an export price of up to US$ 1.4 million. For comparison, a relevant counterpart would be the IAI Harop, whose per-unit cost exceeds US$ 1 million.
+
+The Shahed-149 ‘Gaza’, which has a wingspan of 21m and a larger payload of 500 kg across 8-13 hardpoints, is the most recent addition to the family, unveiled in 2021. It is not a kamikaze, but a High-Altitude, Long-Endurance (HALE) drone designed for strike missions. With a range of over 4,000 km, an endurance of up to 35 hours, and a maximum speed of 350 km/h, it is powered by the Russian Klimov TV3-117 Turboprop engine. Two main features of the ‘Gaza’ have been touted[21](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn21) by the IRGC in Iranian media – its Synthetic Aperture Radar (SAR) and electro-optical/infrared (EO/IR) systems, which enable real-time target acquisition and assessment.
+
+Aboard the ‘Gaza’, the EO/IR system functions as the drone’s primary “eyes,” combining high-resolution daylight cameras with thermal imaging sensors in a stabilised gimbal turret (a ball-shaped sensor unit mounted below the drone’s nose) to enable continuous surveillance and targeting in both day and night conditions. This allows operators to detect, identify, and track targets based on visual and heat signatures, even through darkness or partial concealment.
+
+## The Lifecycle
+
+There are three main players in the production and consumption lifecycle of a Shahed done in Iran. Firstly, there are the state-owned designers and producers. The backbone of this infrastructure is comprised of HESA and Qods Aviation Industries (QAI). HESA, based in Isfahan, is responsible for the Ababil series and the assembly of the Shahed-136, while QAI manages the Mohajer-6 and other surveillance-heavy platforms. Vitally, the IRGC Aerospace Force operates its own industrial arm, Shahed Aviation Industries, which is credited with designing the delta-winged Shahed series.
+
+These official entities have been engaged with drone-related research and development since the 1980s, when Iran first began using UAVs, starting with the war with Iraq in 1985. Tehran’s losses against the US Navy during Operation Praying Mantis[22](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn22) of 1988 particularly catalysed their focus on asymmetric capabilities. Subsequently, Iran captured a US RQ-170 ‘Sentinel’ in 2011 and began building its internal UAS production ecosystem. Based on estimates, Iran has, since February 28, used over[23](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn23) 2,000 Shahed drones in its strikes across West Asia. Tehran possesses a stockpile of about 80,000 ready-to-deploy Shaheds, with a daily production capacity of 400 drones.[24](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn24) As for the Russia-based assembly and production, Ukrainian estimates[25](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn25) suggest a capacity of up to 5,000 Shaheds per month.
+
+Herein came the role of the second important actor – private companies and IRGC-affiliated individuals. One, for example, is the Mado Company,[26](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn26) established in 2013 and specialising in reverse-engineering and manufacturing drone engines, drawing inspiration from Western and Asian designs. Then, there are individuals on the board of IRGC’s financial arm, the ‘Cooperative Foundation/ Bonyad Taavon Sepah’, as well as the banks (Ansar and Mehr) and conglomerates (Khatam al-Anbiya Construction and Etemad-e-Mobin) associated with it. Bonyad is widely sanctioned[27](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn27) by the West, but it continues to identify and finance individuals and companies that can form knowledge bases for the Shahed’s manufacturing process. A classic example[28](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn28) is the private R&D firm, Paravar Pars Company, which enabled the design and production of one of the first iterations of the Shahed, the 171, as inspired by the ‘Sentinel’.
+
+Emerging from within the Shahed manufacturing facility in Russia are investigative reports[29](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn29) explaining the process and structure. The factory is divided into several specialised departments. The metal shaping department is where the carbon fiber or fiber-glass webs are first cut. These are then moved to the bonding department, where the fuselage and wing shells are formed. Once the airframe is cured and painted, it moves to the final assembly line. Here, the electronics suite, fuel system, mechanical actuators for the control surfaces, and engine are integrated. The final stage is the installation of the warhead, located in the nose just behind the aerodynamic cone.
+
+Thirdly, there are the import destinations and consumers of Iran’s Shaheds, which ultimately fund a complex lifecycle and supply chain (See Table 2). Tehran has transferred drone technology to Russia and China, as well as IRGC-backed groupings such as Hezbollah, Houthis, and Iraqi militias. Beyond the Shahed, Venezuela[30](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn30) has been assembling the Mohajer-2 (branded as the ANSU-100) and the QAI Mohajer-6 since the mid-2000s, while Ethiopia and Sudan have used Iranian drones to strike rebel groups. Tajikistan[31](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn31) also hosts a dedicated Ababil-2 production facility inaugurated by Iran in 2022. Thus, close integration among military recipients, the Iranian government, and manufacturers has enabled the mobilisation of lessons from many operational use cases and, ultimately, the rapid evolution of the Shahed class.
+
+### Table 2
+
+Export Customers and Adopted Proliferation
+
+| **Recipient** | **Relationship to Iran** | **Drone Model(s)** | **Notes** |
+| --- | --- | --- | --- |
+| **Russia** | State-level technology transfer | Shahed-136 (renamed ‘Geran’), Shahed-238 (‘Geran-3’), Shahed-107 | Domestic production in Alabuga Special Economic Zone, Tatarstan; capacity 5,000/month |
+| **China** | Technology transfer (drone tech, BeiDou satellite access) | Multiple variants | Hub for procurement networks; re-export of components; possible domestic production/reverse-engineering |
+| **Hezbollah** | IRGC-backed militia | Shahed variants | Non-state actor; used in conflict with Israel (June 2025, 12-day war) |
+| **Houthis** | Tehran-backed militia | Shahed-131 | Used in 2019 east-west oil pipeline attack in Saudi Arabia |
+| **Iraqi Militias** | IRGC-affiliated groups | Shahed variants | Various groups receiving transfer for strikes |
+| **Venezuela** | State-level cooperation | Mohajer-2 (ANSU-100), Mohajer-6 | Assembling Iranian drones domestically since 2000s |
+| **Ethiopia** | Military procurement | Iranian drones (unspecified variants) | Used to strike rebel groups |
+| **Sudan** | Military procurement | Iranian drones (unspecified variants) | Used to strike rebel groups |
+| **Tajikistan** | State-level technology transfer | Ababil-2 | Dedicated production facility inaugurated by Iran since 2022 |
+| **United States** | Reverse-engineering (from captured specimens) | Shahed variants (studied) | Produced own LUCAS (Low-Cost Uncrewed Combat Attack System) copy |
+
+## A Global Web of Components and Supply Lines
+
+Despite being one of the most sanctioned countries on Earth, Iran has built the Shaheds using a globalised supply chain of commercially available, dual-use components.
+
+## Pathways of Integration
+
+These components are brought into an Iranian Shahed’s supply chain and life cycle through four primary pathways, or a parallel combination thereof:
+
+1.   **Shell/ Front Companies:** This is the most well-documented route. In one case[32](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn32) unsealed by the US Department of Justice, two Iranian nationals running the company Rah Roshd falsely purported to represent companies based in the UAE and Belgium, using a spoofed e-mail address containing a misspelt version of a legitimate company’s name to procure US-made servo motors and electronic components. They used at least three shell companies based in the UAE to pay a China-based company, with payments processed through US-based correspondent bank accounts. Similar companies have since sprung up in Hong Kong and Turkey as well. In this light, the US Treasury designated,[33](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn33) in November 2025, as many as 32 individuals and entities across Iran, the UAE, Turkey, China, Hong Kong, India, Germany, and Ukraine to disrupt Tehran’s “Transnational Missile and UAV Procurement Networks.”
+
+2.   **Chinese Distributors and Re-Export Hubs:** While many parts originate in the US, Europe, and Japan, procurement networks frequently[34](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn34) route them through Chinese distributors or trading companies before they reach Iranian manufacturers. In this light, in February 2025, the US Treasury sanctioned[35](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn35) six companies based in Hong Kong and China for their involvement in procuring components for Tehran’s drone and ballistic missile programmes, that too, on behalf of another Office of Foreign Assets Control-designated Iran-based firm – the Pishtazan Kavosh Gostar Boshra (PKGB).
+
+3.   **Exploiting dual-use ambiguity and commercial availability:** This is the most structurally difficult pathway to stop, as most of Shahed’s components are commercially available off-the-shelf. Electronics, for example, that are sold globally for civilian applications, by say, Texas Instruments or Winbond. Further, of the roughly 50 different types[36](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn36) of German Infineon transistors that power Shaheds, many, such as the IPB031N08N5,[37](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn37) are available for sale on eBay for as little as US$ 20.[38](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn38) Other common circumvention techniques include mislabelling goods or providing incorrect end-user details. This was the case, per an investigation by the Australian Government’s Department of Foreign Affairs and Trade, on a satellite navigation antenna found in a Shahed, which was labelled “Agricultural equipment parts” in Chinese and English.[39](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn39)
+
+4.   **Direct state-level technology transfer and reverse engineering:** This is the pathway that builds the highest-quality indigenous capability but has the longest risk-reward runway. In terms[40](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn40) of direct ToT, China gave Iran access to its BeiDou satellite navigation system in 2021, while Russia transferred drone technology and production know-how to Iran. On the reverse-engineering front, Mado company has produced its own engines based on British and German ones, while many American and Israeli drones, such as the Boeing ScanEagle,[41](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn41) the RQ-170 ‘Sentinel’,[42](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn42) and likely also the IAI ‘Harpy’,[43](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn43) have been captured, studied, and replicated in part by Tehran since 2011.
+
+## Case Findings
+
+An internal document leaked from the Alabuga Special Economic Zone near Yelabuga, Tatarstan, Russia’s main Shahed-manufacturing facility, revealed that approximately 140 electronic and connector components are used in each Shahed-136, with about 80 per cent[44](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn44) of those originating from American manufacturers. Then, a Ukrainian intelligence teardown of a captured drone, as made public by CNN,[45](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn45) found that 40 out of 52 components were made by 13 different American companies. These included Texas Instruments microcontrollers, voltage regulators, and digital signal processors; a Hemisphere GNSS GPS module for Position-Navigation-Timing (PNT); NXP microprocessors; and components from Analog Devices and Onsemi.
+
+Further, another analysis from the ‘Trap Aggressor’ project, in partnership with the Ukraine-based ‘Independent Anti-Corruption Commission’ (NAKO),[46](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn46) found that Servo drives came from American Hitec USA Group, batteries from Japanese Panasonic, ceramic chip antennas from Canadian Tallysman, the power supply board made from German and Chinese components (the former included the ‘Infineon’ transistors, while the latter included voltage regulators), and the control unit was produced by Russian plant Zapadpribor.[47](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn47)
+
+Servo drives/ motors function as control systems that manage[48](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn48) a drone’s rotational speed, the force it produces, and its direction. For drone applications, these components are fundamental to achieving the precision required for flight operations. A servo drive continuously monitors the motor’s current state and makes real-time adjustments to match the desired output. In drones, this means the drive receives commands about where a motor should spin or how fast it should turn, checks the actual performance, and corrects any deviation.
+
+Most interestingly, the breakdown conducted by the ‘War Sanctions’[49](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn49) project of the Ukrainian Defence Ministry’s Main Directorate of Intelligence on a Shahed-107 (See Table 3), reveals a diverse set of components from across the globe. In terms of microcontrollers, the 107 possesses two – one from the China-based manufacturer GigaDevice, and another from Switzerland’s STMicroelectronics. Also coming from China and Switzerland, respectively, are the Toggle Switch, produced by Zhejiang Renew Electronics, and the GNSS module, produced by U-Blox. From the US-based Analog Devices come four other components – a low-noise, 3-axis MEMS accelerometer (which is a specialised sensor designed for high-precision vibration, tilt, and inertial sensing), two Radio-Frequency transceivers, and a buck regulator (needed to power critical electronics like flight controllers, receivers, cameras, and GPS modules). Japan and Taiwan’s manufacturers, Murata and Winbond Electronics, respectively, contribute an electromagnetic filter and a flash memory (for storing essential, permanent data on board). Both the DLE 111 engine, and its ignition system (model A-02), came from China’s Mile Haoxiang Technology Co.Ltd.
+
+### Table 3
+
+31 Components of Shahed-107 (As identified by GUR Ukraine on the ‘War Sanctions’ Portal)
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **CAN Transceiver** | VP230 TI39M OACYJ | Texas Instruments | USA | Communication bus interface |
+| **Line Driver** | MB3238I 3BK G4 C5PR | Texas Instruments | USA | Signal conditioning |
+| **Digital Signal Processor** | TMS320 F28335PGFA G4 A – 39C505W G4 | Texas Instruments | USA | Core processing unit |
+| **Servo Drive** | Unidentified | Not identified | Unknown | Flight control actuation |
+| **Engine Ignition System** | Model A-02 | Mile Haoxiang Technology Co., Ltd (DLE) | China | Spark timing control |
+| **Two-Stroke Petrol Engine** | DLE 111 | Mile Haoxiang Technology Co., Ltd (DLE) | China | 2-cylinder, air-cooled propulsion |
+| **IMU Module** | SN#: 46-320 | Not identified | Unknown | Inertial measurement unit |
+| **Transceiver (RF)** | ANALOG DEVICES AD9365BBCZ #2415 | Analog Devices | USA | Radio-frequency communication; Production date: April (week 15) 2024 |
+| **Electromagnetic Interference Filter** | MURATA BNX023 | Murata | Japan | EMI suppression |
+| **Buck Regulator** | ADP5054 ACPZ #2124 5872838 PHIL | Analog Devices | USA | Voltage step-down; Production date: June (week 24) 2021 |
+| **Microcontroller (ARM)** | ARM model unspecified | STMicroelectronics | Switzerland | Primary processor |
+| **Toggle Switch** | RT-S6-22B | Zhejiang Renew Electronics | China | System control |
+| **Low-Noise 3-Axis MEMS Accelerometer** | ADXL357B #2226 844088 | Analog Devices | USA | High-precision inertial sensing; Production date: June (week 26) 2022 |
+| **Microcontroller** | GD32F103 TBU6 GDUT028 DS2312 | GigaDevice | China | Secondary processor; Production date: March (12th week) 2023 |
+| **GNSS Module** | M8030-KT B3000A 08586206 2249A3 | U-blox | Switzerland | Satellite positioning; Production date: December (week 49) 2022 |
+| **Flash Memory** | WINBOND 25Q16JVIQ 2311 6223 AM900ZZ | Winbond Electronics Corporation | Taiwan | Data storage; Production date: March (week 11) 2023 |
+| **Pressure Sensor** | TE 561101BA03 229055472 | TE Connectivity | Ireland | Altitude/pressure measurement |
+| **RS-232 Transceiver** | MAXIM MAX3221E EAE2225 | Maxim Integrated Products (Analog Devices) | USA | Serial communication; Production date: June (week 25) 2022 |
+| **Voltage Regulator** | GN LF33A GK8X3404 | STMicroelectronics | Switzerland | Power conditioning |
+| **Microcontroller (ARM)** | STM32F405 RGT6 CQ24A VG CHN GQ 402 11 | STMicroelectronics | Switzerland | ARM Cortex-M4 processor |
+| **Linear Voltage Regulator** | GN 78M09 B GK4FM305 | STMicroelectronics | Switzerland | 9V fixed output |
+| **SMAJ30CA Protection Diode** | YK 3H1YB | Littelfuse, Inc. | USA | Transient voltage suppression |
+| **Rectifier** | V20PW45C M209A | General Semiconductor (Vishay) | USA | Diode rectification |
+| **Connector** | 9001-15481C00A | Oupiin Enterprise Co., Ltd | Taiwan | Circuit interconnection |
+| **MOSFET** | FR5305 P350G CK 29 | International Rectifier (Infineon Technologies) | USA | Power switching |
+| **16-bit Transceiver** | LVT16245B BF557 02 UnG0707B | NXP Semiconductors | Netherlands | Logic signal translation |
+| **Relay** | G6K-2F-Y 24 VDC CHINA | OMRON | Japan | Electromechanical switch |
+| **Optocoupler** | H11G1 031Q | Fairchild Semiconductor (ON Semiconductor) | USA | Isolation coupling |
+| **Voltage Regulator** | PS767D301 18T AXE2 | Texas Instruments | USA | Dual-output regulation |
+| **Precision Instrumentation Amplifier** | AD8422 ARZ | Analog Devices | USA | Signal amplification |
+
+These are just a few of the many diverse components identified by the Directorate in the 107. In terms of the findings from Shahed-136, most memory chips, RF transceivers, digital signal processors and microcircuits come from either Texas Instruments, Xilinx Inc.(AMD), or Analog Devices’ ‘Maxim Integrated Products’ – all US-based firms. The project also informed[50](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn50) most recently, and perhaps most strikingly, that an Nvidia Jetson Orin Nano Developer Kit was found inside the 136’s MS001 variant (See Table 4). It is an AI-based computer module capable of performing 67 trillion operations per second, and is commercially available for a price of US$ 249.[51](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn51)
+
+### Table 4
+
+75+ Components of Shahed-136/ Geran-2-MS001 (As identified by GUR Ukraine on the ‘War Sanctions’ Portal)
+
+### Core Processing & Control
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **Schmitt-Trigger (Memory)** | ATMEL207 24C1024W S127 | Atmel (Microchip Technology) | USA | Configuration memory storage |
+| **Programmable Logic Device (PLD)** | XC6SLZ45 CSC484DIV2217 0670311A 21 TAIWAN | Xilinx Inc.(AMD) | USA | FPGA for logic implementation; Production date: May (17 week) 2022 |
+| **Digital Signal Processor** | A1GHZ DSP TMS 320C6455CTZ S721-26ZYCG7 2005 TI CTZ G1 | Texas Instruments | USA | High-performance signal processing |
+| **Microcontroller 32-bit** | STM32G070CBT6 GQ20X259R CHN GQ 226 | STMicroelectronics | Switzerland | ARM Cortex-M0+ processor |
+| **Microcontroller 32-bit** | STM32F103C8T6 99092 0493 MYS 99 149 | STMicroelectronics | Switzerland | ARM Cortex-M3 processor |
+| **Digital Signal Processor** | TMS320 F28335PGFA CA-2AAFTMW G4 | Texas Instruments | USA | Flight control signal processing |
+| **Microcontroller (Unspecified ARM)** | ARM model - exact type not fully marked | STMicroelectronics | Switzerland | General control processor |
+
+### Memory & Storage
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **Memory Chip (DRAM)** | IMH22 D9MDR | Micron Technology | USA | Working memory for processing |
+| **Memory Chip (Flash)** | FL512SAVFR1 2500006 A 11 SPANSION | Spansion (Cypress Semiconductor, Infineon Technologies) | USA | Non-volatile storage |
+| **Memory Chip (EEPROM)** | ATMLH835 64DM CN 183548K | Atmel (Microchip Technology) | USA | Configuration/firmware storage |
+
+### Power Management & Regulation
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **Voltage Stabilizer** | AMS1117 1.8 2128 | Monolithic Power Systems | USA | 1.8V output; Production date: July (28 week) 2021 |
+| **Voltage Stabilizer** | AMS1117 3.3 2220 | Advanced Monolithic Systems Inc. | USA | 3.3V output; Production date: May (20 week) 2022 |
+| **Linear Regulator** | 314 3370 B33992 | Linear Technology Corporation (Analog Devices) | USA | Voltage regulation |
+| **Linear Stabilizer** | 311 1763 | Linear Technology Corporation (Analog Devices) | USA | Power supply conditioning |
+| **DC/DC Module** | 2605Y Umodule №87323 2233 | Linear Technology Corporation (Analog Devices) | USA | Isolated power conversion; Production date: August (33 week) 2022 |
+| **Linear Regulator** | S15 H100 GE227303 | STMicroelectronics | Switzerland | Fixed voltage output |
+| **Linear Voltage Regulator** | GN LF33A GK8X3404 | STMicroelectronics | Switzerland | 3.3V regulation |
+| **Step-down Converter** | 5450 TI 0B4 ZE9RG4 | Texas Instruments | USA | Buck topology power supply |
+
+### Signal Conditioning & Communication
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **Transceiver (RF)** | AXSEM AX5042-1 0938AB | Axsem AG (ON Semiconductor) | Switzerland | Sub-GHz transceiver |
+| **Transceiver (Serial)** | ADM3307 EARUZ #2015 | Analog Devices | USA | RS-232 to 3.3V translator; Production date: April (15 week) 2020 |
+| **Linear Driver** | B367 ARUZ #017 | Analog Devices | USA | Line driver for signal transmission |
+| **RS-232 Driver** | GF589 ST3232B CHN248 | STMicroelectronics | Switzerland | Multi-channel serial driver |
+| **10/100 Ethernet Transceiver** | LAN8742A SMSC 8742A-i 319D6TA B-TW | Microchip Technology Inc. | USA | Ethernet PHY for data link |
+| **CAN Bus Transceiver** | VP230 28M AOG9G4 | Texas Instruments | USA | CAN protocol communication |
+| **16-bit Transceiver** | LVT16245B BF557 02 UnG0707B | NXP Semiconductors | Netherlands | Logic-level translation |
+
+### Analog & Mixed-Signal
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **Microcircuit** | MF243EI 2AK G4 A1D4 | Texas Instruments | USA | Mixed-signal IC |
+| **Microcircuit** | MxFE | Analog Devices | USA | RF transceiver IC |
+| **Transistor** | 031N08N5 GAH218 | Infineon Technologies | Germany | N-channel MOSFET; power switching |
+| **Transistor** | FDS6675BZ GMAASI | ON Semiconductor (ONSEMI) | USA | P-channel MOSFET |
+| **Transistor** | FR5305 P227D FH 56 | International Rectifier (Infineon Technologies) | USA | Power MOSFET |
+| **MOSFET Driver** | TC4428E 0A 1904 3C5 | Microchip Technology Inc. | USA | MOSFET gate driver |
+
+### Logic & Digital Gates
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **Assembly of Inverters** | 26AF04M HCT04 G4 | Texas Instruments | USA | Hex inverter logic gates |
+| **10-channel General-Purpose FET Bus Switch** | SN74CB3T3384 KS384 13K G4 C7SQ | Texas Instruments | USA | Analog multiplexer/switch |
+| **Comparator** | 6562E 305C3K | Microchip Technology Inc. | USA | Analog comparator |
+
+### Data Conversion
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **Analog-to-Digital Converter (24-bit)** | ADS122U 87K G4 A8R8 | Texas Instruments | USA | High-resolution ADC |
+
+### Sensing & Measurement
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **10/100BASE-T Transformer** | HX1188NL 2322 M CHINA | Pulse Electronics Corporation | USA | Ethernet isolation transformer; Production date: June (22 week) 2023 |
+
+### Computer Module (Advanced Variant)
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **AI Computer Module** | NVIDIA Jetson Orin Nano Developer Kit | Nvidia | USA | 67 trillion operations/second; Machine vision capable; Commercial price ~USD 249 |
+
+### External/ Subsystem Components
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **Video Stream Capture Unit** | EZCAP USB3.0 AHD Video Capture | Shenzhen ForwardVideo Technology Co., Ltd | China | Real-time video recording (MS001 variant) |
+| **Data Transmission Unit** | TX-RSD-902-A3 | Manufacturer not specified | Unknown | Datalink subsystem |
+| **VHF Data Link Unit** | VDL-RSD-943F-A3 | Manufacturer not specified | Unknown | VHF frequency data transmission |
+
+### Systems-Level Components (Iranian-Designated)
+
+| **Component Type** | **Component Name / Model** | **Manufacturer** | **Country of Origin** | **Notes** |
+| --- | --- | --- | --- | --- |
+| **Satellite Receiver** | NASIR | Unidentified | Iran | GNSS receiver unit |
+| **Inertial Navigation System** | SADRA | Unidentified | Iran | INS/IMU integration |
+| **Air Pressure Measuring Unit** | AIRDATA COMPUTER (ADC) | Unidentified | Iran | Altitude/airspeed measurement |
+| **Power Distribution Unit (PDU)** | Not named | Unidentified | Iran | Electrical power management |
+| **Flight Controller** | Not named | Unidentified | Iran | Navigation & flight control computer |
+
+While the Jetson Orin is capable of providing “machine vision” by allowing the drone to make decisions based on a pre-loaded, live feed processed using AI/ML, as editions of the 136/Geran-2 have evolved, the Russian series ‘E’ has shifted from a fire-and-forget to a remotely piloted drone. This series hosts another[52](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn52) critical Chinese component – the TS130C-01 optical camera produced by Chengdu Honpho Technologies. This forward-facing, visible-light camera in the nose transmits a live video feed to an operator, enabling them to take a call on completion of the kill chain.
+
+## A New War Reality
+
+The emergence and persistence of the Shahed drone offer vital lessons for India and the broader international community. To begin with, the drone’s success lies not in technological sophistication but in the building of an ecosystem and an economy. At US$ 20,000-50,000 per unit, with reported production capacities of 400 per day in Iran and 5,000 per month in Russia, this platform challenges the traditional logic of air defence.
+
+For India, which faces two potential adversaries with technologically-frontier capabilities and production advantages, the missile defence architecture requires urgent rethinking to tackle saturation, kamikaze and swarm attack scenarios. In this regard, while the hard-kill ‘Bhargavastra’ system,[53](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fn53) equipped with micro-missiles, is a valuable addition to the Indian armed forces, a soft-kill system is also necessary to deploy a wide spectrum of electromagnetic and cyber capabilities to bring drones down.
+
+Secondly, Iran’s feats in dual-use component deployment and reverse-engineering processes, despite widespread UN-backed as well as unilateral Western sanctions, are major lessons. For India, there is a notable takeaway – that domestic indigenous capability in critical components is non-negotiable.
+
+Of course, there is a bureaucratic outcome of eminence in Tehran’s use of its history and experience. The closed-feedback loops between buyers and sellers of its drones, the quick adaptation from operational experiences, and the impetus provided by the ever-hanging sword of American or Israeli strikes – pushed the Supreme National Security Council and the IRGC to take urgent measures to scale drone operations and production. All of it is also prompted by a history of engagement in conflict with Iraq, Israel, and the US. India must find the motivation to adapt to the changing rules of warfare without necessarily needing a crisis.
+
+**Acknowledgements:** The author is grateful to Aditya Ramanathan for his valuable research guidance and feedback.
+
+## Footnotes
+
+1.   Anushka Saxena, “Tracking Iran War Weapons & Attacks Daily,” GitHub, n.d., [Link](https://shakunasanaxe.github.io/iran-weapons-tracker/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref1)
+
+2.   Justin Bronk and Jack Watling, “Mass Precision Strike: Designing UAV Complexes for Land Forces,” RUSI and Wilson Center Report, April 2024, [Link](https://static.rusi.org/mass-precision-strike-final.pdf).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref2)
+
+3.   “Shahed 136 Drone Engine,” Scribd, 2026, [Link](https://scribdpdf.com/shahed-136-drone-engine).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref3)
+
+4.   “Military Power Publications: UAV Book,” US Defense Intelligence Agency, August 2023, [Link](https://www.dia.mil/Portals/110/Documents/News/Military_Power_Publications/UAV_Book.pdf).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref4)
+
+5.   “Shahed-136 Suicide Drone: Iranian Loitering Munition,” _Iran Press_, December 17, 2022, [Link](https://iranpress.com/content/70806/shahed-136-suicide-drone-iranian-loitering-munition).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref5)
+
+6.   Joe Emmett _et al._, “How to Identify the Shahed-131 and 136,” Open Source Munitions Portal, n.d., [Link](https://osmp.ngo/interactive/how-to-identify-the-shahed-131-and-136/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref6)
+
+7.   “Documenting the domestic Russian variant of the Shahed UAV,” Conflict Armament Research, iTrace, August 2023, [Link](https://storymaps.arcgis.com/stories/d3be20c31acd4112b0aecece5b2a283c).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref7)
+
+8.   Thomas Newdick, “Our First Look Inside Russia’s Shahed-136 Attack Drone Factory,” The War Zone, March 5, 2024, [Link](https://www.twz.com/news-features/our-first-look-inside-russias-shahed-136-attack-drone-factory).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref8)
+
+9.   John Hardie on X, July 21, 2023, [Link](https://x.com/JohnH105/status/1682392846404313088).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref9)
+
+10.   Seevali Abeysekera, “Shahed-136: Iran’s Cheap Drone That Changed Warfare,” _Eurasia Review_, March 31, 2026, [Link](https://www.eurasiareview.com/31032026-shahed-136-irans-cheap-drone-that-changed-warfare-oped/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref10)
+
+11.   Jeremy Binnie, “Ukraine Conflict: Details of Iranian Attack UAV Released,” Jane’s OSINT Insights, September 29, 2022, [Link](https://www.janes.com/osint-insights/defence-news/air/ukraine-conflict-details-of-iranian-attack-uav-released).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref11)
+
+12.   Joe Emmett _et al._, “How to Identify the Shahed-131 and 136,” Open Source Munitions Portal, n.d., [Link](https://osmp.ngo/interactive/how-to-identify-the-shahed-131-and-136/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref12)
+
+13.   “Private Companies Propelling Iran’s Drone Industry,” Iranian Watch, November 29, 2023, [Link](https://www.iranwatch.org/our-publications/articles-reports/private-companies-propelling-irans-drone-industry).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref13)
+
+14.   “Shahed-136 Has Stolen Engine Technology; Russians Fill It With Wrong Fuel,” _Defence Express_, April 29, 2023, [Link](https://en.defence-ua.com/weapon_and_tech/shahed_136_has_a_stolen_engine_technology_as_if_that_wasnt_enough_russians_fill_it_with_the_wrong_fuel-6555.html).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref14)
+
+15.   IndiaToday on X, March 21, 2026, [Link](https://x.com/IndiaToday/status/2035212088747114992).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref15)
+
+16.   “Shaheds, Dollars, and Beijing: How China Facilitates Iranian UAV Procurement,” Frontelligence _Substack_, August 21, 2025, [Link](https://frontelligence.substack.com/p/shaheds-dollars-and-beijing-how-china).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref16)
+
+17.   “The Cat’s Out of the Bag: Counterproliferation Lessons from the Curious Case of Limbach Engines,” Iran Watch, December 17, 2025, [Link](https://www.iranwatch.org/our-publications/articles-reports/cats-out-bag-counterproliferation-lessons-curious-case-limbach-engines).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref17)
+
+18.   “Defence Intelligence Releases Data on Russia’s Active Use of Shahed-107 Drones,” Odessa Journal, November 25, 2025, [Link](https://odessa-journal.com/defence-intelligence-releases-data-on-russias-active-use-of-shahed107-drones).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref18)
+
+19.   Vadim Kushnikov, “Iran Officially Unveils Shahed-238,” Militarnyi, November 20, 2023, [Link](https://militarnyi.com/en/news/iran-officially-unveils-shahed-238/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref19)
+
+20.   Evgeny Antonov, “Shahed-238 Export Price and Capabilities,” Re-Russia Analytics, July 17, 2025, [Link](https://re-russia.net/en/analytics/0323/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref20)
+
+21.   “Iran’s Latest Unmanned Aerial System Capabilities,” _Farsnews_, July 20, 2021, [Link](https://farsnews.ir/politics/1626753240000275281/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref21)
+
+22.   “Operation Praying Mantis,” US Naval History and Heritage Command, September 20, 2023, [Link](https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/middle-east/praying-mantis.html).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref22)
+
+23.   Dominika Kunertova, “The Iran Conflict Edges the World Closer to a New Drone Arms Race,” Bulletin of Atomic Scientists, March 17, 2026, [Link](https://thebulletin.org/2026/03/the-iran-conflict-edges-the-world-closer-to-a-new-drone-arms-race/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref23)
+
+24.   Robin Pagnamenta, “The Boom in Remote-Controlled Death,” The Observer, March 5, 2026, [Link](https://observer.co.uk/news/business/article/the-boom-in-remote-controlled-death).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref24)
+
+25.   Russia Mass Produces Shahed Drones Without Iran, Uses Chinese Parts,” _The New Voice of Ukraine_, March 5, 2026, [Link](https://english.nv.ua/nation/russia-mass-produces-shahed-drones-without-iran-uses-chinese-parts-50589083.html).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref25)
+
+26.   “Private Companies Propelling Iran’s Drone Industry,” Iranian Watch, November 29, 2023, [Link](https://www.iranwatch.org/our-publications/articles-reports/private-companies-propelling-irans-drone-industry).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref26)
+
+27.   European Union Official Journal, “Sanctions on Bonyad Taavon Sepah (Cooperative Foundation),” EUR-Lex Legal Content, April 24, 2023, [Link](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref27)
+
+28.   “Pars Aviation Services Company,” Iranian Watch Entities Profile, n.d., [Link](https://www.iranwatch.org/iranian-entities/pars-aviation-services-company-pasc).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref28)
+
+29.   Oleksandr Yan, “Child Labor, Gold, and Iranian Spare Parts: How is the Russian Shahed Factory Arranged?” Militarnyi, February 15, 2024, [Link](https://militarnyi.com/en/articles/child-labor-gold-and-iranian-spare-parts-how-is-the-russian-shahed-factory-arranged/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref29)
+
+30.   “Treasury Targets Iran-Venezuela Weapons Trade,” US Treasury Department, December 30, 2025, [Link](https://home.treasury.gov/news/press-releases/sb0347).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref30)
+
+31.   Danny Citrinowicz, “Iran is on its way to replacing Russia as a leading arms exporter. The US needs a strategy to counter this trend,” Atlantic Council IranSource, February 2, 2024, [Link](https://www.atlanticcouncil.org/blogs/iransource/iran-drone-uavs-russia/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref31)
+
+32.   “Iranian Company and Two Iranian Nationals Charged with Conspiracy to Provide Material Support,” US Department of Justice, April 1, 2025, [Link](https://www.justice.gov/opa/pr/iranian-company-and-two-iranian-nationals-charged-conspiring-provide-material-support).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref32)
+
+33.   “Treasury Disrupts Iran’s Transnational Missile and UAV Procurement Networks,” US Treasury Department, November 12, 2025, [Link](https://home.treasury.gov/news/press-releases/sb0313).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref33)
+
+34.   Kimberly Donovan and Emily Ezratty, “From Drones to Rocket Fuel: China and Russia Are Helping Iran Through Supply Chains,” Atlantic Council Dispatches, March 25, 2026, [Link](https://www.atlanticcouncil.org/dispatches/from-drones-to-rocket-fuel-china-and-russia-are-helping-iran-through-supply-chains/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref34)
+
+35.   “US Sanctions Iranian Drone Procurement Network,” USIP Iran Primer, February 26, 2025, [Link](https://iranprimer.usip.org/blog/2025/feb/26/us-sanctions-iranian-drone-procurement-network).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref35)
+
+36.   “German-Made Chips Power Russian Shahed Drones: Investigation Finds,” _United24Media_, [Link](https://united24media.com/latest-news/german-made-chips-power-russian-shahed-drones-investigation-finds-15911).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref36)
+
+37.   “Transistor 031N08N5 GAH218,” War Sanctions Portal, Main Directorate of Intelligence, Ukraine, n.d., [Link](https://war-sanctions.gur.gov.ua/en/components/6318).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref37)
+
+38.   “2Pcs IPB031N08N5 TO-263-3 MOSFET N-Ch 80V 120A D2PAK-2,” eBay, n.d., [Link](https://www.ebay.com/itm/226548441584?_skw=031N08N5&itmmeta=01KP3B970PCJHV9M7YTP1QDQWE&hash=item34bf56e1f0:g:q3cAAOSwLPJniMKj&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAIV4xlYcw8xD9I4CVo6q8ZGDAtwKbKpTk8%2FoHLkigHgP8jHYzTciUJna6c0RnPu21141cgqghSRYh7z1PR9k5T2ak5Bj1vGwwzvVe1sIJQ5nNeV26R9d8AWwh4A6Wua97fYWicpv4cr%2BkwL39Ige6B0OsqL9CQQ5THvDcmIrSvEI3fJ7t%2FwVWbLHbNcRA1z7ncyP5lA8g95TLmFvgTJtsjcCHiqdB1h6kvCQ565Q6dQZBv7kFXVYoN1MiRGZbEz5jYEr0LsDAOGu6igPDJlAsO%7Ctkp%3ABk9SR7rwpOuwZw), accessed 12 April 2026.[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref38)
+
+39.   “Advisory Note: Iranian Procurement Networks,” Australian Department of Foreign Affairs and Trade, December 12, 2025, [Link](https://www.dfat.gov.au/sites/default/files/advisory-note-iranian-procurement-networks.pdf).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref39)
+
+40.   Kimberly Donovan and Emily Ezratty, “From Drones to Rocket Fuel: China and Russia Are Helping Iran Through Supply Chains,” Atlantic Council Dispatches, March 25, 2026, [Link](https://www.atlanticcouncil.org/dispatches/from-drones-to-rocket-fuel-china-and-russia-are-helping-iran-through-supply-chains/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref40)
+
+41.   “Iran Claims Capture of US Drone,” _Al Jazeera_, December 4, 2012, [Link](https://www.aljazeera.com/news/2012/12/4/iran-claims-capture-of-us-drone).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref41)
+
+42.   “Iran Confirms It Captured US Drone,” _BBC News_, April 22, 2012, [Link](https://www.bbc.com/news/world-middle-east-17805201).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref42)
+
+43.   Seth Frantzman on X, December 4, 2025, [Link](https://x.com/sfrantzman/status/1996448833044176909).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref43)
+
+44.   David Albright and Sarah Burkhard, “Electronics in the Shahed-136 Kamikaze Drone,” Institute for Science and International Security (ISIS), November 14, 2023, [Link](https://isis-online.org/isis-reports/electronics-in-the-shahed-136-kamikaze-drone).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref44)
+
+45.   _CNN_, “Most Components Found in Iranian Shahed Drones Originate in the US,” _Defence Express_, January 5, 2023, [Link](https://en.defence-ua.com/news/most_components_found_in_iranian_shahed_drones_originate_in_the_us_cnn-5348.html).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref45)
+
+46.   “NAKO - The Independent Anti-Corruption Commission,” n.d., [Link](https://nako.org.ua/en/abouten/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref46)
+
+47.   Trap Aggressor, “More Than 30 Western Components Found in Iranian-Made Shahed-136 UAVs,” _Euromaidan Press_, November 17, 2022, [Link](https://euromaidanpress.com/2022/11/17/more-than-30-western-components-found-in-iranian-made-shahed-136-uavs-investigators/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref47)
+
+48.   “The Integral Role of Servo Drives in Drone Control,” The Droning Company, September 26, 2024, [Link](https://thedroningcompany.com/blog/the-integral-role-of-servo-drives-in-drone-control#:~:text=Servo%20drives%20are%20sophisticated%20devices,maintain%20stability%20in%20variable%20conditions).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref48)
+
+49.   “Shahed-107 UAV,” War Sanctions Portal, Main Directorate of Intelligence, Ukraine, n.d., [Link](https://war-sanctions.gur.gov.ua/en/page-shahed-107).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref49)
+
+50.   “Computer Module: Shahed-136,” War Sanctions Portal, Main Directorate of Intelligence, Ukraine, n.d., [Link](https://war-sanctions.gur.gov.ua/en/page-shahed-136/4773).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref50)
+
+51.   “NVIDIA Jetson Developer Kits,” NVidia, n.d., [Link](https://developer.nvidia.com/embedded/jetson-developer-kits).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref51)
+
+52.   Yevheniia Hubina, “Geran-2 Series E Features Remote Piloting Capability with Chinese Camera,” _Ukrayina Pravda_, January 12, 2026, [Link](https://www.pravda.com.ua/eng/news/2026/01/12/8015673/).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref52)
+
+53.   Hemant Kumar Rout, “Low-cost counter-drone system ‘Bhargavastra’ proves lethal in test off Gopalpur coast, Odisha,” _The New Indian Express_, May 14, 2025, [Link](https://www.newindianexpress.com/states/odisha/2025/May/14/low-cost-counter-drone-system-bhargavastra-proves-lethal-in-test-off-gopalpur-coast-odisha).[↩︎](https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html#fnref53)

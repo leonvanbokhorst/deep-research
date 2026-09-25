@@ -1,0 +1,9 @@
+sv-SE|sv|drönare Ringhals
+sv-SE|sv|drönare Oskarshamn kärnkraftverk
+sv-SE|sv|drönare över kärnkraftverk Säpo utredning 2025
+sv-SE|sv|drönare kritisk infrastruktur Sverige 2026
+en-US|en|Säpo drones critical infrastructure Russia Sweden assessment
+en-US|en|PET Danish intelligence assessment drone Russia 2025 2026
+en-US|en|PST Norway intelligence drone threat assessment
+en-US|en|NATO official statement drone incursions critical infrastructure attribution Russia
+en-US|en|Europol drone critical infrastructure threat assessment 2026

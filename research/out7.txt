@@ -1,0 +1,277 @@
+########## QUERY: FAI AFCN drone kerncentrale Doel sabotage
+--- BING NEWS ---
+* Na de drones boven de kerncentrale in Doel: zijn sabotage en nucleair gevaar echt uitgesloten?
+  DATE: Sun, 09 Nov 2025 22:50:00 GMT
+  URL: https://www.hln.be/binnenland/na-de-drones-boven-de-kerncentrale-in-doel-zijn-sabotage-en-nucleair-gevaar-echt-uitgesloten~adac9c3a/
+  DESC: Gisteravond hebben medewerkers van de nucleaire site drie drones boven de kerncentrale van Doel gesignaleerd. Dat incident heeft niet voor nucleair gevaar gezorgd, maar doet wel de vraag rijzen: ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: AFCN drone centrale nucléaire sûreté
+--- BING NEWS ---
+* L’Agence fédérale de contrôle nucléaire veut le plus haut niveau de sûreté possible pour d’autres prolongations
+  DATE: Mon, 31 Mar 2025 17:00:00 GMT
+  URL: https://www.lesoir.be/665841/article/2025-04-01/lagence-federale-de-controle-nucleaire-veut-le-plus-haut-niveau-de-surete
+  DESC: Notre pays est-il plus strict en matière de sûreté nucléaire que d’autres pays européens ? C’est pour répondre à cette question que le nouveau gouvernement Arizona avait demandé à l’Agence fédérale de ...
+* Prolongation du nucléaire: "mieux pour la sûreté de ne pas spécifier de date" (AFCN)
+  DATE: Thu, 05 Dec 2024 06:56:00 GMT
+  URL: https://www.lesoir.be/640535/article/2024-12-05/prolongation-du-nucleaire-mieux-pour-la-surete-de-ne-pas-specifier-de-date-afcn
+  DESC: Du point de vue de la sûreté nucléaire, il est préférable de ne pas spécifier de date fixe de fin de fonctionnement d'un réacteur et de travailler sous le système de révisions décennales, a souligné ...
+* Prolongation du nucléaire: L'AFCN a transmis ses exigences à Engie en vue d'un redémarrage à l'hiver 25-26
+  DATE: Thu, 20 Jul 2023 06:58:00 GMT
+  URL: https://www.lavenir.net/actu/belgique/2023/07/20/prolongation-du-nucleaire-lafcn-a-transmis-ses-exigences-a-engie-en-vue-dun-redemarrage-a-lhiver-25-26-5BYFJRONOVBXTLQMUL73QT7RC4/
+  DESC: L'Agence Fédérale de Contrôle Nucléaire (AFCN) a transmis ses attentes en matière de sûreté nucléaire à Engie-Electrabel, a-t-elle annoncé jeudi dans un communiqué. Afin de garantir la sécurité ...
+* Le niveau de sûreté nucléaire belge similaire à celui des pays proches: "La Belgique est plus stricte que d'autres pays dans certains domaines"
+  DATE: Tue, 01 Apr 2025 12:25:00 GMT
+  URL: https://www.lavenir.net/actu/belgique/2025/04/01/le-niveau-de-surete-nucleaire-belge-similaire-a-celui-des-pays-proches-la-belgique-est-plus-stricte-que-dautres-pays-dans-certains-domaines-UEC6R4BVCZCJPA4MSNGYPDZEJY/
+  DESC: La nouvelle majorité s'est fixé l'objectif de prolonger à court terme la capacité nucléaire existante et, à long terme, d'investir dans la construction de nouvelles capacités. Elle a notamment prévu ...
+* Prolongation du nucléaire: l’AFCN a transmis ses exigences à Engie en vue d’un redémarrage à l’hiver 2025-2026
+  DATE: Wed, 19 Jul 2023 17:00:00 GMT
+  URL: https://www.sudinfo.be/id689296/article/2023-07-20/prolongation-du-nucleaire-lafcn-transmis-ses-exigences-engie-en-vue-dun
+  DESC: Afin de garantir la sécurité d’approvisionnement énergétique pendant les hivers 2025-26 et 2026-27, les travaux de prolongation des réacteurs de Doel 4 et Tihange 3 pourront être réalisés ...
+* EAU : incendie près de la centrale nucléaire de Barakah suite à une frappe de drone, sûreté nucléaire intacte
+  DATE: Sat, 16 May 2026 17:00:00 GMT
+  URL: https://french.china.org.cn/foreign/txt/2026-05/17/content_118498507.htm
+  DESC: Le bureau de presse d'Abou Dabi aux Emirats arabes unis (EAU) a annoncé dimanche qu'une frappe de drone avait provoqué un incendie près de la centrale nucléaire de Barakah dans la région d'Al Dhafra, ...
+* Rosatom déclare qu'un drone ukrainien a frappé la centrale nucléaire de Zaporijjia
+  DATE: Sat, 30 May 2026 17:00:00 GMT
+  URL: https://french.china.org.cn/foreign/txt/2026-05/31/content_118523014.htm
+  DESC: Le groupe nucléaire public russe Rosatom a indiqué samedi qu'un drone ukrainien avait frappé la centrale nucléaire de Zaporijjia, sans qu'aucun dommage aux équipements essentiels n'ait été signalé. Le ...
+* Regain de tensions après une frappe sur la centrale nucléaire de Zaporijjia
+  DATE: Mon, 08 Apr 2024 03:38:00 GMT
+  URL: https://fr.euronews.com/2024/04/08/regain-de-tensions-apres-une-frappe-sur-la-centrale-nucleaire-de-zaporijjia
+  DESC: La récente attaque contre la centrale nucléaire de Zaporijjia augmente considérablement le risque d'accident, prévient l'Agence internationale de l'énergie atomique. L'agence de surveillance atomique ...
+* Centrale de Zaporijjia: on s'approche "dangereusement d'un accident nucléaire"
+  DATE: Mon, 15 Apr 2024 13:12:00 GMT
+  URL: https://www.rtl.be/actu/monde/europe/centrale-de-zaporijjia-sapproche-dangereusement-dun-accident-nucleaire/2024-04-15/article/658956
+  DESC: "Deux années de guerre pèsent lourdement sur la sûreté de la centrale nucléaire de Zaporijjia. Chacun des sept piliers de l'AIEA sur la sécurité et de la sûreté nucléaires ont été compromis. Nous ne ...
+* Belgique : sept incidents nucléaires sans risque majeur enregistrés en 2025
+  DATE: Tue, 13 Jan 2026 03:26:00 GMT
+  URL: https://www.rtbf.be/article/belgique-sept-incidents-nucleaires-sans-risque-majeur-enregistres-en-2025-11660740
+  DESC: L’Agence fédérale de contrôle nucléaire (AFCN) a enregistré sept incidents de niveau 1 sur l’échelle internationale des événements nucléaires et radiologiques (INES) en Belgique en 2025, a-t-elle ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: Säpo drones nuclear power plants Sweden 2022 investigation
+--- BING NEWS ---
+(no items)
+--- GOOGLE NEWS ---
+* Swedish Security Service investigates drones at three nuclear plants - reuters.com
+  DATE: Mon, 17 Jan 2022 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxNcjZScHdUYjNmSFNOdXpSamVJYUhfVGVXTDFONFNON1NPUFpzbzVOSDNZMzN2eHFMd3NTWGQ4TE5ld3Axa0xObGdsUEhwZUd5cXVDUWNIbmcybnRuR2p6UTdlLTFsVVJsUVhKYS1YazVQdkdhWWYyVUJyVW9FWHh5SzlrdWZPREJXT3BkdW5KcWF1V2daWlFuTVB0Q045Z0FPUGRaQTgxY3M2bG5NcEhOSTRSaXI?oc=5
+* As Russia flexes its muscles in the Baltic, Sweden prepares for the worst - Euronews.com
+  DATE: Wed, 19 Jan 2022 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFJ0OUVWZmljMzdLZXpSQTN5MkJpenM5ZEpuak9sb2ZZNEozWjMxbWJNV2hKS19zd3dFM3J2Q2RhRjZicmhUR0Q5aExQSHJpODlaaXhwUG1LeXhIV2JsbEl1dHNKSkswdVJQSXR6TEFMa085Sl9sNE92MlhrSW9DQUlvelZtYjlSdVFVVTFRSm1LaGRlYmc2bVQ1SGh6WVpwTGtYVGJWOW5QaVEyYWJpWk1ZcXdJRDBGN2c?oc=5
+==============================
+########## QUERY: Europol report drone critical infrastructure hybrid threat
+--- BING NEWS ---
+* Macron orders protections for infrastructure, citing a growing Russian threat
+  DATE: Fri, 18 Sep 2026 12:17:00 GMT
+  URL: https://www.nbcnews.com/world/europe/macron-orders-protections-infrastructure-citing-growing-russian-threat-rcna598607
+  DESC: Macron specifically cited drone attacks and cyberattacks against critical infrastructure. The European Union describes Russian hybrid activities as including sabotage, cyberattacks, disinformation and ...
+* Drones are the next big security challenge for critical infrastructure
+  DATE: Wed, 26 Aug 2026 04:00:00 GMT
+  URL: https://www.utilitydive.com/news/drones-are-the-next-big-security-challenge-for-critical-infrastructure/827036/
+  DESC: Melissa Swisher is chief revenue officer at SkySafe, a provider of airspace intelligence. In recent years, drones have transformed from a hobbyist technology into sophisticated aircraft, capable of ...
+* Germany opens new drone research centre as security threats mount
+  DATE: Tue, 18 Aug 2026 08:48:00 GMT
+  URL: https://www.msn.com/en-us/technology/aviation/germany-opens-new-drone-research-centre-as-security-threats-mount/ar-AA2anStN
+  DESC: Germany on Tuesday opened a new drone defence research centre to help combat the growing threat posed by unmanned aerial vehicles after a surge in suspicious sightings over critical infrastructure.
+--- GOOGLE NEWS ---
+* Gray Zone Attacks Against U.S. Allies and Partners - cfr.org
+  DATE: Thu, 23 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxORkNqSE1mZWlfcTlxQkdjUjFFQ2FBU2dUTmYwYUtXTzlGYzhyMTZSMmoxdVI2bGVZRXRoWG5ZYjRxWlJzbEJJNUNSdl9ZUGtsUXRzSDVfdkdHRDl3WmwyTEhSQzMzWi1Gd05sSEt5NEpCTVJFTWQ3VG9SZzZaajFWQnpaNA?oc=5
+* War Without End: Deterring Russia’s Shadow War - cepa.org
+  DATE: Tue, 31 Mar 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2dIdFpBUkFMOTFTSGU2Ym9YR1RqUWtKZTA1S0VxRlI5RTR1OEVvTS1xQUFqVWo2XzZtMEYwZ3VzYk5ydUFCRUd2cW9KQkUyUzlnTVJwTXVmWWNDRDNiRmlHNG1UY1otMWR4T24wd0xNMUZHcmszZkY0Z212a3dvVXJvVjh6bDN6NU1mZQ?oc=5
+* 4th EEAS Report on Foreign Information Manipulation and Interference Threats - EUvsDisinfo
+  DATE: Thu, 12 Mar 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE5GLXRsZkE0TFVoSS1HVjkwYllfZDlwWC1kbU9jMlpKMUdETTNSTm1falZhTmthT3p0M1k5bDBFVTFoU0tvcTNFdHRXQ1haMUJSWlVpVE1pc3doZDU1RnJJOWVPc0gxaG5QNXhYdjY0TQ?oc=5
+* Here come the drones: how can Europe “keep calm and carry on”? - friendsofeurope.org
+  DATE: Sun, 12 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZU05WmJIRUwzemU1bVN1bEpQTzJKZ3NTWXFBMlEySWNSSkozMW51V29KUzgwUEFmWU11MHJqZVNFaEhWUmcyYlR1dEdnSTlFc196dFVDSENLZ0x5NjRpQ0NpcjdMc2lKQ1F5VmZCMUVIODZIczRrU2syWXRicVROUFBzV1pMUEhaSlBKM2F6ZkFCNjcxLURkcExTTHUxbG5talhfX3R4cGpWRHdtUl9JTW5rMXdlTjJzM0E?oc=5
+* Criminal Networks as Instruments of Hybrid Warfare in Europe - Robert Lansing Institute
+  DATE: Thu, 02 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFVia1FMQ2ozM3k1b1JUS0pTVkxCRGk2cVFPenlaSE9sS2xtZHhtb2VyejZPSGIweWNhVDlOMTRQLWFfcDBPbjdjTXI0WTN3WWo4TENkMEw5X0Q2NHdQZHU3MHp4RzlCSFBNcjI2NmZ1UkE3RW54aEM3dWx4RzVhWDVxVTB0TnIzVXpERmhSaDkxTzFrT0c3clBtYllwNjR2b1lv?oc=5
+* Drones buzz over military facilities in Germany, minister confirms - politico.eu
+  DATE: Wed, 01 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPci1wY1BuVl9lb09EVzRHdHJoRTIzQk1NYUNldEFlbHRzX0JZVzk5aDlKNjN2WGpOU3hLdHR3bDN6bEVwaEVwNmRFWEZ2NWVhcllNNEVTcnpITEFlU1NwT1hnWFkyMEJzbkx6a09nVi1IRDZRWmFmSVVhcGdfZjZvQjlNangxVzktZ2drVy1ORlhQeU9FaVRiSERBdGFYZWs?oc=5
+* EU strategic approach to the Black Sea region - EEAS
+  DATE: Mon, 20 Oct 2025 10:29:57 GMT
+  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE1rLXIwTWVFVTBqNUlTMThZMTMzQkw0MWlZZkF2ZDR5SWJnNzViYWtacG83eFFzSnV2MjJYVkw0dGc4WFFlN2Z3dzVZVWhNbmRZWG85b2VIeFl6cjdXY09zbjRQSmRxWVZKNGxCSVhBcUFCQkJIUENSOGNMSGlMZw?oc=5
+* European Commission rolls out ProtectEU strategy to boost internal security, resilience against hybrid threats - Industrial Cyber
+  DATE: Mon, 07 Apr 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMigwJBVV95cUxQZl9TTnoxLXBwTVNvekNYSGEySWg1UzNILWdVTWRvVXhvVS1JVTN0RGtlWV9rVlFKbEtFTmZ3WE1pWWViZzhrMmo4MVlNQjJWNU1QWEpjSW80U0VPZ013cGxVaDBtSjZ0bXYtZHJhSnltSU53bFRqcXJmaVlXTW5mUG5ydkVKYm5UdGg2SXNYcjRkSW55WWNLenFBZ0lfQUNGMmVuUWdreWxMNVEtRDYzd2lzVm1XdW8tUG5lbU9HVld5UlVNdzd6VDVLZ051em9uYjZaRVlNT09IMHJPRTlCYklycDgzMWZQOTduTlVQNmhyOVdJekZlSVBWdWlJMnBBaDFr?oc=5
+* Russia using criminal networks to drive increase in sabotage acts, says Europol - The Guardian
+  DATE: Tue, 18 Mar 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjZTQjdQcGU2cGNWZjl1N21MbngtMXVSVkZoNWRUblA4NzZiOC12ODdKazV3ckdxc1FQZFFoaHpFUlRSSGVsY1JkV1JJSnp2VDAyWHJPbnNkSUdQX2Q2bVpGRzZHY0pmTzBfZlo2X1diQlpRSVlNaHB1MVZSVVdodEpVRWlRbWE1QlY2NE1PN01VMXZfMC1ZMVAxd18xSTQxSkM0OGdoY0ROcjA?oc=5
+* Police monitor drone activity near critical sites across Finland - Helsinki Times
+  DATE: Fri, 26 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxOY001UmJIT1Fqa3B3TzJDdmtjblpfeUJ5aXBvUDNBWFA1aVF2NFFRSF9SSXZhUUg4MkJ6Zk8zYTdnc21oLXUtcEYyUENXcDV3R0xZcGJ0a2hGbktvNUdwRm03UEdDZmRDb3pFV1E1MnBBNERKSGFCa3o3RDI0cXRTVzRESDBPaEhDMlFNVnYtbnJIcnBGTTV6eHE1SnctSGhZaWg3dmNZMF9JSG1fUzRFdzJNXzFVOFFIT09rQ1lSekFTNXVNMnBZXzJCeGFjVjA?oc=5
+* Hybrid Threats - defence-industry-space.ec.europa.eu
+  DATE: Wed, 15 Jun 2022 22:31:10 GMT
+  URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDBfdEFPeXZCT3plUzB5b3huRWpSdUlHUWg3MFRNR0gwSFl0QWdhTlpCZEZLR1ZvcHd1Tkp4V21LWG4tb2hVQlFlX1RiYXl4cXlWalBTMEZUMnZJTDFONkJFSDhpcEpERTFnT3RoWVFteHpZTklDOTZ3VWtqZkhnS3JtSDhsbmg2?oc=5
+==============================
+########## QUERY: Denmark PET risk assessment 2025 drones sabotage Russia high
+--- BING NEWS ---
+* Denmark expects Russia to escalate hybrid warfare in coming months, intelligence service says
+  DATE: Thu, 24 Sep 2026 02:18:00 GMT
+  URL: https://www.msn.com/en-us/news/other/denmark-expects-russia-to-escalate-hybrid-warfare-in-coming-months-intelligence-service-says/ar-AA2cStWn
+  DESC: COPENHAGEN, Sept 24 (Reuters) - Denmark expects Russia to escalate hybrid warfare in the coming months, the Danish defence intelligence service said in a new threat assessment on Thursday. Hybrid ...
+--- GOOGLE NEWS ---
+* Russia Could Soon Attack NATO Territory, Danish Intelligence Warns - trendingtopics.eu
+  DATE: Thu, 24 Sep 2026 15:15:56 GMT
+  URL: https://news.google.com/rss/articles/CBMieEFVX3lxTFBja3EyNHZwOXdjSGc0UFpnQk5QN3FTc1lRMTJUNzRiVjhKQVpSUjBVWDBBdzR4UTNRU2ZsdTVGN2Zrb3JkaE93RjR5d3F6QnNfM3gzUnRWWkRrb3BEY1B1V2oxa0t0NTk2SjlsWExvU01QY01zXzBTcw?oc=5
+* NATO chief calls for calm as intel agency warns Russia may ramp up hybrid attacks - WRAL
+  DATE: Thu, 24 Sep 2026 15:52:15 GMT
+  URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkRmcVN4MVk5NFlST3JRZXVZQWtPanVSamxDQjdnVk1QcndvbVhxSV9yTFVHeXhzTHR3RjVvaUxJLWhlY1YyYnk2a25CWWZBU2NVblBfTDk2T2V2RG14cjg4WVZUNXJ3V1o5eEpYSmNOeS1xbVY3REtyMEJCZ0UxM19lc0VBT2xsT0FVVjFtS21XZzlVNy1vUm1GcjlIcVhFVVMweGV2LXdmNThNX3pZbVQyYXpmQUcy?oc=5
+* Danish intelligence warns of growing risk of Russian attacks against NATO - Головне в Україні
+  DATE: Thu, 24 Sep 2026 12:47:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN05iVlhUZ0lzYVJPd0dCODF1bUZ5RnVyRVo3QUhMWHhlTGJxR1ZLUkE4M25UUjI5YmNzcmhGNTVJRVNfSDZ6LU9pUzdZcTZUU2NDa01ZUklGeXYxbkVOQ05LZENNNGVhLXBHbDE4aEk2Z0FoWmNPWEJTVm1DTmFCMHVaMUdMNWFJeXhKQzF6TjRsb3VKLUhDd2RuV1ItTy1EcXZtdXcxdWZlZ9IBrwFBVV95cUxQRlZ5d0xvSmd0d216SndTY3VTd3ZRRGE2aVY2TW5FSmJWUHlPUzNjenVoaTBlTUhEdlpsVzNzR3cySHM2aXRORDBsWDRub056RGF5Q21feURiTS0zM2pQcjBfSXFYanZldEpaR0ZVTUN3M0RNcnA5cDU1Q2tYLXFkY0QxTjhKSTVxdFUxalFsS1NYc1FJc3FuemYtd0hHcnRuQm1aMHA5cno0dG5QbnNZ?oc=5
+* Denmark says Russian invasion of NATO country 'highly unlikely' but cannot be ruled out - Euronews.com
+  DATE: Thu, 24 Sep 2026 10:48:34 GMT
+  URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXQta0xqODNLOGNQczVJOUJjSUZQUGNJNVVuWWRKa1FaOGJlWHladE9WdGJIeGJnc3NHQVhWeXlzQnFKR1RKMndwbURGODV6ZEE0RGZoWFZrN0x5ck5tOEZISXFuQnBlemZDeFZoM2hBSGlQeFRWNjdZRGl5ZXlTLVA2a3c1WGllcjQ3UUlKNXhuYi1QdFFiUkhJaVhJOUttblEyYnpHOXZHOFVjdXl2SmNOT1ZCVDliX2tEeEFR?oc=5
+* Ukraine-Russia war latest: Child killed in Russian drone attack on high-rise building in Kyiv, officials say - inkl
+  DATE: Fri, 25 Sep 2026 05:00:39 GMT
+  URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQV8tbFd2SE80V0tyQ2lYYU0zZ2JVZ2VpUzc2aDgzR1YzakRud2pGelpvb2ZzUG52NGVaeFJrZ2lsbEhpcU9JLXZMc084U2c5aG9lYWhST3kyX3lqZXVuTEdQek4tbDBoV0JsVWFjdTltYjhoR0ptNGE4UklkVmc1d0NFS3NlSGZEb3lnYmVNaUs1SnpqREVGd3dWX3VTSTlFZDNUS1E3bk4yMDRQV09Ib09mcUZEMDlHWmRQVXU2ZUloYzVpREtZcFowdENPT2ppOFFNQ1dmRm9wQjA?oc=5
+* Helsing Nears $1.2B Raise That Would Crown It Germany’s Most Valuable Startup - trendingtopics.eu
+  DATE: Mon, 11 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekc2SUVydExZcG9lclYzU1BxejNxOC1SM05kWGx0UF9NajZOaGlwRzlmRG42RUg5MWhHY1NYaXZ4UTA0bkd3Zk5yUGg5UTk0SS1zOFlsLTljUk9Uemxzc1lER0lTZzVkWU52QWZNbXJfNUIzRUJjbTF0eVhqcm45bm90V1F6bjVUdmw1WHhUQmx6VlNzVXo0cWRSQ1pxZDMxc1JUTldVa05vQQ?oc=5
+* Denmark: In Putin's Crosshairs - european-security.com
+  DATE: Mon, 15 Dec 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE5SMGVFcWdUTjFncnBfaWtuYTJKN2paMHRYV3JNck9Wdml0YTJRNHBPa21lS1RSa21zM0Z5eEd2dTRfQm1feHVVVjM4aWdydE9oblpwLUJ6dWg2NExLaTh2Q2dkVkZRY05qVEYxaEFTSQ?oc=5
+* Copenhagen airport drone sighting: Russia's involvement cannot be ruled out, Danish PM says - BBC
+  DATE: Tue, 23 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE04RnBuOWo2RHVNZjlqNEFHOUpEelcwNzA0eVE1cmFzbXYxWF81VVdjUXV0STVfUm5nTXFuSHZQNVRNd3ozUWo3eW9pMDBsV0ZaZUM2Q1hRa3Vodw?oc=5
+* Drones disrupt airports in what Danish officials call ‘hybrid attack.’ What happened and how can it be stopped? - CNN
+  DATE: Thu, 25 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE9xbUoyMDdzMmRoYlo1Y0Y0LUYtSk5hekZZWXNYVVVELWdBVmljOS1pRDFnX1BTWkRPTTlNbXJfcmhteFBQVFpQalFudHhDbUZ2NUNEcHBqQk5la0dZTHF3dUxHLW96a0h0d3VobXJjQTFYSmNfNU05N2NnclQzWm8?oc=5
+* Why Russia’s micro-aggressions against Europe are proliferating - The Economist
+  DATE: Thu, 02 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXdYNWNpWkppQV9ZenZUSnV4a09rLWp1MUdBbDRzNDNKY1gyQmhQRU9YRGUyVlhrTGhzc2xiS3BQRzd1ZzBvUnJmeXhfaDZIRXduZGZYNlpIMWZobGlERmRUTXF5WVBTZlVJOHMzQ3RpbVlyQ2wxaVJHRC01ZDI3UFpKTGxHVDNtc055TFdNWFl0MWZpSk9tdEZlOXVXNGRCMDV2N1Y1MGVmWllS?oc=5
+* Drones disrupt Copenhagen Airport in Denmark’s worst infrastructure attack - SCMP
+  DATE: Tue, 23 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDBCRTRDZU1mR3lLcGNXUlRlekJudjByMnVqT1otM2hlMC1kUTRQUVpjbmJNYzY5TWNEZU05QWxQeUNQakM4QVQ0enFIZ0xDWkVkNlIxZ2pKTEVUNUdsZy0wX2VzWS1FOTBTa19idm9GZUVWWW9Sd2N5SXBycm00Q3pEU1lJSjNKaDJWZ0Q5Vmw5anJOUG5GWVVRS1B5bFJVQUlXbGhGdC1BX0w0cmJvNzMxZGtkVDdwaDlscGhST2E1am0zWlBaadIByAFBVV95cUxPZmx0T29LS0hTRkdrRXdnX21kZ2JEREM4VFctNzR4R3VZZE5udWt6RXNoTHVLbXFxaF9FNXVJQ3VlbzBrb0xaZmlkLVAwN3E3OVB4YzJhalBmdE5IT0h3QTd5ZDIwWnQ0eXZiS3YxazBZV3NSSDQzMW80TUloR25ueGg4N3liVjdMLVpQN0pIVGprcmlRSHJFNnMxNHByZmJpZTJxbTF3QzFHZ3hCMjd2SlBwSHBiVWJLRmhjMkxScFF2T1dsblhmLQ?oc=5
+==============================
+########## QUERY: Germany Jänschwalde substation sabotage September 2026 Russia
+--- BING NEWS ---
+* Germany investigates suspected power substation sabotage, Russia summons German envoy
+  DATE: Wed, 02 Sep 2026 08:38:00 GMT
+  URL: https://www.france24.com/en/europe/20260902-germany-ivestigates-suspected-power-substation-sabotage-russia-summons-german-envoy
+  DESC: Two incidents that disrupted power distribution systems in Germany are being investigated for sabotage, authorities said Wednesday, while one of them was also being examined for possible terrorism ...
+* Germany Probes Suspected Sabotage After Disruption at 2 Power Substations
+  DATE: Wed, 02 Sep 2026 02:52:00 GMT
+  URL: https://www.usnews.com/news/world/articles/2026-09-02/germany-probes-suspected-sabotage-after-disruption-at-2-power-substations
+  DESC: Germany Probes Suspected Sabotage After Disruption at 2 Power Substations BERLIN (AP) — Authorities said Wednesday that two incidents that disrupted power distribution systems in eastern and western ...
+* Germany news: Explosive devices found near power plant
+  DATE: Mon, 31 Aug 2026 18:04:00 GMT
+  URL: https://www.dw.com/en/germany-news-explosive-devices-found-near-power-plant/live-78583741
+  DESC: Police say they found unconventional explosive and incendiary devices near the Jänschwalde power plant in Brandenburg. Meanwhile, Germany's top diplomat says Algeria could become an important supplier ...
+* German police say launching terror probe after attack on eastern electricity substation
+  DATE: Mon, 07 Sep 2026 03:15:03 GMT
+  URL: https://www.msn.com/en-ph/news/other/german-police-say-launching-terror-probe-after-attack-on-eastern-electricity-substation/ar-AA2boyYl
+  DESC: NATO member Germany, which supports Ukraine in its fight against Russia, has long accused Moscow of targeting it with a campaign of hybrid attacks involving espionage and sabotage, claims the Kremlin ...
+* Police arrest suspect in Germany power grid attacks after dayslong search
+  DATE: Tue, 08 Sep 2026 04:51:00 GMT
+  URL: https://www.newsday.com/news/nation/germany-power-grid-sabotage-arrest-t21321
+  DESC: Police have arrested a suspect in connection with a series of attacks on power distribution systems across Germany.
+* Climate extremist is arrested over German electricity sabotage
+  DATE: Tue, 08 Sep 2026 06:51:53 GMT
+  URL: https://www.msn.com/en-gb/news/other/climate-extremist-is-arrested-over-german-electricity-sabotage/ar-AA2bNHio
+  DESC: A climate extremist has been arrested on suspicion of carrying out a series of sabotage attacks on Germany's electricity grid last week.
+* Germany hunts climate activist suspected of power grid sabotage
+  DATE: Fri, 04 Sep 2026 10:17:00 GMT
+  URL: https://www.yahoo.com/news/world/articles/germany-hunts-climate-activist-suspected-171746645.html
+  DESC: German authorities were Friday hunting a militant climate activist suspected of a spate of attacks on the power grid, the latest sabotage targeting critical infrastructure.Germany has faced a spate ...
+* German police launch terror probes on power grid attacks
+  DATE: Wed, 02 Sep 2026 10:53:00 GMT
+  URL: https://www.lemonde.fr/en/international/article/2026/09/02/german-police-launch-terror-probes-on-power-grid-attacks_6757093_4.html
+  DESC: Two similar attacks in Germany are being investigated by counter-terrorism officials as possible acts of sabotage, with investigators examining the possibility of 'hybrid attacks' by either a 'foreign ...
+* Power lines damaged in suspected sabotage attack at Germany's Brandenburg power substation
+  DATE: Tue, 01 Sep 2026 13:25:00 GMT
+  URL: https://www.jpost.com/international/article-907249
+  DESC: The incident involved "an unconventional explosive and incendiary device that is capable of detonating but did not do so," police said, without giving further details. The power grid in the eastern ...
+* Berlin substation fire, suspected break-in reported as Germany hunts sabotage suspect
+  DATE: Mon, 07 Sep 2026 01:20:00 GMT
+  URL: https://www.trtworld.com/article/9cf5db87b60a
+  DESC: Two incidents involving power infrastructure come as authorities search for a man suspected of attempting a series of attacks on Germany’s electricity network.
+* Germany probes suspected arson near defense firm as sabotage concerns mount
+  DATE: Thu, 03 Sep 2026 09:21:00 GMT
+  URL: https://www.msn.com/en-ca/news/other/germany-probes-suspected-arson-near-defense-firm-as-sabotage-concerns-mount/ar-AA2buuWU
+  DESC: Police said they were looking into a fire overnight at a construction site at the headquarters of defense firm Rohde & Schwarz, whose products include radar systems to detect, track, and jam drones.
+--- GOOGLE NEWS ---
+* Germany probes suspected sabotage after disruption at 2 power substations - The Washington Post
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd3dRX0lZeDZzWE9EM01rQm5vZHc2djY1MXh4RE04cDVOOTRyUXJNbV9XYmh6RjE4eDRZQlFNZkRabTlhUkgxZG9fNE5fYTlKaFBvdDV2VjU1Zmp0U3Fzcm1zMVVyU3VyVXZQUjVLTTlhSkpjdHJsbFlzV1dqQXZ3bUpRMDF0U21TTnBSRjNYRUJnY1V0VmczYkwwb1NXUklnOWYtYzNuOFkwZDFvZ2tDcEtSZFVZUlJlTlhhalRBWWFzRFk4Rk1sOHFSNzNMOE9ndTNzMnh4V3hVZzRvVnk2V3dpTjF3NDUwZTdRNjNsMA?oc=5
+* Germany probes suspected sabotage after disruption at 2 power substations - Bozeman Daily Chronicle
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMihgJBVV95cUxNbWJ2Y001SDlFMlZOUnRLTjkzZHJPbDJHeXlXNmtaM3RNU3ZwS3J1WC02eURNOWREY1k5Q3pnaE9kZEpScmgwOU5GSV8ycVppczFWNzd3b045YURCWDdYclk3R05wY0djWEFJdmp1QUdTS0RUVjJ3VDRGSlRyV013MTliM3o1T2pQN05XTnlMVjVWdWpHYVU4SnJuQm5ja3kxUnp0bWJlTXRiUmllUXJLM0VMVFNvVzNjZ2g3ei1zVTA1Z0x5Yk9QaDNnbnVIN2Z5RkxHRXpOT2RrNFZHX0tNeEY5WEdldWZKQzRIZ01hZmVCNFU3QTc5V2xwNGc1M3VCOHFEV2ZB?oc=5
+* Police arrest suspect in Germany power grid attacks after dayslong search - ABC News - Breaking News, Latest News and Videos
+  DATE: Tue, 08 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXV5bnZXbUE3dXY4Z243QTY2cGdFcHRlUW9qUjlfTGJZb3g2dVlyZDBzUlY0Wm91anJMcWdRWm1vcmxyRUtiS2ZzOTFneS01S25hUzZTMmtQUzc0eEp1NmU2dU1sczVHRXBOUmR4aG0ycFM1TEFiS19tblhmREJtWl95d0l0NnlUa2J2eHJMSmJQdlk5RXFUYU5MeWlfb1ZVbHpFRlZWWGt3WW1i0gGyAUFVX3lxTE1ZQ0JLREN1ZWNGcV9fcEZNNm12Qi1UUllmdnFQSmF2cEM1R1U4V0tKT2VCdmhLX3B5R3VveEtVXzQ0ck92eGQyaEtjenVuWm1HZTg1T3hXSnZfdzNCbnVFWE1HcHFiNDBSTFZVV0JnNGRWTlZ4MTk2UWVDYTdsWmZFMGhidDZVUlhDLVdfaUphWnB3eG5DNVk2Q2VZUllwaURWaHFfTldVQ2tjYWpac3duMmc?oc=5
+* Homemade Rockets Reportedly Hit One of Germany's Largest Power Plants in Sabotage Attempt - UNITED24 Media
+  DATE: Tue, 01 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxObzhWaEF6WU9yLURJS0FDN0NNUm5vVEpVeG5qa1RLUEtQdUdBRkRDQ21mM2xUY3VjU1l0S0FLMkE2OFBKbVEtRVlKX2NqbFhVRXl0cWoxOE1rMmpWNEFYLXF4eHBGdmI1aElWaURVMGdCSkVLSkNWX1RLVThhc1ZhcWp1RG53WEZySEE5NDJkRUhuNWJZOWVxamZzYWU2bTg3ODdHOElxSzhyVTctM3BWRkdmZ0kxT0hIWUdkdU42SmdIamZD?oc=5
+* German authorities probe suspected sabotage after two power substation disruptions - The New Indian Express
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ2FHa0VSVGx4d2ZxbXJiaEtyWTA0eWxjQTRVOXZtalYyd0ZjbnBMdlI5VUhfSXN3akJ5SDRheXlvbVBuNjExTWg5WTh5MkFmeGxJWndZX3JtYWhVOGNHYmxvRmVwSEpFM05iemNkRjJkX0VPRlY5a3YxdElHaE9MMGFYbURvbzRUeEpCb19vNGNReTZXZjVXbm1PRDlsVU5Gbkl2TlBmNW9MRm5CZHNORl85WGItVzFhNzd3R2pZTnFxRjM5SEUwWmpiN0RlZ9IB2wFBVV95cUxPb0NsOGM1Y1JMbV8yVm1mbzZkVUdZVVNadFRyRGJPdnpvZ1JidUlQc1dSckZBa2VTMVZOdzlGVXNwa19FS0RNQnF1UFktZXJ3TUZ2Njh2dGlzRHB0N2lRQVAyLWgwSVp1SGJLTC1xRlk5RmliNkVuM1ZMVm1GNjFKMU8xbWJGNTNQZ1pwek9nSnk2UGx1MmRpcVhWX1VaenE0MTg4SDJpMVBrcXlrSlJjUXBVZjNZeFFaREpNRnV5MVRMOWdpMklGenc4REloZ1d3Sm5pWGhMamZyZ0k?oc=5
+* German police launch terror probes on power grid attacks - Le Monde.fr
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxPVUVlSkxnekwtS0Fyald2MlVtVXRneFQ3cTZtVFZ3MnBxbEg4Y2l3SHNzMHFuN1Vib2I2UTJQMEw2Xy15YWswSHE3cGlIQ1FJd3RkSVgzZ3FxMTlhNTJObWY4XzNBVnV6dE13elhQbFpOOFliZlRwdEN4QjUtd0plQ0dIZ1RvQnlUUlF1NjJuRG9CeGNDaGp4N3lvRGVPNTNvLTYyWF9jejRLTVpSbGpSazkyb0VFakdMajhXbEpocEdJVFhNSnotUG9B?oc=5
+* Two new attempts at sabotage at power substations reported in Germany - media reports - ukranews.com
+  DATE: Sun, 06 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxPV25ldHoxODdaZ0J6dUpDVThfd3dIelJTcGRaU0RXeHMyaGlKVWhXaFF3SFA5X01jazlROHM0TVJfalZOUG50aTI5cjJZb1Fjd050RDF1cFRmMkdGTGMyblprWGNSSGhJZ1Y3cW1wRXdreExIa2ZrWjFRSjk5UXhXcHN5V1BlWk5WbWFzMFhoZzlDUVlSRDBUMFV0WW9Hd19UM0V3SFhqRUIxcHIyazNCUmNjeUtoaVk4YU51Q9IBwgFBVV95cUxPaUhJbV9CQXFZVlljRFRucV9wNGFoOXdISEdnaTQ4TlVLVV9yMDRZcnVHQ0YxeHRUb2ZScmxES0xIMGdBRHFHTkZ6YXREWkJLZUJNb3JVSUNFS184MEFlUlVEcTlfQ0phZTdDaTBlUkUxM2VRLVlieFhlOHk1YnRCWE16ek5rTWlUcnF0VXZtUVZoVHZmeHp5WmZaemhhLVdjWFhQcHdSd283REMtWHNZa01YczByVkVSdWRod2dQMk9YUQ?oc=5
+* Discovery of explosive devices at substation leads to sabotage probe - Sky News
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmc1OEVuZWZyWjloOVlQR1Y2SmFYYXg0bnE5VTQ3aWtVU3VscUVjNEFiR2Myc2VEeEVmdUd6Rl9TVVJJYzRrTUhRQVBKYm9DcUprblRmSnpHSTBsS3ZkaGF6V3FBWG1fM3NwQ1RNRmNWc2VoRHphdW5MeWZjZHFPaUE0RHNCNUZQSWpNc0JGYXN4TzRXWHVUYkNrQzNrQ2ZKZ2U4NTFDZTRfckFTWk1IZDlLWQ?oc=5
+* Germany Probes Suspected Sabotage After Disruption at 2 Power Substations - U.S. News & World Report
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxPV29NSDAxQ1hOVVJhRGtrTE5remxvRDJrd3RNemZqUHZ2MjZpUkg3RnNGVzZ5MGQwcHN2cmNwMVAtbHB1SEk2Y2ptdUlNOGROc3VSTHRjYWhpalBwVmFMVTBrQmNaeHlsb0FSN0RYelJBMWREc19LZXZSdjFEY2hocGtTQjZ0N0Q2WVR2N0VYY3BJTk5FMEltRDNjUzJqN1V4NFhLZmdid1BOVk9pTFVoaDNZVXdrSU9wS1FuekdDMDZUZlEwVnc?oc=5
+* Sabotage Reported at German Substation in Bergheim - Мілітарний
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxQOHBFMUNYS1hGYTdfUEZiWUxlT0VtZ2pScjVnQkJVM21uLWR3MVRUODE1TElaZEE2YlNLaGZFMDlkYWc3M3Y2OF9iYW16S0VKUUZ2bThHRndod2NkZldoOXVBV0d0LXZORmd6Ui01VGZ3MnJfWjBERnBmR0dRRlNBMTNlWE51cFpJa2c?oc=5
+* Germany news: Police probe suspected power station attacks - dw.com
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWx6VU95UWl6Wk9OOWpEbkFUdnl6dmRPZVUwY0NqSTY4NHBQSVRITW1DSXo0alFYRVNKSUsyY3lISTcyUlRWdFdfd2V4c2d6SHVjM3d1bU9ybDhUMWZzNTAyM2tkSGoySVpEVnpBMm9qYjFtT3kwSDhyRXVIeEYzenM3Z1RzNUZ6TVFHR0stbnVEbzhLbmdhLUZR?oc=5
+* German police detain substation sabotage suspect near a power plant with explosive devices in his possession and bombs in a nearby tent - Meduza
+  DATE: Tue, 08 Sep 2026 16:50:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDBnWTJDUEZkZWNNd3FSdWRLc09Ia2pLWUQxZkMwTWxOdDJRMmUyUUFBUjI0LVBFb3FteDlDb3RKUXhobml3Z1VQN25qTU1JalE3VU9EbWZETkNCUFU1MGE2VWo5WUFxeXFoM19rVmdXSWFrRWNjVHVXWklINUNjMlRZLTQ3bXptckZ6R1lsT3hQQ3o3SmY1bU5TemRhQmw3c2gyc2w2aWJ4cmFHMlJRN0YycW4zeUlsVUN2U3U3VzFDQTdaOGowRVNzWmo5dnRYOVF0cmxLT3pMUmJfMU1HRW5UbkRKdWJYWHYwNzg3SThUYTd3UWdidmtfa0ZWbXg1YkHSAYcCQVVfeXFMTVhJdThYdFJURDBtV1hCMW1MamhOdXFJX0RvRGpsdFpVRzh6M0JHWnZfOGJweWRPLWZDM212U1VXXzBWWXR3azJUdGsxX0IwMTM0b0FFT0g4ODNGQ0dORFVnajJuNkUxYnNJRlFLTDlyOEFvblpzdkRxRDhTTXcyY2FPWlF1UHBKb3BIVHlCYXZfZzZ1cnh0QW1OZGZkSTNkMW9ITTZsV19aSmJ0TUs5VXQtazl0bzFnNi04WElWQnBBT19hRVJPQXlBNGt4QUVQeG1VN0ltUjM3S0I5R1hBZmFldjVCR0YxMGh3bTNSdkpmalV2M1pKd0pIaU1oSWtaYWhuQVBMQTA?oc=5
+* German authorities probe suspected sabotage after 2 power substation disruptions - Stuff
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnNJVGF5Q01SZThrdGl6WmJJLWtaY0U3Z2RySl9RbWplLXRERC1OeGs1Uy1kOWVfVklTNk92UE1ua2RoZXAzbTM3U1RtakQwT0l0ZXRqMC1Xd1NpN0ZXSFZHSE1ic3A1dDVOeG9OZGl6OU1FYWd1N0pyQno4OHNhSU1UMFlYSzJXN3k5c1NicHhSWldYSlBBemZVcVFMbHJKN1NrOEc1SUc?oc=5
+* Explosive devices found near German power plant amid suspected Russian sabotage - www.israelhayom.com
+  DATE: Fri, 09 Jan 2026 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckRpc1VDM3g0ZXBsTThFck9rN1UwQUJIekdUV0tCbXNmTWc2R2h4MzQ3XzRxRDJBb0FCZ1U5UGpic2FveVdfVmRsdEk4OW52eDdQWDBlcU5zcGEya3hmdXk2c3M1WHQyNEFQNkwxQWlWYmZRaWc2RlF3S08yakZvVzdJTFd5VTZGWnNHcTRVb0tNNFFQWHB6WVI0UzJXUV9iQXRpQzZsU0g2aVFCMVRtNThlU2hmWXhhY0h3?oc=5
+* Putin hybrid war fears renewed as Germany is hit by ANOTHER power grid sabotage after saying Russia was behind airport drone bomb attempt - Daily Mail
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxOQTgtcnVnOXRlWGFqYkFuNHdMcThVZHhOQ1oxMFcwTlFSbjM5aXYyYjMwN1BPWFJVRTBjRE1nbjB5TlhFOGh3eV9NMTY5SkNBQTU5TmxLOE1OS1BmbEhqZ05sLUtpbnBuZkQ4UjFxQXJZS0NIZ2ZJTTdpNnh3MURNRHo1MDNvdVYyalJSY1hxUXNRT2RJaE92eHhHUHhMYWPSAaQBQVVfeXFMUExWVmVHT1p4V2FqUjhHLVlaVDY1Y1A2RUpuaHhPOUJxZnpLU2pjMWg4M2V0ZWg3cmdiNnBGN2pFLUNYZ3hqeEVacjBjU1A0THkycWQzQUlFbFFJSXAydERxbGhtNmp4b3ZsdzJqOGxtV3pGMzhieWxhWHk2NFFaQ3JiRmZVU2lSVVc1ZDRITjlmcjJkMkNYVFZxM25WLXZfZlF4ZUs?oc=5
+==============================
+########## QUERY: drone water utility reservoir incursion Europe security
+--- BING NEWS ---
+(no items)
+--- GOOGLE NEWS ---
+* The Tank Is Dead? Oh No, it Isn’t - EPC, European Policy Centre
+  DATE: Tue, 26 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTFBuZHMweDRKUUQ5X3BiZXp3MUx6Z2NzM2QwejduZVNQZ0ZsV21OOFFCYnFHZHk5cVBOb1FkeENpeGVfS1pZOVBTdzg3MV9hTmpxOThLUzNWOGw1WlY2ZWx0N3VOWDlBRWJOMGNRZldpOA?oc=5
+* War Without End: Deterring Russia’s Shadow War - cepa.org
+  DATE: Tue, 31 Mar 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2dIdFpBUkFMOTFTSGU2Ym9YR1RqUWtKZTA1S0VxRlI5RTR1OEVvTS1xQUFqVWo2XzZtMEYwZ3VzYk5ydUFCRUd2cW9KQkUyUzlnTVJwTXVmWWNDRDNiRmlHNG1UY1otMWR4T24wd0xNMUZHcmszZkY0Z212a3dvVXJvVjh6bDN6NU1mZQ?oc=5
+* Russia Tests NATO With Poland Drone Breach - cfr.org
+  DATE: Wed, 10 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFBCX2VHNzlvNXotUFVNYmFTdFNSZTlXMEo0ay04aHJIdEFkQWpYWmpnR2ZibGhOM001TFd1VEF2djd2M1lNYmphSGJWczVrbVdqVWp6cExlcFNYTUhqdWVRM1d3TGNOY0o1T0hTeERFY0tCcXp2?oc=5
+* Why Russia’s micro-aggressions against Europe are proliferating - The Economist
+  DATE: Thu, 02 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXdYNWNpWkppQV9ZenZUSnV4a09rLWp1MUdBbDRzNDNKY1gyQmhQRU9YRGUyVlhrTGhzc2xiS3BQRzd1ZzBvUnJmeXhfaDZIRXduZGZYNlpIMWZobGlERmRUTXF5WVBTZlVJOHMzQ3RpbVlyQ2wxaVJHRC01ZDI3UFpKTGxHVDNtc055TFdNWFl0MWZpSk9tdEZlOXVXNGRCMDV2N1Y1MGVmWllS?oc=5
+* Unidentified drones spark security alert at French military base - Euronews.com
+  DATE: Fri, 26 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxQNlN1eVN4THZmeF83T2FycnVNdHpuN1Y3em1mQW5fY2tvZEF4R3R4bGNlVk1YSmR0dTdEVWt0ZUViWUxCdl9ESWtycndHb0dDZWl4SFhjTkFXX1VuN2ZSbGF2bEJybmFfekRWNHF6UnRVY3dlNzFZbHdJMGVkTVRNRXBfNGhuc3FOekRyZUYwcElTaHpwLXFPbWYxbERWWWRlSXJTTERWdE9uTmRKTnpV?oc=5
+* Russia May Launch ‘Direct Military Confrontation’ With NATO, Germany Warns - Newsweek
+  DATE: Tue, 14 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXF3VjR0cnNQRHA0cmtUcDkwa1JKcnRVOVVHM3g3WUV6dGVja0hoZ0ZfN01nczNSS3VQMlVPYjFVYkstUzV5Wmp6ZTRNbVhVZHdIOUlrSFRqeDgxaHUzVnYyQ2tCcms2bUdEdzAxaHpNMm9HMUprdUNsazNaSzVVNm8zdlE1NXhWMWc?oc=5
+==============================
+########## QUERY: Sweden drones nuclear plant 2025 alarm Vattenfall Uniper
+--- BING NEWS ---
+(no items)
+--- GOOGLE NEWS ---
+(no items)
+==============================

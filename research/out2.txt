@@ -1,0 +1,648 @@
+########## QUERY: drone incursion offshore wind farm North Sea
+--- BING NEWS ---
+* North Sea wind farm expansion may shift rain offshore, simulations suggest
+  DATE: Thu, 20 Aug 2026 15:40:00 GMT
+  URL: https://phys.org/news/2026-08-north-sea-farm-expansion-shift.html
+  DESC: Offshore wind farms are a key pillar of the energy transition. The European Union plans to expand offshore wind capacity in the North Sea by 2050. A new study by the Helmholtz-Zentrum Hereon indicates ...
+* Romania Destroys Marine Drone Spotted Near Black Sea Gas Project
+  DATE: Thu, 20 Aug 2026 17:00:00 GMT
+  URL: https://www.theepochtimes.com/world/romania-destroys-marine-drone-spotted-near-black-sea-gas-project-6077913
+  DESC: The Romanian army scrambled two F-16s to destroy a marine drone spotted near a major offshore natural gas project in the Black Sea, the nation’s defense minister has said, in the most recent drone ...
+* Vattenfall wins contracts to build two offshore wind farms in Danish waters
+  DATE: Tue, 04 Aug 2026 01:10:00 GMT
+  URL: https://www.reuters.com/business/energy/vattenfall-wins-contracts-build-two-offshore-wind-farms-danish-waters-2026-08-04/
+  DESC: OSLO, Aug 4 (Reuters) - Sweden's Vattenfall has won contracts to build two offshore wind farms in Denmark's North Sea and ‌Kattegat, the Danish Energy Agency said in a statement on Tuesday. The wind ...
+* Romanian Forces Destroy 2 Drones Drifting in Black Sea Near Major Offshore Gas Project
+  DATE: Tue, 11 Aug 2026 17:00:00 GMT
+  URL: https://www.theepochtimes.com/world/romanian-forces-destroy-2-drones-drifting-in-black-sea-near-major-offshore-gas-project-6074234
+  DESC: Divers from the Romanian Naval Forces have destroyed two unmanned aerial vehicles (UAVs) floating in the Black Sea in the country’s exclusive economic zone near a major offshore gas project, Neptun ...
+* Jet fighter destroys naval drone near Black Sea gas platform 'to protect lives'
+  DATE: Thu, 20 Aug 2026 08:47:00 GMT
+  URL: https://www.msn.com/en-us/news/other/jet-fighter-destroys-naval-drone-near-black-sea-gas-platform-to-protect-lives/ar-AA2ayJ7W
+  DESC: Romania said it deployed two F-16 jet fighters to destroy a Russia-launched explosive marine drone that threatened hundreds of lives near one of its gas platforms. Romanian Defense Minister Radu ...
+* Romanian Forces Destroy Russian Drone Near Black Sea Gas Project
+  DATE: Thu, 20 Aug 2026 15:05:00 GMT
+  URL: https://maritime-executive.com/article/romanian-forces-destroy-russian-drone-near-black-sea-gas-project
+  DESC: On Thursday, security forces at the Neptun Deep offshore gas project in the Black Sea spotted an unwelcome visitor - a loitering naval drone, likely of Russian origin. According to the Romanian ...
+--- GOOGLE NEWS ---
+* Romania destroys drones drifting near major offshore gas project in the Black Sea - Reuters
+  DATE: Tue, 11 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTkyVHlBSXlHTEtUMWtQR2FpUjJtTVNjc1l2WE8zMEljWnNLdkpfQ21RRFFzWV9XVVU3YS00N21wVVBwSl9nTVRfMmdyUGpqdURyeEljU0toOS1iZGRXdmlCTEZlMzhSTFlxSlhkY3RmSFZlc0FvRVEyT0xlck9CVnpzMGRSZVIwTHZpdGJGSVBhY2xQaDBETEZXeVhzb0FRZ3NVSG1mZ2EzdEpXSGI1MmlHLVdta0k?oc=5
+* RWE successfully pioneers cargo drone operations at offshore wind farms - RWE
+  DATE: Wed, 15 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOczN1Z2pucDR0N0ZETkc2djhaNFNwN2RreHl0MWxiY1pIaFd5OW5ZeVdyQWI3dTRsaEx0dDBhRzBYY280bUZHQ3R6UlVwVjVBaE5TZFppSHhtT0RLSjZwRm9uUkRySkhiWkxLOEsyS09mU2Q5SkI4c3I3NmFFeWR2dm9iNVhNRFRtUm5ydndRV3dwRjdsaUxBMlJNQk9QMFc1SUZqdUU4bHhYV2VOUHVCOGxaamRIX05wLVJrMXBSTWRuTktzWlBsVlB4TkdYTEc2?oc=5
+* COMMENTARY: Russian hybrid warfare could leave Europe’s energy consumers in the cold - Reuters
+  DATE: Mon, 13 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVp4NlhlSTdHWHNOWUhTZHZHaG83WkF5ZHYzNnhFVVFKX2FUb1MzSmhTYkJqY1NRWEprMzBpTVhuQ0lPeGJoQlBVUUpyOTQyOEVqS2lYdHZ4UFFGZHdfcHNmOHctT3dRdUx4ZEg0SmtpNEtQYkZPQzd0TTFENG1OUVNncWFURTd1MG5JY3R1SFhrbjhJcmZRakNrUnhMc0pCRkhxYlBVMmMycENKUFFsVmFKSXVELTQ?oc=5
+* Netherlands investigates drone incursions in south - Luxembourg Times
+  DATE: Sun, 23 Nov 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXZiazFqVzBESlBNak83Y0lvSzdLS3FLdGE1RzJGQkhQUWQ1ZGk4aVRXaG45Ujh5bHJYQy02eFM0MkpieUItVUs2YThOemk4NFpyNFpOcnFjU0NjNWRkeW9MU0VzYUJWbU5McmY2UHVDU1NYc0tzcnpOVTFyUzVWV05hdTFuT194Zzh0YkZrZWE4cHlpeHl5c05DaWduNXEtTFpDUmF3?oc=5
+* Germany concerned about Russian drone overflights of sensitive civilian and military sites - Le Monde.fr
+  DATE: Sat, 24 Aug 2024 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaHkwb3RtaThqejUyM2U2SUtJQ29PejVpYURLYlZNRWkwcnNRa3paLVdOVE11dGN4RTJ5OTJ6aU82V01DUkRQM1lHN1BCVG1wRU81a3R4NnpkV1RpVm9tOTgtcTRKVmlJUnJpY2hrRkdBN2paa2RFZURNdGRjOExJUmJsdkJsVjJ5UnpUTC1Lb25US1VHQXBHc0kxWVhTOE5OaUUxZU9oQmNWM1ZlZF9fMURYNWlvRVRkRHBXVkhrMFh5THhmSXpheEJ1cjM0Tkl3d3JIbUFDbGFaY0VjTTRKZ3lpX1BzZ1ZJS2RsalJPRENzTnh5WnFR?oc=5
+* Fire-ravaged wind turbine could be dismantled in major offshore operation - Great Yarmouth Mercury
+  DATE: Mon, 31 Mar 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVUNXlqc3pmaWJBeUl2UDRuRmx1YXAwZGxLM1Rfb18zcGF6N1dfMzBXTE5VMndfMTl5ZVJMVFRwQVFWVnZzU0c5Nkp2di1aVXBzQll6QzlkZ3VVdG9TTXdXNi1Pekd4bVFHQ0N1ZXdQSTZOUm1iWi1TNG01OWh3M0JoRktucy11dVdqSVQtMktsOVZFZlFF?oc=5
+* Scottish airports and oil fields 'could be targeted in future Russian drone incursions' - dailyrecord.co.uk
+  DATE: Sun, 12 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxQS19VaW9CWTEwSVlIQV9UaEJCNWRJcnpBSEJXRzdZUEtVY19pVFIwcEdBLWVSY2I4bXZiQ0czSUoxaTg0SElZY2taS0tfdnVpTXlnTVkzSTVSa0plbFp2eGktb0VPY3pmbUNvaGgyUjljTmFNSHdya1hrdDY5VTE2bndtS3RnWDZteTJ5SUwtVTdsU1NsbW1B0gGcAUFVX3lxTE1Qb0YyRTNObVBiYmIwcG1USWZxa0dFeXY4RGZhY0xlRGN4ODRmWkFibDNSVTFreWlvOGJGdmZmTVVsUm4wU0dCNXlxOFpybm5VNVliS05lY000N01RX0JJNzd3Tnl4U2d1a3VvX0NaNS01MGdSSmFzc1hjVHlpZmVOaUs0blFqYmdQQXNpSTVVLWJMNWFnc0FqZUJPbw?oc=5
+==============================
+########## QUERY: drone LNG terminal incursion Europe
+--- BING NEWS ---
+* Egypt hit by first drone strike as Damietta LNG attack threatens Cronos route
+  DATE: Thu, 30 Jul 2026 07:28:00 GMT
+  URL: https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/egypt-hit-by-first-drone-strike-as-damietta-lng-attack-threatens-cronos-route/ar-AA294xbB
+  DESC: A drone struck a US-owned liquefied natural gas vessel at Egypt's Mediterranean port of Damietta on Wednesday afternoon, triggering a fire that spread to a second ship — marking the first attack on ...
+* Buzzkill: How To Defend Europe Against Drones – Analysis
+  DATE: Mon, 17 Aug 2026 18:12:00 GMT
+  URL: https://www.eurasiareview.com/18082026-buzzkill-how-to-defend-europe-against-drones-analysis/
+  DESC: On August 5th 2026, a small drone armed with explosives was found at Leipzig airport in Germany. The presence of explosive material marks this out from previous incidents at airports, as does the fact ...
+* Drone hits US LNG vessel at Damietta in first attack on Egyptian soil
+  DATE: Thu, 30 Jul 2026 02:45:00 GMT
+  URL: https://www.aol.com/articles/drone-hits-us-lng-vessel-094551000.html
+  DESC: A drone struck a US-owned liquefied natural gas vessel at Egypt's Mediterranean port of Damietta on Wednesday, triggering a fire that spread to a second ship, in what would be the first attack on ...
+* Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says
+  DATE: Thu, 10 Sep 2026 03:31:00 GMT
+  URL: https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html
+  DESC: An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “almost hit” the plane. By ...
+* Kremlin suspected of flying drones over Europe using Russian shadow fleet
+  DATE: Mon, 06 Jul 2026 06:52:00 GMT
+  URL: https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/
+  DESC: Mysterious drone flights that disrupted major European airports and flew over NATO member military bases hosting US nuclear weapons may be the work of a coordinated Kremlin campaign launched from ...
+* U.S. Is Reportedly Deploying Lasers To Beef Up Europe Air Defense; Russian Drones Probed For Targets
+  DATE: Wed, 05 Aug 2026 15:42:00 GMT
+  URL: https://www.ibtimes.com/us-reportedly-deploying-lasers-beef-europe-air-defense-russian-drones-probed-targets-3806103
+  DESC: The U.S. has begun deploying laser weapon systems in Europe as a countermeasure to the increasing threat of potential drone strikes. Stars and Stripes reported that the U.S. has deployed the Compact ...
+* Buzzkill: How to defend Europe against drones
+  DATE: Mon, 17 Aug 2026 06:18:00 GMT
+  URL: https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/
+  DESC: Europe faces a dual drone threat, and it is escalating. Small drones regularly disrupt airports and hover over Europe’s critical infrastructure; at the eastern flank, larger military drones are ...
+--- GOOGLE NEWS ---
+* Romanian Forces Destroy Russian Drone Near Black Sea Gas Project - The Maritime Executive
+  DATE: Thu, 20 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxPSk5nY3ZfeEVXWk9aN2xrR3lYYk5vbUNHTHRzOWh6T3lNeFBKVjBLdGF5bHZLYlJkNkZRVjJoUDdYck96MmRWQ0F4Z1JkQlA1VnJjc2ZPaHZsV0gyeG4tcjJ0bFhCb0N5T1Jldm40T1NLMGZXUVE3a2FSS0tQaDJJQ1BBVlBSVXBNdXZ5OTdfOGFFWEoxTzU0M2FmRS04ZkRob3JPYWtR?oc=5
+* Romania Destroys Drone Near Major Gas Project in the Black Sea - Balkan Insight
+  DATE: Thu, 20 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFFZcExYd1dYMkctMzdPWnNPTTVDQlI3NlFHX2xINkU5S3Uxa0ItcGc2dzFnNlhVSVJuOFFaSVpTUzJEMzVabGVQN3B4b0dfM2IzeVczQnFWMVc1TDRuV2lZdTFtTmdHY0lLZjkwbW5nT1lRajZwb3hKMUZjSl9nNXFXUTRhUFpMOVlwMUtxclVVOExSMm5iMkRkNlpoVFFZZngxQjZB?oc=5
+* Video. NATO exercises at Finnish-Russian border as drone incursions mount - Euronews.com
+  DATE: Fri, 29 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxQWl8wSGxRVjAyV3FtMXM1eUwyaUc1T0RvVkVkUktKeXZodEFFVFN4cV9rMmxIdnh1Y1NDSGJKUGEwaFVEdy1KMkYzQVJEY1NtNFNSRHhsZnpRX1h0YjJHSUhBUFRId1VyN1A0OTBpRVROb25mZDhSOEpsZjBlNDM3ZmhqZDZxVl9PeTQ0eElZYjRPZ3lsTTN4VGtUOHNhN2VnUjZyd1gwaFpsRlRI?oc=5
+* Fuel, fear and falsehoods: Defending Europe and Ukraine from Russia’s hybrid energy war - iss.europa.eu
+  DATE: Wed, 10 Dec 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVW81OWR4OVQ2WDBsNFRQSGdBdWVZdmY5TnRLRjYtRkh5LUZDUzZvM1VmTGtVY0VJQVo2RnhOWmNrQVRNdEV2WUJjRGE1aFlUWWJLTEk0c0paLU9ta2Fla3RZd2VPQ0dZN1FVN2NSeURXblZkbWc5SDdQX3N6TzdqaHRtajFXS2F2blA1TnlqbklKM2hMaGFnRGxjcHA5bENnNzdYVnZaU1dhVy02U1c4cjZJdG5rNWt1R21FU3hKNFNrbGc?oc=5
+* A Fox in the Baltic: Military escalation in the Baltic region may be much closer than experts realise - Re: Russia
+  DATE: Tue, 17 Mar 2026 19:08:38 GMT
+  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdy1YTjQ3cWdKTUpMcDJ3bXp6NENoeV9qQ0MzYVdIUWVfRHdDM3UtOUdCZkhyT2tFX2dqaEdVaVNGd1p2bXp1YWo0TlNaemxrNGc?oc=5
+* COMMENTARY: Russian hybrid warfare could leave Europe’s energy consumers in the cold - Reuters
+  DATE: Mon, 13 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVp4NlhlSTdHWHNOWUhTZHZHaG83WkF5ZHYzNnhFVVFKX2FUb1MzSmhTYkJqY1NRWEprMzBpTVhuQ0lPeGJoQlBVUUpyOTQyOEVqS2lYdHZ4UFFGZHdfcHNmOHctT3dRdUx4ZEg0SmtpNEtQYkZPQzd0TTFENG1OUVNncWFURTd1MG5JY3R1SFhrbjhJcmZRakNrUnhMc0pCRkhxYlBVMmMycENKUFFsVmFKSXVELTQ?oc=5
+* U.S. Air Force Confirms Drone Sightings Over Ramstein Air Base In Germany - TWZ
+  DATE: Fri, 13 Dec 2024 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1Rna3psVkFVR1NnSVdpSkFwamU0UV9IVzl6OGVVaVZ4VGVWWWZIWEhFRjJnZm9CaFlRcXhub2JVMG5sSHcyb1VsSVE3WEhfYmxXVmE5Vnd5b2hJSC1kLVlYc2EyY3JGTVFHUnIxVXJzTmFGRVZNLUJONDdBTkhVbUw2TXVDU1FreC1ibE5vQUh2U3hUa2VoT1cxb08?oc=5
+* OPINION | Russian “hybrid warfare” tactics threaten Europe’s winter energy security - Baird Maritime
+  DATE: Mon, 13 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZTBldzhTZmZsMHZ6a2tLemktSFV6U2pGT2FCWk5FVEhIa0VLa1Q2eUhyWmc3cEFLZHE0ekotZjZ6dEJSM1JkYUpIRWpEMHVGc01QNnlnQ0RjMGh6clQzYW5wZnA3REstZWwzWV90a01NdzVVLXRKcEYwWG81YjdPYnZxei1wRnNqY2g4Y3QwMzFLeTMxcTVELThVSnJpeTNQYW5SVE41ZEZKZFJTMkJaNHJjZVh3WDVYYmY5YWhjNEJqSTUyTDBtRNIB1gFBVV95cUxOeUN3VkMxUUJPd2laVFhsbDNMNmhWYTdDeUtlOVZNOXFmZ05OTnhWUzJvaXVpS1M2c3FmbVZ6OGFrSjh5YjRsM1ZTMkpwUVNUMGJfQWV6XzNyVHhvR2VQTnZsMnBnMzlvMTdpRHFfbzBIa0drZFdFQWMyS1dJcDZidGpjbWpJNExvSVE5OHRnUE11SGxLZDZoeWUyeWFaZlJwZExTaUtuTTdmeTh0UHhVX3VoNXRtSU5QcGFwTmpQX202S01wNy00ek5nTUtBMEt4cXQ2ZGRn?oc=5
+* Belgium Mobilizes German Counter-Drone Support and Tightens Registration After Airport Shutdowns - medium.com
+  DATE: Fri, 07 Nov 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcHhTMzFRX1NXYnY5eFlvSGw4bjlrWTVweHM5YjZJTHJXUmNOSWtsZ29xM0t6MjNTZHRGRlFzR2JTTjdRNF84Tk9hVXZjN0NoT3RKa2NXT3RzUVJDcUJzVmNrRFJaZXdPSWthU25MakJCZE9DeTQyZjFoSGYxbjJsYUczbGtuZzZsbzhWSFl5N0ZfSWtjc2VlcE9JdzY5b1p5RU94UEt3VVMyLWZtS1p1Zzd2TTc0ZVU1OFJsOUtSdHF6UzRtc0dKLTFGdGJWUC14MzczakQtSE84QQ?oc=5
+* Estonia and Allies Denounce 'Reckless' Russian Air Incursion - The Moscow Times
+  DATE: Sat, 20 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUNrdlhEWDVmRDdQdGZFUVRQS3hoRjJGMGVEZ2Y5Z1dvalRmbDRiVWFFcDJzcUp1c29ubUFuOElVbkFpVEtyU3cyQTVBaURBT05TdHlQR2lMXzhFYjB4bGplT0dxNjB3Mko5TXlBR0J0QjdMLXdKOHdzSWphNnBoMm9SVE9FVElkNWYxVWVsMTVmUF9zTndzanRfWWFVZk5TeHRpZk5oWU1PVGs?oc=5
+* Drones buzz over military facilities in Germany, minister confirms - politico.eu
+  DATE: Wed, 01 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPci1wY1BuVl9lb09EVzRHdHJoRTIzQk1NYUNldEFlbHRzX0JZVzk5aDlKNjN2WGpOU3hLdHR3bDN6bEVwaEVwNmRFWEZ2NWVhcllNNEVTcnpITEFlU1NwT1hnWFkyMEJzbkx6a09nVi1IRDZRWmFmSVVhcGdfZjZvQjlNangxVzktZ2drVy1ORlhQeU9FaVRiSERBdGFYZWs?oc=5
+* Poland Seeks More Allied Air Defense After Russian Drone Strike - Bloomberg.com
+  DATE: Wed, 10 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxONU4xLUtLa2cwNWNDUFJsUWowdG1ZNjVEQ0NIcVpMbm85cFZ3N3VKQ1Q2X2toLXE5S2FiNmctV1hVVUxnX0R0SVhFTlZrUXdUMHdwWFJEaTRBSUJmaXRHRzV1em01TjlFbGZxaWRZWEZCLW45VW9SSnVHVmFnTjYwaFAtMzA5cWlqNlZpd2RRLUhVOGJEdWxEWXlqeGZiY0JOLV93cmdNclkwcEJucGhLX1k0NGw?oc=5
+* Denmark links drone sorties to state actor, Latvia says; Russia denies involvement - Reuters
+  DATE: Thu, 25 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxPOENEd2hyQ2ljQkpQZmpZNEp3OG14REM1a0J2NkdraVlXZ3lGVGhPaU9WUkhPRWNFczd3QXJuQkh6V2dnblVNOGwwdkdEMF9GcjM5bkRWd3JTbGJveGM0NkhnbTBsTG5RRVJMWm9vMFY3NHZXcHNRcEtMaXI0SFZmcVlGSjUyVy1EMnhwVm4xeU9FbWduaTg4TGVoemw?oc=5
+* French military detain two after boarding Russia-linked oil tanker suspected of launching drones - The Guardian
+  DATE: Wed, 01 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWQ2YndIWnFaMGhxVGxsN3g0OEdxZEFnVlR3RXI4bDZrR1lJVFRFdURycDA5Z2Ewd0xiXzdlS29fbUFYTmtrSG5lMVRaWWxYblpMeHczZ3dDSjA2MzZ6VURDdGNzNHpaYTBwT2U4TWlhbTVOZlNoZjRiNTJZcDNNbHpPY3BrdW1LcEwycQ?oc=5
+* Russian spy drones over Germany turn into an even greater threat - Euronews.com
+  DATE: Wed, 10 Sep 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVAwQ1hHbmtWSWNyOXJuanRlcWxERWpzaDdPdnRMaFgxWkdvUVFMVUNRX0xRQ2hoQy11RVVjSjAzb3ZZU2N4RkE5YTlKS19aTml1cjU3NWdJYVNQLW56QUNPTzU0VnpVZ2huemZyend6TnFLTUs3UFRtd1pRa05KeDBJdVZaRWtHX3dBOHB0eXdaR0FFQVZFOGh6aVBkNFVWQ2c?oc=5
+==============================
+########## QUERY: drone power substation attack Europe
+--- BING NEWS ---
+* Exclusive: Lithuania plans key substation near Russia, fortified against explosive drones
+  DATE: Tue, 22 Sep 2026 07:01:23 GMT
+  URL: https://www.msn.com/en-us/money/general/exclusive-lithuania-plans-key-substation-near-russia-fortified-against-explosive-drones/ar-AA2cLhs0
+  DESC: By Andrius Sytas and Marek Strzelecki VILNIUS/WARSAW, Sept 22 (Reuters) - Lithuania is planning defences against military drones at a key future power grid substation linking the Baltic states with ...
+* Lithuania prepares enhanced protection from drones for substation near Russia's Kaliningrad
+  DATE: Mon, 21 Sep 2026 23:54:00 GMT
+  URL: https://www.msn.com/en-us/news/other/lithuania-prepares-enhanced-protection-from-drones-for-substation-near-russia-s-kaliningrad/ar-AA2cJOrK
+  DESC: Lithuania plans enhanced drone protection and reinforced structures for its Gizai power grid substation near Kaliningrad to counter Russian threats.
+* Lithuania plans hardened energy substation as grids increasingly targeted
+  DATE: Mon, 21 Sep 2026 22:17:00 GMT
+  URL: https://www.japantimes.co.jp/news/2026/09/22/world/society/lithuania-substation-russia-drones/
+  DESC: Plans include fencing strong enough to resist an explosives-laden truck, sensors searching for tunnels, and concrete “sarcophagi” for transformers.
+* Lithuania Builds Drone-Proof Power Link as Baltic States Ask EU to Fund Grid Security
+  DATE: Wed, 23 Sep 2026 17:00:00 GMT
+  URL: https://eutoday.net/lithuania-drone-proof-harmony-link-eu-grid-security/
+  DESC: Lithuania is preparing to ask Brussels to help pay for a heavily fortified electricity substation near the Russian exclave of Kaliningrad, as the cost of ...
+* Lithuania designs key Baltic power link to withstand Shahed drone attacks
+  DATE: Tue, 22 Sep 2026 10:12:00 GMT
+  URL: https://hromadske.ua/en/world/271380-lithuania-designs-key-baltic-power-link-to-withstand-shahed-drone-attacks
+  DESC: Lithuania is fortifying a key future power substation near Russia with anti-drone defenses, blast-resistant transformer shelters and protection against sabotage as the Baltic region adapts its ...
+* German investigators identify suspects with Russian links in Leipzig drone attack
+  DATE: Wed, 02 Sep 2026 07:23:00 GMT
+  URL: https://www.irishtimes.com/world/europe/2026/09/02/eu-and-nato-vow-to-step-up-pressure-on-russia-after-new-escalation-in-germany/
+  DESC: Germany has blamed Russia for sending an explosive-laden drone to a Leipzig airport used to send Ukraine military equipment ...
+* Germany: Explosives found near Jänschwalde power plant in suspected attack
+  DATE: Tue, 01 Sep 2026 09:58:00 GMT
+  URL: https://www.moneycontrol.com/world/germany-explosives-found-near-j-nschwalde-power-plant-in-suspected-attack-article-14020251.html
+  DESC: German authorities are investigating a suspected attack after explosive and incendiary devices were found at a power substation near the Jänschwalde power plant, with several power lines damaged and ...
+* Germany blames Russia for Leipzig airport drone plot – as rockets ‘packed with explosives’ fired at power station
+  DATE: Tue, 01 Sep 2026 06:24:00 GMT
+  URL: https://www.thesun.co.uk/news/40237279/rocket-attack-germany-bomb-power-plant/
+  DESC: A BARRAGE of rockets “packed with explosives” has been fired at a major German substation, reports say. The attempted attack comes just weeks after several explosive-laden drones were ...
+* Germany probes second power grid sabotage case, fears of hybrid warfare grow
+  DATE: Tue, 01 Sep 2026 22:58:00 GMT
+  URL: https://www.reuters.com/world/europe/german-power-grid-under-fresh-sabotage-attack-police-say-2026-09-02/
+  DESC: Germany has faced a second sabotage attempt ​on its electricity grid, ‌with local police saying on Wednesday they are investigating an ​attack on a substation ​in the western city of ⁠Bergheim.
+* EU to hit back at Russia after drone attack as Germany probes new sabotage cases
+  DATE: Wed, 02 Sep 2026 11:01:31 GMT
+  URL: https://www.msn.com/en-us/news/other/eu-to-hit-back-at-russia-after-drone-attack-as-germany-probes-new-sabotage-cases/ar-AA2brFA9
+  DESC: By Andrew Gray and Andreas Rinke BRUSSELS/BERLIN, Sept 2 (Reuters) - European Commission chief Ursula von der Leyen vowed on Wednesday to increase pressure on Russia, including with new sanctions, ...
+* Dozens of explosives found near German power grid after mystery fire & ‘rocket’ attack in spiralling sabotage campaign
+  DATE: Mon, 07 Sep 2026 11:02:00 GMT
+  URL: https://www.thesun.ie/news/17582667/explosives-german-power-grid-rocket-attack/
+  DESC: DOZENS of explosives and homemade bombs have been discovered near German power grids in a mysterious series of suspected sabotage attacks. Fires have broken out and rockets have hit energy ...
+* Russian ‘attempts to intimidate Europe will fail’, says EU’s Kallas as Germany blames Moscow for Leipzig drone incident – as it happened
+  DATE: Wed, 02 Sep 2026 08:46:00 GMT
+  URL: https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates
+  DESC: EU’s policy chief says drone incident at German airport ‘had the hallmarks of state-sponsored terrorism’ ...
+--- GOOGLE NEWS ---
+* EXCLUSIVE: Lithuania plans key substation near Russia, fortified against explosive drones - Reuters
+  DATE: Tue, 22 Sep 2026 21:08:18 GMT
+  URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0xLY1M4Y0FuTlVPanc5NE9JaUowN2JDTm9ybHplU1hZcGRDcmhDc1JLcGJnX3J2b1RuT3pkR0QzR0dLMWRIRW1FangyRmNLRUhFR0kySXdTaUFfZ3I4WkVOb3RWU1d1UHNmZnprUTR6LXRaWFJtYmItOXotMkp0MWwxaXIyWnhBb2JHaVZxMDBCb0J1blhNbEI3WHRUZ2NzU2RTWEk1N001Z0ZqOXhLMF8yTWQ5ajdxTGpCQlh4TlgyN2Jf?oc=5
+* Lithuania plans hardened energy substation as grids increasingly targeted - The Japan Times
+  DATE: Tue, 22 Sep 2026 05:18:00 GMT
+  URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVdsRHgtM21hLU91YkdNc0lpcmZQUU9PdTFLOXZTMkoxVG5WM2hfR2FwZjR1YjBwRDZ3LUpDTWtPNUxHckFCX1pGZUg2bi1ra05Wb3NlOGhBVVZuWVJXeVB4WDU2Smg3d3FBUDBvRXBTbjQ2Yi1KbWxzdzUyb2ZvcDVrTURZcGtzVzNWMm9xYkFvR0VjWXVPS2ZB?oc=5
+* Lithuania Builds Drone-Proof Power Link as Baltic States Ask EU to Fund Grid Security - eutoday.net
+  DATE: Wed, 23 Sep 2026 22:09:42 GMT
+  URL: https://news.google.com/rss/articles/CBMifEFVX3lxTE8tYzdsY09PUlo0eDh6RjM5Wk9xYW1Fclh5OXJyVVNqUDRPa1ZRc3BrMV9WVzRZZG5mTERUcGJMYndaTkwxRjk3VW9zTlFOS01jNjllclNXV2EwRG5RdXRnOHVBWlZCQlgwMGQxMG1Jd0dOdTJ1aFIxNE5QWnU?oc=5
+* Germany investigates suspected power substation sabotage, Russia summons German envoy - France 24
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0tRQkQxQmJuMHlMYlNmZEVUaFhWZWxtakhZMUlOYVZYQ1Q0VHJtQ0JHVldSRTdOdU4wWjdNRm1EX2NwUnpQdmgtdFJHYXlDUHpndmVmelkyajd0bTlaSGpPTzlXSjFjUEFpV3EybjZvVU9seC0zM1c4WjI0Z0hMQjBkbG10eE1WazkyRVZlb0t5bjZoY21EV2Z6MTJZY0l0VmMyVlhSeU5MNjV3U3M5MzBfN2RfZEptT3ZHSGdjTjdzOUtSX0E?oc=5
+* Lithuania Hardens New Power Substation Against Drone and Sabotage Threats - Arise News
+  DATE: Tue, 22 Sep 2026 09:51:49 GMT
+  URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWNqM2J3LS1YNjdyeU5DaVNiZGZRek1UcVM3VnJKeC1tcDlXcmIweklWN2FiNUdDNDZ5b2xwbVBNdTM2Vjh4WHdNS1NJTTNlR29iTVBUM0pKMHFRam9DcFZ3WnRuTjNnRUVOUGIwRkhkejhuMUN4ay1iRnAwYml3UzkwVS1OdkExTWNyYjJyLWZ6T1M5RG85ZVk4NA?oc=5
+* Germany probes second power grid sabotage case, fears of hybrid warfare grow - Reuters
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnhHa3pMVHB4TzBwMmZZd3NGb1hYSERTNmJIRXZyY0twUlhRMnRwdGt3dzNRRHhKVkk1WDdyTnNLVnRsdWVlUXFEdXR1eWdLQml2Q1hOM1pfRk5MRFYwX2ZQRmdkRDdjZkFMa2p3NjVpTUpIMDY1cThnVkt4SDZTNnBFazkxcC1TWTVRdTF2QWdWU2NNWnZHUGdlWGc0X2JBTDNLcDJRcS0?oc=5
+* ‘State terrorism’: EU vows action on Russia, as new incident unfolds - The Australian
+  DATE: Thu, 03 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZUJ2SHFOcUFVc2JBRWpMQzRFUVlWajNERDdGNy1lLXpDSTdMUXNFU3k1aHhEREVEeFM5Q1ZzTGg0YmREZ1FsQVdodUdYQ0dyRnVKbWhFcklEakFuV2Zna1VYQmVGWmR4czVBMWZraWVqajdGZFFMaklwLURnci1wY1kybHdqSk43YTV3UklGanBqekNxTVpTZW9pWDBpVktHcDVLUXJqY0hXbGhhS0N3WVVRd21yaVpOQ2plZGdVaVJlbDZTVlRaakhLRkIzTjQ0ZEdtWDFaNU55WmpvYXVCclVYSDRXdkxjUEJURmNmWnFfU1k?oc=5
+* Russia and Ukraine press on with energy strikes despite Trump - Reuters
+  DATE: Tue, 15 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXZWZkxjRTRuRlgyd3VCTEVHeE53UjBhdDB0NUtVdEdlSTdiSGhjQ1F1NHhhZDBhN3NYWWp1QmVzaS05Ukw1TS1xR3VWWWFqdnJUYzNnRzBaT285eGRGSHBVUnJOdDdQdjRoNEdhMGtMMUx4Y0c1YXpScWlzZ3NMRkhZV2NwazNJR0pleG43aTgzWlZuakU1U3Vpb1FmSTcxNENIQ0F0eUhjMzA4QUsta1Nn?oc=5
+* IAEA Chief Says Drone Attack Damaged Ukraine Nuclear Power Plant - Eurasia Review
+  DATE: Fri, 08 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxNNkEwbkRNNkR1VmZ2bDZTTS1oVU5HQ2l6b00yYWxWUnFxYi1FS3NBdW1CMTJGTWFSS1ZqNWp2dGNETmw4Vld2RFFJMTFEdnlaSXF4Z0dqREh3Q3RZbjVhLVJ0RzZkUndrZUhJd09OYmx2QUtsal8yTV9wMkc4MTFZbHdzNS11eWtXUXNsOGdVQUhwRnFnbW0tZHU3T25QUXhhT244RDkxaw?oc=5
+* Russia-Ukraine war: Crimea's Sevastopol without power after Ukraine strikes - BBC
+  DATE: Wed, 24 Jun 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aN282QVZCdk02b29oMV8wRzNldkh2Wjl4STk0cmFJS1JiVDRYLVU3Z0tzSUlfZjlncmZQTlJSSlRjNThLaElLR2Q2dFlFVXFVSlBEdFI5MjIwV2xz?oc=5
+* Ukraine hits Russian energy targets, denies striking Zaporizhzhia nuclear plant - France 24
+  DATE: Sun, 31 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ25Ud3dXM2tuRDRRTWtVMDZVWVdKakJrek5oZjB3Z2o5bGNxajIyeEttYmdhLV9TaE5CWWJsM0RWcEJlQ3VSZUNkVzlJeHVPZHpUNWN0LUlkOWRCS2daOVVSMUR5bFBXMkVtSF9BUmJfSEpJLVFvTEJoVFROMTZXbkpDdl96aWJEb3RVM1ZDMHViaW5NUENIa3JRalV2ZmV1Rnl2czFlZExKUlU4RjFJNWVldm91c3ZzaUVJSzg5Zw?oc=5
+* One dead as Russian drones strike substation in Odesa - aapnews.aap.com.au
+  DATE: Wed, 08 Apr 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxOV1JDTkRPMGl6bFFmb1otRHFGUUV4S3AxeF9sVENmcmFxS01YNXpkY0E0TDFFRFd1aXhzdW5PT2NGUzRGcjJWTWN0aml0X3dpejcyMUFOclZoMGJJRDVnVzB2NU1vLUMyOTE5X3JZd2NuaXNyR0dsT0JIc1A4QXUzWV9ZNkRyLWc1V25fdm5n?oc=5
+* Ukrainian strikes knock out power in Sevastopol in Russian-held Crimea - Reuters
+  DATE: Wed, 24 Jun 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDVOS0NpeGZQWlNiTjB0VWE4eUJDenFjc1JkbzNidVdwV1FES2VqNnpVMy1Sal9JbmpFcldCVmxiZGcyazVJX0xQNlNLbTdsa0JGN1VyRFFvODFtRExaek85LVBZcVNxaDM0VDZUZ3RqVVNCS3gtQUxlR255Tk9WUTdDb3B5YmJ3SmotSFFkdzlrb2Rqd2lhT2VaNnBnNjJkTGlvckxpTEp5aUZtdGNVSFltYm1GSTlzRkJIYnZJR0pVaUk?oc=5
+* Stray drone from Russian airspace hit power station in Estonia - politico.eu
+  DATE: Wed, 25 Mar 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjBxenYyU0MtTXhmMnd5eEF1TC1oTlJ1X2M3QUlobjhRRU0wN25zX2dpLUI2NmRRU1lDS0YzdGUtRXZpLVZhcWg0NU1CVklGTHRTNFljU20yaEo2TXE5NEh6NTRqS1I5UGdkdWhyYkg3dk1FcXpjU3dpcUUwSk1IUURlRm1FNjZB?oc=5
+* Drone strike in western Libya torches a power substation, triggering outages - The Washington Post
+  DATE: Wed, 12 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRnl4am5vdG5IZzJGSDVrTXhrbXZKUllMVF9pVzFIVU5qVWlLMDBScUFBMFA0WjJaZVUxaVZldC1kWmN0ZmwzbU5uSDdLcWF4RUE0NXN5aThYN0hSZVhKSG9fNXpqdUNRd0lGNlJSbHZ3dHZRTlUxdElETV9vNkFvMGxuY3FmZ21rOUxrNDNRVFJBNnRvLUhBMks5NU1JOU1UeGVvbTZqZWkwVWZ3Z2pJakhRQUtLY1NiZmI4UzBtT3lEYUtFcjU1bDFVR2FFZFdt?oc=5
+==============================
+########## QUERY: drone over military base Germany 2025 investigation
+--- BING NEWS ---
+* Kremlin suspected of flying drones over Europe using Russian shadow fleet
+  DATE: Mon, 06 Jul 2026 06:52:00 GMT
+  URL: https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/
+  DESC: Mysterious drone flights that disrupted major European airports and flew over NATO member military bases hosting US nuclear weapons may be the work of a coordinated Kremlin campaign launched from ...
+* An Explosive Drone Was Found Near Runway at German Airport. Here's What We Know So Far
+  DATE: Thu, 06 Aug 2026 12:37:00 GMT
+  URL: https://time.com/article/2026/08/06/germany-airport-explosive-drone-counterterrorism-investigation-europe-security/
+  DESC: Follow this section to personalize your feed and get instant alerts. WHY FOLLOW? Update your preferences in Account Settings Personalized Content Follow this tag to personalize your feed and get ...
+* Putin's drones spy on Britain's nuclear weapons claims bombshell report
+  DATE: Thu, 02 Jul 2026 06:21:00 GMT
+  URL: https://www.express.co.uk/news/world/2224468/putin-drones-spy-britain-nuclear-weapons-report
+  DESC: 13:21, Thu, Jul 2, 2026 Updated: 14:40, Thu, Jul 2, 2026 Vladimir Putin likely used Russian shadow ships to launch drones over Europe to spy on nuclear weapons in Britain, a shocking new report has ...
+* Report warns Russia using shadow fleet to probe NATO drone defenses
+  DATE: Mon, 06 Jul 2026 15:17:00 GMT
+  URL: https://www.foxnews.com/politics/report-warns-russia-using-shadow-fleet-probe-nato-drone-defenses
+  DESC: As NATO allies prepare to meet in Turkey, at the top of their agenda will be drone warfare and Russia's testing of the NATO alliance. Using its shadow fleet of old sanction-busting ships, Russia ...
+* Russia hit with new German punishments over Leipzig drone discovery
+  DATE: Wed, 02 Sep 2026 08:29:00 GMT
+  URL: https://www.stripes.com/theaters/europe/2026-09-02/germany-russia-drones-leipzig-22728517.html
+  DESC: Germany and its European allies are weighing new punitive measures against Russia after an investigation pointed to the Kremlin as the culprit behind an attempted drone attack at an airport in Leipzig ...
+--- GOOGLE NEWS ---
+* Kremlin suspected of flying drones over Europe using Russian shadow fleet - Ars Technica
+  DATE: Mon, 06 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxQSWctbU13VVRNMTZIX0JrdVR3dU5vYjFwdE9MczZIOUtsaTY4RUgwVk5rNEpDRUd0eTBmTzlVUlYwWHlLTmdaSmNPQV9RdXNHTTRmRlZHV01fd3B3TUExZnZZMnF1c0g4R1l4NnpROHF2Vk0xdi0zOWtoQm1QMDNNSkFEQjFaWC04ZnZDOWVDa3RSaDJQaHVsdHRrcEVMVTE3MXN3cTdDQkR1T2dGNVJhemVWVTk?oc=5
+* Analysts study incidents involving Russia's shadow fleet and drones in Baltic Sea - Українська правда
+  DATE: Fri, 22 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fbl9KU0xqVG44Y0JzSU82ZzJjNWlCS2dYYnFnR09Fa3hiVEFJRzdEejV5bjhkanNGVHk1MzJlUmRUQmJFUDZ3NGlJMnZlempVRFVNY0N0S2lfNVFBMmRwb1JsWUrSAXBBVV95cUxNY2h3ck5sVjd2Z2xRaGx4bFgtaDRLdm5LZHA3dEVmZm5qQzR1Q211ZGU4dWtFN1R1TmxZcG1zOGcxZlRUVWVzT04zQ2hoVTNoT2hTa1FGQ1NRajFjTktZdVVkTy1wSWJ3Y1I2ZGNBZ2Nq?oc=5
+* Russia's shadow fleet is a hybrid warfare platform, not just a sanctions shield, new investigation finds - Splash247
+  DATE: Fri, 22 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSXR4WmJ0SHFzSmhhcGpQekpMdTNxaGs0NU5JTHc0UEhlSnlhYWlsYnRmVU9GVFVVWEpMa1BBcUt4RWMzTlNjOTY5RkNGalJMQWV0MFh2eFhmM2s5SFNKTm4wZlFpc0RHTzBUOHItaGx6SjhVbEF4RWh4b3c1cHhqVVhxTjBiNG1yc1VlNnEwQms1ZDVHcWhNNHVjZmhFNUctR1hXRnFZajZIUk9YakplWTA3bk1Ucl8wdGtKNkRCNUZGZw?oc=5
+* 1,000 suspicious flights in 2025: Germany opens new drone research centre as security threats mount - RTL Today
+  DATE: Tue, 18 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1pMb0MwREhLYW9wa0VLUGtzbFNUUnV4SHZyTldFVFZDZ0hYZEppWkp6WERHYUREa3lud0x3RHlSZGgxTFUwM3BBNkstOENXLV9ROVduVHcyX3A3anNNNWJibFZaa1dhSFlSQ2c0Z0REU0stcEZrZXJ6NkR5U3phZUo3UVh4NmxiRXZEZ0l1ZWFHMFJoaGxqeFM5bXppemRMOGRJYzk3dTZsR3Fy?oc=5
+* Drone sightings over German military bases hit record high in October, says official - Reuters
+  DATE: Fri, 28 Nov 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxPcC1laE1VMXd1YUVfOUhhTFFobmxGdVV0TXZZSlQ0aXhxRDhGYllLbTEtNUtDdFYwSEw4dEs0eEJmcVZfRzJTdUsyaVRjY21PTUZHYmF2YVc3YnpqOTVyQzctdEhMWU5WRWNJZFJfV3FFazhpUHlWMjFvcVpoaGhleHRnQ3NtYnJDcmREb1hiYXlNTUpRU0NGZExjd0JuLU1ydFRBZ3JEOFdVQXo3UkRadlpSczFqZWJ6UFRtVXJNQQ?oc=5
+* Germany Hit by Record Wave of Drone Intrusions Over Military Sites in October - UNITED24 Media
+  DATE: Sat, 29 Nov 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUViUDBObkhhMXNmdDFzcE52YWMzeldjQkFvWF9pWDBMSnpqNGVVUDJPZkVzVFlVeXBydUw2MjM0S21jeUJDYk1nZlhLZnNScXZUUmJKb1Rwa3pHYW9tRWsxcTNUbFJyaGVEYmxNaUt2R3lIbHZYR1dnUzV0a2NTQ0stWTlzeGhDQzNjcldTbXlRNkk2VWx3ODBVeGpGb0lucEpiWXk1bEF1c2VEczBPaFRBMnlNeUxEejNUa2NB?oc=5
+* More unidentified drones in Europe halt flights at Munich airport amid sightings near Belgian air base - CBS News
+  DATE: Fri, 03 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGE1YzY0ZVVDX2xGMGJSQWd1R2c2VXlsenFLQUcxY2loV3lkakxtQWgzZWl5VmNYRmRDQVJZa2tUMlItLWZlUk00eEhzN2JTZGZaRzE5ZFJwYmt3SHdWdWtQN1h1Rjh5bHMxY0JCTGFKWGZFeGpJak9Qc0ZSbnFfc1dOM3l2RTh2dEJZZjB2d1J0MXlYaHc?oc=5
+* Germany records nearly 2,000 unidentified UAVs in its airspace, investigation connects sightings to Russia-linked ships - theins.press
+  DATE: Thu, 11 Dec 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yYUhqb054VjJRanljWUtiSXUxdk1UQTNOOVFOMlFfMzVMTVgxS2gyRy14V1lHblM1OXNYUG9TRTdrdzEwSksxcmUwVQ?oc=5
+* Germany investigating suspected Russian drones over air base - dw.com
+  DATE: Mon, 13 Jan 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxNaVp0d3pvdGV2Szh4VjIyOW84cVVRQ3NGc2luYTJMOXZ3T3dQN2s1SnlhLVI0ZERHRm51WkxHNUNRSTh6Vl9tWDZvdUxhQkkwd3ZnVGRSalVyNHFaSjV2NFFmT3AtZ0N2VzNFQ2lfX0R5VnI0dThtZ2pLTmY5c2EtR0tqRF95bkNfSnVEOW5KT2l5Y1NfRWdQS9IBmAFBVV95cUxQN1B2RVhoNkVPc0pmb1hjZU40ZnR2angxRl9VWXh2TkJ5cXRjX1BDcjVWSzA4WGNiX3lsZHBkYmFHZTA0WE1XY2lKLWZ4WjNmQWxIVjRpMy1aQ0FHb3pGeVQzaUJSUE9yZkxyUDQ4dVY4RlVlT0ZhQ1FZR2NnTG16elRWWEQ2eU84QTZ4M1RlLU00alJ6TUhBRA?oc=5
+* Drones spotted over German base during Ukrainian military training in October - Euromaidan Press
+  DATE: Fri, 28 Nov 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXhfbGZmdkJsWmROb2c0TlJEUUZ0bHlua1QwY0hMSE9ZOGZVTWh2UXdrcmtLUWhxdTNVcXZ2emsxY25hX3dGMG1KdzJBVTdOX3ptajJfN2xRcTk0UVVlQllkRTRvX1JmdmN2UWIzbWpRRHVxN2QzNUswalM0dkZBcm5Zd0JBX3pGS09Ibjgwbmc5ejk5Mmp0LW55bDM3bTRPcHlEREFZSlJvMjFUek9yVnBDOGJ2WjB4?oc=5
+* Belgian police investigating drone sighting over air base - The Jerusalem Post
+  DATE: Sun, 02 Nov 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNZGVadktrcHNhdHY4ekltWVN4RGxJWTNMaklkYTlmWFVMczhLby1hWDkxTzRFUnB2SEtGUWk5TXlUZ0ZTQ3hKMzZSWHZNRzdlMmpNWVZ3aEhJRUZjOTBn?oc=5
+* Nuclear Submarine Base Drone Incursion Prompts French Military Response - TWZ
+  DATE: Fri, 05 Dec 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVI2ZWZHQnRaS0lqdXdWUWx0MjJZYXVTNzdYRkZPZ0dXeVJYTmdKaUFfQnBXWmFSUjIxbWdEbHdqM3FqQWMzT3ZFUTA3elhrRUd3M1NKeEFqWWEtV1hSMmg0d3JRZkxhSzlTN0o5MnQzTTdpYkVqNW5sb0N6dEFxemp5VlBNdlVVVlVacVk5RVcwOV96VGVkM3RQS0FmZUFIN0tyOUFkUHo?oc=5
+* Belgium launches probe after reports that 15 drones buzzed military base - politico.eu
+  DATE: Fri, 03 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHdxZjU0cTdNRzg4UGdHRWFmeExMUHZkMVN0U3FDdUhLVGVscGpmLUo4S1R2TXV6eVhDSDlWcXBBRlU0NGJNVmtvNTN1QmxjQ3pvbjJ0WjlIWS0yUkJPaWNPLU9sN1JkMVV6SUxnempocEdIMGlBdS1TdFptRW5oNDA3WjZOUnRPX3RFSWZWOFk0UDQ?oc=5
+* NATO Nation Opens Multiple Investigations Over Suspicious Drone Incursions - Newsweek
+  DATE: Wed, 12 Nov 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3ZhN0kzX3JPUHV1dFk2NnZZU2RzdzVRYTlmSDB3ZXhqaHF1TlU1M3kwTTJlUER4d0xPcTlPeTJ6V0drbU5rekVrUnZqYXJ4U0RzNTkwU0tZblBBY20tdGZreUlhT1VRbFg4VV9zSUhFQlZVWjZrUmw3T3pESGV6QVN1cVpWR255c2dIS3NiRHd5QkU?oc=5
+* Drones spotted above Belgian airbase were ‘spying’ on military planes, defense minister says - CNN
+  DATE: Sun, 02 Nov 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1F2a3piZjBvNnN5c20yTWFLM252MnJQck9lWDVRRmRlRmxvYlJDRkM0clQ2Q2JGeTlrRGtwbHZodThFcWRTc0NGRks1UjVWX2tNRkhreFRYcWNLTWFlQVluVXFnVTFrNE9rOURYNFRnaTkyR3g4LS1CbkdjQVJ0NlVVeGk3REpySWthRy14Zw?oc=5
+==============================
+########## QUERY: drone incursions US military bases Europe
+--- BING NEWS ---
+* UK military sites see near-daily drone incidents in 2026 as Europe confronts widening hybrid threat
+  DATE: Sat, 19 Sep 2026 09:45:48 GMT
+  URL: https://www.msn.com/en-us/news/other/uk-military-sites-see-near-daily-drone-incidents-in-2026-as-europe-confronts-widening-hybrid-threat/ar-AA2czsZX
+  DESC: Close to 340 drone incidents were recorded at or near U.K. Defense Ministry facilities over the past year, according to newly released figures from the Independent. The report comes as European ...
+* Kremlin suspected of flying drones over Europe using Russian shadow fleet
+  DATE: Mon, 06 Jul 2026 06:52:00 GMT
+  URL: https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/
+  DESC: Mysterious drone flights that disrupted major European airports and flew over NATO member military bases hosting US nuclear weapons may be the work of a coordinated Kremlin campaign launched from ...
+* Russian drones are crossing into NATO airspace more often and Moscow may be testing how Europe responds - "This looks deliberate" - my take
+  DATE: Fri, 11 Sep 2026 05:38:13 GMT
+  URL: https://www.msn.com/en-nz/news/other/russian-drones-are-crossing-into-nato-airspace-more-often-and-moscow-may-be-testing-how-europe-responds-this-looks-deliberate-my-take/vi-AA2c1Bud
+  DESC: NATO has spent much of the summer dealing with an increasingly bold wave of drone incursions and suspicious aerial activity across Europe. Russian and unidentified drones have crossed borders, ...
+* NATO fighters scramble after drone enters Estonian airspace
+  DATE: Tue, 01 Sep 2026 04:30:00 GMT
+  URL: https://www.stripes.com/theaters/europe/2026-09-01/estonia-russia-ukraine-drones-22718508.html
+  DESC: NATO fighter jets were scrambled and Estonian air defense units were activated early Tuesday after a drone crossed into the country during a flurry of aerial activity near the Russian border, Estonian ...
+* CIA reportedly warns of Russian drone plot against Western Europe
+  DATE: Thu, 24 Sep 2026 06:50:00 GMT
+  URL: https://www.aerotime.aero/articles/cia-russia-gerbera-drone-warning-spain-france-italy
+  DESC: US intelligence reportedly warned European governments of a possible Russian Gerbera drone operation targeting Spain, France or Italy, El Mundo says.
+* A mysterious drone. A Mercedes RV. A Chinese intelligence puzzle in the New Mexico desert
+  DATE: Mon, 31 Aug 2026 03:00:00 GMT
+  URL: https://www.cnn.com/2026/08/31/politics/drone-incursions-us-bases-chinese-spies
+  DESC: It was spring 2025 and the hunt was on. American authorities near a sensitive Army missile testing facility in New Mexico had spotted a quadcopter-style drone flying in such a way that suggested it ...
+* Buzzkill: How To Defend Europe Against Drones – Analysis
+  DATE: Mon, 17 Aug 2026 18:12:00 GMT
+  URL: https://www.eurasiareview.com/18082026-buzzkill-how-to-defend-europe-against-drones-analysis/
+  DESC: On August 5th 2026, a small drone armed with explosives was found at Leipzig airport in Germany. The presence of explosive material marks this out from previous incidents at airports, as does the fact ...
+* Three European Spy Chiefs Warn Russia Could Test NATO Within Months, Citing Leipzig Airport Drone
+  DATE: Mon, 21 Sep 2026 11:08:00 GMT
+  URL: https://easternherald.com/2026/09/21/russia-nato-test-european-spy-chiefs-months-warning/
+  DESC: The intelligence chiefs of Czechia, Sweden, and Latvia issued a rare joint warning Sunday that Russia's hybrid warfare campaign has crossed a threshold, with the Leipzig Airport GRU drone described as ...
+* Danish airport shut again amid suspected drone incursions tied to ‘hybrid attacks’
+  DATE: Fri, 26 Sep 2025 00:15:00 GMT
+  URL: https://www.trtworld.com/article/90d724266d67
+  DESC: Authorities blame a wave of drone sightings over Danish airports on possible Russian hybrid warfare, prompting security upgrades and EU-wide anti-drone talks.
+* AP Exclusive: US coaches Polish forces in a drone-focused drill based on lessons from Ukraine
+  DATE: Sun, 30 Aug 2026 13:26:00 GMT
+  URL: https://www.newsday.com/news/nation/special-forces-exercise-drones-nato-russia-ukraine-m45016
+  DESC: Members of the Polish special forces are taking part in an exercise that simulates moving through enemy lines and launching a drone strike on a key enemy location.
+* Is Putin about to wage war on Europe? Fears Russia could launch attacks after CIA boss visits Moscow
+  DATE: Wed, 26 Aug 2026 03:09:00 GMT
+  URL: https://www.msn.com/en-ph/politics/international-relations/is-putin-about-to-wage-war-on-europe-fears-russia-could-launch-attacks-after-cia-boss-visits-moscow/ar-AA2aXtJy
+  DESC: It comes at a particularly fraught moment for Nato, as Russian missiles and drones repeatedly test the defences of countries along the alliance's eastern frontier.
+--- GOOGLE NEWS ---
+* UK military sites see near-daily drone incidents in 2026 as Europe confronts widening hybrid threat - The Kyiv Independent
+  DATE: Sat, 19 Sep 2026 16:45:48 GMT
+  URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxOakJTcldQaXllV3gxM3dLMkQ2RzcwbFFOdFlnOHNCaVp6T2NzN1h3LVVvVzdZSFQ2VmRNMGNXN0M4a2VNZms0X1pKQWU2YkZfWG5weVFmV3doakVtOHU1alFiX1FtU1FKdUJ5T3VoRmZsUFJEU0ltY3JXWmp2VlFSS1hPcURHWHk2eGdWUkJ5M0hBdlA0bThfVENmbGRCNWFJRGE0dlVkaDhRdUNDQ2FDa2tPQlJiWkRCTnM0YzRyQll3UUtFV28w?oc=5
+* Purchase of Chinese DJI drones sought as threat training for US nuclear missile base - stripes.com
+  DATE: Mon, 17 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxQVnh3Y2NVb2dkRGotWHlMcWdpeTVNUjFOQTZ6dnJWNWt6dHNueHJqdzdlMU5XdkUwXzZKU29uNndXaFhyZWF4bGx5enJwWU84am90a0U3TG5TbHVKOVVpVFV5V3haNGR6aWR3UXhkSlJITGRkYUlKQjVlWDFYd25GZjdkcDFjb0FHOWpKeWRVak1BNk9QbC1BcUtnTm4?oc=5
+* Drone Flights Over NATO Sites Show Europe’s Vulnerability, Experts Say - The New York Times
+  DATE: Thu, 02 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTDFRN29BMlpiUGhHU0plZmlMVEVUOEl6bHhlXzZVajFJZVR0Qm5lWW5ERnhNZmM4UXhSZGlkUms2OFo1UTc3aFFYTlE2ZmxJdVlkdUpQUU5jaTV1aWpyeHRJd0RqeVBqdUFfMXNySGpMWmo3aUFPMVNVcUx6MzRFbHkxZ3E3amw3SnhJ?oc=5
+* US Air Force Deploys Counter-Drone Laser Weapon to Europe - The Defense Post
+  DATE: Mon, 03 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE9hTlhJVGZ2akh0X0lTczRmbjA1SjJUX3VVd0dGb1J5b1NCLWY0RkJmNUZRMUtEZng4ZTdtU1hCeWoxTkxjTGNDbnBWX1NEYTZDRjBHVjE3R1ZjTFZ0UVpHRXk0WnFzV056TmdLOG1hXzhIUjE0bDlUVnd30gF_QVVfeXFMTmZzNFFHMGh1Q2VVbnVZV0lMVjh0LUQ1SWNteVc2bkJUcjNEbV9aOWNGVHMyWUl5TzRhSTBmM3h3dTZDR1dkc0lGWkVYN2dNQXQ2eVppOVFqclM2dzQ1cm9yU2V5UkZmbHZKWnJLMlVYQmtzV3UwTXBTcjB5X0haWQ?oc=5
+* Kremlin suspected of flying drones over Europe using Russian shadow fleet - Ars Technica
+  DATE: Mon, 06 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxQSWctbU13VVRNMTZIX0JrdVR3dU5vYjFwdE9MczZIOUtsaTY4RUgwVk5rNEpDRUd0eTBmTzlVUlYwWHlLTmdaSmNPQV9RdXNHTTRmRlZHV01fd3B3TUExZnZZMnF1c0g4R1l4NnpROHF2Vk0xdi0zOWtoQm1QMDNNSkFEQjFaWC04ZnZDOWVDa3RSaDJQaHVsdHRrcEVMVTE3MXN3cTdDQkR1T2dGNVJhemVWVTk?oc=5
+* Russia likely used shadow ships to wage a drone campaign in Europe, report says - AP News
+  DATE: Thu, 02 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wd2lXcWMwR2JGT0xxSG5EakhLN3V2YWxxeFkwN1FMY1d3LW83dGRoMFU5R0xUOEk0cDAtVVdxVmM5ZWp0T1daWXN5OXRudEkwR1Vqa1FkRTktY3BNZDB2LWRRWUlicUE?oc=5
+* Russia ‘mounted drone surveillance of European nuclear sites over 18 months’ - The Guardian
+  DATE: Thu, 02 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxNY19rcFNuUEY3OFU4VmhoeVQydHlMdjB1RmRKWnluMEdqZzNtTVU2b0VxcW9YUkJPRHBDU196YV84LVUybjRaeXA4TEtNSFdYT3hLZFZPMXJpaWFMM1h0RWNpSjQxTnhYcWViZTJnT3lZOENuZDVQc0tDRmtBc3BzeG43MzZISk8xb1NKelhheTB3MlllMVR2QUJRSGNIak9TS3A1Ry05MnctV0RKd2NxcnJnVkpycGEtMTFoVA?oc=5
+* Russia "Highly Likely" Behind Drone Incursions Over U.S. Bases In England Report Concludes - TWZ
+  DATE: Thu, 02 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxNelFNT1B0TGF3YklDbUdodjc4OUpfQXhISlZnV1ZJbE5zSmlHUU43OWU1ek95cXlmbHo2VkF4WHJJSTFERXR3d2YtNTd2NGVlU0hYaDhzTVk0cjlzb19hc0FmLUQ1d09sallWQzc1aDRSS1BqbUlyT3QzV1Y1RHFYZ3JaWjN6RG10X1JJNGVnWlphbm4zdEtWd3pHR3V1RUpWSHdYSjdjdUdPNUJlNlNiaQ?oc=5
+* New Report Blames Russia’s Shadow Fleet for Europe Drone Incursions - The Aviationist
+  DATE: Fri, 03 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGtzX0tmby10Vm9leWYwLUhxVjRZWENSX1E1WUgtRGE5ZndsTF9oZ2ZQYW5fQU1fbzVQTmFfY0xDTGZ5dEE2ZjkzMGFPMW9Nemx4Q1c0Tjc4MHRMb1Q3bmZHdVdqNkZGU3YyS1ZEQmYwT3pmX2xXcFZPZ3hvay1fMDBfb213c25jbXc?oc=5
+* Report Ties Drone Incursions Over US and European Nuclear Bases to Russian Spy Campaign - The SOFX Report
+  DATE: Thu, 02 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHBaMF9mbDhxTno0R18yQmVSVm9lbWRuSUVwcjY3NG42LW9paG5lVVVrMkg2ZDFUb2xEWGlMMmlTS3E1dzBldmd2Z1RnbWRfTU5ZcWZ3bGlRb1RQd3RsRldGSTd5clNmeGh0U0dTazJIamJSaWJhTnB5S28xanlCNlBBQjBSaG1BNm45VHM0U3ZsYjhpcmF4d2JIcGRQX1VneVJGbm95ckxzMWg3a1E?oc=5
+* Unidentified drones reported over shared Indian Ocean base Diego Garcia - stripes.com
+  DATE: Wed, 12 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMingFBVV95cUxNREk2UGx6SVduUm1aaU0wSTFzRk1oU1Z3SmlEaUJ5cTIwWGZxWjZqZEcybFNSWU1JNlFaMFh3YUxTbnpSR1lyWXN3R0NmN1N4Q1NQYnlGSjVWZ0FONzQxLWZGM1JtbFl1Rk93N2JVMXJJUms1TE95VlU5dVhSWnkzVFljOElRVHFOSjlSLWFZRzVYSFJkR3BmcTR2Zml1QQ?oc=5
+* Britain’s nuclear bases under threat? Report warns of suspected Russian drone campaign - London Business News
+  DATE: Thu, 02 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEhQTERObWZFYi1fdC11eUtiNmh6M1V2SFhpUlhTOUxDZW12aEIwT0tHT1hNQjJjMkVJNE00SnhUWEx6cEtLVVlkRDlRdW1iOWFUQ292ZFEyUXpDWUR1YWVMTmhjWjE0Q2w4RFlaYUlydXR1a1A3MG1OM3ktWG12VnVCaUl6Mjg5RmgwVjVyanVDMVdLT3BoOVg2NDljd2czWXNIN21hbU1MNEFvSG9nWjlHYTRNVDg1?oc=5
+* Russian drones exposed weaknesses at bases housing US nukes in Europe, report says - stripes.com
+  DATE: Thu, 02 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEp2OXk3Q1IzWVE3alRSYm0teDdtMTMzWXp4MEJQTjVWQ0dHUmQ4b1hVU2xxaHFmZjNVMGN6QjNhd3lVY3NxbnRUdFlxbHNPRjItTjJNSVh5YmRwNy1yeVJuU2hkQVJzTDduQ2RDYlY4ODYtR0hGTVlrRTdLRG5PTVhxLUcteGo0UFNKbWpDYVpWeUN1TVNwOUZxVWtWLVk?oc=5
+* U.S. Northern Command says it thwarted a drone threat over a ‘strategic’ installation hours into the Iran war - DefenseScoop
+  DATE: Thu, 19 Mar 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnZoSDBPYWZabVdOd1o3VnE2cEVtWnNSeVRkMWg3ZUFUaUtsempza0NtQnRydlBUYzBiMVpPVXlCanVaUTV6S3JfTWdsYnNqbXFhNFZ5UzVUZ0NNUk1CNl90ODhjdVpkTnk0WlJOSHE1MVJiQkZTMnpaQzdCZDc3ai1zQ2cydw?oc=5
+* Explosive Drone Found Next To Ukrainian An-124 In Germany Signals A New Threat Reality - TWZ
+  DATE: Wed, 05 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxOOF9QdFFFN1V2VzJNaGVwbmxrYmFkb05Tb2x4dDBXTTExRUs3emhta01BU3dmWHhzQUduWW9rVThsNl9yczQ1akNpWG1VQnJmSE1kVFhxTTJSYkhlVFE0VFM3Mk80VGhLNTloWW9EWW93TjZkX254aGJST194dzllTS1mRnJUblBXdUtfZnd3eFM4R0d2dGhDWEdGWHVHMm5Uams1bERVb3FpeUxMazBDTldaeEpCQ0JyamxwSQ?oc=5
+==============================
+########## QUERY: drone water treatment plant incursion
+--- BING NEWS ---
+* Water Reclamation District OKs police drone docking at Bloomington treatment plants
+  DATE: Wed, 23 Sep 2026 13:54:00 GMT
+  URL: https://www.wglt.org/local-news/2026-09-23/water-reclamation-district-oks-police-drone-docking-at-bloomington-treatment-plants
+  DESC: The agreement gets Bloomington Police one step closer to implementing remote-operated drones as a help to officers responding to a scene.
+--- GOOGLE NEWS ---
+* Russian drone incursion delays Zelensky flight from Moldova - BBC
+  DATE: Thu, 10 Sep 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GMWdiaDMwcVV2XzdwenVoa19EZWo2LTBDbGt6QW5EZDFzYUtzeEszaTJ0OGFGS1U0OUJLVnVKV2tyWXVTMHRSRi13bXRzMlIwc3Z6SlUxc2gzUQ?oc=5
+* The Counter-UAS Certification Bottleneck - Lawfare
+  DATE: Tue, 23 Jun 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGlPNllQWVBtWEtjc0otNVdPVUQ4ZDZvM2ZiZ19NWEFhc2RRWWtjaWF0cWlOTWFhNHA2SkcwbVFBZWowN00yZ2RiM0U5VUhjdlBoVjFGUWtNX2stZmVabEhqWlM4ZVYzZ25CYVZxTUp0OEFfNVhUckhKSl9sZ3dQa25zRQ?oc=5
+* Mystery drone explodes in Latvia near Belarus border - TVP World
+  DATE: Sat, 23 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHg4NGlkNkxwMll5b2h2YXdfS2J5SVUxVnZqSF9SelRTbXpGSHlEWkdGZEN5bmlMdWZiWWdkWHM2VEhySHlxMXhRSGJXa2xLT2hUaXpFNndENGUtZTF4bHlOZEhZWHdrU0tpTDBqTHgxNl9CZ3VpeVl3ZU5GLWNDZ05TTFZ6WkJyNU9DeFIwYk9oVXhaNmJ3MGRVeVZZOEhfRzlWQTZXUjNtS0U?oc=5
+* US-Israel launch major attacks as Iranian authorities maintain defiance - aljazeera.com
+  DATE: Tue, 31 Mar 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkxxTHVyOXFnOEdaUzJPaHBxS0FOUTh4d0dsMldLQ0JKRENYa0pPdnp4SHo4NWZEZFdkUWo1Zk1PWTBKNUVQT2FZUEZub2NxNXBXNzNXNzNPWGExYTIyV3k2ZWw5NVVrVFBBb2FXWi1FWVU4cENLNVRjcUhfSUNEQXZIM3J3Y3ExNWs4dU9WajZ3cFUxaFJORWV2UWw0RUlyazBWeG9hRm54VEFxa3RPcV9n0gG3AUFVX3lxTE54WDl6XzZMQkowR2tWSFV5UmFkOHhiODRTWWhQMzBqNDRqNklUaU9Xa3FvMmlncmtVSWxyb3hxdExaZUk4dWNERXk1bmFaT0E2UnNHN1pDVE1TcGNkZ2JyRTNnYm5pZEp5UTNpYXRKQ1A1NVVCZmUtTC1LMTdRclp0YTZ6YWJOSHJiUlh6MUtpRGN4Rjd2UXVWM0dyNXItZXZkYW9pdFJkX0YwRVA1NG9JZTVzRllZOA?oc=5
+* What Cops Saw Chasing Down New Jersey Drones - TWZ
+  DATE: Thu, 12 Mar 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWhBbXRQempkbTNoYjVrNzdPSllTcUtqR1ZDNVJwVWdSclpNZDBFWFI1RFFkTDZTOXRoTzVjMllUY0dDd3Rhbk90VWJjajYxQUtXSTF5TTFvZ2tMZW5LM19ycTBtVnUxSGFncEl2bzJQY0VrR3RfSlJPMHZ5TjJ4TzdFbDR3Qkp4aUtvZ1lQN3FWSElG?oc=5
+* Experts warn of serious drone attacks during House hearing - WBFF
+  DATE: Wed, 16 Jul 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX1pLQTlQSVFSS1FpMmI5OFNhWGg3UjZxLU9LNjlfWVZOeWtQR0ZEME5JVmVzWm9ZY0ZOSEViZ3p5Mk1XOXhJUGs2UUo2QmVvcnZYYnVCeFpWZVFWeDBycTlILU1Vdms0cWpxWGlQVjdoT3B1WFIzeGdWZDBQX3VqN09oN2hRamxfOWVrSmp0aGJ5d01SWWZDS18zd0pHUjRjR2hfUFFMS2JzUWlnVkl1bHJXbkpPOElUeEo1LTFpREg3aEw0S2tFdUwwQzg1eXNwZTZReURfOHZYaVFMSWlsODRPWlFWb1ZmTzZSTXhYbER1dw?oc=5
+* To Prevent the Next Pearl Harbor, America Must Invest in Drone Defenses - Andreessen Horowitz
+  DATE: Wed, 13 Aug 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UZmRWTTRLN01udllsdzlTU2R6Mjc1UFhNT0Z6eEtpWm0wejRYTVlQVGR3VUdvcWNURDM0dzhRbXVtQlAydEF5NlByZ3JSNDk3cllkYW5MWXZnNHlzZGc?oc=5
+* Drone incursions show Russia seeking to escalate war, Zelensky warns Europe - France 24
+  DATE: Thu, 02 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE44dFhqelcyQVFhS2tGMS1wR0EtMFd5azZCYUk1NUVYMTdDX0t3LXZhZDRQZTRRSGRrR1M3U0FMczZRNmRoNmJ2THZ4NHpUZ0JpaUw2Z0ljQlFYR0VlLWxVNVdSbXlqdktvX09jZ2ZuUzBwSllxX09hay1B?oc=5
+* Denmark blames cyberattacks on hacker groups linked to Russian state - Le Monde.fr
+  DATE: Thu, 18 Dec 2025 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVUFkUExSZjBTZTM0MmdKamI5bWl6cWVlYl82Rzh0Q25URzhGWDNub0dhRGZLS0FFaEl5cmkxTHJvU2REbFZJenZ4UGxRRzhMcWxRWXBHUnNxRmlHWjh5N3N6b1hLMk5MWXpkdnRmU0xWTEFBRmwwSXV0ZEUxUWE3RjVPR3hwVTgyN3NYQUpsek9WMVFkWFBlT1BpcXV2bEJMbUNhQnBPdS13Ymtyekd6SmRyd2s5Y2pTcTZBa2tmS2Y5eW9nYWxhXy04TTEyMWRvT09pZUNTNFpsdw?oc=5
+* Manila Recovers Chinese Underwater Drone Operating in Philippine Waters - USNI News
+  DATE: Wed, 01 Oct 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkNnYUhhZHBWVVNESjlZVU5yNjlBSmlmaWlZSmNNX05GRjNKUXRYcnQ5Q1pOcmxfMGVieEFlU2NQRTdGSEFQZmZSY0psdWRfN2lzcTM3Z2oyVXB3MVlFWWs5R2Q1M2JGZ2VjN19FMlVNMVNLY1JjV2pQdURRRV9JY19XcU1HTnNWbXFjbGdrMmFqTy10MlhvRWIxVUVVZFBod0NFVGhNdw?oc=5
+* FAA Insider Opens Up About Drone Incursions Over Military Bases - TWZ
+  DATE: Fri, 15 Aug 2025 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0xnSDQyb0MyZ290SndHVkFTNldtNHhMNC1ILTlJbmQxZklQUWR3Wnp1NEZLUVhpZmRjd0R4c0xuTzYyZ0tfUkZMcFNQalkwTVp0cEh2LWo4U2dEdl84YllQZFY1UFVEb0F0WmY4UW9wUGtPeEtXT2EzTHBVMWJSZzNCdFV2UEI5eUJKOUdvNm1zME1VMy0xR1RUeDhjcE5zczdVZQ?oc=5
+* The Division – Incursion DLC expands the end game experience on April 12th - Gaming Age
+  DATE: Wed, 31 Mar 2021 21:54:00 GMT
+  URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmFLdWllSzZORE5uaWhrVXA3NjhKSlBJR0RleWFSMm9PVTBHSHZpemg0M1hHTlBYbFc0cHpDUi1ySVkycU00Q3V1bFlWTzVfYWJEQXI2UEFQWnVLZDJnVWpMbUxFekJzTk1xQTdZOUhybUtSVmdiek1PUDVQR01ldWlsS3FCMmo5QU9nYjdZRVlVS3c0Y0hmM9IBngFBVV95cUxPNTNVWHJmM1QzbGM2SkRwblZJMEZpdmVseW5tZDFRMThPMXBBQnJ0ZE5WSktQOEZRam5NekNRdV81UFVWczBrdnBKMVBXZjhpb1BhTkJQQjVIRGcxaGY5bkRoT1dMZ0ppSXp1ZEtYYkF2VGR3aENoekVTQWhaaUlWX0JWc0QxMm5QaGVHakJYMGNpamtsYXJpa2JBSkJPUQ?oc=5
+* Nuclear Power Plants Report Massive Uptick In Drone Sightings - TWZ
+  DATE: Sat, 21 Dec 2024 08:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC13VDk4Zl8zc2hQUGl1d0NXSjBzdXZYbTZyQVJYOTU1dTlnQzJfUGZOT2ZiejlOMWsyb0hjMUxueDZ4ZlVOUmpEczJSMU1BdkswSEdxOWdjU0FFcFpDcllrN3UxOE84TlpiUklrZWRTQkIxYnZYbXNLdHd2cE9pa05adzd3WEdaaFZycFI3VWI0UkZOTHlPTGdWWmtlM01SUFE?oc=5
+* The Division’s Incursions Update Details – Coming out on April 12 - Wccftech
+  DATE: Fri, 01 Apr 2016 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUtkVTV6Q2NzN1dHcUtJV0t3UkxFaEhhNmlCVzRETC1Lb1lhS2NWWTl2LUVqTG4tbWJiRU5Va001T3dIWHdCaEtabjJ1OXJLSVFmbjBFSTluVE5MTGw1YlBMQmV1RlVLWVg4S1Y2Y0RfMlVET05DYnhUejk4ZmJaR05IT193RFdPa2ow0gGQAUFVX3lxTE1VY01jZ3Blb2ZvMjdFUHlUOEc4dmt1STRmc2Z1RVpqNlJXb3U1ZzJYdzkzWURLdnVBWHF5T1ZROFlwdU1QVkdnaVQ5R2JFN0ZkRnhvbE5UNU9QcHNMXzFxWWJ2bHBJYlQ2ZWRhLTFUaHR3d0tjX3dOenZrTTF6bGVaaDNSQzh5THRJQVp6TnpYYQ?oc=5
+* Russia Escalates Shadow War Deploying Arson and Cyber Strikes Across Europe - streamlinefeed.co.ke
+  DATE: Wed, 26 Aug 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmRqWDNFamNrWkFZNkNkbnhheXhlakU3RjFUSVBRc0xaSGNZTzA2Y0x1blExQjZqLWhYQW9CeUdEc0EzSl9DR2xTb1F4TENlTzhEalFMM1YtYWswMlRaelRCNGFtVENJaDU0cUJTM21qcFZDNDFZbWZiUTl5LXNLeEdmNVRQcTJQOFhRSnJnemNJWjQ?oc=5
+==============================
+########## QUERY: drone telecom infrastructure sabotage Europe
+--- BING NEWS ---
+* European Governments Warn Russian Sabotage Campaign Is Expanding Across NATO States
+  DATE: Thu, 24 Sep 2026 22:36:00 GMT
+  URL: https://eutoday.net/russian-sabotage-campaign-expands-across-nato-states/
+  DESC: European governments are warning of a widening pattern of sabotage, cyberattacks, airspace violations and other covert activity attributed to Russia, ...
+* Licenses for shooting down drones for Austrian companies
+  DATE: Thu, 24 Sep 2026 23:51:00 GMT
+  URL: https://www.heise.de/en/news/Licenses-for-shooting-down-drones-for-Austrian-companies-11465238.html
+  DESC: If suspicious drones approach critical infrastructure, their operators are to bring the drones down. Licenses for this are planned in Austria.
+* Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
+  DATE: Thu, 24 Sep 2026 04:16:29 GMT
+  URL: https://www.msn.com/en-us/news/other/poland-says-fire-at-starlink-station-is-sabotage-as-denmark-warns-of-rising-russian-threat/ar-AA2cTDc1
+  DESC: The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.
+* Europeans warn of rising Russian sabotage but see no imminent NATO attack
+  DATE: Wed, 23 Sep 2026 11:20:49 GMT
+  URL: https://www.msn.com/en-gb/news/world/europeans-warn-of-rising-russian-sabotage-but-see-no-imminent-nato-attack/ar-AA2cQ0yp
+  DESC: By John Irish and Tom Balmforth UNITED NATIONS, Sept 23 (Reuters) - Russia is intensifying sabotage, cyberattacks and other hybrid attacks across Europe to undermine support for Ukraine, European ...
+* Ukraine war latest: Russia takes aim at Ukraine's internet infrastructure
+  DATE: Thu, 24 Sep 2026 11:15:55 GMT
+  URL: https://www.msn.com/en-us/technology/general/ukraine-war-latest-russia-takes-aim-at-ukraine-s-internet-infrastructure/ar-AA2cUnTq
+  DESC: Russia puts Ukraine's internet in its sights as attacks on Kyiv infrastructure intensify ・Polish Deputy PM says Starlink station fire possibly Russian sabotage ・Denmark warns Russia could escalate ...
+* Buzzkill: How To Defend Europe Against Drones – Analysis
+  DATE: Mon, 17 Aug 2026 18:12:00 GMT
+  URL: https://www.eurasiareview.com/18082026-buzzkill-how-to-defend-europe-against-drones-analysis/
+  DESC: On August 5th 2026, a small drone armed with explosives was found at Leipzig airport in Germany. The presence of explosive material marks this out from previous incidents at airports, as does the fact ...
+* The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control
+  DATE: Fri, 04 Sep 2026 02:03:00 GMT
+  URL: https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html
+  DESC: Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising.
+* DRONE SABOTAGE: Germany Blames Russia For Explosive-Laden Drone Found Near Ukrainian Cargo Plane
+  DATE: Wed, 02 Sep 2026 07:00:00 GMT
+  URL: https://www.theyeshivaworld.com/news/general/2593005/drone-sabotage-germany-blames-russia-for-explosive-laden-drone-found-near-ukrainian-cargo-plane.html
+  DESC: Germany has formally accused Russia of carrying out a failed drone sabotage attack at Leipzig/Halle Airport, saying investigators found evidence linking Moscow to an explosive-laden drone discovered ...
+* Germany probes suspected arson at defence firm as European sabotage concerns mount
+  DATE: Thu, 03 Sep 2026 00:36:00 GMT
+  URL: https://www.reuters.com/world/german-police-probe-arson-attack-defence-tech-firm-munich-2026-09-03/
+  DESC: Attack comes days after two sabotage attempts on power grid Airport drone attack a month ago blamed on Russia Concerns grow about infrastructure vulnerability in Europe Moscow denied involvement, ...
+* Terra Drone Begins Development of C-UAS System to Protect Critical Infrastructure in Peacetime
+  DATE: Mon, 31 Aug 2026 12:20:00 GMT
+  URL: https://www.suasnews.com/2026/08/terra-drone-begins-development-of-c-uas-system-to-protect-critical-infrastructure-in-peacetime/
+  DESC: Expanding interceptor and autonomous-flight technologies developed for defense applications to continuous protection of energy, power, airport, port and other critical infrastructure Terra Drone ...
+* Sabotage threat looms over Europe's power grid: 'The worst-case scenario is not inevitable, but we must be prepared'
+  DATE: Wed, 02 Sep 2026 20:00:00 GMT
+  URL: https://www.lemonde.fr/en/economy/article/2026/09/03/sabotage-threat-looms-over-europe-s-power-grid-the-worst-case-scenario-is-not-inevitable-but-we-must-be-prepared_6757108_19.html
+  DESC: It is here that the country's high-voltage power lines connect with those coming from Poland – a crucial interconnection for Lithuania, which, together with the two other Baltic states, Latvia and ...
+* Germany probes suspected arson at defence firm as European sabotage concerns mount
+  DATE: Thu, 03 Sep 2026 13:21:00 GMT
+  URL: https://www.yahoo.com/news/articles/german-police-probe-arson-attack-073606930.html
+  DESC: BERLIN, Sept 3 (Reuters) - Germany was investigating a suspected arson attack outside a defence firm in Munich on Thursday, days after two sabotage attempts on the power grid and a month after an ...
+--- GOOGLE NEWS ---
+* Russian Offensive Campaign Assessment, September 24, 2026 - Institute for the Study of War
+  DATE: Fri, 25 Sep 2026 04:12:11 GMT
+  URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWxBSUxfai1aaVZveE1GN2djaDU4S19MMDB4OG9pclVYdk01X1F4Nm1JcjR4RXJXMjdPMHIxOFEyOTluWVBlZ0gycnRZcGZoT0x3OEdzM3JDUjBJRHZEdUJxenBMWnVuaVpoVzAteUxVSWd3UUhfRXF3WUxSVlVnZS1zMGtzT1Y0aGg4QnJxdFZlbVQ1Y2UtVnZBSWtDc3huMWNsTWN3OFlmbV9zOVE?oc=5
+* European Governments Warn Russian Sabotage Campaign Is Expanding Across NATO States - eutoday.net
+  DATE: Fri, 25 Sep 2026 05:36:50 GMT
+  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE5pQ2gyOHZlMVdoR3BDSU1makRSejlhS1BsM19Yd2NBYjVVaV9FY25GVm9JWUhYVVhSY0tucDNNS21Qa0VrWHNmRnNnak4zMm1CYzdlLWVuN0s2NW5hcnpuMG8yQmttUWJnQTdyckoxRXQ2RVNOdU5VTDRuX2tKdw?oc=5
+* Russia Escalating Hybrid Attacks Across Europe​​ - Recorded Future
+  DATE: Thu, 24 Sep 2026 19:19:20 GMT
+  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSW9vbERiNm1sNmtvQVE0TjY0b3kwaFZPbFVmNjRUU3BrYjZBVFlOaVpfRXBqQVVQMTBsVjlYOENKWmxnUzhrb0xiRkxSZXd2WW5fQ3NmRHp5WkZySTFwVWR2dEQ5SmR1ckRTSHJaY1FnczI3cUI0?oc=5
+* Europeans warn of rising Russian sabotage but see no imminent NATO attack - Reuters
+  DATE: Wed, 23 Sep 2026 18:21:43 GMT
+  URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmhIM0ttNVlBZkxnZUxrVmRWaGI3ZHFTVVQwM3YtLTBsMExneTBCQXlnZXFoXzFRYnpRYmdCOUVxaWtzTmNiRUFsbXBBdWRzY3ZEdl9WWldfUHdmanRyYjRNNHVGRDMwaTZ4T2FKTHdiTi00b0dIVDNVNm5yOFQ0WFVRcFZnazBfWE1faW9hN3NGNVZ2OFphUTFvcVczVVQ1UWJrdHRZRjNfMFQ0anllMVEzSlVBR1BGWGkyME01TDRxa2JTWk1yaQ?oc=5
+* Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat - BBC
+  DATE: Thu, 24 Sep 2026 16:00:29 GMT
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UjNScGNqREZYUWRZTWhXZTFhWGVtai05bWlfbHh4R3A1bzBCb3VWMDBZVkQydEN1OG9EeHQtMUNnX1kxLTJJcjgwRGI5eks4cmVRZk1tWEdfMDQ?oc=5
+* Macron has ordered that the protection of France’s infrastructure be stepped up - UkrMedia News
+  DATE: Sun, 20 Sep 2026 12:09:23 GMT
+  URL: https://news.google.com/rss/articles/CBMie0FVX3lxTFB1dldWdEZkbmRVMXA3V1MtWS1xV0Y1aENhdkgwTFZyU1BrZUw4QUpwR2FENmZYWGhsVUhVNGR4aFFzay1HRTV0d2xFWTlYVEF6M3Z5ZUJkb3dnVFNHMnF0SjY5QXNWbWI1TWp5ZkNta0hORUZjbERXNEhHZw?oc=5
+* Russian hybrid attacks against Europe intensifying, says Macron - BBC
+  DATE: Fri, 18 Sep 2026 18:04:38 GMT
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRVBhVWg5em1aNmVhakttdU8wWkJ4aVRWVFdrcHpmWFJKOTR4bDcyMThlSmtQQ2VJQWU1SzlJQlk0dXM5a211LWlhazY1SnJFeVZSdkpTSG9BWkk?oc=5
+* Gray Zone Attacks Against U.S. Allies and Partners - cfr.org
+  DATE: Thu, 23 Jul 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxORkNqSE1mZWlfcTlxQkdjUjFFQ2FBU2dUTmYwYUtXTzlGYzhyMTZSMmoxdVI2bGVZRXRoWG5ZYjRxWlJzbEJJNUNSdl9ZUGtsUXRzSDVfdkdHRDl3WmwyTEhSQzMzWi1Gd05sSEt5NEpCTVJFTWQ3VG9SZzZaajFWQnpaNA?oc=5
+* Russia’s shadow fleet presents a sustained hybrid war threat at sea - ACLED
+  DATE: Thu, 21 May 2026 05:27:08 GMT
+  URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxPRThaanFSRUVjWm9YNFkzU3VMc3gwY1RMMGtxT2xHOFB0SXJzQTVxeXF2THloTVBJWWduYU8wdkQyTVRJeVVLTnk1eFE0WmNiTU9jRG9CeE1pYkZ6SzkzeU5sRUw2bm4tcnlMWUNSTHRsN1NrVkVEMjVYX196M2JwSmt4R3VwaUhqOWdTSzlmZVh2UDFz?oc=5
+* Drone threat to Europe’s critical infrastructure is surging, resilience must follow - AeroTime
+  DATE: Mon, 25 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVNnRERqNTMwOHVicVhsd1dEMWJ2VVdsdEkxWG1zX2JVQkpMNEM5MUg4ZDhFejN1VHhTUnQ0NHdSclJUYnJ6elZFUFkxSllXemgweE9YWjd6c1VZUFE1dTlESUltZ25ucHo3NV9IUm9VajVoaFYwaUpqQkZqRkhDaWI0ajFjLUlZeVBV0gGQAUFVX3lxTE5zRjBkRV8yS1R0NHBTWWQ1cEloUkY3S2FidEM5OU0ydXdCNVpwLUwxd19ZUHY1Y0RYUDhDNHpQX1lETFFYSmZiWU84alo0VEpwemRYZU1lVkVuM1cwZl9YNVBuTzdmREJZbFVKenpHblFoNWZVMTdYMFR0elZUaDFuWk1iMkQ4LXBUWHhNVmJFWg?oc=5
+* Is Europe preparing for war? Macron Russia warning, drone fears & UK emergency advice - Business Today
+  DATE: Sat, 19 Sep 2026 05:49:20 GMT
+  URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnNGYTZKLVowMjZ3czdFaEZsWXFZbG51SjgzMldJZ0xmWE0xSGQwM0RCYWZFZ3JTWTZBZ0dBalE4UDVjYlV4WkVqcWZtYnhGemx1dV9Od2ozZzhBMGJYd1d1b2dLdUVDb2s1MjEtZDNZRmpNYzFUUTdZc1hiei1sQ2JlNXcxNDJrbkFtOXNvY3NwMFhWVGw2ZG1BSTNLaVF3XzZoOXNJOExlNmVfVk5WSFlFbDlFUndMbHdWWURHMklQTU5Ud1lZQTVZN1VnV25heEFOakVBd9IB3AFBVV95cUxNQW5YWnVYTldwdWVVV2lzcFhxX2xTdDJtZ1I3SVBGZlEzUGk0dUtUWGpxYzN3R1BhdXVRWWpoeVptZy1rX0prUGZRVXFqX0FTcnZ1V1U2THVYb2FYelU4MzRZWGh6SDI1TkVGaWI3NnJkVzdtVzJJWWI3M3E0ZHFqaWFzLWVWQklUb0thanA4bEFwNXk2VUVhNzUzWlBOVlllTC13N0VjTnhDUnhPMlN3am5va3V6aXVWU2JjaUFVQ1ZzWWs3eUM4anNWMHZfbm5iazZjckxKbUNzVXZS?oc=5
+* Germany’s Rheinmetall and Deutsche Telekom to Develop Drone Defense Shield - WSJ
+  DATE: Mon, 11 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2ZHTFQ5cmM0VERFZTR4ei1kc3ZRVEpLN0N0Yl95SVc5Rzd5SjZHakZ1bU5Fb1YzTzM2aVhhMTZDQ3AyNlhXWTQwUXhlaUdNRWVDeC1QbU9adTNSZHJ6WGY2cDJGTWl6WnFBVW9EQ0lyUFkzZF83RVV6QWtEejBfRThMcUx1M0tjTFZIcmowQjRwOHdhWkFRZ05HM3FBM2p2blhId0FIVWFjZk1qb2dlY2hHbXpQZw?oc=5
+* Germany plans drone defense shield for cities, critical infrastructure - Anadolu Ajansı
+  DATE: Mon, 11 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxNczNYVGhIMk9tYUlIcjdOMEk2b2FvUVAtSjkwZmRDaVZhUjhmTHU5dWY2T3JBQ2phTnVTa3I4a1VxbDNfMUdvTU1CR2pnLTdMeGx0Y2V4UDBhbUg4YXYwdEozeG9OQlVQRjFLSzBiTmVLM1Z6bHVZd240VXNIdUkzSmdXNmpUNkh5ckQ0UHZIb3o2b0VFRlJiYkFjVkQ5N1Q2empGNkxHUkJ1WWtvYWc?oc=5
+* Alarm Raised at Russia’s Shadow Fleet Hybrid Warfare Threat to NATO - Newsweek
+  DATE: Fri, 22 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxQNW43M2M5Yk5WRnZqVGNXaXYwTG9qZ1JKYTVCd2o2S2wzS1l0NHplVC1tcDg4amFMejRILS1xWTVHUjFmZWd6QVJOcDlROXo3d2NCSmRoTmdrTGtGZWphY0lxdkR0YWxsbVV3bmp3YnVSQ3p6R2xMZktDOE9sN1pPX0VpRExYeFllZTFNcWNNbUpQdnVINGpZdA?oc=5
+* Deutsche Telekom, Rheinmetall target drone threats - Mobile World Live
+  DATE: Tue, 12 May 2026 07:00:00 GMT
+  URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmVjVGROSFpHZnl0RktYUzlJNk92Z3F0a2Zycm80cDlBaE1IU0F2ZzdTZjRBVmZabU50N3FzaGVNZDlFT2NQMng2TTFOQ1l2NWNWMFpyTkxHamdLQk5YTm5FYm9ONDZGWm1Oc3pwall6aG83UlF5SXJ5c2pYeWk2LUQ1d3BzOFJXUHZoMDU2TjMxZi1GOXhtS0E4eXEyUU5f?oc=5
+==============================
+########## QUERY: Drohne Atomkraftwerk
+--- BING NEWS ---
+* Drohne trifft Kühlturm von Atomkraftwerk Kursk
+  DATE: Tue, 22 Sep 2026 17:00:00 GMT
+  URL: https://www.oekonews.at/drohne-trifft-kuehlturm-von-atomkraftwerk-kursk+2400+1237858
+  DESC: IAEA-Generaldirektor Rafael Grossi reagierte mit einer deutlichen Warnung. Angriffe auf nukleare Anlagen seien unabhängig vom Ort „inakzeptabel“, da sie die nukleare Sicherheit und Gefahrenabwehr gefä ...
+* Reaktor war in Betrieb: Kühlturm von russischem Atomkraftwerk von Drohne getroffen
+  DATE: Fri, 18 Sep 2026 10:56:00 GMT
+  URL: https://www.tagesspiegel.de/internationales/liveblog/massive-russische-luftangriffe-viele-verletzte-in-kiew--polen-schliesst-zwei-flughafen-4309180.html
+  DESC: Kreml stellt Vermögenswerte von Nestlé in Russland unter Zwangsverwaltung + UN-Ermittler melden massive Gewalt gegen Ukrainer + Wahllokale in Sotschi wegen Drohnenalarms zeitweilig geschlossen + Der N ...
+* IAEA: Kühlturm von russischem Atomkraftwerk von Drohne getroffen - kein Feuer
+  DATE: Fri, 18 Sep 2026 09:42:54 GMT
+  URL: https://www.msn.com/de-de/nachrichten/other/iaea-k%C3%BChlturm-von-russischem-atomkraftwerk-von-drohne-getroffen-kein-feuer/ar-AA2cwhiX
+  DESC: Ein Kühlturm des Atomkraftwerks Kursk im Westen Russlands ist nach Angaben der Internationalen Atomenergiebehörde (IAEA) von einer Drohne getroffen worden. Im Juli hatte der Gouverneur der Region Kurs ...
+* Kein Feuer ausgebrochenIAEA: Kühlturm des russischen Atomkraftwerks in Kursk von einer Drohne getroffen worden
+  DATE: Fri, 18 Sep 2026 12:11:00 GMT
+  URL: https://www.n-tv.de/ticker/IAEA-Kuehlturm-des-russischen-Atomkraftwerks-in-Kursk-von-einer-Drohne-getroffen-worden-id31323195.html
+  DESC: Ein Kühlturm des Atomkraftwerks Kursk im Westen Russlands ist nach Angaben der Internationalen Atomenergiebehörde (IAEA) von einer Drohne getroffen worden.
+* IAEA: Drohne traf am Donnerstag Kühlturm des russischen Kernkraftwerks Kursk
+  DATE: Fri, 18 Sep 2026 10:16:00 GMT
+  URL: https://ch.marketscreener.com/boerse-nachrichten/drohne-traf-am-donnerstag-kuehlturm-des-russischen-atomkraftwerks-kursk-meldet-die-iaea-ce785adadd8eff2c
+  DESC: Die Internationale Atomenergiebehörde teilte am Freitag mit, sie sei darüber informiert worden, dass der Kühlturm eines Reaktorblocks am Vortag im westlichen Russland im Kernkraftwerk Kursk ...
+* Atom-Schock! Drohne schlägt in Russen-Akw ein
+  DATE: Fri, 18 Sep 2026 13:08:00 GMT
+  URL: https://www.heute.at/s/atom-schock-drohne-schlaegt-in-russen-akw-ein-120254179
+  DESC: Atomkraftwerk Kursk: Drohnenangriff in Russland bleibt ohne Folgen. IAEA mahnt zur Vorsicht, Betrieb läuft weiter. Gefahr laut Behörde gering.
+* VAE: Angreifer-Drohnen auf Atomkraftwerk starteten im Irak
+  DATE: Thu, 21 May 2026 01:19:00 GMT
+  URL: https://de.nachrichten.yahoo.com/vae-drohnen-atomkraftwerk-angreifen-kommen-180933659.html
+  DESC: Die Vereinigten Arabischen Emirate machen irakisches Territorium für den Drohnenangriff der vergangenen Woche auf ihr einziges ...
+* Ukraine-Ticker-IAEA: Drohne trifft Kühlturm von russischem AKW Kursk
+  DATE: Fri, 18 Sep 2026 08:33:57 GMT
+  URL: https://www.msn.com/de-de/nachrichten/other/ukraine-ticker-iaea-drohne-trifft-k%C3%BChlturm-von-russischem-akw-kursk/ar-AA2cw1ia
+  DESC: 18. Sep (Reuters) - Es folgen Entwicklungen rund um den Krieg in der Ukraine. Zum Teil lassen sich Angaben nicht unabhängig überprüfen. 17.30 Uhr - Eine Drohne hat nach Angaben der Internationalen Ato ...
+* Drohne trifft Kühlturm
+  DATE: Fri, 18 Sep 2026 10:37:00 GMT
+  URL: https://www.kronehit.at/news/drohne-trifft-k%C3%BChlturm/
+  DESC: Die IAEA meldet, dass eine Drohne den Kühlturm eines Kernkraftwerks Kursk getroffen hat. Der Betrieb blieb unverändert, es gab kein Feuer. IAEA-Chef Grossi betont die Unakzeptabilität von Angriffen au ...
+* IAEA: Drohne beschädigt Turbinengebäude von ukrainischem Akw Saporischschja
+  DATE: Sun, 31 May 2026 11:26:00 GMT
+  URL: https://www.epochtimes.de/politik/ausland/iaea-drohne-beschaedigt-turbinengebaeude-von-ukrainischem-akw-saporischschja-a5506402.html
+  DESC: Im russisch kontrollierten ukrainischen Atomkraftwerk Saporischschja hat eine Drohne nach Angaben der Internationalen ...
+* Rosatom: Drohne tötet Chefingenieur des AKW Saporischschja
+  DATE: Wed, 15 Jul 2026 11:42:00 GMT
+  URL: https://www.welt.de/newsticker/dpa_nt/infoline_nt/politik_ausland_nt/article6a57d46668b3d6515268a062/rosatom-drohne-toetet-chefingenieur-des-akw-saporischschja.html
+  DESC: Seit dem Frühjahr 2022 steht das größte Atomkraftwerk Europas in der Südostukraine unter russischer Kontrolle. Immer wieder ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: Drohnen Militärbasis Deutschland Zwischenfall
+--- BING NEWS ---
+* Drohnen: Bundeswehr registriert mehrere Hundert Zwischenfälle mit Drohnen
+  DATE: Tue, 11 Aug 2026 15:30:00 GMT
+  URL: https://www.zeit.de/politik/deutschland/2026-08/drohnenueberfluege-bundeswehr-zwischenfaelle-hybride-bedrohung-russland
+  DESC: Die Bundeswehr registriert einen markanten Anstieg sicherheitsrelevanter Drohnenvorfälle. Seit dem russischen Überfall auf die ...
+* Drohnen-Vorfall am Flughafen: Was bisher bekannt ist
+  DATE: Wed, 05 Aug 2026 01:54:00 GMT
+  URL: https://www.businessinsider.de/wirtschaft/drohnen-vorfall-am-flughafen-was-bisher-bekannt-ist/
+  DESC: Update 06. August, 09.10 Uhr: Bundesinnenminister Alexander Dobrindt (CSU) geht nach dem Zwischenvorfall mit der Drohne am ...
+* Flughafen Leipzig: "Zur Drohnenabwehr bleiben oft nur Sekunden"
+  DATE: Fri, 07 Aug 2026 04:00:00 GMT
+  URL: https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101377520/flughafen-leipzig-zur-drohnenabwehr-bleiben-oft-nur-sekunden-.html
+  DESC: 15 Millionen Euro kostet es, einen Flughafen drohnensicher zu machen, schätzt ein deutscher Experte. Im Interview erklärt er ...
+* Drohnen-Angriff: Russland äußert sich zu Leipzig – Neuer Vorfall nahe Köln
+  DATE: Sat, 08 Aug 2026 02:58:00 GMT
+  URL: https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101379668/drohnen-angriff-russland-aeussert-sich-zu-leipzig-neuer-vorfall-nahe-koeln.html
+  DESC: Ein neuer Drohnenzwischenfall in Nordrhein-Westfalen löst Aufsehen aus. Der Kreml äußert sich erstmals zur Sprengstoffdrohne ...
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: drone kritisk infrastruktur PET
+--- BING NEWS ---
+* Mette Frederiksen om droner: Alvorligt anslag mod kritisk infrastruktur
+  DATE: Tue, 23 Sep 2025 02:01:00 GMT
+  URL: https://www.bt.dk/politik/mette-frederiksen-om-droner-alvorligt-anslag-mod-kritisk-infrastruktur
+  DESC: Det er fortsat usikkert, hvem der står bag droneflyvningen over Københavns Lufthavn, siger statsministeren. Statsminister Mette Frederiksen (S) ser med stor alvor på droneflyvningen over Københavns ...
+* Droner rykker ind i kritisk infrastruktur, men branchen advarer om dansk efterslæb
+  DATE: Sun, 14 Jun 2026 02:03:00 GMT
+  URL: https://borsen.dk/nyheder/virksomheder/droner-rykker-ind-i-kritisk-infrastruktur-men-branchen-advarer-om-dansk-efterslaeb
+  DESC: Danske virksomheder bruger i stigende grad droner til at inspicere broer, energianlæg og fjernvarmenet. Men lange godkendelsesprocesser og regulering risikerer at bremse udviklingen, advarer branchen ...
+* Droner over lufthavnen udstiller behov for ny lovgivning
+  DATE: Tue, 23 Sep 2025 22:58:00 GMT
+  URL: https://www.dr.dk/nyheder/indland/ny-dronelov-om-kritisk-infrastruktur-har-vaeret-undervejs-i-flere-aar
+  DESC: Rettelse: Det har tidligere fremgået i både rubrik, underrubrik og brødtekst, at droneloven har været undervejs i to år. Det er ikke korrekt. Arbejdet med droneloven blev sat i gang i foråret 2025.
+* Minister vil give lov til at skyde droner ned: Skal beskytte kritisk infrastruktur i Danmark
+  DATE: Fri, 18 Jul 2025 04:00:00 GMT
+  URL: https://www.computerworld.dk/art/292240/minister-vil-give-lov-til-at-skyde-droner-ned-skal-beskytte-kritisk-infrastruktur-i-danmark
+  DESC: Lufthavne, havne og broforbindelser i Danmark kan snart få lov til at skyde droner ned, hvis de udgør en trussel eller mistænkes for spionage. Fra effektivisering til digital suverænitet. Hvordan ...
+* Minister: Forsvaret kan snart opdage droner over hele Danmark
+  DATE: Wed, 09 Sep 2026 01:56:00 GMT
+  URL: https://politiken.dk/danmark/politik/art10970939/Minister-Forsvaret-kan-snart-opdage-droner-over-hele-Danmark
+  DESC: Myndighederne er »godt på vej« til at have installeret sensorer på al kritisk infrastruktur i Danmark, siger forsvarsministeren. Det skal forhindre en gentagelse af sidste års panik.
+* Forsker: Når først en drone er fløjet ind over en lufthavn, er det for sent at skyde den ned
+  DATE: Tue, 23 Sep 2025 06:02:00 GMT
+  URL: https://politiken.dk/danmark/art10559157/N%C3%A5r-f%C3%B8rst-en-drone-er-fl%C3%B8jet-ind-over-en-lufthavn-er-det-for-sent-at-skyde-den-ned
+  DESC: En bedre beskyttelse mod droner kræver først og fremmest, at vi får bedre styr på luftrummet og kan opdage dem, inden de når frem til kritisk infrastruktur som en lufthavn, siger droneforsker. Når ...
+* Regeringens plan om nedskydning af droner rejser store spørgsmål: Hvem må hvad, og hvem skal betale?
+  DATE: Thu, 25 Sep 2025 19:04:00 GMT
+  URL: https://www.altinget.dk/artikel/ministers-krav-om-dronesikring-af-kritisk-infrastruktur-rejser-spoergsmaal-hvem-maa-hvad-og-hvem-skal-betale
+  DESC: To rapporter om spiralsagen, der offentliggøres fredag, vil vise, om der er hold i anklagerne om dansk folkedrab i Grønland. De vil ikke bare være definerende for forholdet mellem Grønland og Danmark, ...
+* Ekspert: Forslag om at nedskyde droner vil ikke batte meget
+  DATE: Fri, 18 Jul 2025 08:00:00 GMT
+  URL: https://www.dr.dk/nyheder/indland/ekspert-forslag-om-nedskyde-droner-vil-ikke-batte-meget
+  DESC: Hvis ondskabsfulde fjender virkelig vil ramme Danmark, så hjælper et nyt lovforslag om droner ikke meget. Sådan siger Martin Schousboe, administrerende direktør i dronefirmaet Sky-Watch i Støvring.
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================
+########## QUERY: drone militærleir Norge
+--- BING NEWS ---
+(no items)
+--- GOOGLE NEWS ---
+google error: no element found: line 1, column 0
+==============================

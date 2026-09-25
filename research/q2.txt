@@ -1,0 +1,11 @@
+en-US|en|drone incursion offshore wind farm North Sea
+en-US|en|drone LNG terminal incursion Europe
+en-US|en|drone power substation attack Europe
+en-US|en|drone over military base Germany 2025 investigation
+en-US|en|drone incursions US military bases Europe
+en-US|en|drone water treatment plant incursion
+en-US|en|drone telecom infrastructure sabotage Europe
+de-DE|de|Drohne Atomkraftwerk
+de-DE|de|Drohnen Militärbasis Deutschland Zwischenfall
+da-DK|da|drone kritisk infrastruktur PET
+no-NO|no|drone militærleir Norge

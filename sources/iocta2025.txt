@@ -1,0 +1,1134 @@
+IOCTA 2025   STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+                    1
+IOCTA 2025                                       STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+    Steal, deal and repeat - How cybercriminals trade and exploit your data
+    Internet Organised Crime Threat Assessment (IOCTA) 2025
+
+    PDF WEB
+
+     ISBN 978-92-9414-027-2     ISSN 2363-1627         doi: 10.2813/4926508         QL-01-25-009-EN-N
+
+
+    Neither the European Union Agency for Law Enforcement Cooperation (Europol) nor any
+    person acting on behalf of the agency is responsible for the use that might be made of the
+    following information.
+
+    Luxembourg: Publications Office of the European Union, 2025
+
+    © European Union Agency for Law Enforcement Cooperation, 2025
+
+    Reproduction is authorised provided the source is acknowledged.
+
+    For any use or reproduction of photos or other material that is not under the copyright of
+    Europol, permission must be sought directly from the copyright holders.
+
+    While best efforts have been made to trace and acknowledge all copyright holders, Europol
+    would like to apologise should there have been any errors or omissions. Please do contact us
+    if you possess any further information relating to the images published or their rights holder.
+
+    Cite this publication: Europol, Steal, deal and repeat - How cybercriminals trade and exploit
+    your data – Internet Organised Crime Threat Assessment, Publications Office of the European
+    Union, Luxembourg, 2025.
+
+    This publication and more information on Europol are available on the internet.
+    www.europol.europa.eu
+
+
+
+
+                                                        2
+IOCTA 2025                                     STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Contents
+Key findings	                                  4         5. Where are data and access
+                                                          commodified?	                                        19
+
+Introduction 	                                 6         5.1 Fraud-related data
+
+                                                          5.2 Initial access (Access brokers)
+Methodology	                                   7         5.3 Breached data (data brokers)
+
+                                                          5.4 Culture
+1. Data: What are criminals
+going after? 	                                 8
+                                                          Discussion	                                          23
+2. How is data exploited?	 10
+                                                          Open society
+
+2.1 Data as a target                                      Access to data
+
+2.2 Data as a means                                       Abuse of AI
+
+2.3 Data as a commodity                                   Dispersion of intelligence, crime
+                                                          and punishment
+
+                                                          Conclusions
+3. How are data and access
+acquired?	                                    12
+                                                          Endnotes	                                            25
+3.1 Exploiting human vulnerabilities: social
+engineering techniques
+
+3.2 Exploiting system vulnerabilities
+
+
+
+4. Who are the criminal actors? 16
+
+
+
+
+                                                      3
+IOCTA 2025                                     STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Key findings
+  ► Data theft is a significant threat.                    ► A thriving part of the criminal ecosystem
+    Compromised data is being highly valuable                revolves around selling access to
+    to a wide range of criminal actors who                   compromised systems and accounts. Initial
+    exploit it as a commodity in its own right,              Access Brokers (IABs) are increasingly
+    but also as a target to be acquired for other            advertising these services, along with
+    purposes, including the perpetration of                  related commodities, on specialised
+    further criminal activities.                             criminal platforms used by a wide range of
+                                                             cybercriminals.
+
+  ► Cybercriminals use a variety of techniques
+    to access and steal personal data,                     ► Data brokers are spreading their activities
+    exploiting both system vulnerabilities and               across multiple platforms in order to
+    human oversight. These techniques are                    diversify their operations and increase
+    employed by various criminal actors who                  their resilience against law enforcement
+    often combine them at the different stages               operations. End-to-end encrypted (E2EE)
+    of the criminal process. Social engineering              communication apps are increasingly
+    stands out as a particularly prevalent                   being used to negotiate and conduct sales
+    technique.                                               transactions involving breached data, as
+                                                             well as to share the personal information of
+                                                             targeted victims, including children.
+  ► The wider adoption of Large Language
+    Models (LLMs) and other forms of
+    generative artificial intelligence are
+    improving the efficacy of social engineering
+    techniques by tailoring communication
+    with the victims and automating criminal
+    processes.
+
+
+
+
+                                                      4
+IOCTA 2025   STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+                    5
+ IOCTA 2025
+IOCTA  2025                                                          STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Introduction
+Serious and organised crime is evolving at an unprecedented pace as it adapts to a world in flux with
+alarming speed and agility. As crime becomes more sophisticated, it is progressively destabilising our
+society, with illicit activities increasingly being nurtured online. Artificial Intelligence (AI) and other cutting-
+edge technologies are accelerating the dark side of the digital revolution, with cybercriminals exploiting
+them to increase the scale and efficiency of their operations1.
+
+The online domain has become an integral and ubiquitous part of daily life. Today, a wide variety of criminal
+activities take place primarily or entirely online, with digital infrastructure and the data it holds becoming
+prime targets for criminals.
+
+Data has become a key commodity, serving both as a target and a key enabler in the cybercrime threat
+landscape2. Its value lies in its ability to facilitate a wide range of criminal activities, including cyber-attacks,
+online fraud schemes, sexual exploitation of children online, and extortion. Consequently, demand for data
+is skyrocketing and its illicit trade is expected to become even more widespread in underground economies,
+contributing to the destabilisation of legitimate economies and the erosion of trust in governance
+structures. The theft and compromise of personal data can have severe consequences, undermining the
+functioning of society and having a serious impact on those affected.
+
+The illicit data ecosystem can also be exploited by Advanced Persistent Threat (APT)A and other types of
+hybrid threat actorsB who can collaborate with criminal networks and leverage their resources to further
+their agendas. By infiltrating secure systems, they can steal data of strategic importance for governments
+or businesses and provide hybrid threat actors with invaluable information that can then be used for
+espionage, economic advantage or even coercion3. Furthermore, hybrid threat actors may exploit stolen
+data and access services to launch cyber-attacks against governments and critical infrastructure, resulting
+in widespread disruption and instability C.
+
+The emerging use of (AI) in criminal business models has added a new layer of complexity to the threat
+landscape. Cybercriminals may use AI for attack automation, social engineering and bypassing security
+measures, enabling more scalable and complex attacks. AI-driven techniques may facilitate data
+acquisition, while the data itself can also be weaponised in AI-enabled attacks — for instance, to generate
+deepfakes, synthetic media and false identities.
+
+In light of these findings, and given the identification of trade in stolen data as a key threat — particularly
+in relation to the crime-as-a-service (CaaS) market — this edition of the IOCTA takes a deep-dive into
+unauthorised access, data brokers, and data markets. The report provides a comprehensive analysis of how
+cybercriminals trade and exploit illegal access to data and how they commodify these goods and services,
+while also examining the complex criminal ecosystem that surrounds them.
+
+
+
+
+A   Advanced persistent threat (APT) groups are threat actors often sponsored and/or operated by nation states.
+    APT actors are well-resourced and engage in sophisticated malicious cyber activity, which objectives could include espionage, data theft, network/
+    system disruption or destruction.
+B   Hybrid threat actors can be state or non-state actors seeking to undermine a target, such as a state or institution, through a (combination of) a
+    variety of means to fulfil their strategic objectives. [Hybrid CoE, Hybrid threats as a concept, accessible at https://www.hybridcoe.fi/hybrid-threats-as-
+    a-phenomenon/]
+C   Considering Europol’s current mandate, this report will focus on exploring the exploitation of data and access from a (cyber)criminal perspective.
+
+
+
+                                                                             66
+IOCTA 2025                                      STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Methodology
+Data for this year’s IOCTA has been collected from a variety of sources. These include an analysis of cases
+supported by the Europol European Cyber Crime Centre (EC3), interviews with Europol operational team
+experts, and input from members of Europol EC3 Advisory Groups4.
+
+The report is also informed by other Europol intelligence analysis products, in particular the EU Serious and
+Organised Crime Threat Assessment (EU-SOCTA) 2025. Where relevant, open-source information has been
+used as a complementary data source.
+
+Europol experts and Advisory Groups have provided specialised insights into the different types of data
+commodities, how they are acquired and exploited, profiles of initial access and data brokers, and the
+functioning of criminal platforms dedicated to data trade. However, as many of these transactions take
+place in closed communication channels, it should be noted that this report only covers the parts of the
+ecosystem that are visible to EC3.
+
+
+
+
+                                                       7
+ IOCTA 2025   STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Data:
+What are
+criminals
+going after?
+
+
+
+
+                     8
+IOCTA 2025                                                            STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Data is the central commodity of the cybercrime                                    Access credentials to personal accounts are also
+economy — sought after, stolen, bought and                                         valuable assets because they provide direct access
+exploited by a wide range of offenders5. It is relevant                            to mailboxes, social media accounts, online shops,
+to a variety of criminal processes and belongs to                                  financial services and public administration
+individuals and private and public entities alike.                                 information systems where additional sensitive
+                                                                                   information is stored. A wide range of valuable
+The rapid digitalisation of everyday life, including                               personal information is also shared openly by
+retail, public services, financial services, social                                individuals, especially on social media platforms.
+interactions, and communication, has resulted in an                                This can lead to a person being identified
+ever-growing volume of information being held in                                   and relevant links to their private life being
+digital systems and openly online. This information                                found, including contacts, location, family and
+is vulnerable to exploitation. In addition, the                                    work relations.
+increased complexity of most digital infrastructure,
+combined with the speed of transition and                                          Access to a victim’s account or system is the critical
+insufficient digital literacy among users, leaves                                  part of most cybercrime kill chains, as it can be
+more systems vulnerable to cyber-attacks                                           used to compromise the wider network (lateral
+targeting this data6.                                                              movement), distribute malware, steal sensitive
+                                                                                   information, impersonate the victim and/or use
+Data, in the broad sense, refers to any type of                                    the account to distribute malicious content from
+information, from access credentials to remote                                     a trusted source7. These breaches usually lead
+services, accounts and personal informationD.                                      to further data in the victim’s account, device or
+Access credentials to remote services and interfaces,                              system being compromised, effectively creating a
+such as Remote Desktop Protocols (RDPs), Virtual                                   vicious cycle that fuels cybercrime.
+Private Networks (VPNs) and cloud environments,
+can give criminals access to networks.
+
+
+
+
+D    Personal data, also known as personal identifiable information (PII), is any information that relates to an identified or identifiable living individual
+    (data subject). Different pieces of information, which together can lead to the identification of a particular person, may also be considered
+    personal data. [Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard
+    to the processing of personal data and on the free movement of such data, accessible at: https://eur-lex.europa.eu/legal-content/EN/TXT/
+    HTML/?uri=CELEX:32016R0679&from=EN#d1e1489-1-1].
+
+
+
+                                                                               9
+    IOCTA 2025                              STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+How is data
+exploited?
+
+
+
+
+All this data is interconnected and, in many
+cases, co-dependent, strongly linked to
+access to systems and to more data. This
+makes it valuable to criminal actors who
+are aware of these co-dependencies and
+exploit it as a final commodity, a target to be
+acquired for other purposes and a means
+to perpetrate further criminal activities.
+Depending on the intended criminal activity,
+different types of data are exploited through
+a variety of specific techniques.
+
+                                                  10
+IOCTA 2025                                       STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+2.1 Data as a target                                          Both fraud and CSE perpetrators collect personal
+                                                              information to tailor their communication with
+Most cyber-attacks have data as their main target,            the victims and use it as leverage for sexual and
+as it is highly valuable to its owners. Cybercriminals        financial extortion. The data includes the victims’
+use different methods to access and acquire said              interests, their personal connections, home and
+data. These methods can serve several criminal                school addresses, as well as information about
+processes in which information can be used as a               their close relatives and friends. Collecting this
+leverage for monetary demands, either by taking it            information can also be used for doxxing — the
+hostage, encrypting it or by threatening to release           act of publicly exposing and shaming victims by
+it (ransomware). Cybercriminals can use access                publishing their private information online. This
+credentials for email, social media and financial             can also lead to other offenders targeting the same
+services for various cyber-attacks, online fraud              victim, and to cyber-bullying and re-victimisation
+schemes and to steal funds, as well as to gain                of children.
+unauthorised access to digital assets and sensitive
+information8.                                                 Identity theft remains a major concern. Criminals
+                                                              use stolen personal data to create fake identities,
+Other actors, driven by commercial or geopolitical            apply for subsidies, loans or credit cards and
+interests, may target information for espionage               commit other types of financial fraud. For example,
+purposes. This data often belongs to businesses and           in Business Email Compromise (BEC) attacks,
+public entities and its loss can disrupt services and         criminals impersonate company executives or
+cause monetary loss and reputational damage. This             employees to trick others into transferring funds or
+type of data often includes sensitive information             revealing sensitive information.
+about clients, users and other third parties.
+                                                              2.3 Data as a commodity
+2.2 Data as a means
+                                                              Information is stolen and converted into a
+Personal data is particularly valuable to the                 commodity to be further exploited by other
+perpetrators of crimes such as fraud and child                criminal actors in their operations. It is then
+sexual exploitation (CSE) as preparatory means of             marketed on various criminal platforms, including
+achieving their criminal goals. Criminals involved in         specialised marketplaces, underground forums,
+online fraud schemes use various types of personal            and dedicated channels within end-to-end
+information to profile their targets, increasing the          encrypted (E2EE) communication apps. Listings
+success of their fraud, or to gain unauthorised               and offers vary according to the type of data and
+access to victim’s accounts. This includes details            the intended buyer. They include sensitive data,
+such as an individual’s age, interests and location.          business information, credit card details and web
+These enable criminals to create more credible                service access credentials. This data can be used
+and manipulative fraud narratives around their                for credential stuffing — the use by criminals of
+victims. It also includes email addresses, dates of           automated tools to try stolen login credentials on
+birth, phone numbers and credit card data. When               multiple websites and applications.
+combined, these details can be used to access the
+targets’ monetary funds.
+
+
+
+
+                                                         11
+   IOCTA 2025                             STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+How are
+data and
+access
+acquired?
+
+
+
+
+Cybercriminals use a variety of techniques
+to access personal data that exploit either
+system vulnerabilities or human oversight.
+These techniques cater to different criminal
+actors who often combine them at the
+different stages of the criminal process.
+
+
+
+
+                                                12
+IOCTA 2025                                                          STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+3.1 Exploiting human
+vulnerabilities: social engineering                                                  TAKEDOWN OF INFOSTEALER
+techniques                                                                           INFRASTRUCTURE
+
+Social engineering, which exploits human error to                                    In 2025, Europol partnered up with
+gain access to systems or personal information,                                      Microsoft and supported the second part
+stands out as a prominent technique used by                                          of the international law enforcement
+                                                                                     operation Endgame, targeting the complex
+criminal actors in this context. Initial Access
+                                                                                     ecosystem that allowed criminals to exploit
+Brokers (IABs) have been increasingly focused on
+                                                                                     stolen information on a massive scale.
+using such techniques for the acquisition of valid                                   Lumma, the world’s largest infostealer,
+account credentials as an entry point to the victims’                                was a sophisticated tool that enabled
+systems. This initial access can then be leveraged in                                cybercriminals to collect sensitive data
+a multitude of ways by criminal actors. For example,                                 from compromised devices on a massive
+access credentials for remote services are widely                                    scale. Stolen credentials, financial data,
+used by ransomware groups and their affiliates to                                    and personal information were harvested
+compromise corporate networks, which can lead                                        and sold through a dedicated marketplace,
+to data theft (exfiltration) and the deployment                                      making Lumma a central tool for identity
+of ransomware9.                                                                      theft and fraud worldwide.
+
+Valid account credentials can be obtained using                                      The Lumma marketplace operated as a
+several phishing techniques. The most well-known                                     hub for buying and selling the malware,
+                                                                                     providing criminals with user-friendly
+approaches involve infecting victims with malware
+                                                                                     access to advanced data-stealing
+or tricking them into entering their credentials on
+                                                                                     capabilities. Its widespread use and
+fraudulent websites created using phishing-kits10.                                   accessibility made it a preferred choice for
+These kits are widely available in the CaaS economy                                  cybercriminals looking to exploit personal
+and enable criminals to purchase imitations of                                       and financial data. Microsoft identified
+legitimate websites for the purpose of stealing                                      over 394 000 Windows computers globally
+login credentials.                                                                   infected by the Lumma malware.
+
+Malware commonly deployed for data theft includes
+infostealers, a category of malware specifically
+designed to illicitly extract sensitive information                              Phishing techniques are the main vector for the
+from compromised devices. Infostealers are used to                               distribution of infostealersF. Criminals use a variety
+both steal login credentials and collect application                             of methods to achieve this, including sending
+tokens and session cookies, which can then be                                    emails, text messages or messages on social media
+used to access to websites and applications as                                   that contain malicious attachments or URLs which
+an authenticated user11. In addition, they collect                               introduce malware into the victim’s system. Malicious
+information about the user’s device, operating                                   websites are also propagated through search engine
+system and settings, as well as browser data. This                               advertising tools and search engine optimisation
+information can then be used to imitate the target’s                             (SEO) poisoning. In the latter case, criminals
+digital fingerprintE. This enables criminals to bypass                           manipulate web search results to lead users to
+some security features during account takeovers,                                 websites containing malware.
+because they can configure the fingerprint of their
+virtual machine to mimic that of the legitimate user.
+
+
+
+
+E   Digital fingerprint is a user-specific set of attributes related to browsing and digital behaviour, which can be used to confirm their identity when
+    logging into their accounts.
+F   Infostealers are malicious software designed to gather information from the infected system.
+
+
+
+                                                                            13
+IOCTA 2025                                                       STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+These websites can masquerade as legitimate sites                             While there are many ways in which criminals can
+for downloading popular software or content,                                  access victims’ systems and data from the outside,
+or they can be compromised sites that display                                 there are also several ways in which threat actors
+content or contain scripts that execute upon visit.                           can do the same from the inside. Insider threats
+Infostealers can also be distributed through malicious                        can be created by either recruiting an employee
+applications and browser extensions that are                                  to exfiltrate information or install backdoors
+available in legitimate app stores12.                                         on corporate networks, purchasing valid login
+                                                                              credentials from current or former staff members or
+In addition, a technique commonly referred to as                              through impersonation.
+ClickFix is becoming increasingly popular among
+cybercriminals. Users may encounter dialogue                                  The latter refers to the creation of fake online
+boxes containing fake error or CAPTCHA messages                               profiles that enable threat actors to apply for
+while browsing the internet. These messages trick                             jobs in companies and leverage their position to
+users into copying, pasting and running malicious                             compromise corporate systems from within16.
+content on their own computer. Pop-ups usually
+display a dialogue box that require the user to                               The efficacy of many of the aforementioned social
+press buttons labelled ‘Fix It’ or ‘I am not a robot’.                        engineering techniques has been improved by
+Once clicked, either a malicious PowerShell script                            the wider adoption of LLMs and other forms of
+is copied into the PowerShell terminal or Windows                             generative artificial intelligence (genAI). Phishing
+Run dialogue box or users receive instructions on                             texts and scripts, generated to incorporate the
+how to manually execute the malware13.                                        language and cultural nuances of the victims’
+                                                                              location, can improve the efficacy of campaigns17.
+Vishing, the use of fraudulent phone calls tricking                           Recent research on the topic indicates that phishing
+victims into providing sensitive information, is                              messages generated by LLMs have a significantly
+enabled by the prevalence of spoofing servicesG,                              higher click-through rate than those likely written
+which allow criminals to impersonate local                                    by humans18. CSE perpetrators use LLMs to tailor
+and reputable entities that suit the needs of                                 their communication, creating highly personalised
+their narrative, increasing the effectiveness                                 and convincing messages and easily impersonating
+of social engineering. The technique is widely                                peers to obtain personal information for further
+used to perpetrate frauds and to gain initial                                 exploitation. This can make it harder for victims to
+access to systems. Vishing, which is becoming                                 recognise the manipulation, as communication may
+increasingly popular, involves the persuasion of                              seem more genuine and tailored to their specific
+victims to download malicious payloads, enter                                 interests and circumstances. The automation of this
+their credentials on phishing websites, or install                            process by LLMs enables CSE offenders to scale up
+legitimate Remote Access Tools (RATs) or Remote                               their online grooming operations, targeting multiple
+Monitoring and Management (RMM) tools on their                                victims in several languages simultaneously and
+devices14. This is a well-known approach used by                              making their exploitation efforts more efficient19.
+fraudsters who impersonate customer support                                   Criminals can also use voice deepfakes to increase
+employees of an IT solution providers to gain access                          the credibility of spear-phishing campaigns used
+to victims’ bank accounts. It appears that IABs                               for BEC and CEO fraud20. As discussed above,
+and ransomware operators are now increasingly                                 genAI can also be exploited to generate fake
+adopting this approach to harvest valid VPN and                               social media profiles using a range of social
+user account credentials15.                                                   engineering applications.
+
+
+
+
+G   A service that allows users to make phone calls with fake or constantly changing phone numbers or send emails appearing them to originate from a
+    reputable source.
+
+
+
+                                                                         14
+IOCTA 2025                                                          STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+3.2 Exploiting system                                                            Brute force attacks can be used for automated
+                                                                                 password guessing to acquire valid account
+vulnerabilities                                                                  credentials. For example, this can be done using
+                                                                                 previously acquired or leaked data sets. It can
+Techniques that exploit vulnerabilities in the
+                                                                                 also be done offline to crack the password hashes
+targeted systems are often used in combination
+                                                                                 captured through MitM attacks. Similarly, criminals
+with, or as an alternative to, social engineering.
+                                                                                 can exploit the publicly available Bank Identification
+IABs continue to keenly monitor and exploit
+                                                                                 Numbers (BINs) on payment cards to generate valid
+vulnerabilities in organisations’ public facing
+                                                                                 card numbers for fraudulent use (BIN attacks)21.
+infrastructure (e.g. web servers, network devices,
+firewalls, VPNs and other cloud infrastructure).                                 Criminals can also forge user credentials for web
+Cybercriminals also continue to target the webpages                              apps and services using session cookies, tokens
+and apps of online retail platforms with digital                                 and other artefacts to authorise user access. Web
+skimmingH attacks in order to steal credit card                                  apps and services often use session cookies as an
+details and/or account login credentials.                                        authentication token once a user has logged in
+                                                                                 to a website. These cookies are often valid for an
+Common Vulnerability Exposures (CVEs) enable a
+                                                                                 extended period of time, even if the web app is not
+range of attack vectors, which allow criminals to
+                                                                                 actively used22.
+gain access to systems and/or collect valid account
+credentials and digital payment data. For example,
+software vulnerabilities can enable remote code
+execution, allowing criminals to run malicious code
+on a device or within a network. They can also carry
+out replay attacksI to retrieve transmitted data.
+Cybercriminals may also position themselves within
+a communication channel between networked
+devices in order to manipulate or intercept
+transmitted data. This process is often referred to as
+Man-in-the-Middle (MitM) attack.
+
+
+
+
+H   A web skimmer is a JavaScript code injected by an attacker onto a website with the specific intent of stealing any kind of sensitive data willingly
+    entered by the user, such as credit card details or passwords.
+I   A replay attack involves the interception of secure network communication that is then fraudulently resent or delayed, maintaining its original
+    characteristics, avoiding detection and making it appear legitimate to the receiver.
+
+
+
+                                                                            15
+ IOCTA 2025   STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Who are
+the criminal
+actors?
+
+
+
+
+                    16
+IOCTA 2025                                                          STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Cybercriminals who specialise in data theft and
+initial access brokering deploy a wide range of
+methods in their operations. They adapt their                                        DISRUPTING THE MALWARE DISTRIBUTION
+criminal processes to the target, making it difficult                                ECOSYSTEM
+to create clear-cut profiles. They target victims
+                                                                                     In 2024, Europol supported two
+and systems en masse and try to capitalise on
+                                                                                     international law enforcement operations,
+exposed technical and human weaknesses. This                                         called Endgame23 and Magnus24, which
+opportunistic approach is also reflected in the broad                                disrupted the malware distribution
+range of tools and techniques they use, which are                                    ecosystem by taking down some of the
+chosen based on suitability and availability.                                        most prominent dropperJ and infostealer
+                                                                                     services widely used by cybercriminals.
+For example, data and login credential brokers                                       The infostealers taken down, RedLine
+use infostealers, which are offered as-a-service                                     and META, targeted millions of victims
+on criminal platforms, to gather information from                                    worldwide, making them one of the largest
+their victims. They also use botnet-based dropper                                    malware platforms globally. The droppers,
+services to orchestrate phishing and malspam                                         which were offered as-a-service, included
+campaigns and malvertising services, as well                                         IcedID, SystemBC, Pikabot, Smokeloader,
+as other techniques, to distribute malware. The                                      Bumblebee and Trickbot, used their
+stolen data, such as infostealer logs and breached                                   network of infected computers (a botnet)
+data dumps, can be sold or further processed                                         to deliver malware (e.g. an infostealer) to
+                                                                                     victims’ systems via malspam campaigns.
+by criminals to extract credentials and other
+                                                                                     Following these large-scale operations,
+information. It is likely that there are criminals who
+                                                                                     cybercriminals have started to diversify
+specialise in extracting and analysing this type of                                  their techniques in order to compensate for
+information and offer their services to those running                                the loss of these popular malware services.
+and using infostealer services.
+
+
+
+
+                           Techniques
+                                                                                                                Marketplaces
+                     Social engineering and
+                                                                                                            Compromised data,
+                       Attacks on Systems
+                                                                Criminal actors                              tools and services
+                                                              IABs & Data Brokers
+
+
+
+
+                                                              Exploitation
+                                                              Online fraud schemes, Cyber-attacks,
+                                                              Child sexual exploitation, Hybrid threats
+
+
+
+
+J   Droppers are programs designed to deliver malicious software to a device. They usually do not have malicious functions themselves and are
+    designed to evade and de-activate the system’s security features (e.g. anti-virus (AV), endpoint detection) before installing malware and other
+    malicious tools (i.e., payloads).
+
+
+
+                                                                            17
+IOCTA 2025                                                         STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+IABs also utilise exploit kits to compromise systems                             The criminal actors who target financial data
+with unpatched known vulnerabilities, and brute                                  and access to payment systems are the main
+force attacks to access misconfigured services.                                  customers of criminal services that offer phishing-
+Stolen valid user credentials, combined with other                               kits and digital skimmers. The URLs of the created
+intrusion techniques enable them to establish                                    fraudulent webpages are disseminated through
+persistence in a compromised system, which they                                  phishing campaigns and web-skimmers inserted
+then sell on cybercriminal platforms.                                            into misconfigured or unpatched websites. These
+                                                                                 techniques are similar to ones used by data and
+Advanced IABs and hybrid threat actors (e.g. APTs)                               access brokers. Stolen account information
+use the methods mentioned above but also more                                    or payment card details are often sold via
+sophisticated techniques that enable them to                                     dedicated online platforms specialising in the
+compromise valuable targets such as digital service                              respective commodities.
+providers (supply-chain attacks), international
+corporations and government entities. This includes                              The final category of actors includes CSE and
+finding and creating zero-day exploitsK, as well as                              certain fraud perpetrators, such as those involved
+carrying out complex, targeted social engineering                                in romance fraud, who do not seek to commodify
+operations. These types of actors usually do not                                 the personal data they gather from their victims but
+advertise their capabilities on public platforms                                 rather exploit it as an essential part of their criminal
+but rather monetise their exploits by collaborating                              processes. Instead of trading in data, they use it
+directly with cybercrime groups (e.g. ransomware                                 directly to access accounts or coerce their victims.
+groups) or hybrid threat actors25. This means that                               However, not all CSE offenders act alone. Doxxing
+valuable assets, like zero-day exploits and access                               channels on E2EE applications have been identified,
+to valuable targets, such as large international                                 demonstrating a collective effort to amplify their
+corporations, IT supply chains and critical                                      coercive power26. In these environments, criminal
+infrastructure, are traded privately, possibly in                                actors cooperate by sharing the personal data they
+exchange for a percentage of the buyer’s earnings.                               have gathered on their targets, magnifying the
+                                                                                 pressure imposed on the victims who are subjected
+                                                                                 to multiple, simultaneous extortion processes.
+
+
+
+
+K   A zero-day is a vulnerability or security hole in a computer system unknown to its owners, developers or anyone capable of mitigating it. Until the
+    vulnerability is patched, threat actors can exploit it via what is called a zero-day exploit.
+
+
+
+                                                                            18
+IOCTA 2025   STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Where are
+data and
+access
+commodified?
+
+
+
+
+                   19
+IOCTA 2025                                                           STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Cybercriminals can purchase the different types of                                 using E2EE channels as an extension of these
+data they exploit, as well as the tools and services                               platforms, where they advertise, sell and purchase
+used to acquire it, through a variety of cybercriminal                             goods and services.
+platforms, predominantly hosted on the dark web.
+
+These commoditiesL include:                                                        5.1 Fraud-related data
+                                                                                   Dark web platforms cater to a broader range of
+    ►     Unanalysed infostealer logs and breached                                 cybercriminals. The commonly traded commodities
+          data dumps (leaked or stolen data), which                                that are most often used to facilitate fraud include
+          may contain personal data, user credentials                              compromised credit card data and account login
+          for various services, browser artefactsM and
+                                                                                   credentials for web services (e.g. streaming, online
+          other sensitive information;
+                                                                                   shopping environments and adult content sites)29.
+    ►     Unanalysed or verified credit card dumps
+          (usually gathered by digital skimming), as                               Automated vending carts (AVCs) are marketplaces
+          well as the bulk sale of verified card details;                          specifically used for the sale of compromised card
+                                                                                   details. These automated websites allow buyers
+    ►     Initial access offers, ranging from credentials
+                                                                                   to search through listings based on various factors
+          for remote services and accounts (e.g. RDP,
+          VPN, firewalls, network devices and cloud                                and purchase items without interacting with a
+          environments) to established backdoor                                    vendor. Data sets are typically advertised using
+          access to corporate systems and networks;                                samples, with the full set becoming available
+                                                                                   upon purchase. CardingO marketplaces also offer
+    ►     Account login credentials for various web                                card-testing services for criminals who have
+          services, including email and social media
+                                                                                   harvested or purchased unverified dumps of credit
+          accounts, online shopping environments and
+          adult content sites;                                                     card information.
+
+    ►     Criminal services, including subscriptions                               Manuals, guidelines and tutorials, as well as
+          to phishing-kits, infostealers, exploit kits,                            individual coaching sessions, are widely available.
+          droppers, spoofing services and malicious                                These are often related to OpSec and explain how to
+          LLMs;                                                                    carry out online fraud schemes. Such products are
+                                                                                   often inexpensive and are sometimes included as an
+    ►     Anti-detection solutions, such as VPNs,
+          bulletproof hosting (BPH), residential                                   add-on with the sale of another product or service30.
+          proxiesN, money laundering services,
+          operational security (OpSec) manuals, etc.27                             Anti-detection solutions such as VPNs, BPH and
+                                                                                   money laundering services, as well as subscription-
+                                                                                   based access to phishing and exploit kits and
+These commodities can be advertised and sold                                       infostealers, are also readily available. BPH
+on platforms such as cybercriminal markets                                         providers are increasingly leveraging networks
+and/or forums. Some marketplaces and forums                                        of residential proxies that function as perpetual
+specialise in particular types of commodities                                      botnets, because they are always active, very
+(e.g. compromised credit card data), while others                                  rarely patched and usually not protected by
+offer information and services relating to various                                 security software. Providers of infostealer CaaS
+cybercrime domains. Larger, more generalised                                       are also expanding the functionalities of their
+forums are increasingly giving way to smaller, more                                malware. For example, they are turning the infected
+specialised channels that cater to specific areas of                               devices into residential proxies as an additional
+cybercrime28. In addition, criminals are increasingly                              monetisation strategy31.
+
+
+L   In this context, commodity refers to any digital asset, resource, or service that can be readily bought, sold, or traded within the cybercriminal
+    ecosystem.
+M   For example, bookmarks, navigation history, downloaded file lists, cache data.
+N   Residential proxies refer to compromised home appliances, network devices (e.g., routers) and other endpoints with residential IPs.
+O   Fraudulent use of verified stolen credit card details, frequently to purchase prepaid cards. Lists of verified card details may also be resold for other
+    criminals to use.
+
+
+
+                                                                              20
+IOCTA 2025                                                          STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+                                                                                 The prices charged depend on the commodities and
+                                                                                 can vary significantly based on the compromised
+    HALTING THE TRADE OF PHISHING-KITS                                           entity’s sector, size, revenue, geographical location,
+                                                                                 access type, level, and persistence, and the
+    In 2024, Europol supported an international
+                                                                                 exclusivity of the offer. High-revenue companies in
+    operation that severely disrupted
+                                                                                 Europe and North America are in high demand.
+    LabHost32, a major platform that offered
+    phishing-kits for sale. Accessible via
+                                                                                 These specialised platforms are popular with lower-
+    the clear net, the marketplace offered
+                                                                                 level affiliates of ransomware groups, who use these
+    customisable phishing kits, hosting
+    infrastructure, interactive functionality for                                commodities as initial access points in their attacks.
+    engaging with victims directly, as well as
+    campaign overview services for a monthly                                     5.3 Breached data (data brokers)
+    subscription fee of around USD 250. Law
+    enforcement authorities uncovered at least                                   Forums dedicated to breached data, such as
+    40 000 phishing domains linked to LabHost,                                   BreachForums36, are used as advertising spaces,
+    which had around 10 000 users worldwide.                                     while the negotiations and transactions between
+                                                                                 the customers and vendors increasingly take
+                                                                                 place on dedicated channels on commercial E2EE
+                                                                                 communication platforms37. The listings do not
+5.2 Initial access (Access brokers)                                              only advertise available commodities but are
+                                                                                 also used to build the seller’s reputation within
+A thriving part of the criminal ecosystem involves
+                                                                                 the ecosystem. Compromising more prominent
+selling access to compromised systems and
+                                                                                 and valuable targets enhances standing in the
+accounts. According to CrowdStrike, IAB activity
+                                                                                 community 38. For this reason, many data brokers
+surged in 2024, with the price of advertised access
+                                                                                 also overstate the classification or value of their
+increasing by almost 50 %33.
+                                                                                 assets whereas in reality their offerings may be fake
+Some platforms, such as the Russian Market34,                                    or related to outdated leaks, which they advertise to
+specialise in selling stolen identities, access                                  attract attention39.
+credentials, web shellsP and financial information.
+                                                                                 Groups specialising in infostealer logs often redirect
+Access credentials, for example, can be sold in bulk,
+                                                                                 to their channels on E2EE apps, which interested
+meaning that their validity and value has not been
+                                                                                 parties can request to join. Approval by a channel
+verified. Validated credentials and other listings
+                                                                                 administrator may be required in order to join, and
+posted by IABs, advertising the systems to which
+                                                                                 invitation links often expire after a certain amount
+they have access, are usually accompanied by the
+                                                                                 of time. Various subscription structures and prices
+details of the compromised entities and sometimes
+                                                                                 may apply, ranging from weekly to annual and from
+auctioned to the highest bidder.
+                                                                                 tens to hundreds of USD. Access to more exclusive
+Data may be sold and purchased several times by                                  products may be conditional upon the party
+different criminal actors, or resold after use. This                             attaining a higher membership status40.
+can result in multiple actors launching attacks
+against the same victim35.
+
+
+
+
+P   A web shell is a script that is used to interact with and maintain access to a system after an initial compromise.
+
+
+
+                                                                            21
+IOCTA 2025                                        STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Data brokers who operate across multiple                      To emphasise their trustworthiness, criminals also
+platforms diversify their operations and increase             seek to establish themselves in moderator positions
+their resilience against law enforcement actions.             or obtain badges to enhance their sense of personal
+If a forum is seized, they do not need to rebuild             achievement and belonging. A good reputation
+their reputation from scratch, but can simply                 is especially important for people in roles related
+continue to advertise their dedicated channels on a           to forum management, as it helps them maintain
+different platform.                                           their customer base across the criminal markets in
+                                                              which they operate. Users with a long-standing and
+                                                              proven reputation are more trusted and preferred as
+5.4 Culture                                                   business partners. If their user base is reputable and
+Criminals gather in forums, seeking to connect                considered more highly skilled, the reputation and
+with like-minded individuals and discuss ways to              prominence of forums themselves will be greater44.
+develop their skills. Criminal networks, based on
+these interactions, also use these environments
+for the recruitment of individuals with specific skill
+sets for their operations. Data brokers and IABs
+use these forums as advertising platforms for their              CYBERCRIME FORUMS DISMANTLED
+products and services.
+                                                                 Up until their recent takedown by
+Participation in criminal marketplaces and forums                international law enforcement45 in January
+is based on trust and an individual’s reputation                 2025, the cybercrime forums Cracked
+within the underground community. Building an                    and Nulled were among the largest in
+                                                                 the world. They were key marketplaces
+online reputation is essential for full engagement,
+                                                                 for stolen data, including personal data,
+including viewing restricted posts and access to all
+                                                                 and cybercrime tools and infrastructure,
+content. In some cases, a deposit may be required                which were offered as-a-service to
+before newcomers can view any listings41. For sellers            individuals with more limited technical
+of products and services, a good reputation and the              skills to carry out cyber-attacks. The two
+implied trust that this engenders will ensure sales.             forums also offered AI-based tools and
+A good reputation is often necessary for buyers to               scripts that could automatically scan
+access valuable listings, such as corporate systems,             for security vulnerabilities and optimise
+as these would become invalid if they fell into the              attacks. Cracked had over four million
+hands of law enforcement42. A solid reputation may               users and listed more than 28 million posts
+also be valuable in case of dispute resolution.                  advertising cybercrime tools and stolen
+                                                                 information, generating approximately
+A good reputation is built on factors such as a long-            USD 4 million in revenue. One product
+term stable presence on forums and marketplaces,                 advertised on Cracked offered users access
+quantity of posts, successful deals, positive                    to ‘billions of leaked websites’, allowing
+                                                                 them to search for stolen login credentials.
+reviews and endorsement by other reputable
+community members43.                                             With more than five million users and over
+                                                                 43 million posts advertising cybercrime
+                                                                 tools and stolen information, Nulled
+                                                                 generated approximately USD 1 million in
+                                                                 revenue per year46.
+
+
+
+
+                                                         22
+IOCTA 2025                                        STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Discussion
+Open society                                                  Abuse of AI
+The digital manifestation of the concept of an                The increasing use of AI models by criminals adds
+‘open society’, characterised by vast amounts of              another layer of complexity. For example, AI can be
+easily accessible personal data fuelled by both               used to commit sophisticated crimes involving the
+voluntary online sharing and pervasive commercial             abuse of biometric data through harvested digital
+data brokering, presents unique paradoxes. While              photos and deepfake technology for impersonation.
+this environment fosters connectivity, its inherent           AI can also be used by employing adversarial
+transparency also creates significant vulnerabilities.        learning to create fake digital fingerprints capable
+                                                              of bypassing security measures such as two-
+It can heighten risks for the most vulnerable,                factor authentication (2FA). These methods
+particularly children, as offenders exploit easily            demonstrate that criminals are actively leveraging
+accessible personal details to identify and groom             the imperfections and capabilities of AI to innovate
+their victims. Data often innocently shared by                attack vectors and evade detection47.
+children or their guardians, such as names,
+locations, images and interests, can be meticulously          At the same time, new tactics such as
+gathered by offenders and used to create profiles,            slopsquatting48 exploit AI code assistant errors to
+groom and ultimately exploit minors. At the same              inject malware into software supply chains. These
+time, the general abundance of available data                 assistants sometimes suggest non-existent software
+dramatically simplifies intelligence gathering for            libraries or packages49. Malicious actors monitor
+criminal and hybrid threat actors who seek to harm            these AI suggestions. Once they have identified a
+the broader population.                                       package that has been ‘hallucinated’ repeatedly,
+                                                              they create a real but malicious package with the
+                                                              same name and upload it to public repositories.
+Access to data                                                If developers trust the AI’s suggestion and use the
+Conversely, criminals are increasingly exploiting             code without verifying the existence of the package,
+E2EE apps to impede investigations. Technically,              their systems may automatically download and
+E2EE blocks service providers from accessing                  install the attacker’s malicious package, resulting in
+communication content, rendering warrants                     a software supply chain attack.
+for lawful access unserviceable within the EU.
+This creates a lack of visibility of, and ability to          Dispersion of intelligence, crime
+investigate, criminal activity.
+                                                              and punishment
+When content is blocked by E2EE, metadata
+                                                              The evolving technological landscape has also
+becomes essential for mapping networks and
+                                                              resulted in intelligence and law enforcement-like
+identifying suspects. However, the current
+                                                              actions dispersing beyond State control. While
+legislative landscape lacks harmonised rules
+                                                              hacktivist data leaks potentially offer intelligence
+and this results in fragmented national policies.
+                                                              on adversaries, they create challenges in terms
+Consequently, crucial metadata, such as subscriber
+                                                              of validation, admissibility, and investigation
+information or IP logs, is often subject to short
+                                                              interference. Online doxxing further complicates
+or inconsistent retention periods. This means
+                                                              matters by bypassing legal due process and
+that it is frequently deleted before complex
+                                                              potentially contaminating evidence.
+investigations, particularly cross-border ones, have
+an opportunity to secure it.
+
+
+
+                                                         23
+IOCTA 2025                                      STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+This forces cybercrime investigators to navigate           Establishing clear and harmonised EU standards
+an increasingly complex environment in which               for the targeted retention and/or expedited access
+diverse criminal and hybrid actors influence the           to essential metadata, operating strictly within the
+information landscape.                                     boundaries defined by CJEU case law (targeting
+                                                           serious crimes and ensuring compliance with the
+                                                           principles of necessity and proportionality), to
+Conclusions                                                provide greater legal certainty and improve the
+Overcoming the complex challenges outlined                 effectiveness of cross-border investigations.
+above requires multifaceted policy considerations
+                                                           Promoting broad digital literacy, critical
+that focus on both societal resilience and enabling
+                                                           verification skills and responsible online sharing
+effective law enforcement within the EU’s robust
+                                                           practices. This should include an emphasis on
+legal framework. Key actions should include:
+                                                           specific guidance for parents, guardians and
+Establishing lawful access by design to E2EE               young people on online risks and effective privacy
+communication channels in cooperation with                 management in order to mitigate vulnerabilities
+service providers and regulators.                          stemming from data openness.
+
+
+
+
+                                                      24
+IOCTA 2025                                                       STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+Endnotes
+1   Europol, 2025, European Union Serious and Organised Crime Threat          12 Europol, 2023, Internet Organised Crime Threat Assessment (IOCTA)
+    Assessment (EU SOCTA) - The changing DNA of serious and organised            2023, Spotlight Report - Cyber-Attacks: The Apex of Crime-as-a-
+    crime, accessible at https://www.europol.europa.eu/publication-              Service, accessible at: https://www.europol.europa.eu/publication-
+    events/main-reports/changing-dna-of-serious-and-organised-crime.             events/main-reports/cyber-attacks-apex-of-crime-service-iocta-2023.
+
+2   Europol, 2025, European Union Serious and Organised Crime Threat          13 ProofPoint, 2024, Security Brief: ClickFix Social Engineering Technique
+    Assessment (EU SOCTA) - The changing DNA of serious and organised            Floods Threat Landscape, accessible at https://www.proofpoint.
+    crime, accessible at https://www.europol.europa.eu/publication-              com/us/blog/threat-insight/security-brief-clickfix-social-engineering-
+    events/main-reports/changing-dna-of-serious-and-organised-crime.             technique-floods-threat-landscape; Group-IB, 2025, ClickFix: The
+                                                                                 Social Engineering Technique Hackers Use to Manipulate Victims,
+3   Europol, 2025, European Union Serious and Organised Crime Threat             accessible at https://www.group-ib.com/blog/clickfix-the-social-
+    Assessment (EU SOCTA) - The changing DNA of serious and organised            engineering-technique-hackers-use-to-manipulate-victims/.
+    crime, accessible at https://www.europol.europa.eu/publication-
+    events/main-reports/changing-dna-of-serious-and-organised-crime.          14 CrowdStrike, 2025, Global Threat Report, accessible at https://www.
+                                                                                 crowdstrike.com/en-us/global-threat-report/.
+4   More information on the Europol EC3 Advisory Groups and their
+    members can be found here: https://www.europol.europa.eu/about-           15 Contribution of the EC3 Advisory Group on Internet Security.
+    europol/european-cybercrime-centre-ec3/ec3-partners.
+                                                                              16 CrowdStrike, 2025, Global Threat Report, accessible at https://www.
+5   Europol, 2023, Internet Organised Crime Threat Assessment (IOCTA)            crowdstrike.com/en-us/global-threat-report/.
+    2023, accessible at https://www.europol.europa.eu/publication-
+    events/main-reports/internet-organised-crime-threat-assessment-           17 TrendMicro, 2025, The Ever-Evolving Threat of the Russian-Speaking
+    iocta-2023.                                                                  Cybercriminal Underground, accessible at https://www.trendmicro.
+                                                                                 com/vinfo/nl/security/news/cybercrime-and-digital-threats/the-ever-
+6   Europol, 2025, European Union Serious and Organised Crime Threat             evolving-threat-of-the-russian-speaking-cybercriminal-underground.
+    Assessment (EU SOCTA) - The changing DNA of serious and organised
+    crime, accessible at https://www.europol.europa.eu/publication-           18 An academic study on phishing email click-through rates revealed
+    events/main-reports/changing-dna-of-serious-and-organised-crime.             that while rates for human-drafted messages are about 12 %, LLM-
+                                                                                 generated messages rates are about 54 %. F. Heiding, S. Lermen, A.
+7   IOCTA 2023, Cyber-Attacks: The Apex of Crime-as-a-Service, Europol           Kao, B. Schneier, A. Vishwanath, 2024, Evaluating Large Language
+    spotlight report, accessible at: https://www.europol.europa.eu/              Models’ Capability to Launch Fully Automated Spear Phishing
+    publication-events/main-reports/cyber-attacks-apex-of-crime-                 Campaigns: Validated on Human Subjects, accessible at: https://www.
+    service-iocta-2023.                                                          researchgate.net/publication/386374220.
+
+8   Europol, 2025, European Union Serious and Organised Crime Threat          19 Europol, 2025, European Union Serious and Organised Crime Threat
+    Assessment (EU SOCTA) - The changing DNA of serious and organised            Assessment (EU SOCTA) - The changing DNA of serious and organised
+    crime, accessible at https://www.europol.europa.eu/publication-              crime, accessible at https://www.europol.europa.eu/publication-
+    events/main-reports/changing-dna-of-serious-and-organised-crime.             events/main-reports/changing-dna-of-serious-and-organised-crime.
+
+9   Europol, 2024, Internet Organised Crime Threat Assessment (IOCTA)         20 Europol, 2023, Internet Organised Crime Threat Assessment (IOCTA)
+    2024, accessible at https://www.europol.europa.eu/publication-               2023, Spotlight Report - Online Fraud Schemes: A Web of Deceit,
+    events/main-reports/internet-organised-crime-threat-assessment-              accessible at https://www.europol.europa.eu/publication-events/
+    iocta-2024 ; Europol, 2025, European Union Serious and Organised             main-reports/spotlight-report-online-fraud-iocta-2023; Europol, 2025,
+    Crime Threat Assessment (EU SOCTA) - The changing DNA of serious             European Union Serious and Organised Crime Threat Assessment
+    and organised crime, accessible at https://www.europol.europa.               (EU SOCTA) - The changing DNA of serious and organised crime,
+    eu/publication-events/main-reports/changing-dna-of-serious-and-              accessible at https://www.europol.europa.eu/publication-events/
+    organised-crime.                                                             main-reports/changing-dna-of-serious-and-organised-crime.
+
+10 Europol, 2024, Internet Organised Crime Threat Assessment (IOCTA)          21 Cybereason, Cracking the Code: How to Identify, Mitigate, and Prevent
+   2024, accessible at https://www.europol.europa.eu/publication-                BIN Attacks, accessible at https://www.cybereason.com/blog/
+   events/main-reports/internet-organised-crime-threat-assessment-               identifying-and-preventing-bin-attacks.
+   iocta-2024 ; Europol, 2025, European Union Serious and Organised
+   Crime Threat Assessment (EU SOCTA) - The changing DNA of serious           22 Mitre, Steal Web Session Cookie, access at https://attack.mitre.org/
+   and organised crime, accessible at https://www.europol.europa.                techniques/T1539/.
+   eu/publication-events/main-reports/changing-dna-of-serious-and-
+   organised-crime.                                                           23 Europol, 2024, Largest ever operation against botnets hits dropper
+                                                                                 malware ecosystem, accessible at https://www.europol.europa.
+11 Europol, 2024, Internet Organised Crime Threat Assessment (IOCTA)             eu/media-press/newsroom/news/largest-ever-operation-against-
+   2024, accessible at https://www.europol.europa.eu/publication-                botnets-hits-dropper-malware-ecosystem.
+   events/main-reports/internet-organised-crime-threat-assessment-
+   iocta-2024.
+
+
+
+                                                                         25
+IOCTA 2025                                                        STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+24 Operation Magnus, https://www.operation-magnus.com/.                         38 Contribution of the EC3 Advisory Group on Internet Security
+
+25 Europol information; Europol, 2023, Internet Organised Crime Threat          39 Europol information.
+   Assessment (IOCTA) 2023, accessible at https://www.europol.europa.
+   eu/publication-events/main-reports/internet-organised-crime-threat-          40 Europol information.
+   assessment-iocta-2023.
+                                                                                41 Flare, 2023, Top 5 Dark Web Marketplaces to Monitor, accessible at
+26 Europol information.                                                            https://flare.io/learn/resources/blog/dark-web-marketplaces/.
+
+27 Europol, 2024, Internet Organised Crime Threat Assessment (IOCTA)            42 TrendMicro, 2025, The Ever-Evolving Threat of the Russian-Speaking
+   2024, accessible at https://www.europol.europa.eu/publication-                  Cybercriminal Underground, accessible at https://www.trendmicro.
+   events/main-reports/internet-organised-crime-threat-assessment-                 com/vinfo/nl/security/news/cybercrime-and-digital-threats/the-ever-
+   iocta-2024.                                                                     evolving-threat-of-the-russian-speaking-cybercriminal-underground.
+
+28 Europol information.                                                         43 TrendMicro, 2025, The Ever-Evolving Threat of the Russian-Speaking
+                                                                                   Cybercriminal Underground, accessible at https://www.trendmicro.
+29 Europol information.                                                            com/vinfo/nl/security/news/cybercrime-and-digital-threats/the-ever-
+                                                                                   evolving-threat-of-the-russian-speaking-cybercriminal-underground.
+30 Europol information.
+                                                                                44 Europol information.
+31 Europol information.
+                                                                                45 Europol, 2025, Law enforcement takes down two largest cybercrime
+32 Europol, 2024, International investigation disrupts phishing-as-a-              forums in the world, accessible at https://www.europol.europa.eu/
+   service platform LabHost, accessible at https://www.europol.europa.             media-press/newsroom/news/law-enforcement-takes-down-two-
+   eu/media-press/newsroom/news/international-investigation-                       largest-cybercrime-forums-in-world.
+   disrupts-phishing-service-platform-labhost.
+                                                                                46 U.S. Department of Justice, 2025, Cracked and Nulled Marketplaces
+33 CrowdStrike, 2025, Global Threat Report, accessible at https://www.             Disrupted in International Cyber Operation, accessible at https://
+   crowdstrike.com/en-us/global-threat-report/.                                    www.justice.gov/opa/pr/cracked-and-nulled-marketplaces-disrupted-
+                                                                                   international-cyber-operation.
+34 Flare, 2023, Top 5 Dark Web Marketplaces to Monitor, accessible at
+   https://flare.io/learn/resources/blog/dark-web-marketplaces/.                47 TrendMicro, 2025, The Ever-Evolving Threat of the Russian-Speaking
+                                                                                   Cybercriminal Underground, accessible at https://www.trendmicro.
+35 Europol, 2025, European Union Serious and Organised Crime Threat                com/vinfo/nl/security/news/cybercrime-and-digital-threats/the-ever-
+   Assessment (EU SOCTA) - The changing DNA of serious and organised               evolving-threat-of-the-russian-speaking-cybercriminal-underground.
+   crime, accessible at https://www.europol.europa.eu/publication-
+   events/main-reports/changing-dna-of-serious-and-organised-crime.             48 Bleeping Computer, 2025, AI-hallucinated code dependencies
+                                                                                   become new supply chain risk, accessible at https://www.
+36 Bleeping Computer, 2024, FBI seize BreachForums hacking forum                   bleepingcomputer.com/news/security/ai-hallucinated-code-
+   used to leak stolen data, accessible at https://www.bleepingcomputer.           dependencies-become-new-supply-chain-risk/.
+   com/news/security/fbi-seize-breachforums-hacking-forum-used-to-
+   leak-stolen-data/.                                                           49 J. Spracklen, et al., 2024, We Have a Package for You! A Comprehensive
+                                                                                   Analysis of Package Hallucinations by Code Generating LLMs,
+37 Europol information.                                                            accessible at https://www.researchgate.net/publication/381484725_
+                                                                                   We_Have_a_Package_for_You_A_Comprehensive_Analysis_of_
+                                                                                   Package_Hallucinations_by_Code_Generating_LLMs.
+
+
+
+
+                                                                           26
+IOCTA 2025                STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+             Your feedback matters.
+
+             By clicking on the following link or scanning the embedded QR code
+             you can fill in a short user survey on the received strategic report.
+
+             Your input will help us further improve our products.
+
+             https://ec.europa.eu/eusurvey/runner/eus_strategic_reports
+
+
+
+
+                                27
+IOCTA 2025                                    STEAL, DEAL AND REPEAT - HOW CYBERCRIMINALS TRADE AND EXPLOIT YOUR DATA
+
+
+
+
+   This publication and more information on Europol are available on the internet.
+
+   www.europol.europa.eu
+
+
+
+
+                                                    28
+

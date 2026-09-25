@@ -1,0 +1,8 @@
+sv-SE|sv|drönare kärnkraftverk
+sv-SE|sv|drönare Forsmark
+sv-SE|sv|drönare Ringhals Oskarshamn
+sv-SE|sv|Säpo drönare kärnkraftverk
+nl-BE|nl|drone kerncentrale Doel
+fr-BE|fr|drone centrale nucléaire Tihange
+nl-NL|nl|drone kerncentrale
+nl-BE|nl|FAI drone kerncentrale

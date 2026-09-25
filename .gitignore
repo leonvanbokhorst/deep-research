@@ -1,0 +1,21 @@
+# ---- Large binaries and raw web downloads (kept locally) ----
+*.pdf
+*.html
+*.htm
+*.xml
+*.url
+*.raw
+*.out
+*.log
+*.zip
+*.png
+*.jpg
+*.jpeg
+
+# ---- Subagent scratch directories (raw scrapes, sitemaps, per-source dumps) ----
+research/*/
+!research/*.md
+
+# ---- Scratch scripts ----
+research/*.py
+research/*.sh

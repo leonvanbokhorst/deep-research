@@ -1,0 +1,81 @@
+Fully Autonomous Drones Reportedly Kill in Ukraine
+Member Login
+Become a Member
+Advertisement
+Essay | The Latest
+Fully Autonomous Drones Reportedly Kill in Ukraine
+By Gerald Mako
+08.17.2026 at 06:00am
+For years, a battlefield test sat in the background of the war in Ukraine. On June 10 it surfaced publicly: a report claims that Ukrainian forces tested drones that, once switched to ‘Terminator mode,’ killed Russian soldiers without any human oversight near Chasiv Yar , a heavily contested town west of Bakhmut . Although the news is fresh, the Terminator label is apt, as the test reportedly took place around mid-2024.
+If confirmed, this would represent the first publicly reported use of fully autonomous lethal systems against human targets in combat, raising a pressing question for Washington about how far the United States should go in delegating lethal decisions to machines. This episode reveals a clear mismatch, illustrating the age-old wisdom that technology moves quickly , while public records and political debate lag behind .
+What Happened
+According to the report, a small swarm of 10 drones cut their communications link, used onboard AI to search for targets, and struck without any human input in the final decision to attack. The novelty is not that drones operated without a constant live human link, which has become fairly common in Ukraine. What makes this particular test notable is that the drones were reportedly given full authority to select, strike, and kill targets without any human oversight.
+The claim originates with Alexander Kokhanovskyy, a Ukrainian defense industry figure and drone developer. Kyiv has not officially confirmed the test and is unlikely to do so. Officially, the country does not field systems capable of autonomously selecting and engaging targets without human involvement. Ukraine participates in United Nations discussions on lethal autonomous weapons systems under the Convention on Certain Conventional Weapons , has supported resolutions emphasizing the role of humans in the use of force, and prohibits the use of AI during the final stage of target interception
+Despite Ukraine’s position, the report remains significant. History shows that even disputed or outright misunderstood claims can shape doctrine, procurement, and diplomacy well before the facts are fully settled. In practice, states may not need bulletproof confirmation before they start adapting to the possibility that fully autonomous systems are already entering combat.
+This is why the report matters: not merely as a claim to verify, but as a signal of where battlefield practice is headed. If accurate, the test goes significantly further than the AI-assisted targeting already in use in Ukraine or in the Iran War. In current U.S. concepts of operation, AI may assist with detection, identification, or prioritization. A human still retains authority over the final decision to engage, consistent with DoD policy requiring appropriate levels of human judgment over the use of force, even when operating at machine speed. By contrast, the ‘Terminator’ test shifts that final decision to the machine itself.
+Operational Significance
+That distinction carries real legal weight. International humanitarian law requires human judgment to assess distinction , proportionality , and precaution in attack, not just a system’s ability to process data fast. Once AI is selecting and attacking targets on its own, the chain of responsibility becomes harder to reconstruct, and harder to defend. Who made the decision, on what basis, and with what understanding of the risks?
+A rise in AI-driven target selection and engagement also raises questions about command responsibility. Commanders remain legally responsible for the actions of the systems they employ. If autonomous systems can select and engage targets without human input, it becomes less clear who is accountable : the engineers who developed the AI, the company that manufactured the system, the commander who deployed it, or the state that authorized its use? Establishing clearer lines of responsibility will prove essential for legal compliance and genuine accountability.
+These questions matter not only legally, but also politically and operationally. Militaries will continue to highlight the advantages of greater autonomy, arguing that it offers greater speed, scale, and survivability. As autonomous systems become more effective, the pressure to use them grows, and so does the difficulty of keeping humans in the decision chain. The central policy challenge is not technical; it is deciding where human control must stay in the targeting process.
+Verification and attribution would also become harder. Because these systems can operate with limited or no data link connectivity, they may leave behind little forensic evidence , such as operator logs or video feeds, after an engagement. This makes it exceedingly difficult to check whether an attack complied with the law of armed conflict , conduct after-action reviews, or determine who was responsible. It also risks making alleged violations harder to verify and easier to deny.
+The Policy Gap
+While allowing AI to take on supporting roles, such as target detection, identification, and navigation, Western programs aim to preserve human control over lethal decisions. U.S. efforts such as the Collaborative Combat Aircraft program emphasize “compliance by design,” embedding legal and operational constraints into systems from the outset, reflecting a deliberate strategic choice: autonomy can be increased in areas like sensing and coordination without surrendering the final decision to use force.
+The Ukrainian test suggests that even if in limited and contested form, this model may already be emerging in practice, underscoring how far diplomacy has fallen behind technology. This does not imply that no effort has been made. For years, states have discussed lethal autonomous weapons systems under the Convention on Certain Conventional Weapons . Despite these talks, the process has yet to produce any binding rules. Though a growing number of states now support negotiations on a new treaty, others argue that existing international humanitarian law is sufficient. Major military powers, chiefly the United States , China , and Russia , tend to resist new binding rules because they want to preserve flexibility and maintain a military edge.
+If even if in limited form fully autonomous lethal systems are already appearing in combat, the strategic picture changes in ways that are hard to walk back. Decision timelines compress dramatically, leaving far less room for human judgment or deliberate de-escalation during a crisis.
+Without more active U.S. involvement, other states could increasingly shape – or even set – the norms governing such weapons. Consequently, Washington may need to engage more actively in rule-shaping both to limit adversary behavior and to keep human control central to the debate, a principle the United States has long supported .
+The United States faces two radically different policy choices: it can accelerate its own autonomy programs and countermeasures or it can lean more heavily on human-machine teaming to preserve human control over lethal force. Each option carries different costs: the first may deliver greater speed and battlefield effectiveness, while the second better preserves alliance interoperability and keeps human control over lethal force.
+Beyond these strategic choices, there is a practical risk that autonomous targeting systems, which can be updated via software and rapidly scaled across units, will move faster than U.S. doctrine or formal rules can adapt. Virtually every aspect related to contemporary military institutions, from policymaking and regulation to procurement and maintenance, was designed with traditional hardware platforms in mind . Institutions define rules for an asset, acquire the asset, and maintain the asset throughout its service life. The possibility that the same asset could receive a software update or new sensor a week later that significantly expands its capabilities was never built into this model. As a result, little has been done – and what has, has often been ineffective – to adapt these institutions to the rapid, iterative evolution of software and AI.
+In high-intensity conflict, U.S. forces could gradually normalize practices that policymakers are still trying to regulate. Indeed, commanders on the ground may soon start to feel that taking humans out of the loop is less a choice and more a practical necessity, rather than something to wait on for formal approval from higher up. For Washington, the danger is not only that adversaries may move first, but that this bottom-up normalization could outpace formal doctrine and rules.
+What Washington Should Do
+First, the DoD should issue clearer operational guidance. DoD Directive 3000.09 , first issued in 2012 and updated in 2023, governs the development and fielding of autonomous weapon systems. The 2023 revision refined definitions, strengthened testing and review requirements, and retained the core requirement that systems allow commanders and operators to exercise appropriate levels of human judgment over the use of force. Although the directive still leaves some ambiguity about what counts as ‘appropriate’ human judgment, especially in electromagnetically contested environments, Washington should issue a doctrinal memorandum that spells out more clearly when humans can be taken out of the loop and when they cannot.
+Second, Washington should work with key NATO and Indo-Pacific allies to develop shared definitions, operational thresholds, and red lines to preserve interoperability without lowering human-control standards for autonomous lethal systems ahead of the Seventh Review Conference of the Convention on Certain Conventional Weapons in November 2026 . Without shared definitions and interoperability standards, highly autonomous U.S. systems could create friction in coalition operations and legal uncertainty during joint missions.
+Third, United States should use the conference to support a practical diplomatic effort. Rather than focusing on a legally binding total ban that adversaries may ignore or circumvent, the United States should push for international standards on testing, evaluation, and accountability for autonomous systems. The goal should be setting a clear and straightforward expectation that while allowing various forms of AI assistance, human judgment remains in the lethal decision chain.
+Conclusion
+In an era of sharp military competition , the first state to normalize fully autonomous lethal strikes will reset expectations for everyone else. Once such a capability proves effective in combat, reversing course becomes extremely difficult, and the pressure on others to adopt similar systems builds quickly, even among states that would rather keep humans in the decision chain.
+This risk is heightened by the mechanics of escalation. When decision timelines shrink to machine speeds, autonomous systems leave precious little room for human judgment or for any deliberate effort to de-escalate during a high-intensity crisis. If one side fields swarms that can engage targets without human approval, others will feel compelled to automate their own defenses, increasing the chance of rapid software-driven escalation, a “ flash crash ” on the battlefield.
+If the report from Ukraine is accurate, the central question has shifted from technical possibility to tactical reality. The key issue is no longer whether autonomous weapons will be used, but whether states can agree on clear, verifiable limits before these systems dictate the tempo of modern war. Washington should act to explicitly define where the boundaries of human control lie, rather than leaving those limits to emerge through the chaos of battlefield practice.
+Tags: AI , AI Ethics , AI in Warfare , Bakhmut , Chasiv Yar , defense , drone warfare , drones , Drones; Drone Warfare; Russia-Ukraine War , Russia-Ukraine War , Ukraine , Unconventional Warfare , warfare
+About The Author
+Gerald Mako
+Gerald Mako is a Research Affiliate at the Cambridge Central Asia Forum at Cambridge University. His research focuses on the military applications of AI, the governance of lethal autonomous weapons, cybersecurity, and great-power competition in Asia. He has advised governments on both AI and cybersecurity.
+View all posts
+Article Discussion:
+vote
+Article Rating
+Subscribe
+Login
+Notify of
+new follow-up comments
+new replies to my comments
+Please login to comment
+0 Comments
+Oldest
+Newest
+Most Voted
+Become a Member To Engage!
+Unlock exclusive members-only ad-free content, members discussion, content, and updates directly from the SWJ Team, for only $10/yr .
+SIGN ME UP → or Learn More
+Become a Member for Exclusive Access!
+Unlock exclusive members-only ad-free content, members discussion, content, and updates directly from the SWJ Team, for only $10/yr .
+SIGN ME UP ￫
+or Learn More
+Sign Up For Updates
+" * " indicates required fields
+Facebook
+This field is for validation purposes and should be left unchanged.
+First Name *
+Email Address *
+Mobile Number
+SIGN ME UP ￫
+Related Content
+Distributed Combat Power: How Ukraine is Redefining Fires, Electronic Warfare, and Air Defense at the Tactical Level
+By Daine van de Wall
+05.21.2026 at 10:29am
+Citizen Sensors: Crowd-Sourcing sUAS Intelligence Using Smartphone Apps – A New Tool for Special Operations
+By Catherine M. Woods
+07.13.2026 at 06:00am
+Beyond the Hype: Why Drones Cannot Replace Artillery
+By Bill Murray
+05.05.2025 at 06:00am
+wpDiscuz
+Insert

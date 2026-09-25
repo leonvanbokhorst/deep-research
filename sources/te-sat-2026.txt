@@ -1,0 +1,2447 @@
+                                                                                        Europol Public Information
+
+
+
+
+EUROPEAN UNION TERRORISM SITUATION AND TREND REPORT 202 6
+
+
+PDF Web | ISBN 978-92-9414-099-9| ISSN 2363-0876| DOI: 10.2813/5264545 | QL-01-26-007-EN-N
+
+Neither the European Union Agency for Law Enforcement Cooperation (Europol)
+nor any person acting on behalf of the agency is responsible for the use that might be made
+of the following information.
+
+Luxembourg: Publications Office of the European Union, 2026
+
+© European Union Agency for Law Enforcement Cooperation, 2026
+
+Reproduction is authorised provided the source is acknowledged.
+
+For any use or reproduction of photos or other material that is not under the copyright of Europol,
+permission must be sought directly from the copyright holders.
+
+While best efforts have been made to trace and acknowledge all copyright holders, Europol
+would like to apologise should there have been any errors or omissions. Please do contact us
+if you possess any further information relating to the images published or their rights holder.
+
+
+Cite this publication: Europol, European Union Terrorism Situation and Trend Report, Publications
+Office of the European Union, Luxembourg, 2026.
+
+This publication and more information on Europol are available on the Internet.
+www.europol.europa.eu
+
+
+
+
+                                                                                                                2
+                                                     Europol Public Information
+
+
+
+
+TABLE OF CONTENTS
+INTRODUCTION                                                                 5
+
+KEY FINDINGS                                                                 6
+
+DEVELOPMENTS                                                                 7
+Ideological diversity driving terrorism and violent extremism                8
+An instrumental online environment                                         10
+Achieving impact through versatile modi operandi                           12
+Ongoing geopolitical dynamics affecting EU internal security               14
+
+TERRORISM IN EUROPE IN 2025: OVERVIEW                                      17
+
+JIHADIST TERRORISM                                                         26
+
+RIGHT-WING TERRORISM AND VIOLENT EXTREMISM                                 31
+
+LEFT-WING AND ANARCHIST TERRORISM
+AND VIOLENT EXTREMISM                                                      35
+
+ETHNO-NATIONALIST AND SEPARATIST TERRORISM
+AND VIOLENT EXTREMISM                                                      40
+
+OUTLOOK                                                                    44
+
+ANNEXES                                                                    47
+
+LIST OF ABBREVIATIONS                                                      57
+
+
+
+
+                                                                             3
+Europol Public Information
+
+
+
+
+                        4
+                                                                                   Europol Public Information
+
+
+
+   INTRODUCTION
+   The European Union Terrorism Situation and Trend Report (EU TE-SAT) 2026 is a situational
+   overview that describes major developments, presents consolidated figures on the terrorism
+   landscape in the EU in 2025, and elaborates on various forms of terrorism motivated by different
+   ideologies1.
+
+   This annual flagship report is based on both qualitative and quantitative information provided by
+   Member States on terrorist attacks and on arrests, convictions and penalties for terrorist
+   offences. Furthermore, Europol’s cooperation partners provided valuable qualitative information
+   that helped contextualise developments outside the EU that may influence the security of the EU
+   and its citizens. Information on convictions and penalties for terrorist offences, as well as on
+   amendments to national counter-terrorism legislation, was provided by Eurojust, the European
+   Union Agency for Criminal Justice Cooperation.
+
+   According to Directive (EU) 2017/541 on combating terrorism2, which Member States had an
+   obligation to transpose into their national legislation by 8 September 2018 3, terrorist offences are
+   “intentional criminal acts” that are listed in the Directive “which, given their nature or context,
+   may seriously damage a country or an international organisation” and are carried out with the
+   aim of “seriously intimidating a population, unduly compelling a government or an international
+   organisation to perform or abstain from performing any act,” or “seriously destabilising or
+   destroying the fundamental political, constitutional, economic or social structures of a country or
+   an international organisation”.
+
+   By providing a harmonised definition of terrorist offences, the Directive establishes an EU-wide
+   benchmark concerning the definitions of offences and related sanctions in the area of counter
+   terrorism. National legislation relating to terrorism may differ among Member States, as the
+   framework established by the Directive sets out minimum rules on the definitions of terrorist
+   offences, offences relating to a terrorist group and offences related to terrorist activities, and
+   sanctions. Consequently, the statistical data and analyses presented in the EU TE-SAT reflect the
+   classification of cases as terrorist offences by Member States under their national legislation.
+
+   While the primary scope of the EU TE-SAT is to present the situational picture on terrorism, the
+   report also includes descriptions of violent extremist incidents 4, acts, activities and developments
+   reported by the Member States5. While the quantitative overview of terrorist attacks, arrests,
+   convictions and penalties does not include instances of violent extremism, the latter are included
+   for contextualisation purposes and to provide a more comprehensive picture of the security
+   threats to the EU.
+
+
+
+1 The EU TE-SAT identifies and elaborates on jihadist, right-wing, left-wing and anarchist, and ethno-nationalist
+
+and separatist terrorism. While the categorisation of different types of terrorism based on ideology becomes
+increasingly complex, it serves the report’s needs to systematically structure and analyse information from
+Member States. This categorisation does not hold any legal or formal value.
+2 Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating
+
+terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision
+2005/671/JHA, https://eur-lex.europa.eu/eli/dir/2017/541/oj/eng.
+3 Not all Member States were obliged to transpose the Directive into their national legislation. Ireland and
+
+Denmark did not, due to respective protocols (Protocols 21 and 22 to the TEU and TFEU).
+4 When the report refers to “extremist,” it specifically means “violent extremist.” The shortened wording is
+
+used to improve readability.
+5 There is no legal definition of violent extremism at EU level.
+
+
+                                                                                                                5
+                                                                    Europol Public Information
+
+
+
+KEY FINDINGS
+ ► In 2025, 45 terrorist attacks were reported by 10 Member States, while 486 suspects
+   were arrested for terrorism-related offences across 21 Member States. Jihadism
+   accounted for 24 of the reported attacks and 347 of the reported arrests.
+
+ ►    The terrorism threat remains high. Established terrorist and violent extremist ideologies
+     (jihadism, right-wing, left-wing and anarchist, and ethno-nationalist terrorism) persisted,
+     while the threat landscape was further complicated by destabilising ideological currents,
+     blurred ideological boundaries, and other forms of violence.
+
+ ► Most terrorist attacks and plots involved lone actors or small, self-initiated cells, using
+   relatively simple attack methods. However, terrorist and violent extremist actors were
+   able to exploit a range of operational opportunities. This further complicated the nature
+   and possible manifestation of the threat.
+
+
+ ► A complex and shifting geopolitical context continued to fuel extremist narratives,
+   thereby acting as drivers of radicalisation and recruitment across ideologies. This
+   contributed to threats directed at specific communities (e.g. Jewish or Muslim) within
+   the EU, while ongoing conflicts also increased uncertainty regarding the movements and
+   intentions of radicalised individuals.
+
+
+ ► The online environment enabled rapid, widespread, and often secure access to a wide
+   range of terrorist and extremist beliefs and actors. This accelerated exposure to terrorist
+   and violent extremist content and facilitated radicalisation processes, but also allowed
+   for enhanced operational coordination.
+
+
+
+
+                                                                                               6
+               Europol Public Information
+
+
+
+DEVELOPMENTS
+
+
+
+
+                                       7
+                                                                            Europol Public Information
+
+
+  Ideological diversity driving terrorism and violent
+  extremism
+  A significant proportion of terrorist attacks and arrests were either claimed by or readily
+  attributed to perpetrators adhering to jihadism. These were followed by other established
+  terrorist ideologies, including right-wing, left-wing and anarchist, and ethno-nationalist terrorism.
+  While individual motivations varied, terrorist offences were generally shaped by coherent and
+  long-standing ideological frameworks.
+
+  However, alongside these established ideologies, other belief systems that explicitly seek to
+  cause destabilisation also contributed to terrorism-related incidents within the EU, while the
+  boundaries between previously distinct terrorist ideologies and other forms of violence became
+  more difficult to discern.
+
+
+
+  Destabilising ideologies
+  Anti-institutional groups contested democratic bodies and the rule of law in several Member
+  States. Often drawing on conspiracy narratives and disinformation, they were driven by a distrust
+  of political and societal elites and influenced by various extremist beliefs, including elements
+  associated with right-wing terrorism and violent extremism. While not all actors in this milieu had
+  terrorist intent, the narratives and echo chambers in which they operated led to further
+  radicalisation and lowered the threshold for violence.
+
+  Hybrid threat actors also continued efforts to instrumentalise proxies to commit terrorist
+  offences. These offences are part of a larger strategic objective of destabilisation that involves
+  persistent, targeted and cumulative disruptions rather than a single, overwhelming attack 6. Not
+  all criminal acts committed within this context are necessarily categorised as terrorism.
+  Additionally, proxies may be unaware of these strategic objectives and can be treated as
+  expendable.
+
+  Nihilistic violent extremism was another increasingly visible development 7. Perpetrators often
+  emerged from decentralised digital communities that glorify online and offline violent activities,
+  but lack clear and coherent ideological objectives. Embedded within a broader criminal
+  ecosystem, some individuals were driven by violence for its own sake or by other criminal goals.
+  Others, however, deliberately sought to promote chaos and accelerate what they viewed as the
+  collapse of the existing social order. Individuals or subgroups in this ecosystem could be
+  vulnerable to exploitation by malicious actors seeking to advance their strategic goals.
+
+
+
+
+6 Europol 2025, EU Serious and Organised Crime Threat Assessment (EU-SOCTA 2025):
+
+https://www.europol.europa.eu/cms/sites/default/files/documents/EU-SOCTA-2025.pdf.
+7 There is no agreed definition of nihilistic violent extremism at EU level.
+
+
+                                                                                                       8
+                                                                                  Europol Public Information
+
+
+
+    The Com network
+
+    The Com network is a decentralised online ecosystem, formed by overlapping digital spaces and
+    groups that promote or engage in deviant or extremely violent behaviour8. While its configuration
+    is fluid and continuously reshaped through fragmentation and reconfiguration, three principal
+    branches can generally be distinguished: Cyber Com, (S)extortion Com, and Offline Com.
+
+    Cyber Com is focused on activities such as Distributed Denial of Service (DDoS) attacks, doxing,
+    swatting and ransomware attacks. (S)extortion Com groups groom and extort mostly underage
+    female victims for so-called “bloodsigns”, “cutsigns” and sexual acts. These acts are recorded and
+    used to further extort the victims to commit increasingly violent or humiliating acts. Offline Com
+    groups are mostly focused on committing attacks in real life, such as arson, stabbings or murders.
+
+    No single ideology dominates this space and members often lack a coherent or clear goal. The
+    pursuit of status and recognition is often a key driver, but a mix of other motivations also shape
+    these actors’ actions, including an attraction to sexual or other forms of violence, nihilism,
+    misanthropy, satanism, misogyny, or elements of jihadist or right-wing terrorism and violent
+    extremism. While the purpose and modi operandi vary, some subgroups and individuals within
+    this ecosystem specifically seek to destabilise societal structures.
+
+    Outside the EU, some subgroups linked to The Com network were designated as terrorist
+    organisations in 20259. Within the EU, several Member States were closely monitoring the
+    phenomenon and have classified some incidents, such as incitement of violent behaviour, as
+    terrorist offences. However, other violent acts linked to this ecosystem may not have been
+    recognised as terrorist offences or did not meet the relevant national legal thresholds, and were
+    instead considered another form of criminality or addressed as public order offences10.
+
+
+
+
+   Blurring boundaries of ideologies
+   Rather than strict adherence to a single ideological doctrine, numerous acts of violence were
+   driven by a heterogenous set of beliefs and influences. The boundaries between different
+   terrorist ideologies and other forms of violence were increasingly blurred. This was particularly
+   visible in the context of jihadist and right-wing terrorism and violent extremism.
+
+   In the area of right-wing terrorism and violent extremism, long-standing narratives such as neo-
+   Nazism, neo-fascism, white supremacism, anti-Semitism and anti-migrant sentiment remained
+   present. However, these narratives were increasingly influenced by accelerationist concepts,
+   nihilistic justifications for violence, and other violent subcultures or tactics (e.g. hooligan and
+   skinhead subcultures, the manosphere or involuntary celibacy, as well as paedo-hunting). Within
+   jihadist spheres, perpetrators also occasionally displayed less ideological depth. They did not
+
+
+
+8 Europol 2025, ‘The rise of online cult communities dedicated to extremely violent child abuse’.
+
+https://www.europol.europa.eu/publications-events/publications/rise-of-online-cult-communities-dedicated-
+to-extremely-violent-child-abuse
+9 The Maniacs Murder Cult and 764 were listed as terrorist organisations by Canada in December 2025. The
+
+Maniacs Murder Cult was listed as terrorist organisation by the UK in June 2025.
+10 Coordinated by Europol, Project Compass brings together law enforcement authorities from 28 Member
+
+States and partner countries to combat activities linked to The Com network. More information available at:
+https://www.europol.europa.eu/how-we-work/operations/project-compass
+                                                                                                              9
+                                                                                 Europol Public Information
+
+   necessarily commit themselves to one organisation or ideology, instead sometimes developing a
+   fixation with violence per se.
+
+   Shared visual iconography, narratives or targets could bridge the gap between these otherwise
+   distinct milieus. Concepts such as “white jihad” exemplified the exchange of ideas between right-
+   wing terrorism and jihadism.
+
+   This coincided with the continued trend of young perpetrators’ involvement in terrorism and
+   violent extremism, as well as the influence of the online domain. Young radicalised individuals
+   often displayed only a superficial understanding of established ideologies, making them
+   susceptible to a fluid mix of unstable, fragmented and ambiguous ideas. Personal grievances or
+   mental health issues could further increase their vulnerability. Additionally, many terrorist
+   incidents had a digital footprint, as the online environment facilitated the rapid and widespread
+   dissemination of terrorist and extremist content, as well as mobilisation among young people
+   and other at-risk individuals.
+
+      Case example
+      On 30 October 2025, in Italy, a 16-year-old was arrested following a prior search that led to
+      the retrieval of knives, axes and drawings of swastikas. Investigators also found evidence
+      identifying him as the administrator of a messaging app channel where he shared anti-Semitic
+      content, among other things, and encouraged violence against Jewish people and foreign
+      nationals. He also expressed support for, and glorified, mass-casualty attacks.
+
+   Terrorist and violent extremist actors have frequently exploited and imitated game-design
+   principles and other gaming features, including competition, rankings, challenges and reward
+   mechanisms. This gamification makes it easier to engage with violent content, contributes to its
+   normalisation, and blurs the distinction between online participation and real-world violence11.
+
+   Ideological diversity and perpetrators with fluid or incoherent worldviews are not new
+   phenomena, but they featured prominently in the EU terrorism and violent extremism landscape
+   in 2025. This increasingly complicated the use of clear-cut labels and made it more challenging to
+   provide an exact account of what terrorism in the EU looks like today. Such growing ambiguity
+   gives rise to legal, analytical and operational challenges for those tasked with understanding,
+   assessing and responding to the phenomenon.
+
+
+
+   An instrumental online environment
+   In our interconnected world, the online domain is an indispensable facet of everyday life12. Its
+   impact on the terrorism and violent extremism landscape within the EU continued to grow, in
+   close relationship with such activities carried out offline.
+
+   The broad reach, rapid connectivity and ease of information exchange provided by the online
+   environment - combined with its operational security features - were instrumental to terrorist
+   and violent extremist actors across ideological spectrums. They leveraged the digital domain to
+   reach wide audiences, recruit and mobilise individuals, and facilitate the coordination of both
+   online and offline activities.
+
+
+11 Europol 2025, ‘Europol and partner countries combat online radicalisation on gaming platforms’,
+
+https://www.europol.europa.eu/media-press/newsroom/news/europol-and-partner-countries-combat-online-
+radicalisation-gaming-platforms.
+12 Europol 2025, EU Serious and Organised Crime Threat Assessment (EU-SOCTA 2025),
+
+https://www.europol.europa.eu/cms/sites/default/files/documents/EU-SOCTA-2025.pdf
+                                                                                                        10
+                                                                                    Europol Public Information
+
+
+   Social media and online services
+   Terrorist and violent extremist content appeared across social media and online platforms of all
+   sizes, from small forums to very large online platforms13. Algorithm-driven content amplifies the
+   reach and visibility of such content, enhancing the ability of terrorist and violent extremist actors
+   to engage with a broad population. Young people and vulnerable individuals are particularly
+   susceptible to such exposure and influence.
+
+   Content varied widely in tone and severity and often included disinformation and hate speech.
+   Borderline content typically served as an easy entry point. Users who demonstrated initial
+   interest could be drawn in and, in some cases, would progress to networks that shared explicit
+   terrorist and violent extremist material. This escalation in tone usually coincided with a move
+   from mainstream platforms to more secure and private ones.
+
+   The style of online propaganda was tailored to specific social media platforms and target
+   audiences, such as young users14. For example, users shared mash-ups on vlogging platforms and
+   memes and GIFs on image-sharing services. In some instances, user-generated content was
+   preferred over official propaganda, as it is harder to detect and remove. Users regularly edited
+   and modified branded propaganda to spread it more widely.
+
+       Case example
+       On 16 November 2025, in Spain, a 31-year-old woman was arrested on suspicion of
+       consuming, editing and disseminating radical and violent material from official jihadist
+       propaganda, incorporating it into her own productions for distribution. She maintained ties
+       with several convicted jihadists and engaged in significant activity on social media aimed at
+       recruiting and indoctrinating individuals for terrorist purposes.
+
+   Audio-based propaganda acted as an additional driver of radicalisation. Compared with videos
+   and images, terrorist and violent extremist content on audio-sharing platforms can be
+   particularly challenging to detect and moderate. Therefore, audio content played a significant
+   role in attracting individuals to terrorist and extremist milieus, shaping perceptions and
+   reinforcing narratives and ideologies15.
+
+   Terrorist and violent extremist actors also continued to exploit gaming and gaming-related
+   platforms, as well as a range of websites, to disseminate terrorist content, cultivate support
+   networks and advance their objectives.
+
+   Beyond propaganda and recruitment purposes, social media and online communication channels
+   were also used across ideologies to encourage, facilitate and prepare terrorist offences, for
+   example through operational coordination or the sharing of tactics and instructional materials.
+
+
+
+
+13 In 2025, EU Member States competent authorities and Europol assessed 81.862 pieces of online content,
+
+regarding ‘terrorism’, that led to the transmission of 61.412 Referrals to a total of 99 Hosting Service Providers
+(HSP). Respectively, regarding ‘racism and xenophobia’, Member States and Europol assessed 7.219 pieces of
+online content that led to the transmission of 7.093 Referrals to a total of 22 HSPs.
+14 Europol 2025, ‘Europol coordinates operation against terrorist content online targeting minors’,
+
+https://www.europol.europa.eu/media-press/newsroom/news/europol-coordinates-operation-against-
+terrorist-content-online-targeting-minors.
+15 Europol 2026, ‘Europol coordinates largest referral action targeting terrorist audio propaganda’,
+
+https://www.europol.europa.eu/media-press/newsroom/news/europol-coordinates-largest-referral-action-
+targeting-terrorist-audio-propaganda.
+                                                                                                                11
+                                                                        Europol Public Information
+
+
+Existing and emerging technologies
+Artificial intelligence (AI) was abused by terrorists and violent extremists in several ways. Online
+users exploited image, audio and video generators to create and edit propaganda, including
+deepfakes, memes and GIFs. Much of the AI-generated material consisted of hate speech and
+‘awful but lawful’ content rather than explicit terrorist content, as most AI tools are trained not
+to create illegal content. To bypass these safeguards, some users relied on jailbreaking or prompt
+engineering techniques. Efforts to circumvent these limitations have been shared and
+documented among users.
+
+AI-powered bots and chatbots were also abused. Bots have a limited set of pre-recorded answers
+to react to users’ prompts, while chatbots, thanks to large language models (LLMs), process
+prompts to provide better contextual answers. They were used to boost recruitment, generate
+and share propaganda and, overall, optimise online engagement and promote violent extremist
+and terrorist ideologies. Additionally, AI-driven applications were used to conduct preliminary
+research to prepare attacks.
+
+Terrorists and violent extremist actors also utilised existing and emerging technologies to varying
+degrees to maintain anonymity, avoid being de-platformed or banned, and secure their
+communications from law enforcement detection. Users themselves shared instruction materials
+on operational and online security.
+
+Specific measures included end-to-end encrypted (E2EE) messaging applications and secure email
+services, virtual private networks (VPN), dark web and related browsers, portable operating
+systems and anonymity-enhancing platforms. Blockchain-based and decentralised online services
+have increasingly been used in recent years. Online users have started favouring social media and
+online services based on these technologies because they allow them to ensure continuity in
+maintaining a stable network and sharing content. Decentralisation makes it impossible to
+remove content as a whole. Thus, users have created backup and dummy channels and aliases
+that automatically respawn if any other instance is deleted.
+
+
+
+Achieving impact through versatile modi operandi
+Terrorism is not always intended to cause large numbers of casualties, but is designed to
+generate fear and produce a wider psychological impact.
+
+In 2025, terrorist and violent extremist actors could choose from a range of operational
+opportunities, driven by their resources and capacity, organisational constellation and the
+objectives they seeked to achieve, to act and generate psychological impact. Different
+operational possibilities not only diversify the ways in which threats can manifest, but also lead
+to strategic threats, including the gradual erosion of social cohesion and trust within society.
+
+
+
+Attack modes
+The terrorist and violent extremist landscape in the EU consisted of a mix of isolated individuals,
+online communities and physical groups and networks. However, most terrorist attacks and plots
+involved lone actors or small, self-initiated cells. They often used simple attack methods, such as
+bladed weapons, firearms, vehicle ramming, or arson, directed against soft targets.
+
+Low-complexity attacks may reflect perpetrators’ limited operational experience or the absence
+of a network that provides resources or ideological and operational guidance. However, the risk
+                                                                                                     12
+                                                                              Europol Public Information
+
+  of sophisticated attacks persists. The growing availability of modern technology continued to
+  lower the barriers to carrying out sophisticated attacks, even by lone actors or small cells.
+  Additionally, some actors may be well-prepared and guided by a clear and coherent ideology, as
+  long-standing hierarchical organisations remained active.
+
+      Case example
+      On 15 April 2025, in Germany, a 29-year-old man was arrested on suspicion of preparing a
+      serious act of violence. Following the Hamas attack on 7 October 2023, he allegedly travelled
+      to Lebanon to undergo training in firearms and combat weapons provided by the local
+      Hezbollah group. This training took place in the first half of 2024.
+
+  The misuse of explosive materials, especially regulated heavy pyrotechnics, as well as the
+  acquisition of military ordnance such as hand grenades, remained a security threat. Attack
+  preparations also continued to rely on accessible resources and materials, including online
+  manuals and publicly available precursors for homemade explosives.
+
+      Case example
+      On 12 September 2025, in Belgium, two young men linked to the so-called Islamic State’s (IS)
+      ideology attempted to manufacture explosives in order to attack a prominent public figure.
+      Their internet searches to learn how to make these explosives led to their detection.
+
+  At the same time, terrorist and violent extremist actors continued to show an interest in
+  innovative attack methods. These included 3D-printed weapons, bladed weapons designed to
+  evade metal detection and drones. Wider access to the required materials and technical
+  guidance is deemed to have lowered the threshold for would-be perpetrators to explore these
+  options16, especially when reinforced by propaganda promoting their use. In 2025, terrorist and
+  violent extremist actors regularly featured unmanned aerial vehicles (UAV) systems in their
+  propaganda.
+
+
+  Other terrorist offences
+  Beyond enabling the execution of terrorist attacks, existing and emerging techniques also
+  influenced other terrorism-related offences. This was particularly visible in the context of
+  terrorist financing, propaganda and recruitment.
+
+  In the area of terrorist financing, both traditional and newer methods were adopted to collect
+  money, including salaries, donations, crowdfunding campaigns, the sale of propaganda material,
+  entry fees to events, theft, the sale of illicit goods and the creation of fraudulent NGOs. Funds
+  came from both legal and illegal sources. Similarly, a wide range of techniques were used to
+  move and store money. Traditional methods included hawala systems and cash couriers, while
+  more recent technologies included cryptocurrencies and value transfers via games. Hawala
+  service providers are known to have added various online services to their offerings.
+
+  Propaganda and recruitment activities also continued to rely on a mix of traditional and newer
+  methods. In-person engagement and the physical dissemination of propaganda remained
+  relevant, including through private prayer spaces, music concerts and training clubs and camps.
+  At the same time, newer technologies, particularly digital tools, accelerated opportunities to
+  produce and distribute content quickly, securely and at a large scale. This sped up short-term
+
+
+
+16 See also: Europol, 2025, ‘The Unmanned Future(s): The impact of robotics and unmanned systems on law
+
+enforcement’, https://www.europol.europa.eu/publication-events/main-reports/unmanned-futures.
+                                                                                                          13
+                                                                                 Europol Public Information
+
+   recruitment and radicalisation, as was illustrated by the growing shift from online activity to real-
+   world violence.
+
+   Structural relationships between criminal networks and terrorist actors did not appear
+   widespread, but there is a notable overlap in modi operandi, and occasional interactions did
+   occur17. Both actors can draw on similar recruitment pools and operational tradecraft,
+   infrastructures and tools. This results in a risk of mutual facilitation, service provision, or the use
+   of crime-as-a-service for terrorism-related offences. At the same time, in 2025, some terrorist
+   actors did at times engage in organised crime activities or cooperate with criminal networks to
+   pursue financial or operational objectives, for example through money laundering, weapons
+   trafficking or drug trafficking.
+
+
+
+   Ongoing geopolitical dynamics affecting EU internal
+   security
+   Developments outside the EU continued to shape the internal terrorism and violent extremism
+   landscape. Ongoing international conflicts and geopolitical developments, notably in the Middle
+   East, contributed to radicalisation processes, often by fuelling extremist narratives. They also
+   generated threats against specific communities (e.g. Jewish or Muslim) or other targets within
+   the EU, while in some cases also raising concerns about potential travel movements and the long-
+   term security threat associated with detained or displaced individuals.
+
+   The Hamas attack on 7 October 2023 and the subsequent developments in the region continued
+   to impact EU internal security in 2025. The conflict was exploited by terrorists and violent
+   extremists across the ideological spectrum, including jihadist, right-wing and left-wing groups. It
+   was leveraged to mobilise support and reinforce respective narratives, often containing anti-
+   Israel, anti-Semitic or anti-Western elements. In some cases, this contributed to terrorist or other
+   violent activities in the EU, including attacks against Jewish targets.
+
+
+
+    The ‘axis of resistance’
+
+    Iran has over time developed a network of proxy groups. Key actors include Hezbollah, Hamas, Ansar
+    Allah, and multiple militias operating in Iraq and other countries. While tensions and confrontation
+    between Israel and Iran-aligned actors predated the Hamas’ terrorist attacks on southern Israel on 7
+    October 2023, those attacks significantly exacerbated the conflict and contributed to a sharp escalation
+    in hostilities between Israel, Iran and its proxies in the region.
+
+    These developments have generated a steady flow of images and reports of death and destruction.
+    Such content has driven - and continues to drive - polarisation in the EU, with anti-Semitism being a
+    unifying narrative among diverse terrorist and violent extremist actors. In 2025, this resulted in cases of
+    radicalised individuals targeting Jewish interests, and the arrests of individuals based in the EU
+    intending to join one of Iran’s proxy groups.
+
+    In parallel, growing pressure on Iran and its proxy network may lead to increased direct threats in the
+
+
+
+
+17 See also: Europol 2026, ‘Decoding the EU’s most threatening criminal networks: Issue 2 – The blueprint of
+
+criminal opportunism’, https://www.europol.europa.eu/publication-events/main-reports/blueprint-of-
+criminal-opportunism.
+                                                                                                               14
+                                                                                  Europol Public Information
+
+    EU. Whereas in the past, including in 2025, these groups mainly used the EU for fundraising and
+    logistical support, some may increasingly consider attacks on Jewish, Israeli or other targets in the EU18.
+
+              Case example
+              In September 2025 in Austria, a weapons cache was discovered that contained five counterfeit
+              pistols and 10 magazines. A 39-year-old with close ties to the Hamas leadership was linked to
+              the cache and presumably planned to carry out attacks. On 1 October 2025 in Germany, three
+              suspected Hamas members were arrested on suspicion of procuring firearms and ammunition
+              in Germany, allegedly intended for attacks on Israeli or Jewish institutions, though no specific
+              targets were identified19.
+
+    Direct security risks in the EU linked to developments in the region persisted in 2026, with indications
+    that Iranian actors and its proxies, including through criminal networks, were involved in a series of
+    incidents across several Member States20.
+
+
+
+   Jihadist terrorist organisations retained their intent to increase their presence and capabilities in
+   Syria, seeking to exploit the economic, political, and security challenges faced in the region. The
+   persistence of radical narratives; some travel movements by individuals with jihadist motivations
+   from the EU to Syria; the situation of jihadists who had previously travelled to the region; and the
+   presence of incarcerated foreign terrorist fighters (FTFs), women and children, all remained
+   significant concerns for multiple Member States in 2025. Additionally, there were ongoing fears
+   regarding the potential infiltration of individuals to the EU intent on carrying out violent acts.
+
+   In Africa in 2025, affiliates of IS and Al-Qaeda (AQ) expanded their geographical reach and
+   operational capabilities. For example, Jama’at Nusrat al-Islam wa al Muslimin (JNIM) remained
+   significant in Burkina Faso, Mali and Niger, but also expanded southwards. In the Sahel, the
+   Islamic State Sahel Province (ISSP) grew considerably, expanding territorial control and increasing
+   its headcount. At the same time, the Islamic State West Africa Province (ISWAP) remained highly
+   active in the Lake Chad Basin. As parts of the region remained a hotspot for terrorist and violent
+   extremist groups, there remained key concerns about its attraction for FTFs and the possibility of
+   external operations against the EU.
+
+   Multiple Member States also assessed that jihadist groups in central and eastern Asia,
+   particularly the Islamic State Khorasan Province (ISKP), remained resilient and continued to pose
+   potential security threats, both in the region and externally.
+
+
+
+
+18 See also, e.g.: Swedish Security Service, ‘Situation assessment 2025-2026’,
+
+https://sakerhetspolisen.se/download/18.6d8b207419df2497fd955/1778075300407/SP_La%CC%88gesbild%2
+0ENG_Anpassad.pdf ; Dutch General Intelligence and Security service, ‘Threat Assessment of State Actors
+2025’, https://english.aivd.nl/documents/2025/09/26/threat-assessment-of-state-actors-2025;
+19 On 25 March 2026, the First Criminal Division of the Berlin Higher Regional Court sentenced four men to
+
+prison sentences for membership in a terrorist organisation, Hamas. Although no concrete plans for attacks on
+European soil were established during trial, the court found that Hamas carries out operational activities in
+Europe to prepare for possible future attacks on Israeli or Jewish institutions. See:
+https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-
+gerichtsbarkeit/2026/pressemitteilung.1656226.php.
+20 Iran’s Islamic Revolutionary Guard Corps (IRGC) was formally designated a terrorist organisation by the EU on
+
+19 February 2026, under Council Decision (CFSP) 2026/421. Between 13 February 2026 and 28 April 2026,
+Europol coordinated an action against terrorist content online linked to the IRGC. See:
+https://www.europol.europa.eu/media-press/newsroom/news/eu-targets-iran-revolutionary-guard-
+propaganda-ecosystem-in-online-crackdown
+                                                                                                             15
+                                                                         Europol Public Information
+
+Russia’s ongoing war of aggression against Ukraine continued to feature in terrorist and violent
+extremist narratives, particularly within right-wing circles, though it was assessed as being less
+prominent than in previous years. The conflict remained a point of ideological divergence, with
+some actors portraying Russia positively as an anti-Western power, while others adopted pro-
+Ukraine positions. In 2025, concerns persisted that the war could facilitate extremist skill
+acquisition, illicit weapons trafficking, the exploitation of migratory flows, and further societal
+divisions within the EU.
+
+
+
+
+                                                                                                      16
+                    Europol Public Information
+
+
+
+TERRORISM IN EUROPE IN 2025:
+OVERVIEW
+
+
+
+
+                                           17
+                                                                       Europol Public Information
+
+
+
+
+In 2025, 45 terrorist attacks (completed, failed and foiled) were reported by 10 Member States,
+of which 22 were completed, 20 were foiled, and 3 failed. The 22 completed attacks overall
+resulted in 6 fatalities. This marks a decline from 2024, when 58 attacks were recorded in 14
+Member States. These included 34 completed attacks, which resulted in 5 fatalities in 2024.
+
+However, the number of arrests continued to rise, with 486 suspects arrested for terrorism-
+related offences across 21 Member States in 2025 (compared to 449 in 2024 and 426 in 2023).
+These figures do not account for the larger number of ongoing investigations.
+
+This may reflect the effectiveness of law enforcement efforts, but simultaneously indicates that
+the terrorism threat in the EU cannot be assessed solely on the basis of the number of attacks
+and arrests, casualty figures or geographical breakdown.
+
+
+
+
+                                                                                                   18
+                                                                        Europol Public Information
+
+
+Attacks
+
+
+
+
+Jihadist terrorism accounted for the largest share of attacks in 2025 (24), representing about half
+of all incidents. The same number was recorded in 2024, but more attacks were completed (nine,
+compared to six in 2024). The completed attacks occurred in Germany (4), France (2), Austria (1),
+Ireland (1) and Spain (1), while 15 were foiled in France (8), Austria (6) and Belgium (1). Jihadist
+attacks were the deadliest form of terrorism in 2025, causing five fatalities and injuring 81
+people.
+
+Five attacks were labelled right-wing terrorism. One of these five attacks was completed, in
+France. Four attacks were foiled, in France (3) and Ireland (1). The one completed attack
+classified as terrorism resulted in one fatality.
+
+Left-wing and anarchist terrorism accounted for 12 attacks. 11 completed attacks were carried
+out in Italy (10) and Greece (1). One failed attack occurred in Italy. As in previous years, no
+victims were reported, as the targets were primarily buildings or vehicles.
+
+No verified terrorist attacks were reported as attributed to ethno-nationalist and separatist
+terrorism within the EU in 2025.
+
+Other and not specified forms of terrorism accounted for four attacks. This included one
+completed attack in the Netherlands, two failed attacks in Malta (1) and Greece (1), and one
+foiled attack in Belgium. Six victims sustained injuries due to reported stabbings.
+
+
+
+
+                                                                                                  19
+                                                                                       Europol Public Information
+
+
+   Terrorist attacks per type of terrorism per Member State, as reported to
+   Europol by EU Member States in 2025
+                               Jihadist   Right-wing     Left-wing and            Ethno-    Other/not            Total
+                                                              anarchist   nationalist and    specified
+                                                                               separatist
+          Austria                    7              -                 -                 -             -                7
+         Belgium                     1              -                 -                 -            1                 2
+          France                    10             4                  -                 -             -            14
+        Germany                      4              -                 -                 -             -                4
+          Greece                      -             -                1                  -            1                 2
+          Ireland                    1             1                  -                 -             -                2
+             Italy                    -             -               11                  -             -            11
+           Malta                      -             -                 -                 -            1                 1
+    Netherlands                       -             -                 -                 -            1                 1
+            Spain                    1              -                 -                 -             -                1
+            Total                   24             5                12                  -            4             45
+
+
+   Among the 45 completed, failed and foiled attacks, the most common modus operandi was
+   stabbing (15), followed by bombing (11), arson (7), shooting (5), damage to property (2) and
+   vehicle ramming (1)21.
+
+   Of the 22 completed attacks, the majority were carried out by lone actors (12), who primarily
+   opted for a simple and accessible weapon of choice, using a bladed weapon (9), a firearm (1), a
+   vehicle (1) and an improvised incendiary device (IID) (1).
+
+   Civilians were most frequently targeted, largely among attacks attributed to jihadist terrorism,
+   right-wing terrorism and other forms of terrorism. Law enforcement headquarters and officers
+   were another common target, among jihadists and left-wing and anarchist terrorists. Private
+   businesses linked to the industrial, financial, tourism and wellness sectors, were exclusively
+   targeted by left-wing and anarchist assailants, who often cited the companies’ relations with
+   Israel as the motivating factor for the attack22.
+
+
+
+
+21 The modus operandi was not specified for four attacks.
+
+22 Other targets included religious, public administration, education, military, political, critical infrastructure,
+
+medi and not specified targets.
+                                                                                                                       20
+                                                                             Europol Public Information
+
+
+   Arrests
+
+
+
+
+   347 individuals were arrested for jihadist terrorism-related offences in 16 Member States,
+   thereby regaining at a similar level to 2023 (334), following a decrease in 2024 (289). The highest
+   number of arrests occurred in Spain (100) and France (64). Most arrests were on suspicion of
+   terrorist propaganda (91), membership (73), and preparation of a terrorist attack (53), followed
+   by participation in the activities of a terrorist organisation (40), incitement and making threats
+   (26), travel (15), financing (12), committing an attack (11), (self) training (7), possession of
+   facilitating items (6), recruitment (5) and other facilitation activities (2)23.
+
+   There were 43 arrests attributed to right-wing terrorism in nine Member States, namely Germany
+   (8), the Netherlands (8), Belgium (5), France (5), Poland (4), Portugal (4), Ireland (3), Italy (3) and
+   Spain (3). The most common offence was incitement and making threats (13), followed by arrests
+   on suspicion of membership (12), planning or preparing an attack (9), participation in the
+   activities of a terrorist organisation (4), committing an attack (1), financing (1), and possession of
+   facilitating items (1)24.
+
+   13 individuals were arrested in six Member States on suspicion of left-wing and anarchist
+   terrorist offences. Most of these arrests took place in Italy (6), followed by Spain (2), France (2),
+   Belgium (1), Greece (1) and the Netherlands (1). In five cases, the suspected offence was
+   committing an attack, followed by membership (4), incitement and making threats (2), terrorist
+   propaganda (1), and participation in the activities of a terrorist organisation (1).
+
+   There were 34 arrests for ethno-nationalist and separatist terrorist offences reported by six
+   Member States: Italy (13), France (7), Germany (5), Ireland (4), Finland (3) and Spain (2). The
+
+
+23 Six arrests reported by the Member States did not specify the offence.
+
+24 Two arrests reported by the Member States did not specify the offence.
+
+
+                                                                                                           21
+                                                                                    Europol Public Information
+
+   suspected offences were membership (16), financing (10), committing an attack (7) and terrorist
+   propaganda (1).
+
+   49 individuals were arrested for other and not specified forms of terrorism25. Arrests occurred in
+   nine Member States, namely the Netherlands (14), Spain (10), Belgium (8), France (6), Germany
+   (3), Poland (3), Lithuania (3), Luxembourg (1) and Malta (1). Most arrests were on suspicion of
+   participation in the activities of a terrorist organisation (9), incitement and making threats (8) and
+   other facilitation activities (8), followed by committing an attack (6), planning or preparing an
+   attack (4), terrorist propaganda (4), membership (3), possession of facilitating items (3) and self-
+   training (1)26.
+
+
+
+   Arrests for terrorist offences per type of terrorism per Member State, as
+   reported to Europol by Member States in 2025
+
+                             JihadisT   Right-wing    Left-wing and    Ethno-Nationalist    Other/not    Total
+                                                           anarchist      and separatist     specified
+          Austria                 40              -                -                    -            -     40
+         Belgium                  30             5                1                     -           8      44
+           Cyprus                  1              -                -                    -            -      1
+          Czechia                  6              -                -                    -            -      6
+        Denmark                    5              -                -                    -            -      5
+          Estonia                  1              -                -                    -            -      1
+          Finland                   -             -                -                    3            -      3
+           France                 64             5                2                     7           6      84
+        Germany                   21             8                 -                    5           3      37
+          Greece                    -             -               1                     -            -      1
+          Ireland                  4             3                 -                    4            -     11
+             Italy                26             3                6                  13              -     48
+        Lithuania                   -             -                -                    -           3       3
+     Luxembourg                     -             -                -                    -           1       1
+            Malta                   -             -                -                    -           1       1
+     Netherlands                  40             8                1                     -          14      63
+           Poland                  2             4                 -                    -           3       9
+         Portugal                  1             4                 -                    -            -      5
+         Romania                   3              -                -                    -            -      3
+            Spain               100              3                2                     2          10    117
+         Sweden                    3              -                -                    -            -      3
+            Total               347             43               13                  34            49    486
+
+
+
+   259 of the 398 individuals arrested for terrorism-related offences whose residence status was
+   known were EU citizens, while 139 were non-EU citizens27. The majority of arrested suspects
+   were male (436)28, with 47 female suspects arrested primarily for jihadist offences29.
+
+
+25 Other forms of terrorism = 36. Not specified forms of terrorism = 13.
+
+26 Three arrests reported by the Member States did not specify the offence.
+
+27 The residential status of 88 individuals was not specified.
+
+28 The gender of 3 out of the 486 individuals arrested was not reported.
+
+29 43 of the 47 female suspects were arrested in association with jihadist terrorism.
+
+
+                                                                                                            22
+                                                                                     Europol Public Information
+
+      The average age of the reported individuals arrested in 2025 was 27 years old, with 130 reported
+      individuals being 18 or younger30. The youngest person arrested was 12 years old and linked to
+      right-wing terrorism. The oldest arrestee was 79 years old and linked to left-wing and anarchist
+      terrorism.
+
+
+
+      Convictions and penalties
+      21 Member States contributed court proceedings for terrorist offences that were concluded in
+      2025 to Eurojust31. These court proceedings resulted in 406 convictions and 99 acquittals for
+      terrorist offences.
+
+      Number of convictions and acquittals for terrorist offences in 2023, 2024 and
+      2025, as reported to Eurojust
+                                                          2023                     2024                      2025
+       Convictions                                          290                      426                      406
+       Acquittals                                            68                       59                       99
+       Total                                                358                      485                      505
+
+
+      Some convictions and acquittals in 2025 are final, while others are pending, as appeals have been
+      submitted by the prosecution, the defence or both32. In several cases, the persons convicted of
+      terrorism in 2025 had previously been convicted of terrorism or other offences in the same
+      Member State or abroad.
+
+
+
+Type of offences in the concluded court proceedings
+      A large proportion of the concluded court proceedings concerned membership or participation in
+      (the activities of), or collaboration with, a terrorist group, terrorist financing, (attempted)
+      terrorist attacks, or preparation for such attacks. Other offences included murder in a terrorist
+      context, (self)-indoctrination, recruitment, providing or receiving training for terrorist purposes,
+      dissemination of terrorist propaganda, glorification of terrorism, and incitement or threatening
+      to commit terrorist acts. In some of the concluded proceedings, charges for terrorist offences
+      were brought together with charges for weapons- or explosives-related offences, as well as other
+      non-terrorist offences.
+
+          Case example
+          On 27 February 2025, in Germany, an individual was sentenced to a prison term of five years
+          and six months for supporting a terrorist organisation, conspiracy to commit murder, and
+          membership in a terrorist organisation abroad. In August 2023, the defendant and another
+          defendant sent EUR 200 as a donation via an intermediary to an IS member in Iran. He then
+
+   30 Member States did not provide information on the age of 23 individuals arrested (15 arrests for jihadism, five
+
+   arrests for right-wing terrorism, and three arrests for other forms of terrorism have no age recorded).
+   31 Eurojust received contributions containing information on convictions and acquittals from the following
+
+   Member States: Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece,
+   Hungary, Italy, Latvia, Lithuania, Malta, the Netherlands, Poland, Portugal, Romania, Spain and Sweden. The
+   numbers included in the statistics concern only concluded proceedings for terrorist offences. They do not
+   include proceedings for hate crime, racism or xenophobia.
+   32 Due to the specifics of reporting, some Member States submit information on final decisions only, while
+
+   others additionally report on decisions that are not final. If a judgment handed down in 2025 was appealed
+   against and the appeal was concluded before the end of the year, Eurojust reported only on the latest/final
+   judgment.
+                                                                                                                 23
+                                                                                      Europol Public Information
+
+          joined ISKP and was tasked with carrying out an attack in Europe. From then on, he and the
+          other defendant planned to kill police officers and other people with firearms in Stockholm.
+          On 9 September 2023, both travelled to Czechia to purchase firearms and ammunition, but
+          were unsuccessful. The attack was not carried out.
+
+          Case example
+          On 21 March 2025, in France, five individuals were convicted for their involvement in the
+          hostage taking and torture of four French journalists and other Western victims kidnapped in
+          2013 and 2014 in Syria. The group’s leader was sentenced to life imprisonment, with 22 years
+          to be served before he is eligible for parole, for directing a terrorist group and ordering
+          unlawful confinement and torture in a terrorist context. Two other defendants received the
+          same penalty for participation in a criminal enterprise with a view to prepare terrorist acts
+          and unlawful confinement and torture, both in a terrorist context. They were already
+          sentenced to life imprisonment for the 2015 attacks in Paris, the 2016 attacks in Brussels, and
+          for the 2014 attack on the Jewish Museum in Brussels, respectively. The fourth defendant was
+          one of the jailers of the hostages and received 22 years’ imprisonment. The fifth defendant
+          helped kidnap the victims and was sentenced to 20 years’ imprisonment.
+
+          Case example
+          On 6 March 2025, in Germany, a defendant was sentenced to three years’ imprisonment for
+          supporting a terrorist organisation abroad and the preparation of a serious act of violence
+          endangering the state. The man supported IS by transferring a total of USD 1 675.59 in
+          cryptocurrency. He decided to join the terrorist organisation as a fighter and received training
+          in the use of firearms. To this end, he planned to travel to Mecca in June 2024 during a
+          pilgrimage with his mother, using IS smugglers to enter IS operational territory and join ISKP.
+          He was arrested at the airport.
+
+          Case example
+          On 12 November 2025, in Malta, an individual was sentenced to 10 years’ imprisonment. The
+          man, who travelled frequently to Malta, was arrested in October 2024. He was prosecuted for
+          disseminating a significant volume of extremist propaganda and engaging in the online
+          recruitment of individuals for the purpose of committing terrorist acts across various
+          jurisdictions. Evidence found on his electronic devices included videos promoting acts of
+          terrorism, audio files of jihadist speeches and hymns, and content explicitly supporting IS.
+
+
+
+Convictions and acquittals
+      All the concluded court proceedings reported above, relating to terrorist offences in Croatia,
+      Czechia, Denmark, Estonia, Finland, Hungary, Latvia, Lithuania, Malta, Poland, Portugal and
+      Romania in 2025, resulted in convictions. Some of the defendants acquitted of terrorist offences
+      were found guilty of weapons-related offences, participation in an organised crime group,
+      murder, or other criminal offences33.
+
+      Similar to 2024, court proceedings concerning jihadist terrorism concluded in 2025 resulted in
+      convictions for 88% of the defendants. The concluded proceedings concerning right-wing
+      terrorism also resulted in convictions for 88% of all defendants. Ethno-nationalist and separatist
+      terrorism and left-wing terrorism-related proceedings concluded with a conviction rate of 76%
+      and 41% of all accused respectively.
+
+
+   33 Eurojust considers it one verdict if a person is convicted of more than one terrorist offence within the same
+
+   proceeding, or convicted of a terrorist offence and acquitted of another offence. If a person is acquitted of a
+   terrorist offence and convicted of another offence, the verdict is included in the overview as an acquittal.
+                                                                                                                     24
+                                                                                     Europol Public Information
+
+
+Penalties
+      The average prison sentence for terrorist offences in the reported court proceedings concluded
+      in 2025 was six years, which is similar to 2023 and 202434. The prison sentences handed down by
+      courts in the Member States for terrorist offences in 2025 ranged from two months to life
+      imprisonment without the possibility of parole.
+
+      Prison terms of up to five years remained the most common penalty for terrorist offences (67%).
+      Penalties of 10 or more years of imprisonment were given to 17% of those convicted of terrorist
+      offences.
+
+      It should, however, be taken into consideration that the severity of the penalty in each case
+      depended on the respective offence and the specific circumstances and cannot serve any
+      comparative purposes.
+
+      In some cases, the court ordered the suspension of all or parts of the penalty for a period of time
+      or in its entirety, under specific probation conditions.
+
+      Other penalties were also ordered in addition, or as an alternative, to the prison sentences.
+      These included community service, supervised probation, fines, or psychiatric treatment. In many
+      cases the court-imposed restrictions on exercising certain civil and political rights, expulsion from
+      national territory, fixed probation period upon release, involvement in de-radicalisation and re-
+      integration programmes, a ban on holding public office, compensation to victims, withdrawal of
+      citizenship, etc.
+
+      Offenders who were minor were given prison terms or placed in a correctional institution, in
+      some cases with mandatory psychiatric and psychological monitoring or treatment.
+
+
+
+
+   34 For the purpose of calculating the average prison sentence, penalties exceeding 40 years’ imprisonment and
+
+   life sentences were counted as 40 years, unless the court indicated a specific number of years to be served. In
+   cases where the court ordered a possibility of parole after a certain number of years have been served, that
+   number of years is included in the overview.
+                                                                                                                 25
+                     Europol Public Information
+
+
+
+JIHADIST TERRORISM
+
+
+
+
+                                            26
+                                                                                     Europol Public Information
+
+
+
+
+           JIHADIST TERRORISM
+           For the EU TE-SAT, jihadism may be described as a violent sub-set of Salafism that rejects
+           democracy and elected parliaments, arguing that human legislation is at odds with God’s status
+           as the sole lawgiver. Jihadists aim to create an Islamic state governed exclusively by Islamic law
+           (shari’a), as they interpret it. They legitimise their use of violence by referring to the classical
+           Islamic doctrines on jihad. All those who oppose their jihadist interpretations of Islamic law are
+           considered as ‘enemies of Islam’35.
+
+
+
+
+   Actors
+   Jihadist terrorist actors in the EU mostly acted alone or within networks of like-minded
+   individuals, often transnational, rather than embedded within strict hierarchical organisations. All
+   completed attacks were carried out by lone actors, who all appear to have been adult males. In
+   some cases, the perpetrators were reported to have suffered from mental health issues.
+
+       Case example
+       On 13 February 2025, in Germany, a 24-year-old male drove his car into the rear of a moving
+       crowd in Munich, killing two and injuring 57 people. The perpetrator was arrested at the
+       scene and alleged to have committed the act out of religious motivation.
+
+   Some of the foiled attacks were plotted by underage males, while 108 out of 347 individuals
+   arrested in the context of jihadist terrorist offences were 18 or younger36.
+
+       Case example
+       On 7 October 2025, in Italy, a 17-year-old was arrested on suspicion of recruitment with
+       terrorist purposes and the unlawful possession of harmful objects. A multimedia analysis
+       revealed his online radicalisation and various internet searches regarding IS, jihad, weapons
+       and bomb manufacturing. Among the content saved on his device was a pledge of allegiance
+       to IS, forwarded to an identified individual who shared his radical ideology.
+
+   Perpetrators of jihadist terrorist attacks pledged allegiance to IS in several cases. Most often,
+   however, there was little evidence that they were actually instructed by IS, nor did the group
+   claim responsibility for them. In one case in 2025, an attacker had previous links to IS.
+
+       Case example
+       On 18 May 2025, in Germany, a 35-year-old man stabbed people with knives outside a local
+       bar in Bielefeld, critically injuring four victims. The perpetrator joined IS in Syria by May 2015
+       at the latest. Even after his entry into Germany in the summer of 2023, he remained
+       connected to IS. In early May 2025, he made the decision to kill as many randomly selected
+       people as possible in the name of a global jihad.
+
+35 Some contributed attacks or arrests may not fully align with this description. However, this classification is
+
+used for analytical purposes. The EU TE-SAT follows the categorisation provided by the Member States.
+36 15 out of 344 arrests reported by the Member States did not specify the age.
+
+
+                                                                                                                    27
+                                                                                    Europol Public Information
+
+
+
+   Most arrested suspects were reported to have been inspired by IS propaganda. Yet, some were
+   found to express support for both IS and AQ, or even non-Salafi-jihadist terrorist groups. Anti-
+   Semitic narratives frequently were a common element. In addition, irrespective of ideological
+   preferences, a fascination with violence was noted to play a role in radicalisation.
+
+   Attribution to terrorist groups was typically indirect, based on factors such as law enforcement
+   investigations or a pledge of allegiance (bay’a) made by the individual involved. Some suspects,
+   however, appeared to be in direct contact with members of terrorist organisations in other
+   countries, including Afghanistan, Pakistan and Iraq.
+
+       Case example
+       On 18 June 2025, in Italy, a 20-year-old was arrested on suspicion of membership of IS. He
+       shared propaganda material through a messaging platform and possessed material suitable
+       for the manufacturing of weapons, devices and explosives. The individual also maintained
+       contact with an ISKP member in Afghanistan, with whom he planned his journey to the region
+       to participate in combat or carry out attacks in the West.
+
+   Many concluded court proceedings in 2025 concerned offences linked to terrorist groups in Syria,
+   such as IS, Hay’at Tahrir al-Sham (HTS), while still listed, or their affiliates.
+
+   Some individuals were arrested for trying to travel to Syria in 2025 to join IS 37. Some other arrests
+   reported in 2025 concerned individuals returning from conflict zones.
+
+       Case example
+       On 2 September 2025, in France, a 24-year-old returnee from Syria was arrested upon her
+       arrival in France after she had been expelled by Türkiye. The woman was the daughter of two
+       jihadists who died in Syria. Following statements concerning her jihadist background, she was
+       charged and placed under judicial supervision.
+
+
+
+   Narrative
+   In 2025, the volume of official IS terrorist propaganda via its ‘provinces’ or regional branches
+   remained at a low level. In addition to statements of attacks carried out, as of the end of 2025, IS
+   published a few videos, but no speech from the leadership.
+
+   The most prominent pro-IS media outlet, Al-Azaim, which also played a role in the sudden rise in
+   2024 of the terrorist threats to Europe by the closely associated ISKP, suffered a serious blow in
+   2025 when one of its core members was arrested in a joint Turkish-Pakistani operation. This led
+   to a sharp decline of its propaganda production. In 2025, the only consistently published IS
+   ideological propaganda was the editorial of its weekly Arabic newsletter al-Naba’.
+
+   IS propaganda pursued various objectives: to (re)state the fundamental tenets of its ideology to
+   promote group identity and cohesion; to antagonise perceived enemies - not only the global
+   West and governments of Muslim countries, but also competitors within the jihadist milieu,
+   including AQ; and to incite sympathisers to carry out autonomous attacks. To this latter end, IS
+   propaganda exploited events perceived as victimising Muslims and generating grievances among
+
+
+
+37 15 out of 486 arrests were reported on suspicion of travel for terrorist purposes, as the primary offence. An
+
+additional 9 arrests reported travel for terrorist purposes as an additional offence. A majority of these arrests
+concerned individuals that were trying to travel to Syria to join IS.
+                                                                                                                28
+                                                                          Europol Public Information
+
+its audiences. Most prominently in 2025, it instrumentalised the conflict in Gaza to fuel anti-
+Semitic narratives, including calls to target Jewish individuals, communities and interests.
+
+In 2025, IS avoided issuing statements of responsibility for inspired lone actor terrorist attacks
+carried out by supporters, as had been its practice in years past. The group also advised against
+recording and sending videos of allegiance. In contrast, it claimed that it broadly incited terrorist
+attacks by spreading its ideology. Indirect attribution helped IS promote itself as a primary actor
+on the jihadist scene. It also served to counter the risk of being marginalised to the advantage of
+other groups, which played a more active role in current conflicts, for example in Gaza.
+
+   Case example
+   The editorial of the 18 December 2025 al-Naba’ issue, dedicated to the Bondi Beach attack in
+   Australia, mocks the West for looking for IS organisation and leadership. The West overlooks
+   the nature of IS, whose strength consists in its ‘jihadi code’.
+
+The conflict in Gaza was a recurrent theme in AQ’s propaganda. This topic had always been a
+core issue for the former organisation and its founder, Osama bin Laden. AQ leveraged
+propaganda referring to Gaza to increase its influence on the jihadist scene, which declined
+following the rise of IS after its split from AQ in 2013.
+
+Within the AQ franchise, the propaganda of the Somali Harakat al-Shabab al-Mujahidin (HSM or
+al-Shabaab) and the Sahel-based JNIM was mostly focused on local issues. Al-Qaeda in the
+Arabian Peninsula (AQAP) in Yemen, by contrast, was eager to exploit the conflict in Gaza to
+incite terrorist attacks against the West. AQAP published motivational and instructional
+propaganda under its ‘Inspire’ brand, writing guides for aspirational lone actors and using lessons
+learnt, even from non-jihadist terrorist attacks.
+
+   Case example
+   In June 2025, AQAP published a guide based on the 21 May 2025 terrorist attack in
+   Washington, urging readers to follow the example of the Latino Christian attacker who acted
+   to ‘defend Palestine’. AQAP also published two other guides based on terrorist attacks against
+   Jewish targets in Colorado and Manchester.
+
+However, contrary to the decline of official and supportive propaganda, the trend of increasing
+user-generated terrorist content continued in 2025. Independent producers, quite often young
+individuals, demonstrated notable creativity in their approach. They frequently created short
+videos combining visual elements extracted from official terrorist propaganda, current news or
+sources unrelated to terrorism (e.g. sequences of videogames), with a ‘soundtrack’, generally
+jihadist hymns or passages of speeches of jihadist leaders.
+
+Pro-IS media outlets also published threats against public events, most commonly as advice to
+supporters to choose a target from a list. However, this type of propaganda decreased compared
+to 2024, when pro-IS media outlets had launched an intense campaign of threats against sports
+events.
+
+
+
+Means
+Perpetrators of jihadist terrorist attacks in Member States continued to employ simple modi
+operandi. Eight of the nine completed jihadist terrorist attacks in 2025 were perpetrated by
+stabbing with knives; one attacker used his private car to ram people in a crowd. The targets
+were predominantly random people in public places.
+
+                                                                                                    29
+                                                                         Europol Public Information
+
+   Case example
+   On 15 February 2025, in Austria, a man killed a 14-year-old boy and injured several others in a
+   random stabbing attack using a knife. The attacker pledged allegiance to IS. He had been
+   radicalised online within a short period of time by himself, without influence or guidance from
+   others.
+
+While the use of complex attack methods continued to be discussed, the lack of operational
+experience or adequate contacts limited these ambitions.
+
+Key means to link core terrorist organisations with the broad network of potential supporters are
+online communication and terrorist propaganda. Radicalisation processes often developed
+rapidly, frequently beginning with exposure to user-generated jihadist propaganda disseminated
+on a range of platforms, including online communities, youth-oriented social media or gaming
+platforms. Such content and platforms provided a low-threshold entry point, particularly for
+young and vulnerable individuals, with subsequent engagements frequently migrating to more
+secure online environments.
+
+Among jihadist actors, a gradual increase in the use of AI for propaganda purposes was noted,
+possibly linked to the technological affinity of an increasingly younger jihadist scene. Some
+individuals also adopted strong security measures regarding their mobile devices, including the
+use of VPNs, encrypted applications, frequent reformatting of devices and repeated installation
+and uninstallation of mobile applications.
+
+At the same time, notwithstanding the central role played by online spaces in radicalisation
+pathways, personal interactions remained important as well. Networks and groups that formed
+online then meet up in person, discussing for example attack plans or the possibilities to travel
+abroad to join IS.
+
+   Case example
+   On 22 April 2025, in the Netherlands, 14 young suspects were arrested. They were involved in
+   the production and distribution of IS propaganda online. Certain suspects tried to encourage
+   others to carry out terrorist offences. The suspects formed an online network, but some also
+   met offline.
+
+With regard to terrorist financing, attacks carried out by lone actors generally required minimal
+financial resources, particularly when simple methods were employed. Sporadically, cases of self-
+financing or third-party support have been observed, mainly to facilitate individuals’ travel to
+conflict zone.
+
+   Case example
+   On 1 April 2025, in France, a 35-year-old female was arrested on suspicion of terrorism
+   financing in favour of her friend engaged in jihad in Syria, who was still located there.
+
+Sources of funding may be legitimate income, loans, social benefits, donations or crowd funding
+campaigns, but could also be illicitly generated via for example fraud, theft or the sale of drugs.
+Collections were also made within the Muslim community under the guise of charity.
+Unbeknownst to certain donors, these funds may be diverted abroad and used to support
+terrorist-related activities.
+
+Funds were transferred through bank transfers, hawala banking, money transfer services or
+money couriers. There was also a growing interest in using digital money transfers and virtual
+currencies.
+
+
+                                                                                                    30
+                                             Europol Public Information
+
+Right-wing terrorism and violent extremism
+
+
+
+
+                                                                    31
+                                                                                     Europol Public Information
+
+
+
+
+           RIGHT-WING TERRORISM
+           For the EU TE-SAT, right-wing terrorists seek to transform the political, social and economic
+           system into an authoritarian model, rejecting democratic order and values and fundamental
+           rights. A core concept is supremacism, or the idea that as a group of people sharing a common
+           element (nation, race, culture, etc.), they are superior to all others and consider it to be their
+           natural right to dominate the rest of the population. Right-wing violent ideologies feed on a
+           variety of hateful sub-cultures that often oppose diversity in society and equal rights of
+           minorities38.
+
+
+
+
+   Actors
+   Lone actors and small cells remained the most common perpetrators of right-wing terrorism and
+   violent extremism incidents. They regularly lacked formal ties to right-wing terrorist or violent
+   extremist organisations, but many were assessed not to be entirely isolated. Several of them
+   were influenced by, or loosely connected to, broader violent right-wing networks. This often
+   happened via engagement in fluid online structures and virtual ecosystems, but also via in-person
+   associations.
+
+       Case example
+       On 25 February 2025, the leader and two members of the Sturmjäger Division, a neo-Nazi
+       group inspired by the ideology of The Base, were convicted in Belgium. The leader of the
+       group spread propaganda to recruit new members, incited and instructed group members to
+       violence and set up members’ ‘rank lists’ on the basis of the executed actions. He also shared
+       manuals and videos on how to make weapons and explosives and encouraged group
+       members to prepare for violent acts. He was sentenced to a prison term of eight years and a
+       fine. The other two members spread extremist propaganda through social media and incited
+       others to commit terrorist acts. They were sentenced to 40 months and 24 months of
+       imprisonment respectively and a fine.
+
+   All individuals involved in attack plots or arrested on suspicion of right-wing offences were male.
+   Multiple Member States raised concern about radicalisation in prison and/or the release from
+   prison of former arrestees still adhering to extremist ideas. One arrested individual had
+   previously spent time in prison.
+
+   Perpetrators of right-wing attacks and suspects often included young people and frequently
+   displayed a range of vulnerabilities, including mental health issues or broader psychosocial
+   challenges.
+
+   Such individuals were at higher risk of rapid and widespread exposure to violent extremist
+   propaganda, a vulnerability that is amplified within online extremist ecosystems. Easily
+
+
+38 Some contributed attacks or arrests may not fully align with this description. However, this classification is
+
+used for analytical purposes. The EU TE-SAT follows the categorisation provided by the Member States.
+                                                                                                                    32
+                                                                                    Europol Public Information
+
+   accessible, dynamic and encrypted digital environments accelerated radicalisation processes and
+   the progression towards operational activity.
+
+       Case example
+       On 17 July 2025, in Italy, authorities dismantled a violent extremist group that was active in
+       the virtual dissemination of neo-Nazi, accelerationist, supremacist, xenophobic and anti-
+       Semitic propaganda, aimed at inciting discrimination or violence on racial, ethnic and religious
+       grounds.
+
+   In parallel, offline organisational structures complemented the right-wing terrorism and violent
+   extremism landscape in the EU, encompassing groups primarily nationally focused as well as
+   transnational networks. This included both established organisations and newly emerging
+   entities. Of the five attacks reported, two were not attributed to lone actors. The average age of
+   individuals involved in such offline groups appeared to be higher than that of those engaged
+   primarily in online environments.
+
+       Case example
+       In February 2025, in Germany, police arrested two male members of the Letzte
+       Verteidigungswelle (Last Wave of Defence) for attacking a refugee shelter. They spray painted
+       “L.V.W” and xenophobic slogans, gave a fascist salute, and aimed a battery of fireworks at the
+       building. In May 2025, authorities arrested another four suspected members and one
+       supporter of this same right-wing group. The group aims to dismantle Germany’s democratic
+       system through violence, especially arson and bomb attacks against migrants and political
+       opponents.
+
+   Prominent, though not exhaustive, examples of violent transnational networks included The Base
+   and so-called ‘Active Clubs’. The Base is a neo-Nazi, accelerationist paramilitary network
+   composed of cells operating in the EU, amongst others. It is the first and only right-wing group to
+   be included on the EU’s terrorist sanctions list. So-called ‘Active Clubs’ constitute a decentralised
+   network of groups that cultivate physical strength, group solidarity and personal confidence.
+   They adhere to right-wing extremist ideologies and have an active presence in multiple Member
+   States across the EU39.
+
+       Case example
+       On 25 November 2025, in Spain, three members of the terrorist organisation The Base were
+       arrested on suspicion of membership of a terrorist organisation, recruitment, indoctrination
+       and training for terrorist purposes; collaboration with a terrorist organisation; and various
+       related offences such as unlawful possession of weapons40.
+
+   As commonly observed in the past, right-wing actors consistently maintained international
+   networks and participated in events across various EU countries, including music concerts and
+   festivals, MMA and boxing tournaments, commemorative marches, demonstrations and
+   seminars. These gatherings provided opportunities for individuals to meet, strengthen
+   relationships and establish enduring transnational cooperation.
+
+
+
+
+39 “Active Clubs” functions as an umbrella label. It serves in some cases as a model for similar clubs that do not
+
+explicitly use this name, while at the same time there are also ordinary training schools and gyms that operate
+under this label without any connection to right-wing extremism.
+40 Europol 2025, ‘Europol and Spanish national police disrupt activities of far-right terrorist group The Base,
+
+https://www.europol.europa.eu/media-press/newsroom/news/europol-and-spanish-national-police-disrupt-
+activities-of-far-right-terrorist-group-base.
+                                                                                                                33
+                                                                        Europol Public Information
+
+
+Narrative
+Traditional right-wing narratives remained persistent, but were increasingly shaped and
+complemented by a diverse range of ideologies and ideas, including conspiracy theories. This
+contributed to a decline in overall ideological consistency. Additional influential drivers included
+accelerationist concepts, nihilistic justifications for violence and elements drawn from other
+violent subcultures. In some cases, these influences even intersected with jihadist frameworks, as
+illustrated by concepts like ‘White Jihad’.
+
+   Case example
+   On 12 February 2025, in Italy, a 15-year-old was arrested on charges including conspiracy to
+   commit terrorism, the manufacturing and use of explosive devices, illegal possession of
+   weapons, aggravated damage and the possession and distribution of child sexual abuse
+   material (CSAM). He was very active on online channels, a suspected member of a Satanist,
+   neo-Nazi supremacist group and joined a right-wing group allegedly planning a terrorist
+   attack. Investigators also found content linked to IS, including propaganda, attack footage,
+   beheadings and instructions for improvised explosive devices (IED).
+
+Terrorist content online typically focused on past perpetrators and attacks, specific terrorist
+organisations or the portrayal of violence as a necessary means, often at the expense of a clearly
+articulated ideological components.
+
+   Case example
+   On 13 December 2025, in Italy, a 15-year-old was arrested following an investigation into his
+   activities in radicalised supremacist, neo-Nazi and anti-Semitic online environments. He
+   shared numerous posts openly praising and glorifying white supremacist attackers and
+   perpetrators of deadly school shootings.
+
+Certain right-wing actors deliberately chose - at least in public - to avoid overtly extremist or
+terrorist rhetoric. This strategy may avoid law enforcement scrutiny and/or make their ideas
+acceptable to a broader audience, thereby contributing to the normalisation of such narratives.
+
+While approximately 30% of right-wing associated arrests were linked to incitement and the
+making of threats, several Member States also noted the ongoing prevalence of hate speech.
+Although often offensive, such speech may remain lawful, underscoring the complexity of
+determining precisely where the threshold for terrorist content lies.
+
+   Case example
+   On 12 September 2025, in the Netherlands, a 31-year-old man was arrested for making
+   several online threats with terrorist intent. These were threats of violence against Muslims
+   and he indicated a specific time for a stabbing. He also gave the fascist salute.
+
+Physical meetings and personal connections served as one channel for disseminating
+propaganda, as illustrated by various international events attended by right-wing circles.
+However, propaganda also spread extensively online. Users leveraged social media platforms and
+digital services to share a wide range of content, including documents, photographs, videos, GIFs,
+memes and music. In this context, it is noteworthy that right-wing terrorist or violent extremist
+actors often relied on symbols and aesthetic codes, such as runes, numeric codes or meme
+characters, both to signal group affiliation and to circumvent moderation in online spaces.
+
+
+
+
+                                                                                                    34
+                                                                          Europol Public Information
+
+
+Means
+Firearms and explosives have traditionally held a particular appeal for right-wing terrorist and
+violent extremist actors. The five terrorist attacks in the EU in 2025 included improvised explosive
+devices (IEDs), firearms and bladed weapons.
+Additionally, while it remained challenging to develop and adopt other tools, right-wing terrorist
+and violent extremist actors continued to display a fascination in more innovative attack methods
+such as 3D-printed weapons or drones.
+
+   Case example
+   On 16 June 2025, in Portugal, four individuals were arrested on suspicion of planning to
+   commit offences related to a terrorist group and for the possession and manufacturing of 3D-
+   printed weapons with a terrorist intent.
+
+In general, the threat of violence was often directed at places of worship, religious communities,
+asylum seekers’ centres, perceived ideological enemies or ethnic minorities.
+
+   Case example
+   On 4 November 2025, in Ireland, two men were identified as part of a group planning a
+   terrorist attack on a mosque using explosives and incendiary devices. The plot has been
+   claimed by the so-called Irish Defence Army (IDA). Two additional individuals have been
+   released from custody pending further direction from the Office of the Director of Public
+   Prosecutions.
+
+Segments within the right-wing landscape in the EU, including the so-called ‘Active Clubs‘, were
+engaged in a range of physical training activities, including martial arts, boxing, survival training,
+fight clubs and shooting practice. This enabled participants to acquire potentially dangerous skills
+and tactical knowledge. These activities often went hand in hand with an emphasis on physical
+fitness, discipline, group cohesion and personal confidence.
+
+Considering the means for radicalisation and recruitment, the previously identified uptick in the
+use of messaging services continued. Users resorted to these platforms to recruit other
+members, share propaganda, promote violence and plan physical attacks. This growth was
+accompanied by a well-established abuse of other social media services and online platforms,
+including gaming platforms. The rise of AI enabled new opportunities regarding widespread
+content creation, but also to gather information to plan and prepare attacks.
+
+Users continued to employ several common practices to elude moderation efforts and reduce
+down time. For instance, they created multiple channel aliases and rebranded them or renamed
+them at the same time. Content and networks could thus quickly be re-established if removed.
+Users avoided moderation attempts on themselves by continuously renaming themselves or
+creating numerous online identities that are left dormant until one or more are removed by the
+hosting platform.
+
+Regarding financial means, most funds were raised and transferred via simple legal means, such
+as self-financing via personal funds, membership fees, sales of merchandise, entry fees for events
+or donation campaigns. However, some financial means were collected via illegal methods, such
+as engagement in criminal activities, and some actors adopted more advanced technical tools
+such as fundraising and money movements via cryptocurrencies.
+
+
+
+
+                                                                                                    35
+                                                          Europol Public Information
+
+Left-wing and anarchist terrorism and violent extremism
+
+
+
+
+                                                                                 36
+                                                                                     Europol Public Information
+
+
+
+
+       LEFT-WING AND ANARCHIST TERRORISM
+       For the EU TE-SAT, left-wing terrorist groups seek to trigger a violent revolution against
+       the political, social and economic system of a state, in order to establish socialism and ultimately
+       establish a communist and classless society. Their ideology is often Marxist-Leninist. Anarchist
+       terrorism is a term used to describe acts of violence committed by groups or individuals who
+       promote the absence of authority as a societal model. Anarchists pursue a revolutionary,
+       anti-capitalist and anti-authoritarian agenda41.
+
+
+
+
+   Actors
+   Both terrorist organisations and lone actors were involved in left-wing and anarchist terrorist
+   attacks and arrests, but a majority of attacks were carried out by unknown perpetrators.
+
+       Case example
+       On 18 December 2025, in Italy, two masked individuals set fire to three private cars used by
+       Guardia di Finanza, parked at the barracks hosting Rome’s Financial and Economic Police Unit.
+       The attack was claimed on 7 January 2026 in a document stressing the need to attack the
+       military and internal control apparatus.
+
+   The concluded proceedings concerned activities related to or claimed by the Revolutionary
+   People's Liberation Party/Front (DHKP-C), the Revenge Coalition Group, Armed Response, and
+   Revolutionary Continuity.
+
+       Case example
+       On 18 July 2025, in Greece, seven defendants were convicted for their role in several attacks
+       with IEDs and grenades in Greek cities in 2023 and 2024. Responsibility was claimed by the
+       terrorist organisation Revenge Coalition Group. The defendants were also prosecuted in
+       relation to the letter bomb sent to the Thessaloniki Courthouse and addressed to the
+       President of the Court of Appeal in 2024, responsibility for which was claimed by the terrorist
+       organisation Armed Response. The leader of the group was sentenced to a total of 37 years of
+       imprisonment. The remaining six defendants were handed prison terms ranging from two to
+       over 30 years.
+
+   12 out of 13 arrestees for left-wing and anarchist terrorist offences were men with ages ranging
+   from 22 to 79 years old. One arrestee was a 39-year old woman.
+
+   The terrorist threat posed by returning left-wing or anarchist fighters who joined either side of
+   the Russian-Ukrainian conflict, as well as those who have participated in combat operations or
+   military training in Syrian-Kurdish conflict zones, persisted.
+
+
+
+41 Some contributed attacks or arrests may not fully align with this description. However, this classification is
+
+used for analytical purposes. The EU TE-SAT follows the categorisation provided by the Member States.
+                                                                                                                    37
+                                                                        Europol Public Information
+
+Violent extremists continued to maintain transnational networks, frequently travelling between
+Member States. These interactions strengthened interpersonal ties, facilitated the exchange of
+strategies and operational knowledge and reinforced support for imprisoned or deceased
+associates.
+
+In 2025, some countries observed a shift towards more violent behavior, including the use of
+harsher tactics, heightened unpredictability and a growing willingness to consider certain
+individuals as legitimate targets.
+
+
+
+Narrative
+The narratives by left-wing and anarchist terrorist actors remained largely consistent, frequently
+incorporating references to the conflict in Gaza. Anti-Semitism, anti-Israeli or anti-Zionist
+sentiments were explicitly expressed in seven out of 10 responsibility claims reported.
+
+   Case example
+   On 18 January 2025, in Italy, an IED caused material damage to a building housing a travel
+   agency. This terrorist attack was claimed on 24 January 2025 through a parcel sent to the
+   company, containing a bullet and a letter stating that transporting goods and weapons to
+   Israel is certainly profitable, but extremely dangerous.
+
+The conflict in Gaza served as a mobilising factor in the left-wing extremist environment,
+fostering a sense of unity among diverse actors by framing a perceived common adversary.
+
+Beyond the conflict, left-wing and anarchist terrorist and violent extremist actors often brought
+together several narratives and grievances. Other themes included anti-militaristic, anti-
+capitalist, anti-imperialism, anti-prison and anti-corporate sentiments; solidarity to incarcerated
+anarchists; and opposition to State repression and to migration control policies. Additional issues
+included support for the Kurdish cause, anti-technology positions and anti-racism.
+
+   Case example
+   On 31 March 2025, in Italy, an IED was found and disarmed in the Criminology Department of
+   the University of Perugia. The anarchist group Kyriakos Xymitiris claimed responsibility. They
+   emphasised that they wanted to target a training centre for the future (national) intelligence
+   community.
+
+Climate and environmental issues also remained a major concern in the left-wing and anarchist
+violent extremist scene. Some individuals demonstrated increased levels of radicalisation,
+engaging in disruptive actions such as civil disobedience, sabotage and property damage.
+
+
+
+Means
+Left-wing and terrorist attacks in 2025 indicate a continued use of simple and easily accessible
+tools. Arson was the preferred means in six terrorist attacks, with improvised incendiary devices
+(IIDs) used in three of them and fire accelerators in the rest. IEDs were used in three completed
+attacks and one failed attack. Two terrorist attacks resulted in limited damage to property with
+rudimentary or unknown means.
+
+
+
+
+   Case example
+                                                                                                 38
+                                                                        Europol Public Information
+
+   On 11 April 2025, in Greece, two perpetrators placed a backpack containing an IED outside
+   the premises of the Hellenic Train company. The explosion caused material damage to the
+   building as well as to nearby buildings and cars. The Revolutionary Class Self Defence claimed
+   responsibility for the attack through on a known anarchist website on 13 April 2025.
+
+Targets of left-wing and anarchist terrorist and violent extremist actors included municipal
+buildings, financial institutions and banks, corporate entities, university premises,
+telecommunications infrastructure and targets linked to law enforcement and prison
+administration. Symbolic attacks targeting corporate entities allegedly connected to Israel were
+also committed.
+
+Most terrorist attacks were relatively low cost and could be financed either by perpetrators
+themselves or through funds collected within broader left-wing and anarchist networks. Funding
+generally relied on a variety of sources, including personal income, membership fees, donations,
+crowdfunding initiatives, the sale of accessories, literature and other products, fundraising events
+and, in some cases, the illegitimate use of governmental financial support allocated to legitimate
+left-wing extremist foundations and associations.
+
+Terrorist and violent extremist left-wing and anarchist actors were generally hesitant in their use
+of social media. Nevertheless, online platforms have remained important for public engagement,
+ideological dissemination and mobilisation efforts, while some actors demonstrated significant
+technical expertise, employing encrypted messaging, secure email and anonymity-focused
+platforms, along with other tools to safeguard identity and data. While social media facilitates
+rapid mobilisation, encrypted closed groups are often used for internal coordination.
+
+The use of AI remained contested, but was nonetheless likely used by some violent left-wing and
+anarchist actors to produce propaganda. It allows for the automated production of propaganda,
+thereby enabling extremist narratives to spread at minimal cost and with global reach.
+
+At the same time, technological developments have not replaced offline socialisation. In some
+cases, prison environments or contacts with released terrorists have also further facilitated
+radicalisation and recruitment.
+
+
+
+
+                                                                                                   39
+                                                               Europol Public Information
+
+Ethno-nationalist and separatist terrorism and violent extremism
+
+
+
+
+                                                                                      40
+                                                                                     Europol Public Information
+
+
+
+
+       ETHNO-NATIONALIST AND SEPARATIST TERRORISM
+       For the EU TE-SAT, ethno-nationalist and separatist terrorist groups are motivated by nationalism,
+       ethnicity and/or religion. Separatist groups seek to carve out a state for themselves from a larger
+       country or annex territory from one country to that of another. Left-wing or right-wing ideological
+       elements are not uncommon in ethno-nationalist and separatist terrorist groups42.
+
+
+
+
+   Actors
+   There were no verified ethno-nationalist and separatist terrorist attacks in the EU reported by
+   Member States in 2025, but the number of arrests signals that it remains a threat. The Kurdistan
+   Workers’ Party (PKK) remained the most significant actor affecting the EU, while dissident
+   republican groups and Corsican and Basque separatist actors also stayed active.
+
+       Case example
+       On 20 May 2025, in Germany, a 61-year-old male was arrested on suspicion of being a
+       member of the PKK. He is suspected of having served as a full-time PKK cadre between June
+       2016 and July 2023, being responsible for the coordination and implementation of
+       propaganda activities in Europe.
+
+   The average age of individuals arrested for ethno-nationalist and separatist terrorist offences was
+   45, with ages ranging from 20 to 76, and a large majority of them being male43.
+
+   The most significant development affecting the ethno-nationalist and separatist threat
+   environment in the EU was Abdullah Öcalan’s call of 27 February 2025 for the PKK to disarm and
+   dissolve, followed by the organisation’s announcement in May that it would dissolve and end
+   armed struggle. However, despite the political significance and the uncertainty it introduced,
+   several Member States assessed that it has not yet led to any significant changes in support
+   structures or operational behaviour in the EU.
+
+   Dissident republican groups remained relevant primarily in Ireland and Northern Ireland. The
+   principal actors continued to be the New Irish Republican Army (IRA), Continuity IRA and other
+   splinter republican structures that reject the peace settlement and retain an anti-state and anti-
+   security force orientation. Member State reporting indicated that these organisations remain
+   small, clandestine and criminally embedded.
+
+
+       Case example
+       On 10 March 2025, in Ireland, two males were arrested for membership of an unlawful
+       organisation suspected for involvement in IRA operational activity. Evidence suggesting an
+
+
+
+42 Some contributed attacks or arrests may not fully align with this description. However, this classification is
+
+used for analytical purposes. The EU TE-SAT follows the categorisation provided by the Member States.
+43 32 arrested individuals were male. Two arrested individuals were women.
+
+
+                                                                                                                    41
+                                                                        Europol Public Information
+
+   attempt to conceal unidentified items in a forested area was recovered. Two other male
+   suspects were also stopped and searched at a location some distance away from the scene.
+
+Corsican separatist violence remained relevant in France. The principal reference points
+continued to be the Fronte di liberazione naziunale di a Corsica (FLNC) and newer youth-linked
+clandestine structures, notably Ghjuventù Clandestina Corsa (GCC). These actors continued to
+pursue armed struggle, even though the volume of attributable activity remained below the 2023
+peak.
+
+   Case example
+   In May 2025, in France, authorities arrested several individuals suspected of carrying out, or
+   attempting to carry out, explosive or arson-related acts of vandalism in Corsica in October
+   2023, claimed by the FLNC.
+
+In 2025, there was an increase in violence by the Basque extremist separatist milieu. This activity
+mostly involved younger actors from a pro-independence environment, close to the ultra-left. At
+the same time, Catalan extremist separatism remained fragmented, operationally weak and
+largely limited to sporadic and symbolic activity, with no indication of capacity for sustained or
+scalable violence.
+
+Other individuals or groups may hold ethno-nationalist or separatist motivations, but are
+assessed to have been less prominently represented in 2025. Occasionally, there was some
+overlap with the left-wing scene.
+
+
+
+Narrative
+The exact ethno-nationalist and separatist narratives varied by actor, but were typically centred
+on self-determination and identity politics, local grievances, perceived repression by the state,
+solidarity with affiliated communities abroad and the portrayal of violence or coercion as
+legitimate resistance.
+
+Digital platforms continued to support propaganda dissemination, recruitment, financing and
+mobilisation across the ethno-nationalist and separatist environment. The dominant channels
+reported by Member States included websites, television channels, social media platforms,
+messaging applications, print publications and online media.
+
+
+
+Means
+No terrorist attacks were reported. Most activities were concentrated on logistical support,
+propaganda, recruitment and financing, with the latter being a key dimension in the ethno-
+nationalist and separatist landscape in the EU.
+
+   Case example
+   On 4 November 2025, in Finland, three male individuals were arrested on suspicion of
+   collecting money for the PKK in Finland.
+
+In the PKK context, both online and offline communication was central to strategic messaging,
+ideological dissemination, event mobilisation and network maintenance. Regarding PKK
+financing, Member States assessed it as structured, transnational and diversified. It included
+annual campaigns such as Kampanya, voluntary donations, coerced contributions, membership
+
+                                                                                                    42
+                                                                       Europol Public Information
+
+fees, event-based collection, commercial fundraising and the use of associations, media entities,
+charitable fronts, cash couriers and other legal and illegal channels.
+
+The nexus with organised crime remained visible in the context of ethno-nationalist terrorism
+and violent extremism. Illegal PKK fundraising was associated with fraud, money laundering and
+extortion. There were also indications of links between PKK-related networks and organised
+criminal actors, including drug trafficking connections. Dissident republican groups were likewise
+reported to be regularly involved in extortion, smuggling, drug dealing, protection activity and
+debt collection.
+
+
+
+
+                                                                                                43
+          Europol Public Information
+
+
+
+OUTLOOK
+
+
+
+
+                                 44
+                                                                         Europol Public Information
+
+The threat posed to the European Union by terrorism and violent extremism is expected to
+remain highly dynamic. Against the backdrop of a rapidly evolving geopolitical, socio-economic
+and technological environment, the coming period is assessed as critical in shaping the future
+terrorist and extremist threats, as well as in determining the effectiveness of efforts to counter
+them.
+
+
+
+A shifting context
+Ongoing international conflicts and developments, rapid technological progress, evolving political
+and institutional dynamics, migration pressures, economic uncertainty and financial instability,
+and unforeseen crises are among the key drivers currently reshaping the context in which
+terrorism and violent extremism develop.
+
+The accumulation of these drivers contributes to polarisation and the spread of hostile rhetoric,
+particularly when complex issues are framed in overly simplistic and adversarial terms. This in
+turn fuels violent extremist and terrorist narratives and self-perceived identities. It shapes views
+on reality, objectives, and perceived enemies - such as political opponents, global elites and
+marginalised communities. Extremist ideas, including the mere use of violence for the sake of
+violence, may become normalised. Fringe movements may also acquire increased visibility and
+momentum, while new themes may emerge in the terrorism and violent extremism landscape.
+
+As terrorism and violent extremism are increasingly nurtured online, digital infrastructure and
+communication technology further amplify these radicalisation processes. Encrypted messaging
+apps, anonymous forums, algorithm-driven social media platforms and other modern
+technologies still allow for the spread of propaganda and the circulation of ambiguous,
+contradictory, or unstable ideas. This enables the creation of unique ideological frameworks that
+are often largely dependent on the personal circumstances of the potential perpetrator. Mental
+health challenges and other vulnerabilities heighten this risk: where resilience is low, extremist
+and terrorist narratives are more likely to take hold. As digital and physical lives become more
+intertwined, the likelihood of online radicalisation translating into real-world violence and
+possible terrorist attacks continues to grow.
+
+Additionally, these drivers contribute to the emergence of a broader range of actors who may
+direct, enable or employ tactics resembling terrorist modi operandi. These may include hybrid
+threat actors, criminal networks and individuals primarily motivated by a propensity for violence.
+As some actors may steer or facilitate terrorist activity rather than carry it out directly, while
+others may simultaneously engage in other forms of criminality, it may become increasingly
+difficult to distinguish terrorism from other forms of violence or criminal conduct.
+
+
+
+Future threats
+The combined impact of these drivers is assessed as likely to play a critical role in shaping the
+future terrorism and violent extremism landscape in the EU. Although they indicate significant
+shifts in the threat environment, uncertainty remains regarding the ways in which these threats
+will ultimately materialise.
+
+Low-level terrorist attacks are likely to remain a persistent threat and may increase in frequency.
+Their simple execution and limited planning requirements make them particularly challenging to
+identify and disrupt. Jihadism remains likely to account for most terrorist attacks and arrests.
+
+
+
+                                                                                                     45
+                                                                         Europol Public Information
+
+At the same time, the pool of potential perpetrators broadens as a growing diversity of ideologies
+and actors mobilise individuals, while online environments facilitate the rapid, broad and secure
+dissemination of terrorist narratives and operational knowledge.
+
+Simultaneously, however, the interaction of the strategic context and several risk factors points
+to the possibility of more complex or large-scale attacks. Returning foreign terrorist fighters,
+together with individuals convicted of terrorism-related offences who are being released from
+prison, could reintroduce actors with operational expertise and experience into the EU threat
+landscape. Competition for notoriety, the gamification of violence and the pursuit of attention
+within online extremist ecosystems, may incentivise individuals to plan more sophisticated and
+high-impact attacks. Technological developments combined with the rapid dissemination of
+technical knowledge, may also lower the barriers to more complex operations. Younger and
+technologically adept perpetrators may pose a particular risk in this context. Finally, structured
+and coherent organised terrorist groups continue to exist and may retain the resources,
+coordination and intent required to carry out more complex attacks within the EU.
+
+Terrorist propaganda is increasingly tailored to younger audiences and disseminated through the
+same digital platforms and tools that are widely used by this demographic group.
+
+While target selection is likely to remain relatively consistent with established patterns - including
+attacks against civilians, specific communities or public spaces - there may be a growing shift
+towards more random or opportunistic targeting. Such a development could reflect an increased
+focus among certain actors on maximising psychological impact and societal disruption through
+the creation of fear, uncertainty and insecurity.
+
+
+
+
+                                                                                                   46
+                                                                                 Europol Public Information
+
+
+
+   ANNEXES
+   Tables
+   Terrorist attacks per outcome, as reported to Europol by EU Member States in
+   2025
+                                       Completed            Failed               Foiled                 Total
+    Austria                                 1                   -                  6                      7
+    Belgium                                 -                   -                  2                      2
+    France                                  3                   -                  11                    14
+    Germany                                 4                   -                   -                     4
+    Greece                                  1                   1                   -                     2
+    Ireland                                 1                   -                  1                      2
+    Italy                                  10                   1                   -                    11
+    Malta                                                       1                   -                     1
+    Netherlands                             1                   -                   -                     1
+    Spain                                   1                   -                   -                     1
+    Total                                  22                   3                  20                    45
+
+
+
+
+   Terrorist attacks (completed, failed and foiled) per type of terrorism, as
+   reported to Europol by EU Member States in 2023-2025
+
+                                                        2023                      2024                           2025
+    Jihadist                                               14                       24                             24
+    Right-wing                                              2                           1                          5
+    Left-wing and anarchist                                32                       21                             12
+    Ethno-nationalist and separatist                     7044                           4                           -
+    Other and not specified                                 2                           8                          4
+
+    Total                                                 120                       58                             45
+
+
+
+
+44 These 70 separatist attacks were contributed by France in EU TE-SAT 2024. It should be noted that in EU TE-
+
+SAT 2024, France reported data on ethno-nationalist and separatist attacks for the years 2021, 2022 and 2023.
+Four attacks were carried out in 2021, 22 in 2022 and 44 in 2023.
+                                                                                                              47
+                                                                                 Europol Public Information
+
+
+   Jihadist terrorist attacks, as reported to Europol by EU Member States in 2023–
+   2025
+                                                              2023                 2024                 2025
+    Completed                                                    5                     6                    9
+    Failed                                                        -                    -                     -
+    Foiled                                                       9                    18                   15
+    Total                                                       14                    24                   24
+
+
+
+   Right-wing terrorist attacks, as reported to Europol by EU Member States in
+   2023–2025
+                                                              2023                 2024                 2025
+    Completed                                                     -                    1                    1
+    Failed                                                        -                    -                     -
+    Foiled                                                       2                     -                    4
+    Total                                                        2                     1                    5
+
+
+
+   Left-wing and anarchist terrorist attacks, as reported to Europol by EU Member
+   States in 2023–2025
+                                                              2023                 2024                 2025
+    Completed                                                   23                    17                   11
+    Failed                                                       8                     4                    1
+    Foiled                                                       1                     -                     -
+    Total                                                       32                    21                   12
+
+
+
+   Ethno-nationalist and separatist attacks, as reported to Europol by EU Member
+   States in 2023–2025
+                                                              2023                 2024                 2025
+    Completed                                                   70                     4                     -
+    Failed                                                        -                    -                     -
+    Foiled                                                        -                    -                     -
+    Total                                                      7045                    4                     -
+
+
+
+
+45 These 70 separatist attacks were contributed by France in EU TE-SAT 2024. It should be noted that in TE-SAT
+
+2024, France reported data on ethno-nationalist and separatist attacks for the years 2021, 2022 and 2023. Four
+attacks were carried out in 2021, 22 in 2022 and 44 in 2023.
+                                                                                                            48
+                                                             Europol Public Information
+
+
+Other/not specified terrorist attacks, as reported to Europol by EU Member
+States in 2023–2025
+                                         2023                2024                2025
+ Completed                                   -                  6                   1
+ Failed                                     1                   1                   2
+ Foiled                                     1                   1                   1
+ Total                                      2                   8                   4
+
+
+
+
+Arrests for terrorist offence per type of terrorism per Member State, as
+reported to Europol by EU Member States in 2023-2025
+
+                                                      2023          2024         2025
+ Jihadist                                             334            289          347
+ Right-wing                                            26             47           43
+ Left-wing and anarchist                               14             28           13
+ Ethno-nationalist and separatist                      25             27           34
+ Other and not specified                               27             58           49
+
+ Total                                                426            449          486
+
+
+
+
+                                                                                    49
+                                                          Europol Public Information
+
+
+Arrests for jihadist terrorist offences, as reported to Europol by EU Member
+States in 2023–2025
+                                          2023             2024               2025
+ Austria                                    18               22                 40
+ Belgium                                    67               25                 30
+ Bulgaria                                    1                 -                  -
+ Cyprus                                       -               8                  1
+ Czechia                                      -               3                  6
+ Denmark                                     1                1                  5
+ Estonia                                      -                -                 1
+ Finland                                      -               3                   -
+ France                                     62               58                 64
+ Germany                                    39               37                 21
+ Greece                                      2                1                   -
+ Hungary                                     1                1                   -
+ Ireland                                     9                1                  4
+ Italy                                      14               14                 26
+ Latvia                                      1                2                   -
+ Luxembourg                                  5                 -                  -
+ Malta                                       9                3                   -
+ Netherlands                                18               23                 40
+ Poland                                      1                1                  2
+ Portugal                                     -                -                 1
+ Romania                                     2                1                  3
+ Slovakia                                    1                 -                  -
+ Spain                                      78               78                100
+ Sweden                                      5                7                  3
+ Total                                     334              289                347
+
+
+
+Arrests for right-wing terrorist offences, as reported to Europol by EU Member
+States in 2023–2025
+
+                                          2023             2024               2025
+ Belgium                                    12                2                  5
+ Czechia                                     -                1                   -
+ Denmark                                     -                1                   -
+ Finland                                     2                -                   -
+ France                                      4                8                  5
+ Germany                                     1                8                  8
+ Hungary                                     -                3                   -
+ Ireland                                     1                -                  3
+ Italy                                       4               15                  3
+ Latvia                                      -                1                   -
+ Netherlands                                 5                7                  8
+ Poland                                      -                -                  4
+
+                                                                                 50
+                                                           Europol Public Information
+
+ Portugal                                          -                 -            4
+ Slovakia                                         2                 1              -
+ Spain                                             -                 -            3
+ Total                                           31                 47            43
+
+
+
+
+Arrests for left-wing and anarchist terrorist offences, as reported to Europol by
+EU Member States in 2023–2025
+
+                                       2023               2024                 2025
+ Belgium                                    -                   -                  1
+ France                                     -                   -                  2
+ Germany                                   1                    1                  -
+ Greece                                    2                20                     1
+ Italy                                     10                   6                  6
+ Netherlands                                -                   -                  1
+ Spain                                     1                    1                  2
+ Total                                     14               28                    13
+
+
+
+Arrests for ethno-nationalist and separatist terrorist offences, as reported to
+Europol by EU Member States in 2023–2025
+
+                                    2023                2024                   2025
+ Finland                               -                   5                      3
+ France                               11                    -                     7
+ Germany                               1                   9                      5
+ Greece                                1                    -                      -
+ Ireland                               4                    -                     4
+ Italy                                 6                  10                      13
+ Spain                                 1                   3                      2
+ Sweden                                1                    -                      -
+ Total                                25                  27                      34
+
+
+
+Arrests for other/not specified terrorist offences, as reported to Europol by EU
+Member States in 2023–2025
+
+                                                2023            2024           2025
+ Belgium                                          4                  -             8
+ Bulgaria                                         1                  -             -
+ Czechia                                           -                 1             -
+ Denmark                                           -                 3             -
+ France                                           1                  3             6
+ Germany                                          9                  -             3
+ Greece                                           2                  -             -
+
+                                                                                   51
+                                                                                   Europol Public Information
+
+    Hungary                                                        -                      2                    -
+    Ireland                                                       1                       -                    -
+    Italy                                                          -                   17                      -
+    Lithuania                                                      -                      -                    3
+    Luxembourg                                                     -                      -                    1
+    Malta                                                          -                      1                    1
+    Netherlands                                                   5                    10                     14
+    Poland                                                         -                   12                      3
+    Slovakia                                                       -                      1                    -
+    Spain                                                         4                       8                   10
+    Total                                                         27                   58                     49
+
+
+
+
+   Number of convictions and acquittals for terrorist offences per EU MS in 2023,
+   202446 and 202547, as reported to Eurojust
+    Member State                                         2023                     2024                     2025
+    Austria                                                 39                       64                     100
+    Belgium                                                 67                       62                       33
+    Bulgaria                                                  -                       1                        -
+    Croatia                                                  1                        -                        3
+    Czechia                                                   -                       2                        4
+    Denmark                                                  5                       11                      448
+    Estonia                                                   -                       -                        3
+    Finland                                                  5                        3                        1
+    France                                                  90                     133                      121
+    Germany                                                 63                       54                       36
+    Greece                                                   2                        -                       23
+    Hungary                                                  4                       15                       31
+    Italy                                                    5                       29                       31
+    Latvia                                                    -                       1                        1
+    Lithuania                                                 -                       -                        1
+    Malta                                                     -                       -                        1
+    Netherlands                                             46                       51                       52
+    Poland                                                    -                       -                        1
+    Portugal                                                  -                       2                        1
+    Romania                                                  1                        -                        1
+    Slovak Republic                                           -                       2                        -
+    Spain                                                   29                       54                       51
+
+
+46 The data for the previous years corresponds to the data reported in the respective EU TE-SAT reports.
+
+47 Eurojust received contributions containing information on convictions and acquittals for terrorist offences in
+
+2025 from the following EU Member States: Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland,
+France, Germany, Greece, Hungary, Italy, Latvia, Lithuania, Malta, the Netherlands, Poland, Portugal, Romania,
+Spain and Sweden. The numbers included in the statistics concern only concluded proceedings for terrorist
+offences. It does not include proceedings for hate crime, racism or xenophobia.
+48 The numbers for Denmark include final judgments only.
+
+
+                                                                                                               52
+                                                                     Europol Public Information
+
+ Sweden                                         1                          1                   6
+ Total                                       358                     485                     505
+
+
+
+
+Number of convictions and acquittals in 2025 per EU Member State and per
+type of terrorism, as reported to Eurojust
+ Member State   Jihadist   Right wing           Ethno-    Left wing and        Other/Not    Total
+                                        nationalist and        anarchist        specified
+                                             separatist
+ Austria             93             -                 2               3                2     100
+ Belgium             29            4                  -                -                -     33
+ Croatia               -           3                  -                -                -      3
+ Czechia              1            1                 1                                 1       4
+ Denmark              2            1                  -                -               1       4
+ Estonia               -           3                  -                -                -      3
+ Finland               -            -                1                 -                -      1
+ France              96           24                  -                -               1     121
+ Germany             24            5                 4                1                2      36
+ Greece                -            -                 -              14                9      23
+ Hungary               -            -                 -                -              31      31
+ Italy               14            2                  -               4               11      31
+ Latvia                -           1                  -                -                -      1
+ Lithuania             -            -                 -                -               1       1
+ Malta                1             -                 -                -                -      1
+ Netherlands         19            5                  -                -              28      52
+ Poland                -            -                 -                -               1       1
+ Portugal              -           1                  -                -                -      1
+ Romania              1             -                 -                -                -      1
+ Spain               30             -               21                 -                -     51
+ Sweden               6             -                 -                -                -      6
+ Total              316           50                29               22               88     505
+
+
+
+
+                                                                                                53
+                                                                             Europol Public Information
+
+
+Number of convictions and acquittals per EU Member State in 2025, as
+reported to Eurojust
+ Member State                       Convictions        Acquittals         Total          Acquittals In %
+ Austria                                    81                19           100                     19%
+ Belgium                                    32                 1            33                       3%
+ Croatia                                     3                  -            3                       0%
+ Czechia                                     4                  -            4                       0%
+ Denmark                                     4                  -            4                       0%
+ Estonia                                     3                  -            3                       0%
+ Finland                                     1                  -            1                       0%
+ France                                    114                 7           121                       6%
+ Germany                                    34                 2            36                       6%
+ Greece                                     17                 6            23                     27%
+ Hungary                                    31                  -           31                       0%
+ Italy                                      13                18            31                     58%
+ Latvia                                      1                  -            1                       0%
+ Lithuania                                   1                  -            1                       0%
+ Malta                                       1                  -            1                       0%
+ Netherlands                                24                28            52                     54%
+ Poland                                      1                  -            1                       0%
+ Portugal                                    1                  -            1                       0%
+ Romania                                     1                  -            1                       0%
+ Spain                                      36                15            51                     29%
+ Sweden                                      3                 3             6                     50%
+ Total                                     406                99           505                     20%
+
+
+
+
+Number of convictions and acquittals per type of terrorism in 2025, as reported
+to Eurojust
+ Type of terrorism                           Convictions     Acquittals      Total      Convictions In %
+ Jihadist                                           277             39            316              88%
+ Right-wing                                          44              6            50               88%
+ Ethno-nationalist and separatist                    22              7            29               76%
+ Left-wing and anarchist                              9             13            22               41%
+ Other/not specified                                 54             34            88               61%
+ Total                                              406             99            505              80%
+
+
+
+
+                                                                                                       54
+                                                                             Europol Public Information
+
+
+Amendments to national terrorism legislation in 2025
+Bulgaria
+
+The State Gazette, issue No 61 of 2025, published a Law Amending and Supplementing the
+Criminal Code. This law introduces a completely new Chapter One A to the Bulgarian Criminal
+Code, entitled ‘Terrorism’. The chapter consists of:
+
+   •      Section 1 – Actual terrorist crimes (Articles 114a to 114i); and
+   •      Section 2 – Non-actual terrorist crimes (Articles 114k to 114t).
+
+All provisions of the new Chapter One A entered into force on 31 January 2026.
+Furthermore, the Law Amending and Supplementing the Criminal Code introduces a legal
+definition clarifying when an act is considered to be committed for terrorist purposes within the
+meaning of the new Chapter One A. This definition is set out in Article 93(16) of the Criminal
+Code.
+
+Czechia
+
+An amendment to the Criminal Code implemented by Act No 270/2025 Coll. reduced the
+penalties for the crime of supporting and promoting terrorism under Section 312e of the Criminal
+Code, as well as for the crime of threatening with a terrorist attack under Section 312f of the
+Criminal Code.
+
+The previous amendment set the penalty for these crimes at five to fifteen years if they were
+committed through print, film, radio, television, a publicly accessible computer network, or other
+similarly effective means. In practice, this meant that online statements approving terrorist
+crimes or threats of terrorist attacks, even if not meant seriously, would be punishable by
+unconditional prison sentences. The penalty has now been reduced to 3 to 12 years and allows
+for the imposition of an alternative penalty not involving direct imprisonment, which is
+particularly appropriate for people with no previous convictions. The penalties have not been
+reduced for other more serious terrorist crimes, such as terrorist attacks, terrorism, participation
+in a terrorist group, or terrorist financing.
+
+Greece
+
+Law No 5232/2025 was adopted to transpose Directive (EU) 2024/1226. It introduced significant
+changes in the field of concealment and access to evidence, mainly focusing on the violation of
+EU sanctions and the management of criminal case files. In addition, Article 205 of Law No
+5187/2025 introduced a restrictive recast of Article 187C (Favourable measures) of the Greek
+Criminal Code, without broadening its scope.
+
+Hungary
+
+Government Decree No 297/2025 (IX. 26.) on the State of Emergency Rules for Actions Against
+Specific Persons and Organisations and Government Decree 465/2025. (XII.29.) on the National
+List Against Terrorism, the Restrictive Measures Against the Listed Persons and the Effect Thereof
+were issued. The former government decree provides for definition of the national terrorism list,
+the procedure for inclusion on the list, the amendment thereof and the imposable sanctions.
+Annex 1 to the latter government decree lists the terrorist groups, while Annex 2 includes the
+restrictive measures against the listed entities.
+
+
+
+                                                                                                    55
+                                                                                     Europol Public Information
+
+   In addition, the provisions of Act LII of 2017 on the Implementation of Financial and Asset-related
+   Restrictive Measures Ordered by the European Union and the UN Security Council were
+   amended. In line with the creation of the national terrorism list, the Act was supplemented by
+   Sections 7/A-7/C, which contain the most important rules and provisions regarding the list –
+   among them inclusion in the list, the rules of declaring someone a terrorist and the restrictive
+   measures and the enforcement thereof [Sections 11-13 of Act CXXV of 2025].
+
+   Most of the new provisions entered into force on 1 January 2026.
+
+   Italy
+
+   Legislative Decree No. 48 of 11 April 2025, converted into Law No. 80 of 9 June 2025 (Security
+   Decree), came into force on 12 April 2025. It introduced Article 270-quinquies.3 of the Criminal
+   Code Possession of material for the purpose of terrorism, which punishes with imprisonment for
+   two to six years anyone who, outside the cases referred to in Articles 270-bis and 270-quinquies,
+   knowingly obtains or possesses material containing instructions on the preparation or use of
+   lethal warfare devices referred to in Article 1, first paragraph, of Law No. 110 of 18 April 1975,
+   firearms or other weapons or harmful or dangerous chemical or bacteriological substances, as
+   well as any other technique or method for carrying out acts of violence or sabotage of essential
+   public services, for the purpose of terrorism, even if directed against a foreign state, an
+   institution or an international organisation.
+
+   Legislative Decree No. 95 of 30 June 2025, which entered into force on 10 August 2025,
+   converted with amendments into Law No. 118 of 8 August 2025, amended Italian anti-money
+   laundering legislation (Legislative Decree No. 231/2007) and the measures to combat terrorist
+   financing (Legislative Decree No 109/2007), imposing new responsibilities, particularly for the
+   non-profit sector. Among the various measures introduced, Article 11 contains supplementary
+   and corrective provisions for the prevention of money laundering and terrorist financing. The
+   Decree amends the following legislative acts:
+
+   1. Decree No 109/2007, which establishes measures to prevent, counter and suppress terrorist
+      financing and the activities of countries that threaten international peace and security,
+      pursuant to Directive 2005/60/EC. Accordingly, the Financial Security Committee ("Csf") is
+      designated as the central point of contact for requests from foreign states and international
+      organisations regarding the risk of terrorist financing of third sector entities (pursuant to
+      Article 4 of Legislative Decree No 117/2017, Third Sector Code).
+
+   2. Decree No 231/2007, which transposes the same Directive with reference to the prevention
+      of the use of the financial system for the purposes of money laundering and terrorist
+      financing, as well as Directive 2006/70/EC which contains implementing measures. The
+      definition of financing the proliferation of weapons of mass destruction is clarified, referring
+      to the provisions of Legislative Decree No 109/2007. The Minister of Economy and Finance
+      has been granted powers – following consultation with the Csf - to identify high-risk
+      countries, in addition to those already designated by the European Commission, pursuant to
+      Article 4 (4-bis) of Legislative Decree No 231/2007. The role of the CSF in the national risk
+      analysis associated with the financing of the proliferation of ‘weapons of mass destruction’49
+      has also been strengthened. This is achieved through three-yearly and extraordinary updates,
+      to be made available to obligated entities for more effective risk management.
+
+
+
+
+49 Understood as the risk of failure to apply, and the evasion of, targeted financial sanctions.
+
+
+                                                                                                            56
+                                                      Europol Public Information
+
+
+
+LIST OF ABBREVIATIONS
+AI       Artificial Intelligence
+AQ       Al-Qaeda
+AQAP     Al-Qaeda in the Arabian Peninsula
+CBRNE    Chemical, Biological, Radiological, Nuclear Explosives
+CSAM     Child Sexual Abuse Material
+CT       Counter Terrorism
+DDOS     Distributed Denial of Service
+DHKP-C   The Revolutionary People’s Liberation Party/Front (Devrimci Halk
+         Kurtulus Partisi/Cephesi
+E2EE     End-to-end Encryption
+ECTC     European Counter Terrorism Centre
+ESOCC    European Serious Organised Crime Centre
+EU       European Union
+EU IRU   European Union Internet Referral Unit
+FLNC     Fronte di Liberazione Naziunale Corsu
+FTF      Foreign Terrorist Fighters
+GCC      Ghjuventù Clandestina Corsa
+HSP      Hosting Service Provider
+HTS      Hay’at Tahrir al-Sham
+IED      Improvised Explosive Device
+IID      Improvised Incendiary Device
+IRA      Irish Republican Army
+IS       Islamic State
+ISKP     Islamic State Khorasan Province
+ISSP     Islamic State Sahel Province
+ISWAP    Islamic State West Africa Province
+JNIM     Jama’at Nusrat al-Islam wa al-Muslimin
+LEAs     Law Enforcement Authorities
+LLM      Large Language Model
+MS       Member States
+NATO     North Atlantic Treaty Organisation
+PKK      Kurdistan Workers’ Party/Partiva Karkerên Kurdistanê
+RAD      Referral Action Days
+TCO      Terrorist Content Online
+UAVs     Unmanned Aerial Vehicles
+VPN      Virtual Private Network
+
+                                                                             57
+                                          Europol Public Information
+
+
+
+
+Your feedback matters.
+By clicking on the following link or scanning the embedded QR
+code you can fill in a short user survey on the received
+strategic report.
+
+Your input will help us further improve our products.
+
+https://ec.europa.eu/eusurvey/runner/eus_strategic_reports
+
+
+
+
+                                                                 58
+
