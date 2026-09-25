@@ -463,18 +463,28 @@ ambiguity dies.
 Durability is **not** explained by the size of the physical event, the strength of the evidence, or the
 intensity of media attention. Five variables explain it, in rough order of power.
 
-**1. An institutional owner for a harm question.** Havana produced nine investigations, a permanent DoD CFT
+**1. An institutional owner for a harm question.** Havana produced twelve investigations, a permanent DoD CFT
 and HAVANA Act machinery because the alleged victims had institutional owners with budgets, statutory duties
 of care and political exposure. UAP produced AARO and a statutory reporting regime because Congress had
 already created the channel. Wind-turbine syndrome produced planning law because local government must
 decide. **5G produced almost nothing durable because no institution owned mast safety as a health question.**
 The HiPP case marks the bound: confirmed tampering with a named suspect produces no institutional expansion at
-all.
+all. **The sharpest demonstration is the H5N1/mpox inversion.** H5N1 was the higher-severity threat (global
+H5N1 case fatality 48%) and produced *durable agricultural* machinery but no public-health emergency; mpox
+clade Ib was the *lower*-severity event (case fatality ~0.2–0.5%) and produced a WHO PHEIC, Africa CDC's
+first continental emergency, and commitments of over $1bn and 5m doses — because WHO and Africa CDC had both
+the mandate and the incentive to keep the category alive. Severity did not determine durability; ownership
+did. The corollary is uncomfortable: mpox's continental alert **outlasted** WHO's global one by about four and
+a half months, and its institutional legacy is fragile (Africa CDC's $245m request only ~10% funded; ~724,000
+of 2.9m doses administered).
 
 **2. A decisive evidentiary test, available and run.** Recoverability collapses ambiguity. The 2023 balloon
 objects were recovered and identified within ten days; H5N1's milk scare collapsed when 0 of 60 PCR-positive
-samples had viable virus; the DRC's "Disease X" collapsed to malaria and malnutrition within weeks. Havana
-and UAP cannot close because their objects cannot be recovered or reproduced.
+samples had viable virus; the DRC's "Disease X" collapsed to malaria and malnutrition within weeks. Havana,
+UAP and COVID origins cannot close because nothing is recoverable or reproducible — and in the COVID case both
+the scientific panel (SAGO, June 2025, still favouring zoonosis) and the intelligence community (agencies
+split, with the CIA's January 2025 lab-lean resting on **no new intelligence**) are unable to terminate the
+question. **The test is not merely unavailable; where a result exists, it is contested.**
 
 **3. A plausible named mechanism that cannot be refuted.** "Sonic weapon"/"directed energy" gave Havana a
 causal agent; "insidious infrasound" gave wind-turbine syndrome one; "Disease X" gave preparedness one. A
@@ -565,6 +575,11 @@ supplying it.**
   only hard number and almost certainly understates institutional cost by an order of magnitude.
 - The 2026 Havana developments rest substantially on anonymous sourcing and should be treated as E-grade
   until documents or peer-reviewed testing appear.
+- **Re-source before publication**: the H5N1 vaccine dollar figures (CSL Seqirus ~$121m; Moderna
+  $176m then ~$590m; the $766m cancellation) and the January 2025 federal communications pause are
+  publisher- and headline-verified only — the article URLs did not resolve. The veterinarian serology
+  figure (3 of 150) is B-grade via AP rather than the CDC MMWR primary. WHO's 2026–27 budget figures
+  conflict between KFF (~$6.2bn) and Health Policy Watch (~$4.2bn target / ~$1.7bn gap).
 - **Unsourced and not citable**: "2024 syringes in baby food"; "2024–26 chocolate/sausage/milk tampering in
   Germany/Netherlands"; the A$500m strawberry figure is industry value, not measured loss; the "AMI ≈$23m"
   anthrax cleanup figure is contradicted by peer-reviewed accounting (AMI was "significantly less than $5m");
