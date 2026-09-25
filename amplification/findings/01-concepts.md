@@ -9,8 +9,7 @@ and institutions generate much of the disruptive effect themselves — the attac
 the target the disruption.
 
 **Method.** `web_search` is broken this session; discovery used news-RSS search, publisher site/API
-retrieval and direct document fetch. Confidence is **H/M/L**; **UNVERIFIED** marks unconfirmed
-material.
+retrieval and direct document fetch. Confidence is **H/M/L**; **UNVERIFIED** marks unconfirmed claims.
 
 ---
 
@@ -20,8 +19,9 @@ material.
 
 **Origin and claim.** Soviet. Lefebvre (1960s–70s) defines it as one adversary "handing over to the
 other the basis for decision-making" — substituting the enemy's motivational factors so he chooses a
-disadvantageous action. Canonical Western transmission: T. L. Thomas (US Foreign Military Studies
-Office); Chotikul (1985); Col. S. A. Komov supplies the operational taxonomy — distraction,
+harmful action. Canonical Western transmission: T. L. Thomas (US Foreign Military Studies
+Office); Chotikul (NPS technical report NPS55-86-013, 1986 — not the often-cited 1985 thesis);
+Col. S. A. Komov (1997) supplies the operational taxonomy — distraction,
 overloading, paralysis, **exhaustion**, deception, splitting, appeasement, intimidation,
 **provocation**. It targets the adversary's *decision procedure*, not his beliefs, so his own reasoning
 produces your objective; it assumes a **model of the enemy's decision-making**. **H**
@@ -87,14 +87,17 @@ population as uncontrolled co-producer**. **M**.
 
 ## 2. Concepts that fit partially
 
-**Cognitive warfare — Partial.** NATO-adjacent framing (NATO ACT; Chinese PLA cognitive-domain and
-Russian lineages overlapping reflexive control). **M** on the canonical NATO ACT text, **UNVERIFIED**
-at source here. It claims conflict is waged over cognition itself, whole-of-society, with
-neuroscience, social media and AI as instruments; the "black box problem" critique (*Small Wars
-Journal*, July 2026) notes "targeting cognition" is under-specified. **Misfit — the sharpest
-distinction here:** cognitive warfare contests **what people believe**; H1 engineers **what
-institutions do**. Belief is H1's instrument, not its objective, and H1's payoff can arrive in one
-news cycle rather than a prolonged legitimacy campaign. **M**.
+**Cognitive warfare — Partial.** The canonical text is du Cluzel, *Cognitive Warfare* (NATO ACT,
+2021): cognition and trust are the target, the individual is the weapon, and it frames Russian
+cognitive warfare as reflexive control rebranded. The Chinese lineage includes the
+"Three Warfares", PLA "cognitive domain operations", and — closest prior art for the AI version —
+SCSP (2024) on PLA "algorithmic cognitive warfare" using algorithms and LLMs for individualised
+influence. **H** du Cluzel; **M** PLA material. It claims conflict is waged over cognition itself,
+whole-of-society; the "black box problem" critique (*Small Wars Journal*, July 2026) notes "targeting
+cognition" is under-specified. **Misfit — the sharpest distinction here:** cognitive warfare contests
+**what people believe**; H1 engineers **what institutions do**. Belief is H1's instrument, not its
+objective, and H1's payoff can arrive in one news cycle rather than a prolonged legitimacy campaign.
+**M**.
 
 **Strategic signalling — Partial, and clarifying.** Schelling, *The Strategy of Conflict* (1960) and
 *Arms and Influence* (1966): the "threat that leaves something to chance"; brinkmanship as
@@ -143,34 +146,27 @@ disclosure). **Production scales; reach and persuasion do not.**
 
 **Classic disinformation — Poor.** H1 concerns *ambiguous true events* plus synthetic corroboration,
 not falsehood at scale. Fact-checking is the wrong counter for an unresolvable real event; base rates
-and uncertainty transparency are right. Collapsing H1 into "disinformation" is the field's most common
-analytical error.
+and uncertainty transparency are right. Collapsing H1 into "disinformation" is the field's commonest
+error.
 
 **Moral panic (Cohen 1972; Goode & Ben-Yehuda 1994) — Poor except at the endpoint.** Cohen's
-deviancy-amplification spiral and control-culture dynamic do describe over-reaction. But moral panic
-requires a **moral** dimension, a folk devil, sustained agenda-setting and a deviance frame.
-Ambiguous drone sightings are a safety/security panic, not a moral one, unless a folk devil emerges
-("the Russians", a scapegoated hobby pilot). Cohen himself warned the concept had become
-over-elastic. Do not deploy it for initiation. **H**.
+deviancy-amplification spiral does describe over-reaction, but moral panic requires a **moral**
+dimension, a folk devil, sustained agenda-setting and a deviance frame. Ambiguous drone sightings are
+a safety panic, not a moral one, unless a folk devil emerges. Cohen himself warned the concept had
+become over-elastic. Do not deploy it for initiation. **H**.
 
-**Hybrid warfare — Poor as an analytical tool.** Hoffman's 2007 Potomac Institute formulation is
-real, but "hybrid warfare" is criticised as over-broad and unfalsifiable, and the **"Gerasimov
-Doctrine" is a Western invention** — Galeotti coined it and later recanted ("I was just going for a
-snappy title… it's not a doctrine… So stop it, please!"); Gerasimov did not write the "nonlinear war"
-text (that is Chekinov & Bogdanov)
-(https://en.wikipedia.org/wiki/Russian_hybrid_warfare). Worse, it is applied to the European drone
-wave on **weaker evidence than its use implies**: IISS's "highly likely Kremlin campaign" finding is a
-think-tank judgement, and IISS notes **no European government has publicly attributed a UAV sighting
-to Russia** (https://www.iiss.org/research-paper/2026/06/russias-uav-campaign-over-europe/). **H**.
+**Hybrid warfare — Poor as an analytical tool.** Hoffman's 2007 Potomac Institute formulation is real,
+but "hybrid warfare" is criticised as over-broad and unfalsifiable, and the **"Gerasimov Doctrine" is a
+Western invention** — Galeotti coined it and later recanted ("I was just going for a snappy title…
+it's not a doctrine… So stop it, please!"); the "nonlinear war" text is Chekinov & Bogdanov's. Worse,
+it is applied to the European drone wave on **weaker evidence than its use implies**: IISS's "highly
+likely Kremlin campaign" finding is a think-tank judgement, and IISS notes **no European government
+has publicly attributed a UAV sighting to Russia**. **H**.
 
-**Perception management — Poor.** It is **not a current DoD term**: the last
-dictionary text (JCS Pub 1-02, 1989) reads "actions to convey and/or deny selected information and
-indicators to foreign audiences to influence their emotions, motives, and objective reasoning…",
-combining "truth projection, operations security, cover and deception, and psychological operations" —
-but it was **dropped in the 2010 reissue** and appears in neither the 2021, 2024 nor June 2025
-dictionaries. It is a **sender→message, foreign-audience** model with no concept of the audience
-manufacturing its own meaning; the 2002 Office of Strategic Influence episode shows the exposure risk.
-**H** on the dictionary record.
+**Perception management — Poor.** It is **not a current DoD term**: dropped from the dictionary in
+the **2010 reissue** and absent from the 2021, 2024 and June 2025 editions. Its model is
+sender→message to foreign audiences, with no concept of the audience manufacturing its own meaning.
+**H**.
 
 **Information laundering — Moderate, technique only.** Adam Klein's term describes moving material
 through progressively more reputable channels until provenance is obscured. Anthropic documents the AI
@@ -252,7 +248,7 @@ threat class is over-claiming, and that is what the evidence shows.**
    rather than commanders. **M/L**.
 4. **Synthetic corroboration at scale.** Presenting one ambiguous event as many *independent*
    witnesses converts an unresolvable incident into a well-attested one. Historically expensive; now
-   plausibly cheap. **M** capability, **L** deployed use against physical incidents.
+   plausibly cheap. **M** capability, **L** deployed use.
 
 **Explicit caution.** Claim 1 is a framing contribution, not a new mechanism; claims 2–4 are
 quantitative changes to known ones. **"Agentic threat amplification" names a configuration, not a new
@@ -284,9 +280,8 @@ the study's most important finding, and it is entirely pre-agentic.
 
 ## Sources
 
-Canonical works are cited inline by author and year. Retrieval URLs used directly:
+Works cited inline by author and year. Key retrieval URLs:
 
 - Kuran & Sunstein 1999 — https://chicagounbound.uchicago.edu/public_law_and_legal_theory/37 · Rid 2020 — https://hewlett.org/the-secret-history-of-disinformation-and-political-warfare-five-questions-for-thomas-rid/
-- Hegseth memo, 2 Dec 2025 — https://media.defense.gov/2025/Dec/08/2003839440/-1/-1/0/CHANGING-THE-TERM-MILITARY-INFORMATION-SUPPORT-OPERATIONS-BACK-TO-PSYCHOLOGICAL-OPERATIONS.PDF
-- Eady 2023 — https://www.nature.com/articles/s41467-022-35576-9 · CISA 2013 — https://www.cisa.gov/news-events/alerts/2013/03/29/dns-amplification-attacks
-- Anthropic Sept 2026 — https://www.anthropic.com/threat-intelligence-report-september-2026 · IISS 2026 — https://www.iiss.org/research-paper/2026/06/russias-uav-campaign-over-europe/
+- Thomas *JSLS* 2004 — https://www.tandfonline.com/doi/full/10.1080/13518040490450529 · du Cluzel, NATO ACT 2021 — https://innovationhub-act.org/wp-content/uploads/2023/12/20210113_CW-Final-v2-.pdf · SCSP 2024 — https://www.scsp.ai/wp-content/uploads/2024/11/Decoding-Chinas-AI-Powered-%E2%80%98Algorithmic-Cognitive-Warfare-Final.pdf
+- Hegseth memo 2 Dec 2025 — https://media.defense.gov/2025/Dec/08/2003839440/-1/-1/0/CHANGING-THE-TERM-MILITARY-INFORMATION-SUPPORT-OPERATIONS-BACK-TO-PSYCHOLOGICAL-OPERATIONS.PDF · Eady 2023 — https://www.nature.com/articles/s41467-022-35576-9 · Anthropic Sept 2026 — https://www.anthropic.com/threat-intelligence-report-september-2026 · IISS 2026 — https://www.iiss.org/research-paper/2026/06/russias-uav-campaign-over-europe/

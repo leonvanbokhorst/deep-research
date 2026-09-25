@@ -197,6 +197,19 @@ Stripping away the parts that existing concepts already cover, **three elements 
   **This is the correct place to locate the contribution.** Not "we found a new mechanism", but "**the mechanism is old, well-described and named — and nobody has connected it to the attacker, or asked what agents change**." That is a smaller claim than the hypothesis implies and a more durable one.
 - **The contested good shifts from belief to institutional behaviour.** Classic influence operations seek to change what people think. The mechanism examined here can succeed while changing nothing about what people think, provided it changes what institutions *do* under uncertainty. That is the analytically distinctive claim, and §5.4 shows it operating without any adversary present.
 
+**Where the novelty actually lives — and a necessary refinement to the reflexive-control fit.** Reflexive control has been rated **High** above, but on closer inspection it deserves a split rating, and the distinction is what positions this study correctly.
+
+- **Reflexive control supplies the *physical-feint logic*, not the amplification mechanism.** Its Komov taxonomy — distraction, paralysis, provocation — explicitly operates through **perceived physical threats**, which is why the fit is high for the "make the target react to an ambiguous stimulus" component.
+- **But reflexive control is human-decision-centric, deliberate, state-centric, and contains no AI and no emergent or self-amplifying claim.** It assumes a model of the adversary's command and a planning cycle. On the amplification half of the hypothesis it is **only a partial fit**.
+- **NATO's canonical cognitive-warfare framing does not close the gap either.** The Alliance's own Innovation Hub text (du Cluzel, 2021) frames Russian cognitive warfare as **essentially reflexive control rebranded**, with cognition and trust as the target and the individual as the weapon. That is a *belief*-centred model, not an *institution*-centred one.
+
+**The under-theorised conjunction is therefore this:** *ambiguous physical incidents* plus a target population *supplying the disruption itself* through *autonomous AI agents*. **Neither reflexive control nor cognitive warfare covers it.** Reflexive control has the feint but not the amplification; cognitive warfare has the cognition target but not the physical-ambiguity substrate or the institutional mechanism.
+
+That is where this study positions its contribution — precisely and narrowly. Not "a new threat class", and not "a new mechanism", but **an unexamined intersection of three things that are each well understood in isolation.**
+
+*(The nearest named antecedent for the AI element specifically is the literature on PLA "algorithmic cognitive warfare" — algorithms, recommender systems and large language models used for individualised influence — which is the closest prior art located for the AI-amplified component.)*
+
+
 ### 3.5 Fit matrix
 
 | Concept | Origin | Engineering vs emergent | Fit | Distinct contribution to H1 |
