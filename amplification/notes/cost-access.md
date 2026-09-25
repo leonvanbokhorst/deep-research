@@ -28,11 +28,37 @@
 - `[INFERRED]` — my own arithmetic, conversion or estimate from verified inputs. The inputs are given.
 - `[UNVERIFIED]` — could not load a live source; recalled or second-hand. Treated as a lead, not a fact.
 
-**A structural caveat that matters for the whole brief:** three of the standard academic APIs
-(OpenAlex, Semantic Scholar, arXiv) returned HTTP 429 rate-limit errors partway through this session
-because several parallel research threads shared one IP. Only Crossref and direct publisher fetches
-remained reliable. This is itself a small illustration of §2.3: **access to evidence is rate-limited and
-the limit is per-IP, not per-user.**
+**A structural caveat that matters for the whole brief:** several standard evidence-access routes
+(OpenAlex, Semantic Scholar, arXiv, the `r.jina.ai` reader proxy) returned HTTP 429 rate-limit errors during
+this session because parallel research threads shared one IP, and several publishers and `bls.gov` block
+automated retrieval outright. Only Crossref, Europe PMC and direct publisher fetches remained reliable.
+This is itself a small illustration of §2.3: **access to evidence is rate-limited and the limit is per-IP,
+not per-user.**
+
+---
+
+## 0b. The twelve numbers that matter most
+
+| # | Number | What it means | Grade |
+|---|---|---|---|
+| 1 | **$0.00038** | Generation cost of one 500-word post (OpenAI gpt-6-luna) | A (input) |
+| 2 | **$0.015 / $0.200** | X API cost per post / per post **with a URL** — a 13.3x link penalty | A |
+| 3 | **$0.08–$1.02** | SMS-verified account, Meta/X/Instagram → WhatsApp (Cambridge COTSI, *Science*) | A/B |
+| 4 | **+12–15%** | Telegram/WhatsApp account price rise in the 30 days before 61 national elections | B |
+| 5 | **13x/year** | Capability-adjusted fall in cost of AI performance since 2023 (Epoch, Sep 2026) | B |
+| 6 | **75x/yr vs 4.7x/yr** | Same decline at SOTA debut vs two years later — the frontier/mature split | B |
+| 7 | **~0x/yr** | Frontier *per-token* price change (o1 = GPT-3's $60/1M output) | B/E |
+| 8 | **+~40%** | Rented H100 price change Mar 2026 — the 2026 reversal | C (second-hand) |
+| 9 | **1.8x in 16 years** | CAPTCHA-solving price decline — the defensive cost that did NOT collapse | B (preprint) |
+| 10 | **$3.00–4.80/hr vs <$2.00/hr** | Cloned-voice agent vs Philippine human agent — **AI loses** | A/C |
+| 11 | **g = 0.02** | Pooled LLM-vs-human persuasiveness — but I² = 75.97% | B |
+| 12 | **d = 1.15, no decay at 2 months** | Costello 2024 AI dialogue effect on conspiracy belief | B |
+
+**Companion research files** (full detail, per-claim grading, retrieval provenance):
+- `amplification/research/compute-costs.md` — GPU rental, self-hosting, cost curves, electricity
+- `amplification/research/media-human-costs.md` — image/video/voice pricing, human labour baselines
+- `amplification/research/access-integrity-economics.md` — account markets, platform APIs, integrity economics
+- `amplification/research/persuasion-evidence.md` — the full effect-size review with CIs and DOIs
 
 ---
 
@@ -388,10 +414,40 @@ assumption is **"expensive frontier, permanently cheap floor."**
 | Lyria 3 | 30-second clip | $0.04 |
 | Gemini 3 Pro Image | image output | $120.00 / 1M tokens |
 
-> ⚠️ **Unit ambiguity, unresolved:** Google prices Veo "per 1 count". I could **not** verify in-session
-> whether one "count" equals one ~8-second clip or one second. If a count is an 8-second clip, Veo 3.1
-> video+audio is **$0.05/second**; if a count is one second, it is $0.40/second — an 8x difference. **Do not
-> quote a Veo $/second figure without resolving this.** Mark as `[INFERRED]` either way.
+> ⚠️ **Unit conversion — an assumption, not a fact.** Google prices Veo **"per 1 count."** The
+> **per-generation price is Grade A (verified live)**. The conversion to $/second **assumes one count ≈ one
+> 8-second clip** (Veo 3/3.1 default) and is therefore **Grade D**. Under that assumption: Veo 3.1
+> video+audio = **$0.05/second**; Veo 3.1 Lite 720p = **$0.00625/second**. **If one count were one second
+> instead, these rise 8x.** Quote the per-generation price, or state the 8-second assumption.
+
+**Cheapest verified image, video and voice floor, September 2026** `[VERIFIED-LIVE]`
+(consolidated from a dedicated media-pricing thread; sources: Luma, Recraft, Black Forest Labs, Runway, Pika,
+ElevenLabs, OpenAI, Google, xAI)
+
+| Item | Cheapest verified | Mainstream |
+|---|---|---|
+| **Image** | **$0.003** (Seedream 1K via Luma) | **$0.007** Recraft V4.1 Flash · $0.014 FLUX.2 klein 4B · $0.02 Imagen 4 Fast · $0.04 Imagen 4 · $0.06 Imagen 4 Ultra. OpenAI GPT Image 2: **$0.006 low / $0.053 med / $0.211 high** |
+| **1,000 images** | **$3** | $7–$60 |
+| **Video w/ audio, $/sec** | **$0.00625** (Veo 3.1 Lite 720p, 8s assumption) | $0.05/s Veo 3.1 · $0.084/s Minimax H3 · $0.147/s Kling 3.0 1080p+audio · $0.17/s FLUX 3 HD · $0.288–$0.096/s Runway Gen-4.5 |
+| **60-second clip** | **$0.38** | $3.00 (Veo 3.1) → $34 (Seedance 2.5 1080p at $0.573/s) |
+| **Cloned-voice agent, $/hr** | **$3.00** (OpenAI gpt-live-1, $0.05/min) | $4.80/hr xAI speech-to-speech ($0.08/min); ElevenLabs Agents $0.08/min. Excludes telephony/orchestration |
+| **Voice cloning, entry** | **$6/month** | $22/month (professional grade) |
+
+**TTS, per 1M characters** `[VERIFIED-LIVE]`: xAI **$15**; Google Cloud — Standard $4, Chirp 3 HD $30,
+**Instant custom voice $60**, Studio $160; ElevenLabs API list **$50–$100**, but an effective subscription
+rate of **$181.82–$200**. *Note the inversion: ElevenLabs' subscription tier is ~2–4x its own API list price
+per character — headlines quote the cheap entry point.*
+
+> **⚠️ Sora has NO verifiable current price.** OpenAI's own September 2026 pricing and docs list **no video
+> model at all**, and third-party headlines report Sora's withdrawal (Decrypt, 1 Apr 2026, "OpenAI's Sora
+> Exits the Market"; a trade report dates a Sora 2 shutdown to 24 Sep 2026). **Do not quote a Sora $/second
+> figure.** None could be verified.
+
+**Not verified despite attempts**: Midjourney (403), Stability AI (client-side SPA, no server-rendered
+prices), Adobe Firefly (403), Ideogram (JS), fal.ai/Replicate (JS), Kling and MiniMax first-party (JS —
+only Luma *resale* comparables obtained), Azure TTS (renders `$-` placeholders; retail-prices API returned
+zero items), PlayHT (blocked), Speechify (JS). Note also that **Luma's resale price for Veo 3.1 ($0.42/s
+silent) is ~8.4x Google's own direct price** — resale carries a large markup.
 
 **xAI Grok Imagine** `[VERIFIED-LIVE]` — <https://docs.x.ai/docs/pricing.md>
 
@@ -445,56 +501,99 @@ Effective TTS rate by tier: **~$0.36 / 1,000 characters** (Starter) falling to *
 > $0.05/min and xAI speech-to-speech at $0.08/min ($4.80/hr).
 
 **Derived media costs** `[INFERRED]`:
-- 1,000 images: **$20** (Grok Imagine base) / **$40** (Imagen 4) / **$60** (Imagen 4 Ultra).
-- 1 hour of generated video at Grok's $0.050/sec = **$180**; at $0.080/sec = **$288**.
-- 1 hour of cloned-voice real-time speech at $0.08/min = **$4.80**.
-- 1 hour of output at OpenAI gpt-live-1 ($0.05/min) = **$3.00**.
+- 1,000 images: **$3** at the verified floor (Seedream via Luma) / **$7** (Recraft) / $20 (Grok Imagine
+  base) / $40 (Imagen 4) / $60 (Imagen 4 Ultra).
+- 1 hour of generated video: **$22.50** at the verified floor (Veo 3.1 Lite 720p, $0.00625/s) / **$180** at
+  Grok's $0.050/s / **$288** at $0.080/s / up to **$2,063** at Seedance 2.5's $0.573/s.
+- 1 hour of cloned-voice real-time speech: **$3.00** (OpenAI gpt-live-1, $0.05/min) / **$4.80**
+  (xAI speech-to-speech, $0.08/min).
+- **1M characters of synthetic speech**: xAI **$15** / Google Instant custom voice **$60** /
+  ElevenLabs API list **$50–$100** / ElevenLabs subscription-implied **$181.82–$200**.
 
-> **Gap:** the entry price of a *voice clone* (ElevenLabs / OpenAI voice tiers) and current Midjourney,
-> Runway, Sora and Kling subscription-to-unit conversions were assigned to a parallel thread and are **not
-> yet in these notes**; see §4 for status.
+> **The media floor is now so low that media is not a cost constraint.** Generating 1,000 images costs
+> **$3–$60** and an hour of synthetic video with audio costs **$22.50–$288** — against a verified
+> generation floor for text of **$0.00038** per post. **Distribution and identity remain the binding
+> constraints (§2).**
 
-### 1.6 The human baseline
+### 1.6 The human baseline — and a cost inversion that matters more than the headline
 
-**Contact-centre labour (offshore) — the strongest human anchor available.** `[GRADE C — headline verified, body blocked]`
-**EL PAÍS English, 14 March 2026: "Philippines, the call-center capital: Taking a deluge of calls for under
-$2 an hour."** The headline figure is **under $2/hour** for Philippines contact-centre work — the classic
-offshore destination. I could not load the article body (the guessed URL 404'd and `english.elpais.com`
-returns **HTTP 403** to automated clients), so the number is verified only as the publication's own headline
-claim. **Even so, the comparison is stark: one hour of offshore human call-centre labour (~$2) costs about
-the same as 33–2,800 full months of frontier-model persona inference (§1.2), depending on tier.**
-`[INFERRED arithmetic]`
-Corroborating lead: **Fortune, 29 Aug 2026, "The AI boom hasn't stopped U.S. companies from hiring cheap
-offshore workers."** `[GRADE C headline]`
+#### Official US wage anchors `[VERIFIED-LIVE, GRADE A]`
+Source: **O*NET / BLS Occupational Employment and Wage Statistics, 2025** (live pages; `bls.gov` itself
+blocks automated access with HTTP 403, but O*NET republishes the same series and loaded cleanly).
 
-**Freelance writing rates, 2026.** Lead: **Mediabistro, 6 March 2026, "Freelance Writing Jobs & AI in 2026:
-Real Data"** — likely to carry per-word rates and the AI impact on them. `[NOT RETRIEVED — URL guess 404'd]`
-Related lead: **DemandSage, "19 Freelance Statistics 2026"** (3 Apr 2026). `[NOT RETRIEVED]`
+| Occupation | Median hourly | Median annual |
+|---|---|---|
+| **Writers and Authors** (27-3043.00) | **$36.98** | $76,910 |
+| **Public Relations Specialists** (27-3031.00) | **$35.94** | $74,750 |
+| **Customer Service Representatives** (43-4051.00) | **$21.53** | $44,770 |
 
-**Content-farm article rates.** Leads not yet converted to numbers:
-- **Futurism, 17 Sep 2026:** "How Three Brothers Built an AI Slop Empire by Buying Legitimate News Sites
-  and Turning Them Into Zombie Content Farms That They Say Get **50 Million Page Views per Month**." — a
-  large-scale content-farm operation of the exact type the brief is concerned with, with a self-reported
-  traffic figure. `[GRADE C headline]`
-- **The Washington Post, 1 March 2026:** "An Ohio newspaper has a new star writer. It isn't human."
-  `[GRADE C headline]`
-- **Vocal, 10 Feb 2026:** "For Freelance Writers, Content Farms Aren't a Thing of the Past." `[GRADE C headline]`
-- **The Guardian, 27 Dec 2025:** "More than **20% of videos shown to new YouTube users are 'AI slop'**,
-  study finds." `[GRADE C headline — useful exposure/volume datapoint]`
-- **OpenAI, 1 Feb 2026:** "Operation 'Fish Food': Russia-origin content farm activity" — a platform
-  takedown report; worth mining for account counts and any cost figures. `[GRADE A source, not yet read]`
+**Fully-loaded adjustment** `[GRADE A wage / GRADE D loading ratio]`: I could not verify the current BLS
+Employer Costs for Employee Compensation benefits ratio live. Using the commonly cited ECEC structure
+(benefits ≈ 29.6% of total compensation, so fully-loaded ≈ wage × 1.42): **customer-service agent ≈
+$30.57/hour** (~$63,600/yr at 2,080 hrs) and **PR specialist ≈ $51.04/hr ≈ $8,845/month**. The only
+live-verified aggregate anchor is that private-industry total compensation averaged **$46.89/hour worked**
+in June 2026 (BLS, 17 Sep 2026 headline) — a $30.57 figure for a below-average-wage occupation is consistent
+with it, but **the ×1.42 derivation is mine and the ratio is recalled.**
 
-> **Gap, stated plainly.** The **freelance per-word rate, the PR agency monthly retainer, the US
-> contact-centre loaded hourly cost and the per-article content-farm rate are NOT established in these
-> notes.** `www.bls.gov` blocks automated retrieval (HTTP 403), and EL PAÍS, citybiz and the European
-> Business Review all refused automated fetches. **Anyone completing this brief must source these from a
-> human-browsed session.** The one solid anchor is the EL PAÍS headline figure of **under $2/hour** for
-> offshore contact-centre labour.
->
-> **However, the comparison that matters most is already computable from verified material**, and it does
-> not depend on the human baseline at all: the *platform access* cost in §2.2 ($0.015–$0.200 per post)
-> exceeds the *generation* cost ($0.00038–$0.038) by **5x to 524x**. Generation is not the expensive part
-> of an influence campaign; distribution, identity and verification are.
+#### Offshore labour — the decisive comparison `[GRADE C]`
+- **Philippines contact-centre work: under $2.00/hour.** EL PAÍS English, 14 Mar 2026: *"Philippines, the
+  call-center capital: Taking a deluge of calls for under $2 an hour."* Headline verified via Google News
+  RSS; **the article body was not retrievable** (guessed URL 404; publisher returns 403).
+- **Philippines contract knowledge work: $874/month ≈ $5.04/hour.** *Rest of World*, 2025, "The Philippines
+  is betting on automation and AI to keep its outsourcing edge" `[VERIFIED-LIVE]` — a remote contractor paid
+  *"$874 per month — about 30% less than the American minimum wage for full-time work."* `[INFERRED: $874 ÷
+  173.3 hrs]` Same article: building AI agent systems costs *"$10,000 for a basic chatbot to $300,000 for an
+  enterprise-level autonomous system"* — a contractor's estimate quoted in journalism. `[GRADE C/E]`
+
+#### ⭐ THE COST INVERSION — the most decision-relevant finding in this section
+
+| Option | Cost per conversational hour |
+|---|---|
+| **Cloned-voice AI agent** (model/runtime only) | **$3.00–$4.80** |
+| **US human agent** (fully loaded) | **$30.57** |
+| **Philippines human agent** | **under $2.00** |
+
+**Synthetic voice agents beat US labour by ~6–10x but currently LOSE to Philippine labour by 1.5–2.4x.**
+`[INFERRED from the sources above]` The naive framing "AI makes influence cheap" is therefore
+**wrong in an important specific way**: for the conversational-labour component, the binding benchmark is
+**offshore human labour, not US labour**, and on that benchmark AI is not yet cheaper. Any brief that
+compares AI costs to US salaries will overstate the cost advantage. **The correct comparators are Philippine
+and Kenyan contractors.**
+
+#### Written content — the ratio is four to five orders of magnitude
+- Against the BLS Writers and Authors median, one hour of human writing costs **$36.98** (median) or
+  **~$52.51** fully loaded — versus **$0.00038** for a 500-word post on gpt-6-luna (§1.2).
+  **Ratio: ~4–5 orders of magnitude on generation cost alone.** `[INFERRED]`
+- **Content-farm writer headcount collapse — the clearest documented labour-substitution case.**
+  **Futurism, 17 September 2026** `[VERIFIED-LIVE, GRADE C]`: *Brown Brothers Media* AI-slop empire —
+  **60+ active writers (Dec 2023) → ~40 (May 2024) → ~20 (Aug 2024) → 12 (Dec 2024), with all 12 said to be
+  using AI.** Only 3 of the original 60 writers plus one editor remained involved. Writers were **"mostly
+  Filipinos"** with **no formal contracts**; **50+ fake writer personas**; **50M+ page views/month claimed**
+  (Similarweb: 64.7M visits/month). **No per-article rate was disclosed.**
+- **⚠ The "$1–$20 per article" human content-farm rate widely quoted in this brief could NOT be traced to
+  primary reporting.** Treat the specific range as `[UNVERIFIED]`. What *is* documented is the headcount
+  collapse above and the exposure volume (below).
+
+#### PR agency retainers `[GRADE E — vendor advertorial]`
+**$5,000–$10,000+/month** for traditional PR agencies serving small business (6–12-month lock-ins);
+**$7,500–$15,000/month minimum** for a startup engaging a full-service agency (5WPR, Edelman).
+Source is a **promotional placement for FameHero**, a vendor explicitly positioned as replacing retainers —
+so the ranges are **vendor-framed advocacy, not neutral survey data**. Independent corroboration by
+arithmetic: one fully-loaded US PR specialist = **$8,845/month**, so the claimed range corresponds to
+roughly **0.85–1.7 FTE** of fully-loaded staff. **Internally consistent, which raises confidence despite the
+Grade E source.** `[INFERRED corroboration]`
+
+#### Exposure and volume context `[GRADE C]`
+- **The Guardian, 27 Dec 2025**: *"More than 20% of videos shown to new YouTube users are 'AI slop', study
+  finds."* A useful volume datapoint even without the effect size.
+- **The Washington Post, 1 Mar 2026**: *"An Ohio newspaper has a new star writer. It isn't human."*
+- **Vocal, 10 Feb 2026**: *"For Freelance Writers, Content Farms Aren't a Thing of the Past."*
+
+> **Gap, stated plainly.** The **freelance per-word rate on Upwork/Fiverr** and the **UK contact-centre
+> loaded hourly cost** were **not obtainable**: `upwork.com`, `fiverr.com`, `ziprecruiter.com` and
+> `glassdoor.com` all return **HTTP 403** to automated clients, ContactBabel was unreachable, and the Tow
+> Center / CJR pink-slime reporting returned **404**. **These need a human-browsed session.** The US BLS
+> series (via O*NET) and the two offshore figures above are the solid anchors.
 
 ---
 
@@ -677,17 +776,35 @@ consistent with the press framing — but I did not load the Verge/TechCrunch bo
 $0.015 standard rate gives **+1,233%**. Both are correct against their respective baselines; quote which
 baseline you use. `[INFERRED arithmetic from verified prices]`
 
-**Other platform APIs:**
-- **TikTok** — Content Posting API (Direct Post) documentation live, last updated **4 August 2026**;
-  requires app review and a `video.publish` scope; no per-post fee published, i.e. the friction is
-  *approval*, not price. `[VERIFIED-LIVE]` <https://developers.tiktok.com/doc/content-posting-api-get-started>
-- **Meta Graph API** — the rate-limiting documentation page returned **HTTP 400** ("Sorry, something went
-  wrong") on fetch. `[FAILED]`
-- **Reddit API** — the dev API documentation page loads, but I did not extract the current commercial
-  price. The historically reported figure is **$0.24 per 1,000 API calls** (2023). `[UNVERIFIED for 2026]`
-- **Google** — the Gemini API pricing page now forces an **OAuth sign-in redirect loop**
+**Other platform APIs and the *non-price* friction** `[all VERIFIED-LIVE unless noted]`:
+- **TikTok** — Content Posting API (Direct Post) docs live, last updated **4 August 2026**; requires app
+  review and a `video.publish` scope. **No per-post fee is published — the friction is *approval*, not
+  price.** Access is gated by **approval plus domain verification**. <https://developers.tiktok.com/doc/content-posting-api-get-started>
+- **YouTube Data API** — `search.list` and `videos.insert` are **each capped at 100 calls/day**. For a
+  defender or researcher this is a severe ceiling: **100 posts/day of publish capacity, or 100 searches/day.**
+- **Reddit** — the **Developer Terms require a separate agreement for commercial use or use above the rate
+  limit, and cap liability at $100.** The numeric commercial rate could not be loaded (Cloudflare 403), so
+  **the widely quoted $0.24 per 1,000 calls figure is recorded here as RECALLED and UNVERIFIED for 2026.**
+- **Meta** — the **Inauthentic Behaviour / Coordinated Inauthentic Behaviour policy text was retrieved
+  verbatim** from `transparency.meta.com` (requires the `/en-gb/` path and a Googlebot user-agent), so the
+  prohibition is documented as primary. **Meta's Graph rate-limit documentation returned HTTP 400 on every
+  developer path attempted** — the numeric limits are a gap.
+- **X / Twitter** — the **automation policy page returned 403**; the pricing and rate-limit docs did load
+  (above). The **read cap of 3,000,000 posts/month equates to ~$15,000/month at $0.005 per post read.**
+  `[INFERRED arithmetic]`
+- **EU DSA** — the **transparency database operates a statements-of-reasons regime behind an onboarding
+  gate**; aggregate figures are not openly machine-readable without registration. `[VERIFIED-LIVE observation]`
+- **Google** — the Gemini API pricing page forces an **OAuth sign-in redirect loop**
   (`ai.google.dev/gemini-api/docs/pricing` → `oauth2authorize` → `accounts.google.com` → back). A machine
   client cannot read Google's own Gemini prices without authenticating. `[VERIFIED-LIVE observation]`
+- **LinkedIn API** — not retrieved. `[FAILED]`
+
+> **The pattern across platforms:** for defenders and researchers, the friction is increasingly **identity,
+> approval and registration gating** rather than price. TikTok gates on approval, YouTube on a 100-call/day
+> quota, the EU DSA on onboarding, Reddit on a separate commercial agreement, and Google on OAuth. **This is
+> a genuine and underexamined asymmetry: the same gates that inconvenience a defender also inconvenience an
+> adversary, but the adversary can substitute account acquisition — at $0.08–$0.10 per account — for the
+> access a defender cannot buy.**
 
 ### 2.3 The economics of defence and the cost asymmetry
 
@@ -728,13 +845,31 @@ the direction of published corporate decisions rather than on a single contested
   `[GRADE C headline]` — corroborates the COTSI finding that Telegram is the expensive, election-sensitive
   end of the account market.
 
-#### Published integrity headcount and budget figures
+#### Hard numbers on integrity contraction and regulatory cost
 
-> **Gap — not established.** Reliable 2024–2026 integrity **headcount and budget** figures for
-> Meta / Google / TikTok / X, and the EU DSA transparency-database numbers, were **not retrieved** in this
-> session. A parallel thread was working on them and had not reported by the time of writing. **Do not
-> quote an integrity-budget figure from these notes.** The DSA transparency reporting obligation is the
-> right place to look, and the Commission's own findings are the authoritative source.
+- **⭐ 439 UK trust-and-safety redundancies at TikTok**, announced **October 2025**, while TikTok's
+  **UK/Europe revenue grew 40%** — with **AI plus Kenya/Philippines offshoring** named in the signatories'
+  letter. Source: **The Guardian, 13 October 2025** `[VERIFIED-LIVE, GRADE C]`. **This is the single
+  best-documented instance of integrity capacity being cut while the platform grew** — it is the concrete
+  case behind the "direction of travel" table above.
+- **EU fined X €120m (~$140m) on 5 December 2025** over the "deceptive" blue checkmark.
+  `[METADATA-ONLY, triply sourced — GRADE C]` Note the ratio: a **€120m regulatory fine** against a platform
+  where a link-bearing post costs **$0.20** and an account costs **$0.10**. The fine is a rounding error
+  against operating at scale, and lands on the platform, not the operator.
+- **Global disinformation cost estimates are soft — do not use them as anchors.** The circulating
+  **"$78 billion"** figure could **not be traced to any primary source** and should be treated as
+  unattributable. The best-located alternative is a **$417bn** estimate from **Sopra Steria**, graded
+  **E (vendor interest — a consultancy selling counter-disinformation services)**. **Both are soft; neither
+  should appear in the brief without that caveat.**
+- **⚠️ NO cost-per-takedown figure exists** in any source reachable in this session. This is Part C's single
+  largest gap. Deriving it would require the **DSA Transparency Database's onboarding-gated aggregates** —
+  i.e. the number is *computable in principle but not publicly available*. **State this as a gap rather than
+  estimating it.**
+
+> **Gap — headcount and budget totals.** Reliable 2024–2026 **global integrity headcount and budget**
+> figures for Meta / Google / TikTok / X were **not retrieved**. Meta Graph rate-limit docs returned HTTP 400
+> on every path; X's automation policy returned 403. **Do not quote an integrity-budget total from these
+> notes.** The direction of travel (contraction) is well-supported; the absolute level is not.
 
 #### One empirical asymmetry observed first-hand in this session
 
@@ -746,103 +881,304 @@ the US Bureau of Labor Statistics (403, explicit anti-bot policy), and four Clou
 
 **The cost of producing content is near zero and unmetered. The cost of retrieving and verifying evidence is
 metered, per-IP, shared, and actively defended.** Any defender doing open-source analysis at even modest
-scale will meet an access wall before an adversary meets a cost wall. This is worth stating in the brief as
-a concrete, reproducible observation rather than a rhetorical claim — it is a small instance of exactly the
-asymmetry the brief is about, and it points at a specific policy ask: **public-interest research access
-quotas, not just content-removal obligations.**
+scale will meet an access wall before an adversary meets a cost wall. This is a concrete, reproducible
+observation rather than a rhetorical claim — it is a small instance of exactly the asymmetry the brief is
+about, and it points at a specific policy ask: **public-interest research access quotas, not just
+content-removal obligations.**
 
 ---
 
 ## TOPIC 3 — Are audiences more resilient than assumed?
 
-All items below are `[GRADE B]` and were verified this session by retrieving the abstract from the
-publisher record via Crossref. Where I could not obtain a confidence interval, I say so explicitly rather
-than estimating one.
+**Sourcing note.** This section was built by a dedicated literature thread that retrieved **full text or
+publisher PDFs** for the eight most important papers and abstract-level records for the rest, working
+around session-wide 429 rate-limiting on OpenAlex, Semantic Scholar and arXiv by using **Crossref, Europe
+PMC full-text XML and publisher PDFs**. Where an effect size could not be retrieved, that is stated
+explicitly rather than estimated. All grades are **B** unless noted.
 
-### 3.1 The null / minimal-effects evidence
+### ⚠️ FOUR CORRECTIONS TO THE COMMON CITATION PRACTICE — propagate these
 
-**Bail et al. 2020, PNAS** — `[VERIFIED-LIVE abstract]`
-"Assessing the Russian Internet Research Agency's impact on the political attitudes and behaviors of
-American Twitter users in late 2017." *PNAS* **117**(1):243–250. DOI `10.1073/pnas.1906420116`
-(online 25 Nov 2019; issue 2020). Eight authors.
+1. **"On the Conversational Persuasiveness of Large Language Models" is SALVI et al., not Hackenburg &
+   Margetts.** Hackenburg & Margetts wrote the *microtargeting* PNAS paper (a *null* on targeting).
+   These are distinct studies with **opposite** findings on targeting.
+2. **There is NO separate Costello/Pennycook/Rand conspiracy RCT in *Science Advances* or *JEP:General*.**
+   Only the *Science* 2024 paper (`10.1126/science.adq1814`) and its PsyArXiv preprint exist. **Do not cite
+   one.**
+3. **Eady et al. 2023 is an explicit NULL with equivalence bounds — not "a small but detectable
+   association."** Characterising it as a small positive effect **misrepresents the paper**.
+4. **Salvi et al. 2025 carries an Author Correction** in *Nature Human Behaviour*, **3 Sep 2026**
+   (`10.1038/s41562-026-02588-0`). The DOI was confirmed but **the correction's content could not be
+   retrieved** — verify before treating the 64.4% / +81.2% figures as settled.
 
-- **Design:** longitudinal data on the attitudes and online behaviour of **N = 1,239 Republican and
-  Democratic Twitter users in late 2017**, merged with non-public Twitter data about the IRA; analysed with
-  Bayesian regression tree models.
-- **Finding:** *"we find no evidence that interaction with IRA accounts substantially impacted 6
-  distinctive measures of political attitudes and behaviors over a 1-mo period."*
-- **Who was exposed:** interaction with IRA accounts was *most common among respondents with strong
-  ideological homophily within their Twitter network, high interest in politics, and high frequency of
-  Twitter usage.*
-- **Authors' own interpretation:** *"Russian trolls might have failed to sow discord because they mostly
+### 3.1 The null / minimal-effects evidence — real and, unusually, well-bounded
+
+**Bail et al. 2020, PNAS** — `[VERIFIED: Europe PMC full text PMC6955293 + Crossref]`
+*PNAS* **117**(1):243–250. DOI `10.1073/pnas.1906420116` (online 25 Nov 2019; issue 7 Jan 2020).
+- **Design:** longitudinal attitudes (two surveys, Oct–Nov 2017, ~1-month window) for **N = 1,239**
+  Republican and Democratic Twitter users, merged with non-public Twitter IRA data; Bayesian regression
+  tree / Bayesian Causal Forest models. The estimand is the effect of **interacting with** IRA accounts,
+  not mere exposure.
+- **Finding (verbatim):** *"we find no evidence that interaction with IRA accounts substantially impacted
+  6 distinctive measures of political attitudes and behaviors over a 1-mo period."* The Fig. 2 caption
+  states interaction "has no significant effect on all 6 outcomes" at 95% credible intervals.
+- **Numeric ATTs and CIs: NOT retrieved.** Do not quote a Bail effect size.
+- **Who was exposed:** strong ideological homophily, high political interest, high Twitter frequency.
+- **Authors' interpretation:** *"Russian trolls might have failed to sow discord because they mostly
   interacted with those who were already highly polarized."*
-- **Stated limitation (important for honest use):** *"our inability to determine whether IRA accounts
-  influenced the 2016 presidential election."*
-- *Effect size / CI: not retrieved — the paper reports Bayesian model results rather than a single
-  headline d.*
+- **Stated limitation:** cannot determine whether IRA accounts influenced the **2016 election** (panel is late 2017).
 
-**Eady et al. 2023, Nature Communications** — `[VERIFIED-LIVE abstract]`
-"Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US
-election and its relationship to attitudes and voting behavior." *Nature Communications*, 9 January 2023.
-DOI `10.1038/s41467-022-35576-9`.
+**Eady et al. 2023, *Nature Communications*** — `[VERIFIED: publisher PDF, 868 lines]`
+*Nature Communications* **14**:62. DOI `10.1038/s41467-022-35576-9`, 9 Jan 2023. **N = 1,496** US
+respondents (YouGov three-wave panel) linked to Twitter timelines; **786,634** foreign-influence posts identified.
 
-Four findings, quoted:
-1. **Concentration of exposure: "only 1% of users accounted for 70% of exposures."**
-2. Exposure was concentrated among users who **strongly identified as Republicans**.
-3. Exposure **"was eclipsed by content from domestic news media and politicians."**
-4. **"we find no evidence of a meaningful relationship between exposure to the Russian foreign influence
-   campaign and changes in attitudes, polarization, or voting behavior."**
+*Reach and concentration:*
+- **70% of respondents (n=1,042) were exposed to ≥1 foreign-influence post** (Apr–Nov 2016).
+- **Only 1% of users accounted for 70% of exposures**; 10% of respondents account for 98% of exposures to
+  IRA posts; **1% of Russian accounts produced 89%** of that content in timelines.
+- Russian accounts = **86%** of all foreign-influence exposures (rest: China, Iran, Venezuela).
+- **Exposure was incidental** — mostly retweets by ordinary accounts the respondent followed.
+- **Strong Republicans were exposed to ~9x as many** Russian-account posts as Democrats/Independents.
+- Absolute reach: **≥32 million US Twitter users potentially exposed** in 8 months pre-election.
+  Facebook estimated **126 million** users over 2 years; Twitter reported **288 million views**
+  (1 Sep–15 Nov 2016) and **1.4 million direct interactions**.
 
-The authors' framing: *"The results have implications for understanding the limits of election interference
-campaigns on social media."* *Effect size / CI: not retrieved — "no evidence of a meaningful relationship".*
+*The decisive comparator:*
+- Respondents saw **~4 Russian-account posts/day** in the final month vs **~106 posts/day from national
+  news media** — news media dominated by **~25x**; politicians by **~9x**.
+- The paper: foreign-influence exposure *"was eclipsed — by at least an order of magnitude — by content
+  from ordinary domestic political news media and US political candidates."*
 
-**The reach arithmetic that follows from these two papers** `[INFERRED]`: if 1% of users absorb 70% of
-exposures, and that 1% is heavily self-selected for pre-existing strong partisanship, then a foreign
-influence campaign is largely **preaching to an already-converted, already-polarised micro-audience**, and
-its exposure is orders of magnitude smaller than ordinary domestic political media within the same feed.
-This is the strongest available quantitative case for audience resilience.
+*Effect estimates — the null:*
+- **0.05 SD** for changes in issue positions; **0.06 SD** for changes in perceived polarization.
+- **Equivalence testing (TOST): for 17 of 18 outcomes the relationship is demonstrably NOT >0.2 SD.**
+  This is why the null is informative rather than merely underpowered.
+- Only **2 of 18** coefficients were significant (6% — chance level) and **neither favoured Trump**.
+- **Vote for Trump: −0.18 pp (90% CI −1.15, 0.78)**; −0.4 pp on other measures.
+- **Predicted vote change <0.7 pp in 95% of simulations** — against the closest 2016 margin, **Wisconsin
+  at 0.77 pp.**
 
-### 3.2 The counter-evidence — real, measurable effects
+**Coppock, Hill & Vavreck 2020, *Science Advances*** — `[VERIFIED: Europe PMC PMC7467695]`
+*Science Advances* **6**(36):eabc4046. DOI `10.1126/sciadv.abc4046`, 4 Sep 2020.
+- **49 political advertisements, 59 unique real-time experiments, N ≈ 34,000**, 2016 campaign.
+- **Favourability: 0.05 scale points** on a 5-point scale (SD across experiments 0.07).
+- **Vote choice: 0.7 pp (SD 2 pp) — NOT statistically significant.**
+- "the distribution of advertising effects in our experiments excludes large persuasive effects."
 
-**Costello, Pennycook & Rand 2024, *Science*** — `[VERIFIED-LIVE abstract]`
-"Durably reducing conspiracy beliefs through dialogues with AI." *Science*, 13 September 2024. Vol. 385.
-DOI `10.1126/science.adq1814`. (Preprint DOI `10.31234/osf.io/xcwdn`, 3 April 2024.)
+**Kalla & Broockman 2018, *APSR*** — `[VERIFIED: abstract only]`
+*APSR* **112**(1):148–166. DOI `10.1017/S0003055417000363`. **40 field experiments** meta-analysed + **9
+original experiments**. *"the best estimate of the effects of campaign contact and advertising on
+Americans' candidate choices in general elections is zero."* **Numeric pooled estimate and CI NOT retrieved.**
 
-- **Design:** **N = 2,190 conspiracy believers** engaged in personalised, evidence-based dialogues with
-  **GPT-4 Turbo**.
-- **Effect: "The intervention reduced conspiracy belief by ~20%."**
-- **Durability: "The effect remained 2 months later, generalized across a wide range of conspiracy
-  theories, and occurred even among participants with deeply entrenched beliefs."**
-- **Spillover: "the dialogues focused on a single conspiracy, they nonetheless diminished belief in
-  unrelated conspiracies and shifted conspiracy-related behavioral intentions."**
-- *CI not retrieved from the abstract; the ~20% figure is the headline. This is the single strongest
-  published demonstration that a targeted, personalised, interactive AI intervention can move entrenched
-  beliefs — and it is a **defensive** result as much as an offensive one.*
+**Microtargeting nulls — a striking three-way convergence** `[VERIFIED: abstracts; Hackenburg & Margetts published figures]`
+- **Hackenburg & Margetts 2024, *PNAS* 121(24):e2403116121** (`10.1073/pnas.2403116121`), preregistered
+  **n = 8,587**. GPT-4 messages were persuasive (**up to 12 pp**), but **microtargeted messages were NOT
+  more persuasive than non-targeted: 4.83 vs 6.20 pp, P = 0.226.** Authors: LLM influence *"may reside not
+  in their ability to tailor messages to individuals, but rather in the persuasiveness of their generic,
+  non-targeted messages."*
+  **⚠ The 2023 OSF preprint figures (5.68 vs 7.32, P=0.082, "nearly 50%") are SUPERSEDED by the published
+  PNAS values (4.83 vs 6.20 pp, P=0.226). Cite the published ones.**
+- **Hackenburg, Ibrahim, Tappin & Tsakiris 2025, *AI & Society*** (`10.1007/s00146-025-02464-x`),
+  **n = 4,955.** GPT-4 "partisan role-play" was **not** more persuasive than non-role-play — but GPT-4
+  **rivalled and on some issues exceeded human persuasion experts.**
+- **Tappin et al. 2023, *PNAS* 120(25):e2216261120.** Microtargeting outperformed alternatives by **≥70%**
+  in Study 1 — but **no additional gain from targeting more than one covariate**, only one of two issues,
+  and limited in Study 2. **CI not retrieved.**
 
-> **The analytic tension to state plainly.** Bail 2020 and Eady 2023 find no meaningful effect from
-> *passive exposure* to broadcast-style influence content. Costello 2024 finds a large, durable effect from
-> *interactive, personalised, one-to-one* AI dialogue. These are not contradictory — they measure different
-> mechanisms. **The resilience evidence is about broadcast exposure; the vulnerability evidence is about
-> tailored interaction.** A 2026 threat assessment should not generalise from the null broadcast results to
-> conclude that interactive AI personas are also harmless.
+**Reach as a share of diet**
+- **Grinberg et al. 2019, *Science* 363(6425):374–378** (`10.1126/science.aau2706`): fake news was
+  **~6% of all news consumption**; **1% of users were exposed to 80%** of it; **0.1% of users shared 80%**.
+- **Guess, Nyhan & Reifler 2020, *Nature Human Behaviour* 4:472–480** (`10.1038/s41562-020-0833-x`):
+  untrustworthy sites were a small share of diets; *"widespread speculation about the prevalence of
+  exposure to untrustworthy websites has been overstated."*
+- **Moore, Dahlke & Hancock 2023, *NHB* 7:1050–1060**: exposure fell from **44.3% (2016) → 26.2% (2020)**
+  of Americans.
+- **Dahlke, Moore & Hancock 2026** (PsyArXiv, 11 Feb 2026, `10.31234/osf.io/qtdmg_v1`): **N = 1,069, ~6M
+  visits.** Share visiting untrustworthy sites **continued to decline** by 2024, but those exposed visited
+  **more frequently**. **AI-generated untrustworthy sites reached more people in 2024 but remained a small
+  fraction of exposure.** `[PREPRINT — GRADE D]`
 
-**Counter-evidence on the IRA specifically** — `[VERIFIED-LIVE abstract]`
-"Suspended accounts align with the Internet Research Agency misinformation campaign to influence the 2016 US
-election." *EPJ Data Science*, 10 April 2024. DOI `10.1140/epjds/s13688-024-00464-3`.
+### 3.2 The counter-evidence — real, measurable, and concentrated in DIALOGUE
 
-- Finds a group of suspended accounts **outnumbering the IRA user group by a factor of 60**, aligned with
-  IRA ideology, which **"significantly influenced individuals categorized as undecided or weak supporters,
-  potentially with the aim of swaying their opinions, as indicated by Granger causality."**
-- Relevance: it suggests the IRA-only null findings may understate the effect of the *wider* coordinated
-  inauthentic ecosystem, and that the persuadable target is the **undecided/weak supporter**, not the
-  already-polarised partisan that Bail 2020 found IRA accounts actually reached.
+**Costello, Pennycook & Rand 2024, *Science*** — `[VERIFIED: OSF preprint PDF, 2,118 lines + Crossref]`
+*Science* **385**(6714):eadq1814. DOI `10.1126/science.adq1814`, 13 Sep 2024. Preprint `10.31234/osf.io/xcwdn`.
+- **N = 2,190** conspiracy believers; **3-round dialogue with GPT-4 Turbo** vs a control on a banal topic.
+- **Study 1: −16.8 points vs control, 95% CI [13.8, 19.7], p < .001, d = 1.15** — a **21.43%** decrease
+  (control 1.04%). **27.4%** of treated became uncertain vs **2.4%** of control.
+- **Study 2: −12.3 points, 95% CI [10.07, 14.72], p < .001, d = 0.79** — **19.41%** decrease.
+- **Durability: NO decay at 2 months — b = 0.03, 95% CI [−2.24, 2.31], p = .98.** (At 10 days: b = 0.63,
+  CI [−2.72, 1.46], p = .56.) Robust to assuming all 14% lost to follow-up returned to baseline
+  (b = 12.70, CI [9.47, 15.93], p < .001).
+- **Spillover:** reduced belief in **unrelated** conspiracies; general conspiracy thinking fell **8.2%**
+  vs a **1.64-point increase** in control (**d = 0.21**).
+- **Boundary condition:** effect was **non-significant for "false conspiracies" rooted in true events**
+  (b = 6.51, CI [−39.42, 52.45], p = .76) and significantly different from other conspiracies
+  (bΔ = −20.57, CI [−33.14, −8.00], p = .001).
+- **Calibration:** prior correction attempts meta-analysed at **g = 0.16 across 273 effect sizes** — so
+  this is roughly **7x** the historical average.
+- **Mechanism (preprint, N = 1,297, 8 arms):** the effect survived telling participants the AI *intended*
+  to persuade, asking them to debate, giving facts without persuasion, and brevity. **The only null arm was
+  prompting the AI to persuade WITHOUT presenting counterevidence.** Reasoning-based tactics were the sole
+  significant mediator. `[GRADE B for Science; GRADE D for the preprint mechanism work]`
 
-> **Gap — pending.** Still required for completeness: Hackenburg & Margetts on conversational
-> persuasiveness (and its human-persuader comparison); Salvi et al. on personalised AI persuasion;
-> 2025–2026 RCTs on AI-generated propaganda; meta-analyses of average persuasion effect sizes with
-> confidence intervals (the "small effects" debate, Kalla & Broockman, Götz et al.); and the literature
-> arguing the real harm is to **institutional trust at the systemic level** rather than individual vote
-> choice. Assigned to a parallel thread; see §4.
+**Boissin, Costello, Spinoza-Martín, Rand & Pennycook 2025, *PNAS Nexus*** — `[VERIFIED: PMC12578366]`
+`10.1093/pnasnexus/pgaf325`. **N = 955**, preregistered. Randomised whether the debunking LLM was framed as
+an **AI tool or a human expert**, and whether tone was human-like.
+- Conversation reduced belief in all conditions (**all ps < 0.018**), with **no significant differences
+  across conditions**. *"AI persuasion is not reliant on the messenger being an AI model: it succeeds by
+  generating compelling messages."*
+- Greater for conspiracy sharers (**10 points, 11.81%**) than general weak beliefs (**5 points, 5.96%**);
+  **b = 5.11, 95% CI [2.75, 7.48], P < 0.001**.
+- **Defensive implication: source-labelling ("this was written by a human") is a weak mitigation.**
+
+**Salvi, Horta Ribeiro, Gallotti & West 2025, *Nature Human Behaviour*** — `[VERIFIED: abstract]`
+`10.1038/s41562-025-02194-6`, 19 May 2025. Preprint `10.21203/rs.3.rs-4429707/v1`. **N = 900**,
+preregistered 2x2x3, human vs GPT-4 opponent, with/without sociodemographic data.
+- Where AI and humans were not equally persuasive, **personalised GPT-4 was more persuasive 64.4% of the
+  time** — a **+81.2% relative increase in the odds of higher post-debate agreement, 95% CI [+26.0%,
+  +160.7%], P < 0.01.**
+- **Crucial conditional: WITHOUT personalisation the effect was smaller and NOT significant (p = 0.30).**
+- ⚠ **Author Correction issued 3 Sep 2026** (`10.1038/s41562-026-02588-0`) — content not retrieved.
+
+**Goldstein et al. 2024, *PNAS Nexus*** — `[VERIFIED: PMC10878360]` `10.1093/pnasnexus/pgae034`.
+Preregistered, **N = 8,221**. Real foreign covert propaganda vs **GPT-3 davinci** output.
+- Control agreement **24.4%**; **human propaganda 47.4% (+23 pp)**; **GPT-3 43.5% (+19.1 pp)** — GPT-3 a
+  **3.9 pp** gap, i.e. slightly less compelling.
+- **After editing the prompt: 46.4% vs 47.4% — "small and not statistically significant."**
+- **"We did not find substantial heterogeneity in treatment effects"** across demographics, partisanship,
+  news consumption or social-media time.
+
+**Bai et al. 2025, *Nature Communications* 16** — `[VERIFIED: publisher PDF]` `10.1038/s41467-025-61345-5`.
+**Three preregistered experiments, total N = 4,829**, on polarised policies.
+- LLM > control: Study 1 **b = 3.62, CI [1.67, 5.05], p < 0.001**; Study 2 **b = 2.35, CI [1.23, …], p < 0.001.**
+- **LLM vs human-authored: NO significant difference** — Study 1 **b = 0.56, CI [−0.94, 2.06], p = 0.466,
+  BF01 = 24.57**; Study 2 **b = −0.52, CI [−1.74, 0.70], p = 0.403, BF01 = 22.74.**
+- **Authors' own characterisation: "Effect sizes were consistently small."**
+
+**Kalla & Broockman 2020, *APSR*** — the mechanism parallel `[VERIFIED: abstract]`
+**230 canvassers, 6,869 voters, 7 locations, 3 preregistered field experiments.**
+- **Arguments alone: NO effects** on exclusionary immigration attitudes.
+- **Identical conversations + non-judgmental narrative exchange: durable reduction, d = 0.08**, persisting
+  ≥4 months (transphobia replications: ds = 0.08 and 0.04).
+- **The mechanism matches Costello et al.: the active ingredient is narrative/evidence exchange, not
+  argument volume.** It also shows a *field-experimental* effect of a fraction of a standard deviation is
+  achievable and durable — an important calibration for what "small but real" means.
+
+### 3.3 The meta-analysis that settles — and then complicates — the "AI vs human" question
+
+**Hölbling, Maier & Feuerriegel 2025, *Scientific Reports*** — `[VERIFIED: publisher PDF, 873 lines]`
+DOI `10.1038/s41598-025-30783-y`, 12 Dec 2025. **7 studies, N = 17,422, 12 effect estimates.**
+
+- **Pooled LLM vs human: g = 0.02, 95% CI [−0.048, 0.093], p = .530** — *"very small and non-significant."*
+- **But heterogeneity is substantial: I² = 75.97%**; combined moderator model **R² = 81.93%**.
+- Publication bias: Egger's test **p = .018**, but trim-and-fill imputed **no** missing studies.
+- **⭐ The moderators, which are the real finding:**
+  - **GPT-3.x < GPT-4.x: b = −0.236, 95% CI [−0.406, −0.065], p = .007.**
+  - **One-shot < interactive: b = −0.494, 95% CI [−0.768, −0.220], p < .001.**
+  - GPT-4.x in interactive contexts: **b = 0.219, 95% CI [0.017, 0.420], p = .033.**
+- **Defensive read: the "no better than humans" headline is an average across heterogeneous designs. The
+  pooled g = 0.02 is a poor forecast for current-generation, conversational systems — which is exactly
+  what Costello and Salvi test. Averaging is the wrong estimator for a fast-moving capability.**
+
+### 3.4 Conviction, dosage and asymmetry
+
+**Dahlke & Hancock 2025, *Journal of Online Trust and Safety* 3(1)** — `[VERIFIED: abstract]`
+DOI `10.54501/jots.v3i1.250`, 12 Sep 2025. Two-wave panel + browsing behaviour (**N = 21M visits**),
+**1,194 US adults**, 2020 election.
+- Raw association: exposed respondents **17.3% more likely** to believe the certified winner did not win.
+- **After propensity-based control for selective exposure: 4.2%.**
+- **Asymmetric: conservatives +12.6%, liberals −0.2%.**
+- Dose–response: each additional exposure increases the association.
+- **This is the cleanest demonstration that the statistical model, not the data, drives whether one reports
+  17.3% or 4.2%. Distrust any single-number disinformation effect claim.**
+
+**Serafino et al. 2024, *EPJ Data Science* 13:28** — `[VERIFIED: Crossref abstract]`
+DOI `10.1140/epjds/s13688-024-00464-3`, 10 Apr 2024. A group of suspended accounts **outnumbering the IRA
+group by a factor of 60** *"significantly influenced individuals categorized as undecided or weak
+supporters … as indicated by Granger causality."*
+- **⚠ GRADE B for publication but GRADE D for the causal claim** — Granger causality is a weak
+  identification strategy. Note the useful contrast: the persuadable target is the **undecided/weak
+  supporter**, *not* the already-polarised partisan that Bail found IRA accounts actually reached.
+
+**White, Allen, Caviola, Costello & Rand 2026** — `[PREPRINT — GRADE D]`
+PsyArXiv, v3 6 May 2026, DOI `10.31234/osf.io/6cyn4`. Preregistered, **N = 1,949**. LLM **dialogue**
+increased effective donations by **45.9%**; a **static** LLM message by **28.7%**. Notable because
+**static messages DO work here**, qualifying the Hölbling "interactivity" finding.
+20 Apr 2026. Argues AI propaganda's force lies in **circulation, repetition and algorithmic visibility**
+rather than message content. `[GRADE D — conceptual, no effect sizes]`
+
+**Garrett, Bond & Nisbet 2025, *Political Communication*** — `[GRADE B for publication; effect sizes NOT retrieved]`
+DOI `10.1080/10584609.2025.2532584`, 22 Jul 2025. Directly targets the validity of **self-reported
+exposure** measures (expressive responding and motivated reasoning).
+
+### 3.5 Where the nulls come from — five methodological mechanisms
+
+1. **"Potential exposure" ≠ attention.** Eady et al. state they observe *potential* exposures only and
+   "cannot know which tweets in their timelines users actually saw." Measurement error attenuates estimates
+   toward zero.
+2. **Extreme concentration destroys effective sample size.** When **1% of users account for 70% of
+   exposures**, the estimate is identified off a small tail *"arguably least likely to need influencing."*
+   Eady et al. concede: *"Were exposure distributed differently, among another set of users, the estimated
+   relationship could well be different."* A null in a maximally-opinionated sample is **not** evidence
+   that a differently-targeted campaign would fail.
+3. **Self-report vs observed behaviour** (Garrett et al. 2025).
+4. **Absence of evidence mishandled as evidence of absence.** Eady et al. used **TOST equivalence testing**
+   precisely because non-significance ≠ negligible — and got real bounds (<0.2 SD on 17/18 outcomes).
+   **Few other null papers do this**, which is why Eady is the strongest null available.
+5. **Model-choice sensitivity** (Dahlke & Hancock: 17.3% or 4.2% from the same data).
+
+### 3.6 Attitudes vs behaviour, and individual vs systemic
+
+- **Attitudes move where behaviour does not.** Bai et al. found small significant attitude change; Coppock
+  et al. found a small significant **favourability** effect (0.05 points) but a **non-significant 0.7 pp**
+  effect on **vote choice**. Costello shifted belief ~20% and *behavioural intentions* — not behaviour.
+- **The behavioural outcome that genuinely moves is sharing/engagement, not voting** (Grinberg: 0.1% of
+  users generating 80% of fake-news sharing).
+- **"No vote switch" and "no effect" are not the same claim**, and most of the null literature measures the former.
+
+**Where the real harm is argued to sit — the systemic pathway.** Eady et al., retrieved verbatim: campaigns
+*"may also succeed through **second-order effects**: those effects that are achieved by provoking a domestic
+reaction to the intervention itself,"* and **"Russia's foreign influence campaign on social media may have
+had its largest effects by convincing Americans that its campaign was successful."** Bail et al. likewise
+close on "faith in American electoral integrity." Douek (2021, *Defending Democracies*) argues removal
+regimes rest on "a militarized discourse that paints such interference as highly effective" when
+*"evidence of such campaigns' effectiveness is limited."* Levin (2021) reviews medium- and long-term effects
+on "the quality of its democracy." `[GRADE B for the reviews; the effectiveness claim is asserted, not measured]`
+
+> **⭐ The most important honest statement in these notes.** The individual-level nulls and the
+> systemic-harm argument are **not in contradiction** — they measure different things. The strongest
+> surviving claim is that **influence operations are weak at changing votes and comparatively strong at
+> degrading the perceived legitimacy of the process, including among people who were never exposed to the
+> content.** And that second pathway is **essentially unquantified**: **no RCT was found that isolates the
+> causal effect of foreign-interference *revelation* on institutional trust.** This is a concrete
+> commissioned-research gap, not an unresolved literature.
+
+### 3.7 The "small effects at scale" trap — mandatory caveat
+
+Götz, Gosling & Rentfrow (2022, *Perspectives on Psychological Science* 17(1),
+`10.1177/1745691620984483`) is widely invoked to argue that r ≈ 0.05 effects matter "at scale."
+**Primbs, Pennington, Lakens et al. (2022, PsyArXiv, `10.31234/osf.io/6s8bj`) rebut this**, and the rebuttal
+is the more defensible position for a defensive brief: the claim that a small effect is consequential at
+scale must be **empirically demonstrated or falsifiable**, otherwise it becomes *"a blanket justification
+for the importance of any and all 'small' effects."*
+
+- A **0.05 SD** effect (Eady) times 32 million exposed users is not automatically large — **influence
+  requires a margin to be moved**, and Eady's own simulation shows vote change <0.7 pp in 95% of runs
+  against a **0.77 pp** Wisconsin margin.
+- Conversely **d = 1.15** (Costello) is large by any standard and is *not* a small-effects-at-scale
+  argument.
+- **Practical rule: grade effects by whether they were measured on the outcome the defender cares about,
+  not by whether they are "significant."**
+
+### 3.8 A missing systematic review — a finding, not a search gap
+
+**No dedicated 2025–2026 systematic review or meta-analysis of the *effectiveness of foreign influence
+operations / coordinated inauthentic behaviour* was found to exist.** What exists instead:
+- Hölbling et al. 2025 — meta-analysis of **LLM vs human** persuasion (not influence operations).
+- **Murray, Albert, Bates & Pfeifer 2026**, "Hacking elections: A quantitative analysis of cyber-enabled
+  foreign election interference", APSA preprint, 10 Mar 2026, `10.33774/apsa-2026-wlcqm` — **85 attacks, 34
+  countries, 2014–2020**, but it models **country vulnerability, not intervention effectiveness**. `[GRADE D]`
+- A CVE-focused systematic review (`10.1177/18911803261459099`) — adjacent but not the same question; the
+  article itself was not retrieved.
 
 ---
 
@@ -875,25 +1211,49 @@ election." *EPJ Data Science*, 10 April 2024. DOI `10.1140/epjds/s13688-024-0046
 | 21 | cam.ac.uk/stories/price-bot-army-global-index (11 Dec 2025) | **COTSI**: SMS-verification prices by country/platform | A/B |
 | 22 | elevenlabs.io/pricing | Voice-clone entry price $6/mo (instant), $22/mo (professional) | A (price) / E (framing) |
 | 23 | Bright Data / Smartproxy / IPRoyal / Oxylabs public price pages | Residential proxy $1.75–$6.00 per GB | A |
+| 24 | O*NET/BLS OEWS 2025 (writers 27-3043, PR 27-3031, CSR 43-4051) | $36.98 / $35.94 / $21.53 per hour medians | A |
+| 25 | Rest of World (2025), Philippines offshoring | $874/month ≈ $5.04/hr contractor rate | C |
+| 26 | theguardian.com, 13 Oct 2025 | **439 UK TikTok trust-and-safety redundancies while UK/EU revenue +40%** | C |
+| 27 | transparency.meta.com (needs /en-gb/ + Googlebot UA) | Meta Inauthentic Behaviour / CIB policy text, verbatim | A |
+| 28 | YouTube Data API docs | `search.list` and `videos.insert` each capped at 100 calls/day | A |
+| 29 | Reddit Developer Terms | Separate agreement required for commercial/above-rate-limit use; liability capped at $100 | A |
+| 30 | futurism.com, 17 Sep 2026 | Brown Brothers Media: 60+ writers → 12, all using AI; 50+ fake personas | C |
+| 31 | Europe PMC + publisher PDFs (PMC6955293, PMC7467695, PMC10878360, PMC12578366) | Bail, Coppock, Goldstein, Boissin full texts | B |
+| 32 | Scientific Reports PDF (10.1038/s41598-025-30783-y) | Hölbling 2025 meta-analysis: g = 0.02, I² = 75.97%, moderator b's | B |
+| 33 | luma / recraft / bfl / runway / pika pricing pages | Image $0.003–$0.06; video $0.00625–$0.573/sec | A |
 
 ### Explicitly NOT verified — do not cite as fact without checking
 
-- **Veo "per count" → per-second conversion (§1.5). 8x uncertainty — resolve before quoting a Veo $/second.**
+- **Veo "per count" → per-second conversion (§1.5).** The *per-generation* price is Grade A; the 8-second
+  assumption is **Grade D** and gives an 8x swing. Quote per-generation or state the assumption.
+- **Sora has no verifiable current price at all** — OpenAI's own Sep 2026 pages list no video model, and
+  headline reports indicate withdrawal. Do not quote a Sora figure.
 - The **SemiAnalysis H100 rental index value itself**, and the ~+40% March 2026 reversal figure — relayed
   via Seeking Alpha, Compux and tech-insider.org. `[SECOND-HAND]` The *direction* is corroborated by
   multiple independent headlines (AWS price rises, B200 residual at 158%, Nebius +21%); the *magnitude* is not.
 - The two conflicting September 2026 H100 headlines ("halve to $3.38" vs "rises 22% to $3.28") — unresolved.
-- Reddit API 2026 pricing; the $0.24/1,000-calls figure is a **2023** number.
-- Meta Graph API rate limits and tiers (page returned HTTP 400).
-- All integrity headcount/budget and DSA transparency figures (§2.3) — pending.
-- Midjourney / Runway / Sora / Kling unit costs, and OpenAI voice-tier specifics (§1.5).
-- All human-baseline figures (§1.6): freelance per-word, PR retainer, contact-centre $/hr, content-farm
-  $/article. **The BLS Occupational Employment and Wage Statistics pages actively block automated retrieval
-  (HTTP 403), so US wage baselines need an alternative route.**
-- The remainder of the persuasion literature in §3.2 (Hackenburg & Margetts; Salvi et al.; 2025–26
-  AI-propaganda RCTs; meta-analytic average effect sizes; the systemic-trust argument).
+- **Reddit API 2026 pricing** — the $0.24/1,000-calls figure is a **2023** number and is recorded as recalled.
+- **Meta Graph API rate limits and tiers** — every developer path returned HTTP 400.
+- **X automation-policy wording** — returned 403.
+- **Global integrity headcount and budget totals**, and **any cost-per-takedown figure — which does not
+  appear to exist in public sources.** The DSA Transparency Database is onboarding-gated.
+- **Global disinformation cost estimates** — the "$78bn" figure is untraceable; the $417bn Sopra Steria
+  figure is Grade E (vendor). Treat both as soft.
+- **Midjourney, Stability, Adobe Firefly, Ideogram, fal.ai, Replicate, Kling/MiniMax first-party, Azure TTS,
+  PlayHT, Speechify** pricing — JS-rendered, 403, or placeholder-only. Note Sora is listed here too.
+- **Freelance per-word rates (Upwork/Fiverr/ZipRecruiter/Glassdoor all HTTP 403)** and **UK contact-centre
+  costs** (ContactBabel unreachable). US BLS series were reached via O*NET instead.
+- **The "$1–$20 per human content-farm article" range** — could not be traced to primary reporting.
+- **Bail 2020 numeric ATTs/CIs**; **Kalla & Broockman 2018 pooled estimate/CI**; **content of the 3 Sep 2026
+  Author Correction to Salvi et al. 2025** (DOI confirmed, content not retrieved).
+- **A dedicated 2025–26 systematic review of foreign-influence-operation *effectiveness* does not appear to
+  exist** — this is a finding, not a search failure.
+- The **2025–26 AI-propaganda preprint literature is under-sampled** because arXiv was rate-limited throughout.
+  Treat §3.4 as a floor, not a ceiling.
 - Self-hosted $/1M-token figures beyond the vendor-supplied NVIDIA and RunPod anchors.
-- The CAPTCHA panel study is a **preprint** (SSRN); treat its effect sizes as provisional.
+- The **CAPTCHA panel study is a preprint** (SSRN); treat its effect sizes as provisional.
+- The **FameHero PR-retainer source is a vendor advertorial (Grade E)**; the range is corroborated only by
+  the author's own FTE arithmetic.
 
 ### FAILED SEARCHES / blocked resources (25 Sep 2026)
 
@@ -923,6 +1283,16 @@ election." *EPJ Data Science*, 10 April 2024. DOI `10.1140/epjds/s13688-024-0046
 | `www.europeanbusinessreview.com` PR-agency pricing | **HTTP 000** (connection failed). |
 | `tools/ddg.sh`, Bing-backed `tools/wsearch.sh` | Returned nothing / unrelated spam respectively. |
 | Google News RSS article URLs | Now use a **JS redirect**; the destination URL is not present in the fetched HTML, so publisher pages must be found independently. |
+| `upwork.com`, `fiverr.com`, `ziprecruiter.com`, `glassdoor.com` | **HTTP 403** — freelance rate baselines unobtainable. Used O*NET/BLS instead. |
+| `english.elpais.com` (call-centre article) | **HTTP 403**; the guessed article URL 404'd. Headline figure retained as Grade C. |
+| `midjourney.com`, `adobe.com/firefly`, `play.ht` | **HTTP 403**. |
+| `stability.ai` pricing | HTTP 200 but a **client-side React SPA** — no server-rendered prices. |
+| `ideogram.ai`, `fal.ai`, `replicate.com`, `speechify.com`, Kling/MiniMax first-party | **JS-rendered** — no extractable price tables. |
+| Azure TTS pricing | Page renders **`$-` placeholders**; the retail-prices API returned **0 items**. |
+| `cam.ac.uk/research/news?page=1`, `/news` archives | Loaded but the bot-army study is not in the paginated listing; only `/stories/` works. |
+| `semanticscholar.org` 429 throughout | So the persuasion review ran on **Crossref + Europe PMC + publisher PDFs** instead. |
+| PNAS / Science Advances / PNAS Nexus direct PDFs | Returned **HTML stubs**, not PDFs. Worked around via **Europe PMC**. |
+| `bsky`/DDG CAPTCHA, Bing localised/empty, `tools/s.sh` | All search engines except Google News RSS were unusable; **Google News RSS `site:` queries** were the most productive discovery route. |
 
 > **A defensive-relevant meta-finding.** Across this session, **six independent evidence-access routes were
 > rate-limited or blocked by IP**: OpenAlex, Semantic Scholar, arXiv, r.jina.ai, BLS, and four
@@ -946,15 +1316,24 @@ at **$0.00**. Epoch AI measures **9x–900x/year** declines to a fixed capabilit
 shortage, with AWS up ~20% and the B200 holding **158% of launch price**. The structure is now
 **expensive frontier, permanently cheap floor.**
 
-**The bottleneck is distribution and identity.** X charges **$0.015 per post but $0.200 with a URL** — a
-deliberate 13x anti-link penalty, and **40x–524x** the generation cost. Cambridge's COTSI index
-(*Science*, Dec 2025) prices an SMS-verified account at **$0.08–$0.10** on X/Instagram/Meta, **$0.89–$1.02**
-on Telegram/WhatsApp, rising **+12–15%** in the 30 days before 61 national elections. Proxies run
-**$1.75–$4.00/GB**. **CAPTCHA-solving barely deflated in sixteen years (1.8x median)** — the one defensive
-cost that has *not* collapsed, and therefore the highest-leverage place to invest.
+**The bottleneck is distribution and identity — and the AI cost advantage is smaller than it looks.**
+X charges **$0.015 per post but $0.200 with a URL** — a deliberate 13x link penalty, and **40x–524x** the
+generation cost. Cambridge's COTSI index (*Science*, Dec 2025) prices an SMS-verified account at
+**$0.08–$0.10** on X/Instagram/Meta, **$0.89–$1.02** on Telegram/WhatsApp, rising **+12–15%** in the 30 days
+before 61 national elections. Proxies run **$1.75–$4.00/GB**. **CAPTCHA-solving barely deflated in sixteen
+years (1.8x median)** — the one defensive cost that has *not* collapsed, and therefore the highest-leverage
+place to invest. **But note the inversion:** a cloned-voice agent costs **$3.00–$4.80/hour** against a
+**$30.57/hour** fully-loaded US agent — yet **loses to Philippine labour at under $2.00/hour.** The correct
+comparator is offshore labour, not US salaries; against offshore labour, AI is **1.5–2.4x more expensive**
+today. Meanwhile platforms are **cutting** integrity capacity: **439 UK TikTok trust-and-safety
+redundancies** in Oct 2025 while UK/Europe revenue grew 40%.
 
-**Audiences are resilient — but only to the right mechanism.** Bail (2020, N=1,239) and Eady (2023) find
-**no meaningful effect** of IRA exposure on attitudes, polarisation or voting; Eady shows **1% of users
-absorbed 70% of exposures**, eclipsed by domestic media. Costello (2024, N=2,190) then shows personalised
-AI dialogue cutting conspiracy belief by **~20%**, durable at two months. **Broadcast exposure is weak;
-tailored interaction is not.**
+**Audiences are resilient — but only to the right mechanism.** Bail (2020, N=1,239) and Eady (2023,
+N=1,496, with equivalence bounds rejecting effects >0.2 SD on 17/18 outcomes) find **no meaningful effect**
+of IRA exposure on attitudes, polarisation or voting; Eady shows **1% of users absorbed 70% of exposures**,
+eclipsed by domestic media **~25x**. Then Costello (2024, N=2,190) shows AI dialogue cutting conspiracy
+belief by **~20% (d = 1.15)** with **no decay at two months**, and Salvi (2025, N=900) shows personalised
+GPT-4 beating humans by **+81.2% odds**. The pooled LLM-vs-human average (**g = 0.02**) conceals this —
+its own moderators show **interactivity (b = −0.494)** and **model generation (b = −0.236)** drive the
+variance. **Broadcast exposure is weak; interactive dialogue is not. Averaging is the wrong estimator for a
+fast-moving capability — and the harm that survives the nulls (eroded institutional trust) is unquantified.**

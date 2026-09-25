@@ -105,7 +105,53 @@ USDA/APHIS; FDA; CDC; WHO/PAHO/ECDC; state agencies (California CDPH, Washington
 - https://healthpolicy-watch.news/who-ends-international-emergency-declaration-for-mpox-but-vigilance-still-needed/ — **B** — Health Policy Watch; ~3m doses delivered, <1m administered; Africa CDC kept continental alert.
 - https://www.factcheck.org/2024/09/posts-sharing-mpox-misinformation-recycle-claims-from-prior-viral-outbreaks/ — **B** — FactCheck.org; false claims that COVID-19 vaccines cause mpox; ACAM2000 misinformation.
 ---
-<!-- CASE C PLACEHOLDER -->
+## Case C — "Disease X" and the US withdrawal from WHO: ambiguity given an institutional owner
+
+### Causal chain
+In February 2018 a WHO R&D Blueprint informal consultation (Geneva, 6–7 February) added **"Disease X"** to its priority-pathogen list — a placeholder for "a serious international epidemic… caused by a pathogen currently unknown to cause human disease." The ambiguity was **named and given an institutional owner**, without any event. In November 2022 WHO launched a global revision (300+ scientists, 25+ virus families); by 2024 it had replaced the fixed list with a *framework* covering **28 viral families, one bacterial core group and 1,652 pathogens**. On **17 January 2024** the World Economic Forum staged a Davos panel, "Preparing for Disease X." Tedros Adhanom Ghebreyesus explained the placeholder in real time — "we need to have a placeholder for the diseases we don't know may come" — and repeated the formula "anything happening is a matter of **when, not if**", while the panel's concrete content was humdrum: vaccine supply chains, epidemiological centres, surge-capable health systems. **The reaction inverted the frame.** Alex Jones alleged a "Globalist Plan to Launch #DiseaseX to Install World Government"; Donald Trump Jr. told Instagram followers to prepare by buying a sponsor's **$299.99** ivermectin-containing "emergency medical kit." "Plandemic" and "WHO power grab" framings went viral; FactCheck.org (26 Jan 2024), PolitiFact (Aug 2023) and AFP Fact Check documented and debunked them. Institutionally, ambiguity kept producing durable output even as the physical threat failed to appear: the **IHR amendments** were adopted by consensus at WHA77 on **1 June 2024** (WHA77.17), creating a new "pandemic emergency" alert tier above a PHEIC, entering into force on **19 September 2025** (11 of 196 States Parties rejected them); and the **WHO Pandemic Agreement** was adopted by consensus at WHA78 on **20 May 2025** (committee vote 124–0–11). Then the counter-attack: Trump's **20 January 2025** executive order withdrew the US from WHO, completed **22 January 2026**; Washington declared itself bound by neither instrument. The one genuine "Disease X" outbreak — Panzi, Kwango, DRC, December 2024 — resolved into malaria, influenza and malnutrition.
+
+### Key actors and amplification classification
+- **WHO / Tedros / R&D Blueprint SAG** — institutional-organic: created, then repeatedly defended, the placeholder.
+- **WEF (Davos AM24)** — institutional-political: supplied the global stage and the viral clip.
+- **CEPI, Gavi, pharma** — commercial-institutional: funded "Disease X" vaccine/platform R&D and the 100 Days Mission.
+- **Alex Jones, Trump Jr., anti-vax/wellness networks** — adversarial **plus commercial**: conspiracy plus product sales ($299.99 kit).
+- **Fact-checkers (FactCheck.org, PolitiFact, AFP)** — media: rapid, repeated refutation.
+- **Trump White House / HHS** — political → adversarial: WHO exit; rejected IHR amendments and the agreement.
+- **LMIC vs high-income blocs; US bilateral deals (15 states, single-source)** — political(-commercial): PABS deadlock; aid/commercial access traded for pathogen samples.
+
+### Persistence vs collapse factors
+**Persisted:** a named, owned placeholder with no falsifiable claim; funded roadmaps and vaccine platforms; new legal machinery (pandemic-emergency tier, National IHR Authorities, States Parties Committee, PABS); "when, not if" institutionalised in Tedros's rhetoric (June 2024, May 2026); a standing counter-narrative.
+**Fragile:** no pathogen ever materialised; the 2024 revision dissolved the fixed list into a framework; the sole real "Disease X" outbreak resolved to known causes; the PABS annex remains unfinished, so the agreement is **not yet open for signature and has zero ratifications**; and the largest funder walked out.
+
+### Institutional legacy (dates, dollar figures)
+- 6–7 Feb 2018 Blueprint review adds Disease X; Nov 2022 revision launched; 2024 prioritisation framework (1,652 pathogens).
+- 17 Jan 2024 Davos panel; 1 Jun 2024 WHA77 IHR amendments (WHA77.17); 19 Sep 2025 amended IHR in force.
+- 20 May 2025 WHA78 adopts the Pandemic Agreement by consensus; PABS annex deferred to an IGWG (Resolution WHA78.1); 20% real-time production target; entry into force 30 days after 60 ratifications. IGWG sixth (resumed) meeting ended 1 May 2026; seventh 6–17 July 2026; eighth 14–18 Sept 2026; UNGA high-level pandemic meeting 25 Sept 2026.
+- **US:** EO 20 Jan 2025 (Fed. Reg. doc. 2025-01957); withdrawal complete 22 Jan 2026; the US supplied **15.6% of WHO revenue in 2022–23** (largest donor).
+- **WHO:** 2024–25 programme budget **US$6.83bn**; ~**3,000 posts (22% of staff) cut Jan–Jun 2025**; KFF records a US$6.2bn 2026–27 budget (9% lower), while Health Policy Watch reports a $4.2bn operating target against a $1.7bn gap.
+- **Aid cuts:** *Lancet Global Health* (Feb 2026) projects **22.6 million additional deaths in 93 countries by 2030**.
+
+### SOURCES
+- https://www.who.int/activities/prioritizing-diseases-for-research-and-development-in-emergency-contexts — **A** — WHO primary page; official Disease X definition and current priority list.
+- https://www.who.int/docs/default-source/blue-print/2018-annual-review-of-diseases-prioritized-under-the-research-and-development-blueprint.pdf — **A** — the 6–7 Feb 2018 review that introduced Disease X.
+- https://www.who.int/news/item/21-11-2022-who-to-identify-pathogens-that-could-cause-future-outbreaks-and-pandemics — **A** — launch of the 2022–24 list revision.
+- https://www.who.int/publications/m/item/pathogens-prioritization-a-scientific-framework-for-epidemic-and-pandemic-research-preparedness — **A** — 2024 framework: 28 viral families, 1,652 pathogens.
+- https://www.factcheck.org/2024/01/scicheck-posts-misrepresent-who-term-disease-x-for-possible-future-illness/ — **B** — Davos panel content, Tedros quotes, Jones/Trump Jr. backlash, 2018 origin.
+- https://www.politifact.com/factchecks/2023/aug/07/tiktok-posts/conspiracy-theorists-falsely-claim-disease-x-is-th/ — **B** — earliest documented "next plandemic" claim (Aug 2023).
+- https://www.who.int/news/item/01-06-2024-world-health-assembly-agreement-reached-on-wide-ranging--decisive-package-of-amendments-to-improve-the-international-health-regulations--and-sets-date-for-finalizing-negotiations-on-a-proposed-pandemic-agreement — **A** — WHA77 IHR amendments; "pandemic emergency" definition.
+- https://www.who.int/news/item/19-09-2025-amended-international-health-regulations-enter-into-force — **A** — entry into force; 11 of 196 States Parties rejected.
+- https://www.who.int/news/item/20-05-2025-world-health-assembly-adopts-historic-pandemic-agreement-to-make-the-world-more-equitable-and-safer-from-future-pandemics — **A** — consensus adoption, 124–0–11, sovereignty clause, 20% target, PABS next steps.
+- https://www.who.int/health-topics/pandemic-agreement — **A** — WHO primary hub; annex-then-signature sequencing; 60 ratifications.
+- https://www.who.int/news/item/01-05-2026-who-member-states-agree-to-extend-negotiations-on-pathogen-access-and-benefit-sharing-annex — **A** — 2026 extension; Tedros "a matter of when, not if".
+- https://www.who.int/news/item/18-09-2026-member-states-advance-negotiations-on-pathogen-access-and-benefit-sharing-ahead-of-un-general-assembly-meeting-on-pandemics — **A** — PABS still not final; UNGA high-level meeting 25 Sept 2026.
+- https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states — **A** — WHO's response to the US withdrawal notification.
+- https://www.federalregister.gov/documents/2025/01/29/2025-01957/withdrawing-the-united-states-from-the-world-health-organization — **A** — the 20 Jan 2025 executive order as published.
+- https://www.kff.org/global-health-policy/fact-sheet/the-u-s-government-and-the-world-health-organization/ — **B** — US funding shares, 22 Jan 2026 completion, ~3,000 posts cut, 2026–27 budget.
+- https://healthpolicy-watch.news/world-health-organization-advances-deep-staff-cuts-unclear-how-strategic-priorities-will-be-reflected/ — **B** — $4.2bn target, $1.7bn gap, staffing detail.
+- https://www.who.int/about/accountability/budget — **A** — $6.83bn approved 2024–25 programme budget.
+- https://doi.org/10.1016/S2214-109X(26)00008-2 — **A** — *Lancet Global Health* (Feb 2026); projected mortality consequences of defunding to 2030.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC13099642/ — **A** — *Nature Medicine*; aetiology of the Panzi "Disease X" outbreak.
+- https://www.afro.who.int/news/who-supports-democratic-republic-congo-reinforce-efforts-diagnose-disease-remote-area — **A** — WHO AFRO, 6 Dec 2024; 394 cases/30 deaths, cause undiagnosed at the time.
 ---
 <!-- CASE D PLACEHOLDER -->
 ---

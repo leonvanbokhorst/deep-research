@@ -348,48 +348,275 @@ My initial search found no DSA deepfake decision; a second pass found a **substa
 
 ## 2.1 The clearest documented mechanisms
 
-**The single hardest machine-tempo datum available in this workspace** comes from an AI provider's own enforcement reporting and is recorded in the sibling notes (`raw-topic4.md`):
+**Primary source, retrieved and read in full for this brief: Anthropic, *Detecting and countering misuse of AI: September 2026*** (published 10 September 2026; cases disrupted December 2025 – August 2026; URL `anthropic.com/threat-intelligence-report-september-2026`, fetched 25 Sep 2026). **Grade A.** All quotations below are verbatim from that document.
 
-> **Anthropic, *Detecting and countering misuse of AI: September 2026* (published 10 September 2026; cases disrupted Dec 2025 – Aug 2026), case GTG-54002.** A commercial **"influence-as-a-service"** network traced to **LKM Company**, a **France-based digital advertising agency**, was detected on **11 September 2025** when **~70 fabricated news websites published near-identical articles about the DRC–Rwanda conflict within three minutes of each other**, modifying tone per regional audience and coordinating link distribution across numerous X accounts. The same pipeline **rewrote legitimate Malaysian reporting** and **laundered TV BRICS, Xinhua, Sputnik/RIA and CGTN copy as independent local reporting.** — Grade **A** (company primary report)
+### 2.1.1 The mechanism, stated by a primary source
 
-This is the canonical instance of **synthetic corroboration**: not one fake site, but a synchronised constellation of ostensibly independent outlets manufacturing the appearance of independent confirmation — and **laundering state media into the appearance of local independent journalism**. Note the crucial caveat carried by the sibling analyst: this is a **rewriting/laundering** pipeline adapting a live story, **not a first-mover on a breaking event**.
+Anthropic's own summary of recurring tradecraft includes a finding headed **"Laundering of attribution, sourcing, and certainty"**:
 
-**The Iran/Russia/China named operations.** `persona-coordination.md` records that the **EEAS** explicitly states "AI tools are also used to rephrase, translate, and adapt existing text from other sources" and that "AI articles are promoted by **fabricated news sites (such as the Russian RRN network)**." The EEAS framing is **cross-language localisation**, not fact-check evasion. Sibling notes also record an **AI provider's report (11 Sep 2025)** and **Meta's H2 2026 Adversarial Threat Report** (Aug 2026), whose own assessment is the most important single sentence for calibrating this whole brief:
+> "Actors used Claude to engineer content so that state or commissioned narratives appeared to come from independent voices. Actors prompted Claude to intentionally **strip state attribution from republished material, passing claims through chains of outlets so they read as independently confirmed.** In one case, tied to a Russian state media operation, an actor produced claims the model flagged as unverified, then instructed it to **drop those caveats and present everything as confirmed**, so the material would read as established fact."
 
-> Agentic systems "capable of planning, executing multi-step tasks, and adapting to feedback autonomously" represent "a qualitative shift," but **"we have not yet seen these capabilities deployed extensively at scale by threat actors."** — Meta, *H2 2026 Adversarial Threat Report*, Aug 2026. Grade **A** (company primary), capability tier **(i) only**.
+This is a precise, grade-A description of the **synthetic-corroboration pattern the tasking asks about**: independent-seeming corroboration produced by *chains of outlets*, plus **deliberate removal of epistemic hedging** — a capability specific to generative AI rather than to copying or plagiarism.
 
-**On "false consensus" as a manufactured property:** `persona-coordination.md` documents a University of Zurich experiment that deployed **secret AI bots inside r/changemyview** without disclosure; Reddit banned the account and called the experiment **"unethical"** (grade C). This is a rare measured case of synthetic social proof being fielded deliberately — but by researchers, in a benign setting.
+### 2.1.2 GTG-54002 — a commercial "influence-as-a-service" network (the hardest numbers)
+
+| Metric | Figure (verbatim from the report) |
+|---|---|
+| Operator | **LKM Company, a France-based digital advertising agency** |
+| Fabricated news websites | **~70** |
+| Linked matching X/Twitter accounts | **70** |
+| **Inauthentic commenting X/Twitter accounts** | **more than 250** |
+| Total articles published | **at least 8,913**, in **about 20 languages** |
+| Domain registration | All registered **from France within a ten-week window in mid-2025**; all hosted on **shared infrastructure behind a single deployment** — which is how ~70 "independent" sites were tied to one operator account |
+| Detection trigger | **11 September 2025** — the network's websites **"published almost identical articles about the DRC–Rwanda conflict within three minutes of each other,"** with tone modified per regional audience and link distribution coordinated across numerous X accounts |
+| Reach | Six continents |
+| Business model | Commercial: **"they shifted political stances to support different sides of the political spectrum based on whoever was paying at the time"** |
+| **Impact assessment (the decisive line)** | **"We disrupted this operation early, before it could build an authentic audience… most of the content we identified generated little observable engagement from real audiences. Using the Brookings Institution's Breakout Scale… we would assess this activity as Category Two: content distributed across the network's own websites and matching social media accounts, with no evidence of breakout beyond its own activity."** |
+
+**A second, separate component** involved targeting Malaysian voters constituency-by-constituency using ingested census and electoral data, managing **"a network of about a thousand fake accounts"** optimised to inflate engagement and evade platform detection, feeding a fake news site called **"Malaysia Pulse"** (domain registered **10 May 2026**) through an AI rewriting pipeline. The report notes the outlet **"scraped legitimate Malaysian reporting and had the model rewrite it several times before republishing it under fabricated bylines"** and **"republished articles from Russian and Chinese state-aligned foreign outlets, including TV BRICS, Xinhua, Sputnik/RIA, and CGTN, and stripped out the state attribution to present them as independent Malaysian reporting."**
+
+### 2.1.3 Fake think-tank attribution — documented
+
+The tasking specifically asks about **fake "independent" think-tank analyses**. This is confirmed at grade A:
+
+> An Iranian network, during a campaign around **the 2026 US–Israel–Iran war**, **"attributed false claims to Western research institutions (including CSIS, Brookings, and RAND)."** Anthropic's assessment: **"Both of these tactics served to make state-backed messages appear more credible."**
+
+The same network produced **ministerial deliverables with official ICCO branding** (a nine-part international influence portfolio and funeral plans for the Supreme Leader), was linked to a **director-level official at the Bina Cultural Observatory**, generated messaging **in the official voice of an IRGC spokesperson**, **ghost-wrote testimony delivered in a live UN Human Rights Council session**, **cloned a real activist's account to hold live conversations with his contacts inside Iran**, and compiled **counter-dossiers on UN Special Rapporteurs**.
+
+### 2.1.4 "False verification loops" — the clearest single phrase
+
+On a Moldovan operation: a former **Sputnik Moldova editor-in-chief** used the model to turn Romanian and Moldovan news into Russian-language articles published on Sputnik Moldova's Telegram channel and **RIA Novosti**, then:
+
+> "amplified across a network of Russian and Moldovan outlets **to manufacture false verification loops. The same story was echoed across different outlets so it appeared to be independently confirmed.**"
+
+**This is the definition of synthetic corroboration in one sentence, from a primary source.**
+
+### 2.1.5 The reach verdict — the most important caveat in Topic 2
+
+Anthropic's overall assessment cuts directly against the assumption that synthetic corroboration is working:
+
+> **"Influence operations often fail to reach a genuine audience… Most of the content we discovered drew little or no authentic engagement, and in several cases we disrupted the operation before it could build an audience. The widest authentic reach occurred where state media outlets were the distribution mechanism (including FM radio, satellite and shortwave radio, and global television)."**
+
+And, candidly, on one network: **"we are not able to independently confirm how much authentic engagement was drawn by the network's amplification accounts."**
+
+The **Central African Republic case (GTG-04001)** illustrates the same principle: the fabricated content reached real listeners **only** by being channelled through an actual radio station — **Radio Lengo Songo (98.9 FM)**, created and funded by the Wagner Group in 2017 — coordinated with RT, Sputnik Afrique, TASS and the Russian House in Bangui, and by **trading airtime for slots on SputnikPro** so that Russian state material could reach local listeners "under the guise of ordinary national programming." Notably, operators explicitly instructed the model to **strip AI-formatting tells** so the feeds would not "read like synthetic, AI-generated text."
+
+**A related case** describes multi-account Instagram pipelines with "synchronized, audience-segmented posting" and "near-identical coordinated output **under 'independent' branding**," with concealment of MEK affiliation.
+
+> **This is the single most important calibration point in Topic 2.** A vendor's own primary report says the fabricated-independent-source architecture **worked as designed at the production layer and failed at the distribution layer**. The synthetic corroboration was **manufactured, not consumed**. That maps to capability tier **(iii) credible evidence of deployment** with **no support for (iv) documented real-world impact** — and it is consistent with the sibling analysts' parallel conclusions on adaptive evasion (`raw-topic3.md`) and closed-loop optimisation (`raw-topic2.md`).
+>
+> **Corollary, and the practical lesson:** where synthetic content *did* reach people, it was because it was **laundered through a real, licensed distribution channel** — terrestrial FM radio, national broadcasters, RIA Novosti, a real newsroom's brand. **The scarce resource is not content; it is carriage.**
+
+### 2.1.6 The AI companies' own framing of ambition vs. observed use
+
+Also grade A, from Meta's *H2 2026 Adversarial Threat Report* (August 2026), recorded in the sibling notes:
+
+> Agentic systems "capable of planning, executing multi-step tasks, and adapting to feedback autonomously" represent "a qualitative shift," but **"we have not yet seen these capabilities deployed extensively at scale by threat actors."**
+
+**Capability tier (i) only** — the vendor names the ambition and simultaneously disclaims the observed deployment.
+
+### 2.1.7 Other corroborating sources on the same pattern
+
+- **EEAS** (EU External Action Service), recorded in `persona-coordination.md`: "AI tools are also used to rephrase, translate, and adapt existing text from other sources" and "AI articles are promoted by **fabricated news sites (such as the Russian RRN network)**." Note the framing is **cross-language localisation**, not fact-check evasion — the EEAS does not assert an evasive capability. Grade **A** (official EU body).
+- **Synthetic social proof fielded deliberately — by researchers:** a **University of Zurich** experiment deployed **secret AI bots inside r/changemyview** without disclosure; Reddit banned the account and called the experiment **"unethical."** Recorded in `persona-coordination.md`. Grade **C**. This is a rare case of manufactured consensus being measured rather than asserted — but in a benign setting, by academics.
+
+### 2.1.8 Named operations, sizes and dates — the consolidated record
+
+*Source: `_sub-network-threat-reports.md` (97 KB, 40 rows, every entry graded). This is the fullest available enumeration of AI-enabled influence operations with network sizes. Grades are **A** for the platform's own primary report and **E** for the platform's *impact* claims (self-interested).*
+
+**The OpenAI series ("Disrupting malicious uses of AI", Feb 2024 → Aug 2026):**
+
+| Operation | Date | Network size | Reach verdict |
+|---|---|---|---|
+| **IUVM** (Iran, "International Union of Virtual Media") | May 2024 | small: TikTok **10** / VK **76** / OK **274** followers | **Category 2, LOW** |
+| **Bad Grammar, Doppelganger, Spamouflage, IUVM, Zero Zeno** (5 ops) | 30 May 2024 | 5 operations | **none scored above Category 2**; no "significant audience increase due to our services" |
+| **Doppelganger** (4 clusters) | May 2024 | 4 clusters | 9GAG **5–10 up vs 15–200 down**; X **~1,000 shares / 0 likes** |
+| **Spamouflage** | May 2024 | small | "the only views… came from our investigative team" |
+| **Zero Zeno** (Israel) | May 2024 | 1 cluster, 4 sites | one YouTube video = **0 views** |
+| **Storm-2035** (Iran) | 16 Aug 2024 | **5 sites** (niothinker, savannahtime, evenpolitics, teorator, westlandsun), **12+ X accounts, 1 Instagram** | **low end Category 2**; "does not appear to have achieved meaningful audience engagement". Named by **Microsoft, 8 Aug 2024**, as an AI-assisted plagiarism operation |
+| **Storm-2035 recidivist** | Oct 2024 | 12+ personas, 5 sites | 700–900-word articles; low/no engagement |
+| **A2Z** (China) | Oct 2024 | **~150+ accounts** (max ~222 followers) | top Category 2 "with a risk of breaking out into Category Three" — **the only case in this corpus where real users engaged in numbers**, sometimes arguing back |
+| **Stop News** | Oct 2024 → Oct 2025 | 4 UK/Africa sites; Meta total 2,100 followers | **rated Category 3, then DOWNGRADED to Category 2** — see the retraction note below |
+| **Iranian nexus (IUVM ↔ Storm-2035)** | 1 Feb 2025 | **5 accounts** | **157 followers**; single-digit engagement |
+| **Sponsored Discontent** (Peru) | 1 Feb 2025 | social + planted op-eds | **Category 4 / HIGH** — articles placed in **La República, Wapa, El Popular, Libero** |
+| **Storm-2035, 2025** | 1 Jun 2025 | batches of ~12 tweets | **Category 1** — **150–350 views and zero likes, shares or comments** |
+| **Sneer Review** | 1 Jun 2025 | small | two TikTok videos = **25,000 combined likes** — but **"all engagement figures should be treated with caution"** (many comments were operation-generated) |
+| **Nine–emdash Line** (Philippines) | Oct 2025 | multi-platform | Category 2; **a subset survived platform bans** |
+| **Trolling Stone** | Feb 2026 | 5 countries, for-hire | **Category 4 low end** — placed in Argentine regional outlets |
+| **Cyber Special Operations** | Feb 2026 | **50,000+ posts across 200+ platforms** | **"Of [50,000+] posts, under 150 posts received over 300 shares or comments"**; many "likely did not even reach authentic audiences" |
+| **Data Center Bandwagon / Tech and Tariffs** | Jun 2026 | 2 clusters | **Category 1** — "no evidence of breakout" |
+| **International Burke Institute** | Aug 2026 | cluster; site registered Feb 2025 | **fake expert community**, copies real academic writing with **false attribution**, invented a "Burke Sovereignty Index". LOW immediate reach — but OpenAI judges the **infrastructure itself** the objective: assets "that could be scaled over time" |
+
+**Other vendors and institutions:**
+
+| Operation | Date | Org | Size | Reach verdict |
+|---|---|---|---|---|
+| **GRTG — DRAGONBRIDGE / Spamouflage** | 2022–2024 | **Google TAG** | **53,177 channels (2022); >57,000 channels and ~900,000 videos (2023); 175,000+ instances lifetime** | **"practically no organic engagement from real viewers"** — **58% of channels zero subscribers; 42% of videos zero views; 83% under 100 views** |
+| **Meta CIB, Q1 2025** (RO/IR/CN) | 29 May 2025 | Meta | **658 + 14 + 2 / 17 + 22 + 21 / 157 + 19 + 1 + 17** accounts & Pages (**>200 CIB takedowns in total since 2017**) | "detected and removed **before they were able to build authentic audiences**" |
+| **Doppelganger** | Q2 2024 | Meta | **>5,000 accounts & Pages; 6,000+ indicators (96% domains)** | not stated |
+| **Doppelganger hub** | 2022–2026 | **EU DisinfoLab / Bavarian intelligence** | **7,983 campaigns / 828,842 clicks** (avg **103 clicks per campaign**); 1,000+ X bots | **PARTIAL** — only **2 servers** monitored; earlier period uncovered |
+| **Portal Kombat** | Mar 2026 | **EEAS** | **101 sites / ~10,000 articles per day**; Paperwall **+108 domains** | LOW for all but Storm-1516 |
+| **Storm-1516** (Walz deepfake) | 23 Oct 2024 | Microsoft MTAC | 1 video | **>5 million views on X in the first 24 hours** — but Microsoft itself notes "**most of these videos received minimal engagement**" |
+| **Storm-1516 / CopyCop** | 2026 | EEAS | — | **"the only IMS capable of generating organic engagement and infiltrating authentic public debates"** — 5,000–4 million views average (an extremely wide "average") |
+| **GTG-84002** (UAE-directed) | 2026, 62nd HRC session | Anthropic | **~300 accounts**, front NGO cloning a real Swiss organisation, **18 MEPs** | **Category Three; reach UNKNOWN** — the platform "cannot confirm whether any of the testimonies… reached their intended audiences" |
+| **GTG-34001** (Iran) | 2026 | Anthropic | 3 institutions, **100+ channels**, 20 languages | **Category Three** |
+| **GTG-84005 / BBS Bilişim** (Istanbul) | 2026 | Anthropic | **~1,000 fake X accounts**, 222 constituencies | Category Two — figures **self-reported** |
+| **GTG-54006** (Bangladesh, Awami League) | 2026 | Anthropic | 1 actor, 29 accounts, ~1,500 headlines | Category Three; **no wider audience** |
+| **GTG-84006** (MEK/NCRI) | 2026 | Anthropic | **500+ channels scraped; 51,944 messages** | Category Two |
+| **GTG-54004** (Kenya) | 2026 | Anthropic | 1 actor, batches of 50 | **Category One — "completely isolated within the network of fake accounts… failing to reach or influence any real people"** |
+| **NJ drone panic** | 17 Dec 2024 | **DHS–FBI–FAA–DoD joint statement** | **5,000+ reported sightings → ~100 leads** | **"We have not identified anything anomalous"** — the authoritative official counter-assessment |
+| **Hawaii wildfires** | Aug–Sep 2023 | BBC / NYT | — | False "directed energy weapon" claims went viral; **state-linked amplification documented** |
+| **Hurricanes Helene/Milton** | Oct 2024 | Guardian / CSM / NPR | — | **AI-generated imagery of a contested event** attributed in at least one case to Russian operators |
+
+### 2.1.9 The reach verdict — LOW is the measured result, and the four HIGH-reach channels
+
+**Explicit LOW-reach statements are the overwhelming majority of what platforms publish**, and in the best cases they are *measured* rather than asserted — Google TAG's view/subscriber distributions (58% zero subscribers, 42% zero views) are the strongest quantitative statement available.
+
+**Reach was HIGH in exactly four channels across the whole corpus:**
+
+1. **Capture of legacy state-media distribution** — Anthropic GTG-24015 (Russian state media; output matched "up to the aired broadcast copy"), and GTG-04001, where the CAR operation reached listeners **only** through a Wagner-founded FM station (Category Four, the sole broadcast case).
+2. **Purchase or placement in genuine national and regional media** — OpenAI's Sponsored Discontent (La República, Wapa, El Popular, Libero in Peru) and Trolling Stone (Argentine regional outlets).
+3. **Ad-platform delivery at scale** — the EU DisinfoLab / Bavarian data: **828,842 real clicks** across 7,983 Doppelganger campaigns.
+4. **A single viral artefact on a major platform** — Microsoft's Storm-1516 Walz deepfake, **5 million views in 24 hours**, in a case where the same source notes most videos got minimal engagement.
+
+> **The decisive analytic point: none of the four HIGH-reach channels depends on the generative-AI component.** In every documented high-reach case, AI accelerated production or localisation; **distribution access was the binding constraint.** The fabricated-independent-source apparatus is a *production* capability; reach is a *carriage* problem. This is the central defensive finding of Topic 2.
+
+**A confidence-calibrating retraction.** OpenAI's **"Stop News"** case was rated **Category 3 in October 2024 and downgraded to Category 2 in October 2025**, after VIGINUM and open-source researchers established that the apparent **"information partnerships" with real UK institutions were fictional and had been created by exploiting technical flaws on the partners' own websites.** Any Category 3+ claim that rests on *apparent* institutional uptake rather than *audited* distribution should be discounted accordingly — including claims in this very brief's source base.
+
+**THE CENTRAL EPISTEMIC GAP — state this plainly in the brief.** **No source anywhere provides an audited authentic-audience figure.** Every reach number in the entire corpus is **platform-side or actor-side**: follower counts that may themselves be inauthentic, view counts that include operation-controlled accounts, "engagement" partly generated by the operation's own commenting pools, and Category ratings assigned by the same vendor whose model was used. The **Sneer Review** case makes the contamination explicit — 25,000 TikTok likes, with the reporting platform warning that **"all engagement figures should thus be treated with caution"** because many comments came from the operation itself. **There is no independent, third-party, audited measurement of authentic audience for any AI-enabled influence operation in this record.** Every impact claim in Topic 2 should carry that caveat.
+
+**Corrections to premises in the original tasking:**
+- **EU sanctions on Doppelganger / RRN were imposed in July 2023, not July 2024.** (Grade A — Council of the EU listing.)
+- **No primary report was located for the alleged 2024 AI-generated audio of a US politician attributed to Spamouflage.**
+- **Anthropic's "GTG-1002" (November 2025 cyber-espionage report) was not located** in this pass.
+- A widely-circulated **18 September 2026 claim of "first autonomous AI influence campaigns"** (attributed to Iran and China) is **grade D** — it appears to trace back to Anthropic's September 2026 report and was **not confirmed** as describing autonomous operation.
+
+**A harm channel that the reach metrics miss.** OpenAI's Cyber Special Operations case reports that the actor's own documents claim **dissidents curtailed activity or quit**; Anthropic documents live impersonation of a real activist to his own contacts and surveillance of opposition figures. **This is real harm with no audience reach at all**, and it is invisible to Breakout-Scale-type metrics. Defensive policy should treat targeting/harassment and mass persuasion as **separate threat models**.
+
+### 2.1.10 Ambiguous-event cases specifically asked about — mostly negative
+
+The tasking asked whether fabricated independent experts/witnesses were used to corroborate an ambiguous event (Hawaii 2023, the 2024 hurricanes, Tylenol/autism, the New Jersey drone panic). The findings are largely negative:
+
+- **Maui/Hawaii, Aug 2023:** false "directed energy weapon" claims went viral and were amplified by state-linked infrastructure (BBC 16 Aug 2023; NYT 11 Sep 2023). **No fetched source documents a fabricated-expert corroboration network; grade C headline-level only.**
+- **Hurricanes Helene/Milton, Oct 2024:** documented **AI-generated imagery** of a contested event, attributed in at least one case to Russian operators (Guardian 10 Oct 2024; CSM 24 Oct 2024; NPR 18 Oct 2024). **Grade C; no fake-named-expert network documented.**
+- **New Jersey drone panic, Dec 2024:** the **primary official document was obtained** — the **DHS–FBI–FAA–DoD Joint Statement of 17 December 2024**: **FBI received tips of more than 5,000 reported sightings, generating approximately 100 leads**, and assessed the sightings as "a combination of lawful commercial drones, hobbyist drones, and law enforcement drones, as well as manned fixed-wing aircraft, helicopters, and stars mistakenly reported as drones," concluding **"we have not identified anything anomalous."** **Grade A for the official counter-assessment — but the document is silent on AI or synthetic corroboration.** **No platform or vendor report documenting an LLM-generated corroboration network for this panic was found.**
+- **Tylenol/autism, 2025:** **not located.** The workspace file of that name concerns the **1982 Chicago Tylenol murders**, not the 2025 controversy. **Treated as an unverified gap.**
+
+**The strongest documented analogue to the "fabricated independent witness" pattern is Anthropic's GTG-84002** (UAE-directed): a front NGO cloning a real Swiss organisation that **ghost-wrote testimony for two named individuals to be delivered at the 62nd UN Human Rights Council session so it would arrive "as from independent local witnesses, rather than state messaging"** — with the network's operators describing **attribution of "independence" as their "greatest strategic asset."** That case is not one of the four events in the tasking, but it is the cleanest evidence anywhere that manufactured independence is a **deliberate, articulated objective** rather than an emergent side-effect.
 
 ---
 
 ## 2.2 The pseudo-news / "pink slime" ecosystem
 
-*(Dedicated stream pending — addendum. Sibling note `monitoring-localisation.md` and `persona-coordination.md` already carry the NewsGuard / CJR / RRN material and should be read together with the addendum.)*
+*Source: dedicated stream; full report at `_sub-pinkslime-economics.md` (650 lines, every row graded and date-checked 2026-09-25).*
 
-**What is already established in this workspace:** the RRN (Recent Reliable News) network is named by the **EEAS** as a fabricated-news-site network promoting AI-written articles — the closest official statement to an institutionalised synthetic-corroboration architecture. The **LKM Company / GTG-54002** case (§2.1) is the operational proof that ~70 apparently independent sites can be made to publish near-identical framing within a three-minute window.
+### 2.2.1 Site counts, with dates
+
+| Finding | Figure | Date | Source | Grade |
+|---|---|---|---|---|
+| **Metric Media network size** | **>1,100 sites** (and elsewhere ">1,200 sites") | late 2022 | **Tow Center "Pink Slime" report (PDF retrieved)** | **A** |
+| Growth | From a **450-site 2019 baseline** via **700 new titles in 8 months** | — | Tow Center | **A** |
+| Sub-networks | **Franklin Archer 179** (128 Local News Network + 51 Metro Business); **Metric Media 189** across 10 state networks; **LocalLabs 40**; **LGIS 33**. Metric alone accounted for **960+ domains = 80%** of the mapped universe. | — | Tow Center | **A** |
+| Metric Media, 2026 | Operates "a network of **nearly twelve hundred news sites**" and published **>1.3 million stories in 2025** (for scale: the AP produces ≈459,000/year). Founder Brian Timpone's stated goal: **10,000 sites**. | **5 Feb 2026** | **CJR / Tow Center** | **A** |
+| **AI content farms** | **3,749 AI Content Farm sites, in 16 languages** | page updated **23 June 2026** | **NewsGuard AI Tracking Center** | **E** (vendor self-report) |
+| AI content farms, earlier point | **713 sites** | **Feb 2024** | NewsGuard | **E** |
+
+> **NEGATIVE FINDING — do not assert:** the stream **could not verify any headline percentage of pink-slime sites that are AI-generated** from either CJR or the Tow Center. **No such figure should appear in the brief.**
+
+### 2.2.2 Named networks, ownership and money
+
+- **Verified and richly documented (right-leaning):** **Metric Media**, **LGIS**, **Pipeline Media**, **Locality Labs**, **Newsinator / Franklin Archer**. Named founders/operators: **Brian Timpone**, **Dan Proft**, **Bradley Cameron**.
+- **Timpone, on the record, June 2025: "Yes, we use artificial intelligence to produce news."** (grade C)
+- **Funding figures:** **$14M** to Metric from PACs and nonprofits in 2021–22; **$10M** to the Community News Foundation in 2024 (up from **$6M** in 2023); **$42M+** from Uihlein to Proft's PAC; Metric + AIM + SFPA **>$14M in 2024**.
+- **2025–26 activity:** **>9,000 FOIA requests across all 50 states** (Jan 2025 – Jan 2026); an **Illinois AG settlement in January 2025 with no fine**; a campus-DEI FOIA plus hidden-camera campaign (CJR, 30 Jul 2026); **Restoration News** launched 9 Jul 2026; **Prism News shuttered a 200+ site AI network in Aug 2026**; Futurism (17 Sep 2026) on brothers buying up real local outlets.
+- **NEGATIVE FINDINGS — names to drop or replace:** **"Star Spangled Media" — no evidence found.** **"American Independent" — not verified under that name**; the closest match is a left-leaning "X Independent" mail network whose sourcing is partisan (**grade D/E**). Both names appear in the original tasking and **should not be repeated as fact**.
+
+### 2.2.3 The best primary evidence on synthetic corroboration — and its critical caveat
+
+**Anthropic, *Detecting and countering misuse of AI: September 2026* (published 10 September 2026; cases disrupted Dec 2025 – Aug 2026). Grade A (company primary).** This is the strongest single document answering Topic 2's core question, and its findings cut in both directions.
+
+**What it documents (the "yes" side):**
+- Actors **"strip state attribution from republished material, passing claims through chains of outlets so they read as independently confirmed."** This is the mechanism of synthetic corroboration stated precisely by a primary source: **laundering provenance through a chain so that repetition becomes apparent independent confirmation.**
+- A **Russian-linked actor stripped model caveats** to present unverified claims as fact — i.e. using an LLM to *remove epistemically honest hedging*, which is a distinctive generative-AI contribution rather than mere copying.
+- **An Iranian network attributed false claims to CSIS, Brookings and RAND** — fabricated attribution to real, named think tanks. **This is the direct answer to the "fake think-tank analysis" question in the tasking: it is documented, grade A, and it was directed at exactly the institutions whose brand carries the "independent expert" signal.**
+
+**The caveat (the "no" side), verbatim from the same report:** **"most of the content we discovered drew little or no authentic engagement,"** and the **widest reach came via traditional state media** rather than through the fabricated network.
+
+> **This is the most important calibration point in Topic 2.** A vendor's own primary report says the fabricated-independent-source architecture **worked as designed at the production layer and failed at the distribution layer**. The synthetic corroboration was *manufactured*; it was not *consumed*. That maps exactly onto capability tier **(iii) credible evidence of deployment** with **no support for (iv) documented real-world impact** — and it is consistent with the sibling analysts' parallel conclusions for adaptive evasion (`raw-topic3.md`) and closed-loop optimisation (`raw-topic2.md`).
+
+### 2.2.4 The one measured consumption study
+
+A large consumption study (DOI **10.31219/osf.io/3bwz6**) covering **N = 1,238** respondents but **21 million visits across 1,627 outlets and 132,237 articles** found that **3.7% of US adults (~9.5 million people) visited pink-slime outlets around the 2020 election**. **Google and Facebook were prominent referrers.** Crucially, **residents of news deserts were NOT more exposed** — which contradicts the intuitive assumption that pseudo-local news preferentially captures communities that have lost real local news. Grade **B/D** (large-N observational; the effect is small in absolute terms).
+
+**No text-overlap study and no search-ranking study were found** — so the "apparent independence is manufactured by machine-scale rewriting" claim rests, for now, on the LKM/GTG-54002 timing evidence (§2.1) and the Anthropic "chains of outlets" language, not on a measured corpus comparison.
 
 ---
 
 ## 2.3 The economics of synthetic corroboration (2026)
 
-*(Dedicated stream pending — addendum. Sibling note **`cost-access.md`** is the authoritative source in this workspace and should be read in full; it uses a stricter live-verification convention than this file: `[VERIFIED-LIVE]`, `[CROSS-CHECKED]`, `[INFERRED]`, `[UNVERIFIED]`.)*
+*Source: `_sub-pinkslime-economics.md`, which uses a stricter live-verification convention. All rows below were **grade A** (live provider pricing pages consulted 25 Sep 2026) unless noted.*
 
-**Key economics facts already available in this workspace (from `cost-access.md`, grade A/B with the analyst's own verification flags):**
-- **Inference cost collapse:** GPT-3 (Nov 2021) at **$60 per 1M tokens** → the cheapest equivalent-performance model at time of writing, **Llama 3.2 3B via Together.ai, at $0.06 per 1M tokens** — a **1,000× fall in roughly three years**. This is the single most important economic fact for this topic: **content generation is no longer the cost driver.**
-- Current published frontier and cheap-tier token prices are tabulated live in `cost-access.md` (including audio-out at **$12.00/1M tokens** on one tier and Gemini 3.1 Flash-Lite audio input at **$0.50**).
-- **The binding constraints are therefore distribution and persistence, not generation** — domain registration and hosting are cheap and commoditised; audience attention and platform integrity enforcement are not.
+### 2.3.1 Cost floor — domains and hosting
+
+| Item | Price | Notes |
+|---|---|---|
+| **.com** (Porkbun) | **$11.08** | — |
+| .top | **$1.63** first year / **$4.63** renewal | renewal is the real cost |
+| .click | **$1.54** / **$10.81** | — |
+| .xyz | **$2.04** / **$14.21** | — |
+| .site | **$1.96** / **$28.84** | — |
+| .info | **$3.60** / **$22.14** | — |
+| Cloudflare Registrar | sells "at cost"; specific TLD prices not published | `[UNVERIFIED]` |
+| **Hosting** — Netlify / Vercel free tiers | **$0** | Pro tiers **$9** and **$20/mo** |
+| Contabo VPS | **€5.50/mo** | — |
+| DigitalOcean | **$4/mo** | — |
+| Cloudflare R2 | **$0.015/GB-month with $0 egress** | — |
+| Hetzner, Cloudflare Pages limits | **not verified** | `[UNVERIFIED]` |
+
+**Reading:** a per-site fixed cost of **roughly $5–$15/year** is achievable, and **$0** for a static site on a free tier with a near-free TLD. **Domain and hosting cost is a rounding error.** The `.top`-style first-year prices are the relevant ones for a network stood up for a single news cycle, because the network does not need to survive to renewal.
+
+### 2.3.2 Cost floor — generation
+
+Published API prices (**$/1M tokens, input–output**), live-checked 25 Sep 2026:
+
+| Model tier | Price |
+|---|---|
+| **Open-weight via third party** — DeepSeek-V4-Flash-0731 (DeepInfra) | **$0.06–$0.18** |
+| Qwen3.8 Flash (Together) | **$0.09–$0.28** |
+| Gemini 3.1 Flash-Lite | **$0.10–$0.40** |
+| gpt-5-nano | **$0.05–$0.40** |
+| gpt-6-luna | **$0.10–$0.50** |
+| Gemini 3.8 Flash | **$0.75–$3.75** (doubles 1 Jan 2027) |
+| Claude Haiku 4.5 | **$1–$5** |
+| Claude Sonnet 5 | **$2–$10** |
+| Claude Opus 5.5 | **$4–$20** |
+| gpt-6-astra | **$10–$50** |
+
+**Derived per-article cost (`[INFERRED]`, grade D arithmetic on grade-A prices):**
+- **~$0.0005** per 1,000-word article on open-weight models; **~$0.008** mid-tier; **~$0.11** at the frontier.
+- **Metric Media's entire reported 2025 output of >1.3 million articles would cost roughly $1,300–$27,000 in inference.**
+
+**The historically decisive ratio:** GPT-3 (Nov 2021) at **$60 per 1M tokens** → the cheapest equivalent-performance model at time of writing, **Llama 3.2 3B via Together.ai, at $0.06 per 1M tokens** — a **1,000× fall in about three years** (per `cost-access.md`). **Generation is no longer the cost driver, and has not been since roughly 2024.**
+
+### 2.3.3 The cost ratio that actually matters
+
+Set reported **funding** against **technology cost**: **~$10–14 million** raised against an inference bill in the **low tens of thousands of dollars** — a ratio of roughly **1,000:1**.
+
+**Conclusion (grade B inference from grade-A inputs):** the binding constraints on manufacturing synthetic corroboration are **people, legal exposure, FOIA and records work, print/mail distribution, and the acquisition of credibility** — **not** model tokens, domains or hosting. This is the economically correct framing for a defensive brief: **defending against the generation layer is defending against the cheap part.** The expensive, fragile, human parts of the pipeline — payroll, legal identity, distribution and credibility — are where disruption actually costs an adversary something.
+
+**The cost-of-influence literature is thin.** The only figure recovered is the IRA's **$1.25 million per month** (grade C; the primary indictment could not be retrieved — 404). **No RAND or CSIS per-campaign or per-impression unit-cost model was found.**
 
 ---
 
 ## 2.4 Do audiences detect synthetic corroboration?
 
-*(Dedicated stream pending — addendum.)*
+*(Dedicated audience-effects stream still running — addendum to follow. The consumption study in §2.2.4 is the main measured data point currently available.)*
 
-The framing that matters, and which the sibling notes already support: the evidence reviewed so far supports **capability-plausible / impact-unproven**. In `raw-topic3.md` the parallel conclusion is stated bluntly and is worth carrying across: *"No peer-reviewed, government, platform, or NGO primary source retrieved in this sweep documents a deployed AI system that detects fact-checks about its own output and then re-writes to evade them… This is the single most important finding and it is a negative one."* The same shape of result appears here: **the machinery of synthetic corroboration is documented; measured persuasion from it is not.**
+The framing that matters, and which the evidence so far supports: **capability-plausible / impact-unproven.** In the parallel stream `raw-topic3.md` the conclusion is stated bluntly and carries across: *"No peer-reviewed, government, platform, or NGO primary source retrieved in this sweep documents a deployed AI system that detects fact-checks about its own output and then re-writes to evade them… This is the single most important finding and it is a negative one."* The same shape appears here — and Anthropic's own September 2026 report supplies the mechanism for why: **the fabricated networks reached "little or no authentic engagement," while the widest reach came from traditional state media.** **The machinery of synthetic corroboration is documented; measured persuasion from it is not.**
 
 ---
 
-# 4. CROSS-CUTTING ASSESSMENT — the enforced/unenforced asymmetry
+# 3. CROSS-CUTTING ASSESSMENT — the enforced/unenforced asymmetry
 
 The single most useful analytic result to come out of assembling both topics is a **clean asymmetry in what the law actually enforces**:
 
@@ -424,7 +651,12 @@ The single most useful analytic result to come out of assembling both topics is 
 9. **Hungary impact claims** ("nobody is stopping them", "flooded") are **asserted by monitors and campaigners**; I found **no enforcement action, prosecution, or takedown order** and no measured reach data. Impact claims are **grade D/E** until corroborated.
 10. **The "liar's dividend" empirical figures** (percentages, effect sizes, N) — delegated to a dedicated stream; not independently verified by me.
 11. **Human detection-accuracy percentages** — delegated; not independently verified by me.
-12. **NewsGuard's latest AI-generated-news-site count** and the **NewsGuard/CJR pink-slime site counts** — delegated; not independently verified by me.
+12. **NewsGuard's AI-content-farm count** — **3,749 sites in 16 languages as of 23 June 2026** (grade **E**, vendor self-report; earlier supported point 713 sites, Feb 2024). Reported in full in §2.2.1 but graded E because NewsGuard sells detection services.
+13. **Pink-slime site counts** — the Tow Center's **>1,100 / >1,200 sites** for the Metric Media extended network (late 2022) and CJR's **"nearly twelve hundred"** plus **>1.3M stories in 2025** (5 Feb 2026) are **grade A** and are reported in §2.2.1.
+14. **NO verifiable figure exists for the percentage of pink-slime sites that are AI-generated.** Neither CJR nor the Tow Center publishes one, and the stream could not construct one. **Do not assert such a percentage.**
+15. **"Star Spangled Media" — no evidence found.** **"American Independent" — not verified under that name** (closest match is a partisan-sourced left-leaning "X Independent" mail network, grade D/E). Both names appeared in the original tasking and are **not substantiated**.
+16. **Cost-of-influence unit-cost models — thin.** Only the IRA's **$1.25M/month** (grade C; primary indictment unobtainable, 404). **No RAND or CSIS per-campaign or per-impression model found.**
+17. **No text-overlap study and no search-ranking study** measuring whether pink-slime/AI networks actually manufacture apparent independence in a corpus was found.
 
 ## 5.2 Searches that returned nothing useful
 
@@ -439,6 +671,13 @@ The single most useful analytic result to come out of assembling both topics is 
 | "Kramer civil lawsuit voters robocall settlement ordered 2025" | Only the same three AP/LWV/Hill items |
 | "Denmark deepfake copyright law 2026 status" / "Denmark likeness copyright bill passed" / "Denmark deepfake law vote parliament" | No enactment confirmation; only the Feb 2026 EU-revision report |
 | "deepfake lawyer defamation case conviction political" | Returned unrelated matters |
+| "Denmark copyright likeness law adopted Folketing deepfake 2026" / "Denmark likeness copyright bill passed" | **Zero**; only the Feb 2026 EU-revision report |
+| "San Francisco mayoral candidate deepfake ad lawsuit ruling LeRonne Armstrong" | **Zero** |
+| "first conviction political deepfake election prison sentence" | No political conviction; only NCII cases |
+| NewsGuard / CJR REST APIs (Poynter) | **Cloudflare-blocked**; counts recovered from static pages/PDFs instead |
+| Namecheap pricing | **HTTP 403** |
+| Google News redirect resolution (decoding the `CBMi…` IDs) | Base64 decoding yields **no URL** (opaque protobuf); redirect page requires JavaScript. **All Google News items are cited at headline + outlet + date.** |
+| `api.congress.gov` | **HTTP 403 — API key required.** TAKE IT DOWN enactment date therefore rests on secondary sources |
 
 ## 5.3 Tooling / access failures
 
@@ -451,15 +690,21 @@ The single most useful analytic result to come out of assembling both topics is 
 - `api.openalex.org`: HTTP 429 (rate-limited session-wide, ~14h retry) — relayed to downstream streams, which switched to Semantic Scholar and arXiv.
 - `web.archive.org` availability API and CDX API: **HTTP 429** and empty responses respectively.
 - `edmo.eu`: HTTP 403.
+- `carnegieendowment.org`: returned effectively empty content (1 line).
+- **Academic APIs (as relayed across streams):** `api.openalex.org` **429 for the entire session** (~14h retry); **Semantic Scholar intermittently 429**; **Wikipedia API 429**; **Crossref worked** (and supplied peer-reviewed DOIs); **Europe PMC was the most reliable** route to full-text life-sciences/PNAS content; arXiv worked. **No finding in this file rests on OpenAlex alone.**
+- **SAGE and PNAS PDFs are bot-blocked**; Europe PMC full text was used to work around PNAS. `europepmc.org` and `api.crossref.org` are the recommended primary routes for this brief's future academic work.
+- **`openai.com` returns 403 to ordinary `curl` and to the `web_fetch` tool, but WORKS with `curl --http1.1` plus a full browser header set.** A helper was saved as **`tools/getoa.sh`**, and **OpenAI's news RSS (`openai.com/news/rss.xml`) enumerates the real report URLs** — together these retrieved **all 22+ OpenAI threat reports (Feb 2024 → Aug 2026)**. Anthropic's September 2026 report was saved verbatim to **`sources/anthropic-ti-sep2026.txt`**. **Use `tools/getoa.sh` for any future OpenAI work.**
+- **Aggregator/HTML search tools (`s.py`, `web.sh`, `ddg.sh` via `r.jina.ai`) return garbage or nothing** — Bing HTML scrapers return locale-mangled non-results. Do not rely on them.
+- **Other blocked primary sources (all 403/Akamai/bot-gated):** `doj.gov` (so the September 2024 Doppelganger domain seizures and the July 2024 "Meliorator" AI bot-farm disruption could **not** be primary-sourced), `eur-lex.europa.eu` and `consilium.europa.eu`, and **Meta's transparency portal** (client-side rendering), meaning **Meta's Adversarial Threat Report primaries were NOT obtained** and Meta figures here are second-hand.
 
 ---
 
 # 6. BOTTOM LINE (250 words)
 
-The machinery of synthetic corroboration is proven; its measured persuasive impact is not; and the law has so far failed to price it.
+Synthetic capability is proven and cheap; synthetic corroboration is documented; measured persuasion is not; and the law prices neither.
 
-Technically, AI-generated voices and video are trivially cheap and were used to reach thousands of US primary voters two days before an election in January 2024. The January 2024 New Hampshire robocall is the best-documented case in the world, and its legal aftermath is a case study in **deterrence failure**. The orchestrator, Steve Kramer, was acquitted on all 22 criminal counts in June 2025 because the state's voter-suppression and impersonation statutes did not fit a synthetic message about a non-candidate in a contested primary. The FCC's **$6,000,000** forfeiture (FCC 24-104, September 2024) was entered by **default** — Kramer never answered — and, on his own public account, remains **unpaid**, with no collection action found. The only money collected in the entire affair was **$1,000,000 from Lingo Telecom** (DA 24-790), the intermediary carrier, settling at half the proposed penalty. The only actual finding of liability against Kramer is a **$22,500 default judgment** and a nationwide injunction, which he also refuses to pay.
+Generation is no longer the constraint. Inference costs fell roughly **1,000×** between 2021 and 2026 (**$60 → $0.06 per 1M tokens**), and a 1,000-word article now costs **$0.0005–$0.11**. Domains run **$1.63–$11.08**; static hosting can be **$0**. Reported pseudo-news funding (**$10–14M**) exceeds its inference bill by roughly **1,000:1**: the binding costs are people, legal exposure and credibility, not models.
 
-Meanwhile California's two flagship election-deepfake statutes were **enjoined or struck down**; the FCC's AI-robocall disclosure rule has sat at **"next action undetermined"** since October 2024; and the White House is pushing to **preempt state AI laws**. The EU's Article 50 transparency duties did commence on **2 August 2026**, but with a **voluntary** marking code. TAKE IT DOWN produced the first federal deepfake conviction in **April 2026** — for intimate imagery, not politics.
+Threat reporting documents the mechanism — roughly **70 fabricated news sites publishing near-identical articles within three minutes** (Anthropic, case GTG-54002, 11 Sep 2025); an Iranian network **falsely attributing claims to CSIS, Brookings and RAND**; actors "passing claims through chains of outlets so they read as independently confirmed." But the same primary report finds **"most of the content… drew little or no authentic engagement,"** with the widest reach coming via traditional state media. **Manufactured, not consumed.**
 
-**No one has been convicted of a political deepfake anywhere.** That is the finding.
+The law reflects the inverse of the risk. **No one has been convicted of a political deepfake anywhere.** The January 2024 New Hampshire robocall — the world's best-documented case — ended in **acquittal on all 22 counts** (13 Jun 2025); a **$6,000,000 FCC forfeiture entered by default** (FCC 24-104) and, on Kramer's own account, **unpaid**; a **$22,500 civil judgment** he defies; and the only money collected in the entire affair was **$1,000,000 from Lingo Telecom**. California's election-deepfake statutes were **enjoined or struck down**; the FCC's AI-disclosure rule is stalled at "next action undetermined"; the White House is preempting state law. TAKE IT DOWN's first conviction (April 2026) targeted intimate imagery. **Enforcement works where speech is unprotected and stalls where it is political.**
