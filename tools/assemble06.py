@@ -13,7 +13,7 @@ import os, sys, re
 BASE = "/Users/leonvanbokhorst/repos/deep-research/amplification/research"
 PARTS = os.path.join(BASE, "parts")
 OUT = os.path.join(BASE, "06-prebunk-reflexivity-iw.md")
-HEADER_SRC = OUT  # the header currently lives at the top of the output file
+HEADER_SRC = os.path.join(PARTS, "header.md")  # static front matter, written once
 
 def read(p):
     with open(p, encoding="utf-8") as f:
@@ -28,9 +28,13 @@ def retitle(text, new_title):
             break
     return "\n".join(lines)
 
-# --- header: strip the assembly marker comment ---
+# --- header: static front matter (§0-§1) ---
 header = read(HEADER_SRC)
-header = re.split(r"\n<!-- SECTIONS A, B, C", header)[0].rstrip() + "\n"
+header = re.split(r"\n<!-- SECTIONS A, B, C", header)[0].rstrip()
+# drop a trailing horizontal rule so the join does not double it
+while header.endswith("-"):
+    header = header[:-1].rstrip()
+header += "\n"
 
 synthesis = read(os.path.join(PARTS, "synthesis.md")).strip() + "\n"
 
