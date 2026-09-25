@@ -9,8 +9,8 @@ and institutions generate much of the disruptive effect themselves — the attac
 the target the disruption.
 
 **Method.** `web_search` is broken this session; discovery used news-RSS search, publisher site/API
-retrieval and direct document fetch. Confidence is **H/M/L** per claim; **UNVERIFIED** marks
-unconfirmed material.
+retrieval and direct document fetch. Confidence is **H/M/L**; **UNVERIFIED** marks unconfirmed
+material.
 
 ---
 
@@ -30,16 +30,15 @@ intelligence on the opposing command. **H** (https://en.wikipedia.org/wiki/Refle
 **Deliberate vs. emergent.** Deliberate. **Fit: High** — the closest ancestor. "Exhaustion" (forcing
 the adversary to spend resources unproductively) and "provocation" describe H1's core. **Misfit.**
 Aimed at a commander or small elite, not populations and institutions; requires a model of the
-specific adversary, which H1 does not; and a critical literature treats the doctrine as loosely
-specified and partly **pseudoscientific**. **M**.
+adversary, which H1 does not; and a critical literature treats the doctrine as loosely specified and
+partly **pseudoscientific**. **M**.
 
 ### 1.2 Social amplification of risk framework (SARF) — **High descriptively, Poor predictively**
 
 **Origin and claim.** Kasperson, Renn, Slovic, Brown, Emel, Goble, Kasperson & Ratick, *Risk
-Analysis* 8(2), 1988, 177–187 (https://doi.org/10.1111/j.1539-6924.1988.tb01168.x). Risk events
-interact with psychological, social, institutional and cultural processes to amplify or attenuate
-perceived risk, with "ripple effects"; **amplification stations** include media, scientists,
-institutions and social groups. **H**.
+Analysis* 8(2), 1988, 177–187. Risk events interact with psychological, social, institutional and
+cultural processes to amplify or attenuate perceived risk, with "ripple effects"; **amplification
+stations** include media, scientists, institutions and social groups. **H**.
 
 **Deliberate vs. emergent.** Emergent — built for accidents and technology controversy. **It contains
 no attacker**, decisive for H1: SARF has no slot for an adversary who *chooses* which stations to
@@ -56,17 +55,16 @@ availability. Their **availability entrepreneur** ignites it; **probability negl
 track salience, not likelihood — explains why ambiguity is the ideal substrate. **H**.
 
 **Deliberate vs. emergent.** Emergent with entrepreneurial ignition. **Fit: High** — the
-small-input/large-output mechanism H1 needs. **Misfit.** Framed as a *pathology of regulation* to be
-damped, not a weapon; the entrepreneur is an advocate, not an adversary, and the model says nothing
-about an actor who wants a cascade without controlling it.
+small-input/large-output mechanism H1 needs. **Misfit.** A *pathology of regulation* to be damped, not
+a weapon; the entrepreneur is an advocate, not an adversary, and the model says nothing about an actor
+who wants a cascade without controlling it.
 
 ### 1.4 Rumour theory — **High for the substrate, Poor for the adversary**
 
 **Origin and claim.** Allport & Postman, *The Psychology of Rumor* (1947): rumour strength varies
 with **importance × ambiguity**. Shibutani, *Improvised News* (1966), reframes rumour as **collective
-sense-making under informational vacuum**; DiFonzo & Bordia (2007) and Starbird's crisis-informatics
-work add that rumour is sometimes self-correcting, but Starbird's Boston data (misinformation-to-
-correction ratios as high as 44:1) show correction is weak and slow. **H**.
+sense-making under informational vacuum**; Starbird's crisis-informatics work adds that correction
+happens but is weak and slow (Boston misinformation-to-correction ratios as high as 44:1). **H**.
 
 **Deliberate vs. emergent.** Emergent. **Fit: High** on substrate and "the target does the work";
 **Poor** on adversary, since rumour theory has no strategic actor. Its most actionable variable:
@@ -76,15 +74,13 @@ now contested. **M**.
 ### 1.5 Information operations / MISO / PSYOP — **High scope, Low novelty**
 
 **Origin and claim.** PSYOP lineage from WWI–WWII and Vietnam; 1990s US IO doctrine in JP 3-13;
-PSYOP renamed **Military Information Support Operations** in 2010; JP 3-13 reissued 2022. Definitions
-in the DoD *Dictionary of Military Terms*
-(https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf). IO is integrated employment
-of information-related capabilities, *in concert with other lines of operation*, to influence,
-disrupt or usurp adversaries' decision-making — and it already couples **physical actions to
-information effects**, so using a real drone flight to generate a psychological effect is not outside
-doctrine. **M**; **UNVERIFIED** whether a 2025–26 renaming of "MISO/influence" language occurred.
-**Fit: High** definitionally, **novelty near zero**. **Misfit:** IO assumes the influencer owns the
-messages; it has **no theory of the target population as uncontrolled co-producer**.
+PSYOP renamed **Military Information Support Operations** in 2010; JP 3-13 reissued 2022. IO is
+integrated employment of information-related capabilities, *in concert with other lines of operation*,
+to influence, disrupt or usurp adversaries' decision-making — and it already couples **physical
+actions to information effects**, so using a real drone flight to generate a psychological effect is
+not outside doctrine. **M**; **UNVERIFIED** whether a 2025–26 renaming of "MISO/influence" language
+occurred. **Fit: High** definitionally, **novelty near zero**. **Misfit:** IO assumes the influencer
+owns the messages; it has **no theory of the target population as uncontrolled co-producer**.
 
 ---
 
@@ -96,31 +92,29 @@ at source here. It claims conflict is waged over cognition itself, whole-of-soci
 neuroscience, social media and AI as instruments; the "black box problem" critique (*Small Wars
 Journal*, July 2026) notes "targeting cognition" is under-specified. **Misfit — the sharpest
 distinction here:** cognitive warfare contests **what people believe**; H1 engineers **what
-institutions do**. Belief is H1's instrument, not its objective, and H1's payoff can arrive in one
-news cycle rather than a prolonged campaign for legitimacy. **M**.
+institutions do**. Belief is H1's instrument, not its objective, and H1's payoff can arrive in one news
+cycle rather than a prolonged campaign for legitimacy. **M**.
 
 **Strategic signalling — Partial, and clarifying.** Schelling, *The Strategy of Conflict* (1960) and
 *Arms and Influence* (1966): the "threat that leaves something to chance"; brinkmanship as
-"manipulating the shared risk of war" (https://en.wikipedia.org/wiki/Brinkmanship). **H**. Ambiguity
-can be *chosen* — it preserves deniability while forcing the adversary to bear interpretation cost;
-the European Commission's description of drone overflights as acting "as a signalling tool" applies
-this. **Fit: Partial** — a *better* model than amplification for the 2025–26 European drone wave,
-since it explains wanting ambiguity rather than a claim. **Misfit:** a two-player bargaining model
-where the signal is meant to be read by a rational counterpart drawing a specific inference; H1's
-target is a distributed system over-reacting to noise. Signalling predicts restraint, H1
-disproportion. **M**.
+"manipulating the shared risk of war". **H**. Ambiguity can be *chosen* — it preserves deniability
+while forcing the adversary to bear interpretation cost; the European Commission's description of
+drone overflights as acting "as a signalling tool" applies this. **Fit: Partial** — a *better* model
+than amplification for the 2025–26 European drone wave, since it explains wanting ambiguity rather
+than a claim. **Misfit:** a two-player bargaining model where the signal is meant to be read by a
+rational counterpart drawing a specific inference; H1's target is a distributed system over-reacting
+to noise. Signalling predicts restraint, H1 disproportion. **M**.
 
 **Active measures — Partial (provenance High, mechanism Poor).** Soviet practice, defined by the US
 State Department (1987) as "covert or deceptive operations conducted in support of Soviet foreign
 policy" — "deception is the essence" — documented in the Mitrokhin archive and by Thomas Rid, *Active
-Measures* (2020), whose periodisation is **four** waves, not five.
-(https://en.wikipedia.org/wiki/Active_measures). **H**. It covers disinformation, forgeries, front
-organisations, agents of influence and sabotage. **Fit: Partial** — it proves state intent and records
-the failures. Rid gives the closest historical statement of H1's mechanism: the internet made measures
-"more active and less measured", made it "even harder… to disentangle the actual effects of a campaign
-from the perception of their effect", and left "some of the value-creation of disinformation
-outsourced to the victim itself, to activists and researchers and journalists". **H** on the quote;
-**M** on treating that as a formal theory of reflexivity.
+Measures* (2020), whose periodisation is **four** waves, not five. **H**. It covers disinformation,
+forgeries, front organisations, agents of influence and sabotage. **Fit: Partial** — it proves state
+intent and records the failures. Rid gives the closest historical statement of H1's mechanism: the
+internet made measures "more active and less measured", made it "even harder… to disentangle the
+actual effects of a campaign from the perception of their effect", and left "some of the value-creation
+of disinformation outsourced to the victim itself". **H** on the quote; **M** on treating that as a
+formal theory of reflexivity.
 **Misfit:** it is **document-centric and provenance-oriented**; the artefact is a forged letter or
 planted story, whereas H1's substrate is a genuinely ambiguous *event* requiring no forgery. The
 physical precedents (Operation Infektion; the 1980s nuclear-freeze forgery) are forgeries *about*
@@ -132,7 +126,7 @@ Inauthentic Behaviour" vocabulary, later migrating toward "influence operations"
 and Google TAG equivalents; Woolley & Howard (eds.), *Computational Propaganda* (Oxford UP, 2018).
 **M** on the verbatim current Meta definition — **UNVERIFIED** here. CIB covers coordinated
 fake-account networks and explicitly **excludes authentic organic speech** — a critical boundary,
-because a cascade of genuine citizen drone reports is not CIB even when it causes more damage. **Fit:
+since a cascade of genuine citizen drone reports is not CIB even when it causes more damage. **Fit:
 Partial** — it names the practice agents would automate. **Misfit — and here the evidence cuts
 against H1.** Anthropic's September 2026 report
 (https://www.anthropic.com/threat-intelligence-report-september-2026) records: *"Most of the content
@@ -181,8 +175,7 @@ through progressively more reputable channels until provenance is obscured
 stripping state attribution so claims "read as independently confirmed", and removing caveats so
 unverified claims present as fact. A *technique inside* the mechanism, not the mechanism.
 
-**Also out of scope:** nudging/behavioural economics (no adversary, no ambiguity) and agent-based
-cascade modelling (a method, not a claim).
+**Also out of scope:** nudging/behavioural economics; agent-based cascade modelling (a method).
 
 ---
 
@@ -190,16 +183,15 @@ cascade modelling (a method, not a claim).
 
 **Military-strategic.** **Clausewitz**, *On War* VI.vii, is the most literal statement: "there is a
 double solution in the defensive, consequently a double kind of reaction, according as the aggressor
-is ruined by the sword of the defensive, **or by his own efforts**." Note that "make the enemy defeat
-himself" is *not* Liddell Hart's phrasing — he wrote of dislocating the enemy's balance (*Strategy*,
-1954/1967). **Reflexive control** and its Komov taxonomy (exhaustion, provocation) is the deliberate
-Soviet descendant; **"provocation strategy"** is itself a named term (Shiraev & Zubok 2015: "an
-attempt to induce the enemy to respond"). **Strategy of tension** (*The Observer*, 14 Dec 1969, after
-Piazza Fontana) is the **closest named prior art for engineered ambiguity**: unattributed violence
-creates general insecurity so the population demands a strong state response — the reaction *is* the
-objective. Its deployments used real bombs, not ambiguity and amplification, and the Gladio/NATO
-attribution is **contested** — treat Ganser's *NATO's Secret Armies* (2004) as contested, not fact.
-**H** on the concept; **M** on Gladio.
+is ruined by the sword of the defensive, **or by his own efforts**." ("Make the enemy defeat himself"
+is *not* Liddell Hart's phrasing — he wrote of dislocating the enemy's balance, *Strategy*
+1954/1967.) **Reflexive control** and its Komov taxonomy are the deliberate Soviet descendant;
+**"provocation strategy"** is itself named (Shiraev & Zubok 2015: "an attempt to induce the enemy to
+respond"). **Strategy of tension** (*The Observer*, 14 Dec 1969, after Piazza Fontana) is the
+**closest named prior art for engineered ambiguity** — unattributed violence creates insecurity so
+the population demands a strong state response; the reaction *is* the objective. It used real bombs,
+not ambiguity and amplification, and the Gladio/NATO attribution is **contested** (treat Ganser's
+*NATO's Secret Armies* 2004 as contested). **H** concept; **M** Gladio.
 
 **Cyber.** **DNS amplification / reflection attack** (CISA 2013) is structurally exact — a spoofed
 source makes third parties flood the victim, who amplified by asking — but the amplifier is a *third
@@ -207,19 +199,18 @@ party*. The closer analogue is the authentication **reflection attack**: "trick 
 providing the answer to its own challenge" (Tanenbaum; Anderson), where the target's own output is the
 attack material. **MITRE ATLAS AML.T0034 "Cost Harvesting"** is the nearest named AI-era pattern —
 inducing the target's autoscaling to "further amplify cost and exposure" — same shape, resource-abuse
-framing.
+framing. **H**.
 
 **Social.** **Merton's self-fulfilling prophecy** (1948) is the best general name: "a false definition
-of the situation evoking a new behavior which makes the originally false conception come true" —
-illustrated by the bank run ("the prophecy of collapse led to its own fulfilment") — but it **requires
-no attacker**, and that is precisely the gap H1 claims to fill.
+of the situation evoking a new behavior which makes the originally false conception come true" — the
+bank run ("the prophecy of collapse led to its own fulfilment") — but it **requires no attacker**,
+which is precisely the gap H1 claims to fill.
 
-**Prior-art conclusion.** Every component is named across five literatures. The only unnamed thing is
-the combination: deliberate engineering + target-as-amplifier + an autonomy engine, applied to
-ambiguous physical incidents and scored on institutional behaviour rather than belief. "Agentic threat
-amplification" returns zero hits in arXiv and Crossref; no peer-reviewed "AI-driven reflexive control"
-work was found; SARF has no adversarial branch
-(https://web.archive.org/web/20241010151234/https://elib.uni-stuttgart.de/bitstream/11682/7238/1/ren27.pdf).
+**Prior-art conclusion.** Every component is named across five literatures; only the combination is
+not (see §5). "Agentic threat amplification" returns zero hits in arXiv and Crossref; no peer-reviewed
+"AI-driven reflexive control" work was found; SARF has no adversarial branch.
+
+---
 
 ## 5. Fit verdict
 
@@ -233,7 +224,7 @@ management. **Moderate** — information laundering. **Poor** — classic disinf
 
 **It is not a new mechanism.** The dominant finding is that **almost every component of H1 is already
 described, several for over fifty years.** Deliberately provoking a target into damaging itself is in
-Liddell Hart (1954), the strategy of tension (1969), reflexive control, and — with exact structural
+Clausewitz, Liddell Hart, reflexive control and the strategy of tension, and — with exact structural
 fidelity — network amplification attacks. That a small expressed perception generates disproportionate
 response is Kuran & Sunstein (1999); that the audience is the amplifier is Shibutani (1966); that the
 reaction holds the harm is Mueller's threat inflation. **Presenting H1 as the discovery of a new
@@ -255,13 +246,12 @@ threat class is over-claiming, and that is what the evidence shows.**
 3. **Continuous reflexive coupling.** Prior reflexive-control theory assumed a planning cycle and a
    human model of the adversary. An agent system can observe reaction and adjust within the same news
    cycle, converting a discrete operation into a closed loop — and can do so **without modelling the
-   target**, because the exploited reflex ("ambiguous physical threat → act as if real") is
-   universal. Reflexive control automated, decoupled from intelligence requirements, and pointed at
-   institutions rather than commanders. **M/L**.
+   target**, because the exploited reflex ("ambiguous physical threat → act as if real") is universal.
+   Reflexive control automated, decoupled from intelligence requirements, and pointed at institutions
+   rather than commanders. **M/L**.
 4. **Synthetic corroboration at scale.** Presenting one ambiguous event as many *independent*
-   witnesses converts an unresolvable incident into an apparently well-attested one. Historically
-   expensive; now plausibly cheap. **M** on capability, **L** on deployed use against physical
-   incidents.
+   witnesses converts an unresolvable incident into a well-attested one. Historically expensive; now
+   plausibly cheap. **M** capability, **L** deployed use against physical incidents.
 
 **Explicit caution.** Claim 1 is a framing contribution, not a new mechanism; claims 2–4 are
 quantitative changes to known ones. **"Agentic threat amplification" names a configuration, not a new
@@ -295,16 +285,10 @@ the study's most important finding, and it is entirely pre-agentic.
 
 Canonical works are cited inline by author and year. Retrieval URLs used directly:
 
-- Kasperson et al. 1988 — https://web.archive.org/web/20241010151234/https://elib.uni-stuttgart.de/bitstream/11682/7238/1/ren27.pdf
 - Kuran & Sunstein 1999 — https://chicagounbound.uchicago.edu/public_law_and_legal_theory/37
-- Starbird et al., Boston (2014) — https://www.ideals.illinois.edu/items/47268/bitstreams/138716/data.pdf
-- US State Dept, *Soviet Influence Activities* (1987) — https://archive.org/details/dos-report_s-12so-8-12
 - Rid, *Active Measures* (2020), Hewlett interview — https://hewlett.org/the-secret-history-of-disinformation-and-political-warfare-five-questions-for-thomas-rid/
-- Wikipedia entries (reflexive control, active measures, perception management, information
-  laundering, strategy of tension, brinkmanship, self-fulfilling prophecy, reflection attack)
+- Wikipedia (reflexive control, active measures, perception management, information laundering,
+  strategy of tension, brinkmanship, self-fulfilling prophecy, reflection attack)
 - CISA DNS amplification alert 2013 — https://www.cisa.gov/news-events/alerts/2013/03/29/dns-amplification-attacks
-- DoD Dictionary of Military Terms — https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf
-- JP 3-13 Information Operations — https://irp.fas.org/doddir/dod/jp3_13.pdf
 - Anthropic, misuse of AI, Sept 2026 — https://www.anthropic.com/threat-intelligence-report-september-2026
 - IISS, Russia's UAV Campaign Over Europe 2026 — https://www.iiss.org/research-paper/2026/06/russias-uav-campaign-over-europe/
-- Internal case record — `../../research/06-airports-infrastructure.md`

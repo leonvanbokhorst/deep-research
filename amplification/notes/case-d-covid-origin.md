@@ -4,7 +4,7 @@
 
 On 31 December 2019 China reported a pneumonia cluster in Wuhan; the first genome was shared on 11 January 2020. Two hypotheses were soon live: zoonotic spillover, plausibly via the Huanan Seafood Wholesale Market, and a laboratory-associated incident at the Wuhan Institute of Virology (WIV). On 17 March 2020 five virologists published "The proximal origin of SARS-CoV-2" in *Nature Medicine*, judging the virus "not a laboratory construct" and that "we do not believe that any type of laboratory-based scenario is plausible." The paper followed a 1 February 2020 teleconference with NIAID's Anthony Fauci and NIH's Francis Collins; its back-channel drafting became the controversy's durable core. The WHO–China joint mission (14 Jan–10 Feb 2021; report 30 March 2021) found "introduction through a laboratory incident was considered to be an extremely unlikely pathway."
 
-Statistical work moved the biological debate without closing it: Worobey et al. (*Science*, 26 July 2022) showed early cases clustered at the market; Pekar et al. (*Science*, 26 July 2022) found two distinct lineages (A and B) each market-associated; Crits-Christoph et al. (*Cell*, 19 September 2024) recovered SARS-CoV-2 RNA alongside raccoon dog and civet genetic material. None identified an infected animal or a progenitor >99% similar to SARS-CoV-2. Documentary work kept the laboratory hypothesis alive: the rejected 2018 EcoHealth/WIV "Project DEFUSE" DARPA proposal sought to insert furin cleavage sites into SARS-like coronaviruses, and 2023 House releases of "Proximal Origin" authors' emails and Slack messages reframed the paper as messaging management (Fauci had "prompted" it). Nothing decisive has arrived since; each side's strongest claims are absence-of-evidence arguments. The stalemate is now institutional, not biological.
+Statistics moved the biological debate without closing it: Worobey et al. (*Science*, 26 July 2022) showed early cases clustered at the market; Pekar et al. (*Science*, 26 July 2022) found two lineages (A and B) each market-associated; Crits-Christoph et al. (*Cell*, 19 September 2024) recovered SARS-CoV-2 RNA alongside raccoon dog and civet genetic material. None identified an infected animal or a progenitor >99% similar to SARS-CoV-2. Documents kept the laboratory hypothesis alive: the rejected 2018 EcoHealth/WIV "Project DEFUSE" DARPA proposal sought to insert furin cleavage sites into SARS-like coronaviruses, and 2023 House releases of "Proximal Origin" authors' emails and Slack messages reframed the paper as messaging management. Nothing decisive has arrived since; each side's strongest claims are absence-of-evidence arguments. The stalemate is now institutional, not biological.
 
 **Intelligence state (exact language).** In February–March 2023 the DOE assessed a laboratory incident likely with **low confidence**; the FBI assessed a laboratory incident likely with **moderate confidence** (House final report, p. 3). The ODNI report declassified 23 June 2023 stated that "All agencies continue to assess that both a natural and laboratory-associated origin remain plausible hypotheses"; that the National Intelligence Council and four agencies "most likely" favoured natural exposure; that DOE and FBI favoured a laboratory-associated incident "although for different reasons"; and that "The Central Intelligence Agency and another agency remain unable to determine the precise origin." On 25 January 2025 a CIA spokesperson said: "CIA assesses with low confidence that a research-related origin of the COVID-19 pandemic is more likely than a natural origin based on the available body of reporting. CIA continues to assess that both research-related and natural origin scenarios of the COVID-19 pandemic remain plausible." New Director John Ratcliffe approved declassification; per a source cited by NBC News the review rested on existing reporting, not new intelligence.
 
@@ -12,16 +12,16 @@ Statistical work moved the biological debate without closing it: Worobey et al. 
 
 | Actor | Class | Note |
 |---|---|---|
-| EcoHealth / WIV / Daszak | Mixed commercial+political | US-funded WIV coronavirus work; DEFUSE pipeline |
+| EcoHealth / WIV / Daszak | Mixed commercial+political | US-funded WIV work; DEFUSE pipeline |
 | DOE, FBI | Institutional→political | Low/moderate-confidence lab-lean; leaked Feb 2023 |
 | ODNI / CIA | Institutional, politically triggered | "Both plausible" (2023); low-confidence lab-lean (2025) |
 | House Select Subcommittee (Wenstrup) | Political | 520-page final report, 2 Dec 2024 |
-| Senate HSGAC (Paul); DNI Gabbard | Political | Fauci subpoena and ODNI declassification releases, 2026 |
-| White House (2025–26) | Political | "Lab Leak: The True Origins of Covid-19", April 2025 |
-| WHO / SAGO | Institutional (organic-scientific) | 27-expert panel; zoonosis best supported |
-| Chinese government | Adversarial | Withholds sequences, animal and lab-biosafety data |
+| Senate HSGAC (Paul); DNI Gabbard | Political | Fauci subpoena; declassification releases, 2026 |
+| White House (2025–26) | Political | "Lab Leak: The True Origins of Covid-19" |
+| WHO / SAGO | Institutional (organic-scientific) | 27 experts; zoonosis best supported |
+| Chinese government | Adversarial | Withholds sequences, animal and lab data |
 | Media, legacy and partisan | Media | "Lab leak" is a story; zoonosis is a null |
-| X/Twitter, Substack, USRTK, DRASTIC | Organic + adversarial + advocacy | Durable hashtag and FOIA-release ecosystems |
+| X/Twitter, Substack, USRTK, DRASTIC | Organic + adversarial + advocacy | Durable hashtag and FOIA ecosystems |
 
 ## Persistence vs collapse factors
 
@@ -31,7 +31,7 @@ Statistical work moved the biological debate without closing it: Worobey et al. 
 
 ## Institutional legacy (dates, figures)
 
-WHO–China joint study 30 Mar 2021; SAGO statement 18 Mar 2023; WHO global origins framework 4 Sept 2024; ODNI report 23 Jun 2023; July 2023 HHS debars the WIV for **10 years**; House Select Subcommittee final report 2 Dec 2024 (520 pages, ~2,000 footnotes; NIH grant R01AI110964 to EcoHealth ≈**$3.7M**; EcoHealth received ~**$100M** in federal funds since 2008); 17 Jan 2025 HHS debars Daszak **5 years**, ineligible through **20 May 2029**, EcoHealth barred; 25 Jan 2025 CIA shift; WHO urges China to share data 31 Dec 2024; SAGO report 27 Jun 2025 (zoonotic spillover is what "the weight of available evidence…suggests"; Tedros: "all hypotheses must remain on the table"); 18 Jun 2026 ODNI releases Fauci-linked documents; 29 Jul 2026 Fauci invokes the Fifth before HSGAC; 7 Aug 2026 contempt referral to DOJ; 19 Aug 2026 Fauci adviser David Morens pleads guilty to concealing COVID records; 2 Aug 2026 former Biden COVID coordinator Ashish Jha says the pandemic "probably was a lab leak."
+WHO–China joint study 30 Mar 2021; SAGO statement 18 Mar 2023; WHO origins framework 4 Sept 2024; ODNI report 23 Jun 2023; July 2023 HHS debars the WIV **10 years**; House Select Subcommittee final report 2 Dec 2024 (520 pages, ~2,000 footnotes; NIH grant R01AI110964 to EcoHealth ≈**$3.7M**; EcoHealth ~**$100M** in federal funds since 2008); 17 Jan 2025 HHS debars Daszak **5 years**, ineligible through **20 May 2029**, EcoHealth barred; 25 Jan 2025 CIA shift; 31 Dec 2024 WHO urges China to share data; 27 Jun 2025 SAGO report (zoonotic spillover is what "the weight of available evidence…suggests"; Tedros: "all hypotheses must remain on the table"); 18 Jun 2026 ODNI releases Fauci-linked documents; 29 Jul 2026 Fauci invokes the Fifth before HSGAC; 7 Aug 2026 contempt referral to DOJ; 19 Aug 2026 Fauci adviser David Morens pleads guilty to concealing COVID records; 2 Aug 2026 former Biden COVID coordinator Ashish Jha says the pandemic "probably was a lab leak."
 
 ## COUNTEREXAMPLES
 

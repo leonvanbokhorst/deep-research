@@ -110,7 +110,18 @@ The hypothesis arrives with a large existing vocabulary. The honest question is 
 
 ### 3.1 Concepts that fit well
 
-**Reflexive control.** The closest existing concept, and the most important one to understand. Soviet-origin doctrine (Lefebvre's formalisation; Chotikul's early English treatment; Thomas's transmission via the US Foreign Military Studies Office; Komov's operational taxonomy of distraction, overloading, paralysis, exhaustion, deception, splitting, appeasement, intimidation and provocation) describes influencing an adversary's *decision procedure* — "handing over to the other the basis for decision-making" — so that the target's own reasoning becomes the mechanism of their defeat. This maps almost exactly onto the fifth category of the hypothesised mechanism (§4.2), in which authorities make *rational* defensive decisions that produce the attacker's desired effect. **Fit: High.**
+**Prior art: the oldest statement of the mechanism.** The idea that the target destroys itself is not modern, and the clearest formulation is classical. **Clausewitz** (*On War*, VI.vii) states that "there is a double solution in the defensive, consequently a double kind of reaction, according as the aggressor is ruined by the sword of the defensive, **or by his own efforts**."
+
+That is the mechanism in one clause, written two centuries before the language of amplification, and it is **stronger than anything in the reflexive-control literature** for the specific claim this study tests — the target's own reaction as the instrument of its harm. Four further anchors make the lineage explicit:
+
+- **Merton (1948), the self-fulfilling prophecy:** "a false definition of the situation evoking a new behavior which makes the originally false conception come true." The reflexive category (§4.2, category 5) stated as sociology.
+- **Jenkins (RAND P-5261), on terrorism:** "terrorism is aimed at the people watching… the difference between the actual amount of violence and the greatly amplified effects of that violence." The gap between *event* and *effect* is this study's entire subject.
+- **Mueller, on the costs of terrorism:** "the costs of terrorism very often come mostly from the fear and consequent reaction… not from its direct effects." The **reaction is the cost centre** — the claim in §9.1.
+- **Rid, on active measures:** the "value-creation of disinformation [is] outsourced to the victim itself." The closest statement in the disinformation literature to this study's hypothesis.
+
+The most candid practitioner statement of the strategy is bin Laden's, as recorded by Mueller: it was "easy for us to provoke and bait… to make the generals race there to cause America to suffer human, economic, and political losses." **An adversary explicitly describing the target's reaction as the objective is the closest historical analogue to the hypothesis — and it required no AI at all.**
+
+**Reflexive control.** The closest named modern concept, and the most important one to understand. Soviet-origin doctrine (Lefebvre's formalisation; Chotikul's early English treatment; Thomas's transmission via the US Foreign Military Studies Office; Komov's operational taxonomy of distraction, overloading, paralysis, exhaustion, deception, splitting, appeasement, intimidation and provocation) describes influencing an adversary's *decision procedure* — "handing over to the other the basis for decision-making" — so that the target's own reasoning becomes the mechanism of their defeat. This maps almost exactly onto the fifth category of the hypothesised mechanism (§4.2), in which authorities make *rational* defensive decisions that produce the attacker's desired effect. **Fit: High.**
 
 Two cautions are essential, and both cut against over-claiming:
 
@@ -144,7 +155,9 @@ The hypothesis is best posed as: *can a descriptive framework with no attacker i
 
 **Availability cascades** (Kuran & Sunstein, 1999). A self-reinforcing process in which expressed beliefs about risk spread and become self-validating; the "availability entrepreneur" is the agent who starts it. Fit: **High**, and it supplies the mechanism by which a small input produces a large output. It also supplies the **"probability neglect"** insight — that reactions follow salience, not likelihood, which is precisely why *ambiguity* is the ideal substrate.
 
-**Rumour theory.** Allport & Postman's basic law — rumour strength varies with *importance × ambiguity* — is almost a specification of the hypothesis. Modern work (DiFonzo & Bordia) adds that rumour is a sense-making activity, that it is often *self-correcting*, and that it thrives when official information is absent or distrusted. Fit: **High**, and it sharpens the key variable: **the substrate is not ignorance but ambiguity plus informational vacuum.** This is the most actionable finding in the study, because it means the countermeasure is not "more debunking" but "faster, more credible, more specific official information."
+**Rumour theory.** Allport & Postman's basic law — rumour strength varies with *importance × ambiguity* — is almost a specification of the hypothesis. Modern work (DiFonzo & Bordia) adds that rumour is a sense-making activity, and that it thrives when official information is absent or distrusted. Fit: **High**, and it sharpens the key variable: **the substrate is not ignorance but ambiguity plus informational vacuum.** This is the most actionable finding in the study, because it means the countermeasure is not "more debunking" but "faster, more credible, more specific official information."
+
+**One popular claim about rumour must be withdrawn.** This report initially repeated the common assertion that rumour is "often self-correcting." **The best evidence contradicts it.** Starbird's analysis of the Boston 2013 event found misinformation-to-correction ratios **as high as 44:1** — corrections do not outrun claims, they trail them badly — and the "self-correcting crowd" is, in that literature's own assessment, **"overly optimistic."** Correction happens when an *authority* resolves the ambiguity (§5.1c), not because the crowd corrects itself. This strengthens rather than weakens the case for the defensive posture in §11.2, and it removes a false comfort from earlier drafts.
 
 **Psychological operations.** Fit: **High.** Historical and doctrinal ancestor; supplies both techniques and their limits.
 
@@ -172,7 +185,10 @@ Stripping away the parts that existing concepts already cover, **three elements 
 
 **Two further framing points.**
 
-- **The term itself is not established.** "Agentic threat amplification" does not appear in the literature as a defined concept. The emerging adjacent term is **"agentic influence operations"**, which is what the September 2026 reporting on Iranian and Chinese autonomous campaigns actually describes. This study therefore treats its own title as a *convenient label for a configuration*, not as a recognised phenomenon.
+- **The term itself is not established — and that was verified, not assumed.** "Agentic threat amplification" returns **zero hits in both arXiv and Crossref**. The emerging adjacent term is **"agentic influence operations"**, which is what the September 2026 reporting on Iranian and Chinese autonomous campaigns actually describes. This study therefore treats its own title as a *convenient label for a configuration*, not as a recognised phenomenon.
+- **The adversarial bridge is a genuine gap in the literature, and this is the study's strongest defensible novelty claim.** No peer-reviewed work on "AI-driven reflexive control" or LLM-based reflexive control was found — confirmed by two independent searches. And targeted searches for an **adversarial or deliberate branch of the social amplification of risk framework** — "adversarial social amplification of risk", "deliberate amplification", "weaponised amplification" — return **nothing**. SARF has no attacker in it, and no one has built one.
+
+  **This is the correct place to locate the contribution.** Not "we found a new mechanism", but "**the mechanism is old, well-described and named — and nobody has connected it to the attacker, or asked what agents change**." That is a smaller claim than the hypothesis implies and a more durable one.
 - **The contested good shifts from belief to institutional behaviour.** Classic influence operations seek to change what people think. The mechanism examined here can succeed while changing nothing about what people think, provided it changes what institutions *do* under uncertainty. That is the analytically distinctive claim, and §5.4 shows it operating without any adversary present.
 
 ### 3.5 Fit matrix
@@ -185,7 +201,7 @@ Stripping away the parts that existing concepts already cover, **three elements 
 | Active measures | Soviet practice | Deliberate | **High** | Historical proof of intent and of failure |
 | Perception management / IO / MISO | US doctrine | Deliberate | **High (scope), Low (novelty)** | Definitional umbrella |
 | Availability cascades | Kuran & Sunstein 1999 | Emergent, with entrepreneurs | **High** | Small-input/large-output mechanism; probability neglect |
-| Rumour theory | Allport & Postman | Emergent, self-correcting | **High** | Importance × ambiguity; the informational vacuum |
+| Rumour theory | Allport & Postman | Emergent; **self-correction is a myth** (correction:claim ratios up to 44:1) | **High** | Importance × ambiguity; the informational vacuum |
 | Social amplification of risk | Kasperson et al. 1988 | Emergent (accidents) | **High (description), Poor (prediction)** | Amplification stations = the causal chain. **Contains no attacker** |
 | Coordinated inauthentic behaviour | Platform/threat-intel | Deliberate | **High** | The practice that agents automate |
 | Strategic signalling | Security studies | Deliberate | Partial | Why ambiguity may be the *objective* |
@@ -377,6 +393,14 @@ What the record *does* contain is three distinct things, which are routinely con
 | **Overwhelmingly organic misidentification amplified by media feedback** | **The dominant mechanism** | Copenhagen, Belgium, Norway, Vilnius, Madrid, and the majority of the 61 audited incidents |
 
 **The distinction is the study's answer.** Europe in 2025–26 experienced real hostile drone flights, opportunistic propaganda exploiting them, and enormous organic misidentification amplified by the media's own reporting. **It did not experience a manufactured drone panic.** The panic was real. It was also, in the great majority of cases, nobody's operation.
+
+**Three sharper findings refine the picture, and one of them is a genuine exception that must be recorded.**
+
+1. **The EU's own drone policy instrument contains no information-warfare content at all.** A term check of the Commission's Action Plan on Drone and Counter Drone Security (**COM(2026) 81 final**, 11 February 2026) finds **zero occurrences** of "disinformation", "FIMI", "information manipulation" or "amplification". It is a **capability instrument, not an information instrument**. Given how often the European drone wave is described in information-warfare terms, the absence is itself evidence: **the institution closest to the problem does not assess it as an information operation.**
+2. **Where reactive FIMI is documented, it is geographically specific — and the countries most often named in the drone panic are missing.** The EEAS's 4th FIMI report names **Poland, Romania, Lithuania and Estonia**, and **explicitly does not name Denmark or Norway** — the two countries whose airport closures drove the autumn 2025 narrative. Reactive propaganda clustered near the Ukrainian border, where real incursions occurred; it did not cluster around the retracted western cases.
+3. **The one documented coordinated amplification of a drone narrative is an exception that proves the rule.** In **Galați, Romania (May–June 2026)** a coordinated network ran for **seven consecutive days at 28–105 accounts and 3,400–6,800 posts per day — 116,014 posts in total**. That is a real, measured, deliberate amplification campaign around a drone event. **But it amplified a false-flag claim about a *real* strike, not a sighting wave** — which places it in category 2 of the table above (amplification of true-but-ambiguous events), not in the manufactured-event category. It is the strongest documented case in the entire record, and it still does not show an adversary manufacturing a drone scare.
+
+**And the nearest thing to an amplification of an *unproven* theory was performed not by a hostile state but by a think tank and the press** — the IISS shadow-fleet assessment of July 2026, which specialist outlets criticised as resting on assumptions and previously debunked sightings. **When the amplifiers are democratic institutions rather than adversaries, the "information operation" framing has to be applied to ourselves.**
 
 
 ### 5.2 Agentic influence operations: the first credible evidence of deployment (L3, emerging — for influence generally, not for physical scares)
@@ -990,7 +1014,7 @@ Two measured figures should temper expectations about detection-based defence:
 - **Correction works when seen.** Platform community notes reduced reposts of corrected content by **61.2%** — but only **14.9% system-wide**, because notes arrived at a median lag of **62.9 hours** against a content half-life of **6.25 hours**.
 - **The lag is the problem, not the mechanism.** The intervention is effective; it is simply too slow by an order of magnitude.
 
-**The practical implication is that speed dominates accuracy in the first hours.** A fast, specific, honest "here is what we do not yet know" outperforms a slow, comprehensive correction — a conclusion that aligns with the rumour-theory finding that cascades are driven by ambiguity *in an informational vacuum* and frequently self-correct once authoritative information arrives.
+**The practical implication is that speed dominates accuracy in the first hours.** A fast, specific, honest "here is what we do not yet know" outperforms a slow, comprehensive correction — a conclusion that aligns with the rumour-theory finding that cascades are driven by ambiguity *in an informational vacuum* and terminate only when an authoritative source resolves them — not because the crowd corrects itself.
 
 ---
 

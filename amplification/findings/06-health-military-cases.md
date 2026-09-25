@@ -194,46 +194,86 @@ significant state-actor disinformation campaign on H5N1 was documented — a val
 Collapse: of 297 retail samples, 60 (20.2%) were PCR-positive but **0 of 60 contained viable virus**, and
 pasteurisation inactivated ≥12 log₁₀. Human cases rose from 1 to 70 by February 2025, including the **first
 US H5N1 death on 6 January 2025**; the **71st** (H5N5, Washington State) died 21 November 2025 with no onward
-transmission. By 6 March 2026 CDC still reported **71 cases** and low risk, having ceased H5N1 technical
+transmission — **exactly one new case in roughly thirteen months**. The severity gap is the point: global
+H5N1's historical case fatality is **48% (973 cases, 470 deaths to 22 April 2025)**, whereas the U.S.
+clade-2.3.4.4b cluster ran at roughly **one death per seventy cases**. By 6 March 2026 CDC still reported
+**71 cases** and low risk, having ceased H5N1 technical
 reports after 5 June 2024 (A, [CDC situation summary](https://www.cdc.gov/bird-flu/situation-summary/index.html); [FDA dairy-cattle investigation](https://www.fda.gov/food/alerts-advisories-safety-information/investigation-avian-influenza-h5n1-virus-dairy-cattle); [USDA APHIS H5N1 hub](https://www.aphis.usda.gov/h5n1-hpai)). Legacy: USDA's National Milk Testing Strategy (Dec 2024) and a **$1bn** HPAI
 strategy; FDA added **$8m** and tested 464 pasteurised products, all negative; CDC monitored **33,200 people**
 and tested **1,340** (A). **Net: durable agricultural and
 surveillance machinery; no durable public-health emergency** — disruption decayed because severity and human
 transmissibility never moved.
 
-**5G and health — a scare that largely burned out.** Claims drove **documented arson and vandalism against
-telecom masts**: Mobile UK counted 50 incidents by 15 April 2020 and **77 by 6 May** (including masts not
-carrying 5G); BT's CEO reported ~40 abuse incidents including a stabbing; South Africa saw KwaZulu-Natal
-towers torched in January 2021 ([Daily Maverick](https://www.dailymaverick.co.za/article/2021-01-08-kzn-cellphone-towers-torched-as-5g-conspiracy-theories-ignite/)) (A for the incident analysis — [Langguth et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9137448/) — B/C for the counts).
-Amplification was **mixed but overwhelmingly organic**, with celebrity, commercial ("5G Bioshield" USB sticks
-at ~US$350), far-right and weak adversarial vectors; **no coordinated Kremlin promotion was established** (A
-for the negative finding). *The RF evidence, stated carefully*: ICNIRP's 2020 guidelines (100 kHz–300 GHz)
-derive limits from thermal thresholds and find no established adverse effects below them; the WHO-commissioned
-2024 systematic review (Karipidis et al.) found moderate-certainty evidence that mobile-phone use **likely
-does not** increase glioma, meningioma, acoustic neuroma, pituitary, salivary-gland or paediatric brain
-tumours; **IARC's 2011 Group 2B classification is unchanged**, resting on limited human evidence with
-acknowledged recall and selection bias. The honest formulation is **"no established effect", not "no
-effect"**; electromagnetic hypersensitivity is not a recognised diagnosis (WHO). Collapse factors: the
-conspiracy was parasitic on the pandemic, and platforms acted — YouTube banned 5G–COVID content on 5 April
-2020, Twitter banned incitement to attack 5G infrastructure on 22 April 2020 — though content removal proved
-largely ineffective while demonetisation and fraud enforcement worked. **No named victim class with
-institutional standing** (mast arson was criminal, not a health grievance), and the residual persisted only
-where it merged into local identity: **west Belfast saw 17 arson attacks on 5G towers between June 2023 and
-July 2025**, with prosecutions into April 2026. **The national scare burned out; the local violence did
-not.** Same physical medium as the directed-energy hypothesis; radically different durability.
+**5G and health — a scare that largely burned out, and proof that ambiguity alone is not enough.** Claims
+drove **documented arson and vandalism against telecom masts**: Mobile UK counted 50 incidents by 15 April
+2020 and **77 by 6 May** (including masts not carrying 5G); BT's CEO reported ~40 abuse incidents including a
+stabbing; by 23 April about **120 abuse cases** had been logged and 273 technician incidents recorded,
+including eight technicians kidnapped in Peru; South Africa saw KwaZulu-Natal towers torched in January 2021
+([Daily Maverick](https://www.dailymaverick.co.za/article/2021-01-08-kzn-cellphone-towers-torched-as-5g-conspiracy-theories-ignite/))
+(A for the incident analysis — [Langguth et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9137448/) — B/C
+for the counts). **The reach was tiny**: only about **0.05% of COVID-related tweets mentioned 5G**, and in a
+May 2020 UK survey only **1.8% agreed "completely"** that 5G was linked to the virus; growth was platform-led,
+with traditional media playing essentially no role. Amplification was **mixed but overwhelmingly organic**,
+with celebrity, commercial ("5G Bioshield" USB sticks at ~US$350), far-right and weak adversarial vectors;
+**no coordinated Kremlin promotion was established** (A for the negative finding). *The RF evidence, stated
+carefully*: ICNIRP's 2020 guidelines (100 kHz–300 GHz) derive limits from thermal thresholds and find no
+established adverse effects below them; the WHO-commissioned 2024 systematic review (Karipidis et al.) found
+moderate-certainty evidence that mobile-phone use **likely does not** increase glioma, meningioma, acoustic
+neuroma, pituitary, salivary-gland or paediatric brain tumours; **IARC's 2011 Group 2B classification is
+unchanged**, resting on limited human evidence with acknowledged recall and selection bias. The honest
+formulation is **"no established effect", not "no effect"**; electromagnetic hypersensitivity is not a
+recognised diagnosis (WHO). Collapse factors: the conspiracy was parasitic on the pandemic, and platforms
+acted — YouTube banned 5G–COVID content on 5 April 2020, Twitter banned incitement to attack 5G
+infrastructure on 22 April 2020 — though content removal proved largely ineffective while demonetisation and
+fraud enforcement worked. **No named victim class with institutional standing** (mast arson was criminal, not
+a health grievance), and the residual persisted only where it merged into local identity: **west Belfast saw
+17 arson attacks on 5G towers between June 2023 and July 2025**, with prosecutions into April 2026. **The
+national scare burned out; the local violence did not.** Same physical medium as the directed-energy
+hypothesis; radically different durability — and the decisive difference is not the physics but the absence
+of an institution with a reason to act.
+
+**Mpox clade Ib (2024–26) — the inverse of H5N1: a bounded outbreak that produced global institutions.** WHO
+declared a PHEIC on **14 August 2024** and Africa CDC its first-ever continental emergency the day before,
+even though clade Ib's case fatality was low (~0.2–0.5%, against ~3.6% for clade Ia) and ECDC rated
+EU/EEA general-population risk **low** — indeed **no Western border or travel measures followed**. Here the
+institutional response outlived the epidemiology and then outlived the emergency itself: WHO **ended the
+PHEIC on 5 September 2025**, while Africa CDC held its continental alert until **22 January 2026** — the
+continental emergency outlasted the global one by about four and a half months. The durable legacy is
+institutional rather than behavioural: a stockpile launched **27 August 2026**, testing sites expanded from 9
+to 28, and commitments of **>$1bn and >5m doses** — but fragile, with Africa CDC's **$245m request only about
+10% funded** and only ~724,000 of 2.9m doses administered (A). **Reading:** a *low-severity* event produced a
+*more durable* institutional trace than H5N1's high-severity threat, because the institutional owner (WHO and
+Africa CDC) had both the mandate and the incentive to keep the category alive.
 
 **"Disease X" — ambiguity with no event at all, and its opposite.** WHO's R&D Blueprint placeholder and its
-Davos 2024 airing turned a planning heuristic into a durable institutional agenda *and* a durable conspiracy
-("WHO power grab"): **no physical event, no reports, no evidence, yet an established programme and an
-established counter-narrative.** Ambiguity need not be *generated* to be *exploited*; it need only be
-*named*. By contrast the DRC's 2024–25 "Disease X" (Panzi, Kwango; reported death tolls 67–143) collapsed
-within weeks: WHO deployed on 6 December 2024, samples tested positive for malaria within days, and a 2026
-*Nature Medicine* analysis attributed the outbreak to **known pathogens — principally malaria and respiratory
-infection — amplified by acute malnutrition and low vaccination coverage** (A).
+Davos 2024 airing turned a planning heuristic into durable institutions *and* a durable conspiracy: the WHA77
+IHR amendments (**1 June 2024**, in force 19 September 2025) and the WHA78 Pandemic Agreement (**20 May
+2025**, adopted 124–0–11) — although the benefit-sharing annex is unfinished, so the agreement is **not open
+for signature and has zero ratifications**. The Davos panel itself was humdrum (supply chains, surge
+capacity); the backlash was **adversarial and commercial** (Alex Jones; a $299.99 ivermectin kit marketed by
+Donald Trump Jr.). The United States completed **WHO withdrawal on 22 January 2026** — it had supplied
+**15.6% of WHO revenue** — with roughly **3,000 WHO posts (22%)** cut and a *Lancet Global Health* projection
+of 22.6m additional deaths by 2030 (A/B). **No physical event, no reports, no evidence, yet an established
+programme and an established counter-narrative.** Ambiguity need not be *generated* to be *exploited*; it
+need only be *named*. By contrast the DRC's 2024–25 "Disease X" (Panzi, Kwango; reported death tolls 67–143)
+collapsed within weeks: WHO deployed on 6 December 2024, samples tested positive for malaria within days, and
+a 2026 *Nature Medicine* analysis attributed the outbreak to **known pathogens — principally malaria and
+respiratory infection — amplified by acute malnutrition and low vaccination coverage** (A).
 
-**COVID-19 origins — an unresolvable binary.** ---
-
-**COVID-19 origins — an unresolvable binary.** The FBI and DOE assessed lab origin at moderate/low confidence in 2023; the CIA shifted to favouring it with "low confidence" in January 2025 (A). Because both hypotheses stay formally live, neither side can close the issue and each institutional statement re-ignites it. Persistence driver: **an unresolvable evidentiary question with high political stakes** — structurally identical to Havana.
+**COVID-19 origins — the true persistence case, and the only one where the scientific and political tracks
+diverge.** The ODNI assessment language, read verbatim from the govinfo mirror, is that "**all agencies
+continue to assess that both a natural and laboratory-associated origin remain plausible hypotheses**": the
+NIC and four agencies judge natural exposure most likely; **DOE (low confidence) and the FBI (moderate
+confidence) judge a laboratory-associated incident most likely**, "although for different reasons"; the CIA
+and one other agency "remain unable to determine". The CIA's **25 January 2025** shift toward lab origin at
+"low confidence" used **no new intelligence**. Meanwhile WHO's SAGO panel concluded on **27 June 2025** that
+the weight of evidence still "suggests" zoonotic spillover. The 2026 escalation is institutional and legal
+rather than scientific: an ODNI/Fauci document release on **18 June 2026** (disputed by *Lawfare*), Fauci
+invoking the Fifth on **29 July**, a DOJ contempt referral on **7 August**, a Morens guilty plea on **19
+August**, and a former Biden COVID coordinator publicly concluding "it probably was a lab leak" on **2
+August** (A/B). **Persistence driver: neither hypothesis can be closed, so each institutional statement
+re-ignites the dispute** — structurally identical to Havana, and the clearest evidence that a scare can
+persist indefinitely when neither refutation nor resolution is available.
 
 ---
 
@@ -317,23 +357,31 @@ Ebola for HIV (2014), the 2018 "US biolab in Georgia" story, the 2020–22 "US b
 narrative. *Contested, and stated as such*: **"Denver" is the archival codename; "INFEKTION" rests on an
 ex-HVA officer's recollection and appears nowhere in the files**; whether the *Patriot* letter was
 KGB-authored is **unproven**; Segal's status is unresolved; the 1992 "Primakov admission" is second-hand; a
-Soviet *Agent Orange* fabrication is **unverified**. **Analytically a partial failure**: it did not change
-Western policy and was attributed within four years, and Western and Soviet virologists dismissed it almost
-immediately — **the constraint was a credible, independent scientific validator with access to the same
-audiences**. The mechanism that made it work is the one this strand cares about: **the adversary supplied a
-causal story for an unresolved medical mystery and let target populations do the rest.** What limited it was
-**attribution plus a trusted validator**. In Havana the causal story came largely from *domestic*
-institutions and journalists — which is why it proved far more durable.
+Soviet *Agent Orange* fabrication is **unverified**. **Analytically a partial failure — and note that its
+collapse was diplomatic, not epistemic.** On 23 October 1987 Shultz told Gorbachev that Moscow was peddling
+"bum dope"; the Soviet Academy of Sciences disavowed the thesis through *Izvestia*, and in summer 1988 its
+president said no Soviet scientist shared the position. Yet *Sovetskaya Rossiya* defended "different views"
+the same day, Radio Moscow aired an uncritical Segal interview in February 1988, and reprints continued into
+1989; formal authorship was admitted only in 1992. So it did not change Western policy, and Western and Soviet
+virologists dismissed it almost immediately — **the constraint was a credible, independent scientific
+validator with access to the same audiences**. The mechanism that made it work is the one this strand cares
+about: **the adversary supplied a causal story for an unresolved medical mystery and let target populations do
+the rest.** What limited it was **attribution plus a trusted validator**. In Havana the causal story came
+largely from *domestic* institutions and journalists — which is why it proved far more durable.
 
 **"Yellow rain" (1975–87, contested).** From 1981 the U.S. alleged that Soviet-backed forces in Laos,
 Kampuchea and Afghanistan used trichothecene mycotoxins, on the basis of refugee reports and samples. The
 Meselson/Nowicke critique (1983–84, *Nature*) argued the samples were largely **bee faeces and pollen** and
-the symptoms inconsistent with trichothecene poisoning; ABC's 1984 documentary amplified the official claim.
-The scientific rejection was decisive in the literature — the collapse mechanism was **peer-reviewed
-replication**, not institutional authority — but the political claim persisted for years and neither claim
-nor refutation is universally accepted. A related Iraqi case is a rare instance of ambiguity resolved
-*against* the amplifying party: the pre-2003 claim failed because Iraq had purified only ~20 ml of
-trichothecene and never weaponised it (A/B). **The underlying yellow-rain question is treated here as open.**
+the symptoms inconsistent with trichothecene poisoning. The peer-reviewed literature turned decisively against
+the claim (the collapse mechanism was **replication**, not institutional authority), but the **political**
+claim did not collapse: there was no U.S. retraction, Army textbooks carried it into 2007, and the Defense
+Threat Reduction Agency held it formally unresolved — the strongest reverse reading (Katz & Singer, 2007)
+allows *some* chemical or biological attack in the region while leaving agent, intent and source unidentified.
+The claim also re-ignited as memory twice: a bee-pollen release at Sangrampur, India (2002) triggered a
+chemical-attack scare, and pollen falling on Sofia on 23 May 2015 was read as an attack amid Bulgaria–Russia
+tension. A related Iraqi case is a rare instance of ambiguity resolved *against* the amplifying party: the
+pre-2003 claim failed because Iraq had purified only ~20 ml of trichothecene and never weaponised it (A/B).
+**The underlying yellow-rain question is treated here as formally unresolved, not settled either way.**
 
 **The 2001 anthrax letters.** *The real attack*: four recovered letters with Trenton postmarks of 18 September
 (NBC, *New York Post*) and 9 October 2001 (Daschle, Leahy), plus a fifth envelope to American Media Inc. that
@@ -388,10 +436,13 @@ claim was defeated by *access to the sites*, not by rhetoric, and was read in th
 signal, so that **the amplification boomeranged into vigilance about Russia rather than about Ukraine** (A,
 [IAEA press release 181/2022](https://www.iaea.org/newscenter/pressreleases/iaea-inspectors-complete-in-field-verification-activities-at-three-ukraine-locations-no-indications-of-undeclared-nuclear-activities-and-materials)
 `[Cloudflare-blocked]`). *Syria/Ghouta (2013)* shows a fourth mechanism: the UN mission (S/2013/553)
-confirmed sarin use but had no attribution mandate, the U.S. and Russia published competing assessments, and
-the OPCW-UN Joint Investigative Mechanism later attributed Khan Sheikhoun (2017) and Ltamenah (2018) to
-Syrian government forces — **ambiguity sustained not by fabrication but by adversarial contestation of
-evidence chains** (A).
+confirmed sarin use but **its mandate excluded attribution** — a structural gap that is the source of the
+sustained ambiguity — the U.S. and Russia published competing assessments, and the OPCW-UN Joint
+Investigative Mechanism later attributed Khan Sheikhoun (2017) and Ltamenah (2018) to Syrian government
+forces. The OPCW's own credibility was then corroded by the 2018 Douma leaks and "staged attack" narrative,
+and the Conference suspended Syria's rights in 2021 before **reinstating them on 9 July 2026 after Assad's
+fall** — **ambiguity sustained not by fabrication but by adversarial contestation of evidence chains, and
+resolved only when the sponsoring state fell** (A).
 
 **2022–2026: exploiting ambiguity without establishing events.** The Baltic cable and Nord Stream cases are
 instructive precisely because they *collapsed*: every Baltic cable case traced back to **anchor drag** rather
