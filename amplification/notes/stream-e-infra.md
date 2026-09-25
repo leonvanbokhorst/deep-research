@@ -64,7 +64,7 @@ The strongest verified synthetic-media figure is aggregate: the EEAS 4th FIMI re
 ## UNSOURCED / UNCERTAIN
 
 - **Svalbard 2022**: no verified source; unverified. Only the Sep 2026 Reuters/Defense News spring-2026 GUGI story is verified, and it rests on **two anonymous Western officials** — contested, single-sourced.
-- **"More than 1,500 flights a day"** affected by GPS spoofing (Jul 2026): only an MSN aggregator headline retrievable; publisher and methodology unconfirmed. No primary Eurocontrol/GPSJam daily series was retrievable.
+- **"More than 1,500 flights a day"** affected by GPS spoofing (Jul 2026): only an MSN aggregator headline retrievable; publisher and methodology unconfirmed. No primary Eurocontrol/GPSJam daily series was retrievable, so all per-day counts are weakly sourced.
 - **Yi Peng 3**: the WSJ "deliberately dragged anchor for 100 miles" claim conflicts with later statements that nobody was charged and US intelligence assessed the cuts as non-deliberate. Attribution **actively contested**.
 - **Denmark's alleged refusal to help Germany's Nord Stream probe** (Aug 2026): only an unverified wire item; unconfirmed.
 - **Leipzig/Halle drone-bomb date**: the brief's "Aug 2025" conflicts with DW/BBC reporting placing it on 4–5 Aug 2026; the 2026 date is better supported.

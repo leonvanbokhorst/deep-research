@@ -282,7 +282,7 @@ My initial search found no DSA deepfake decision; a second pass found a **substa
 
 ## 1.4 Technical reality check: how convincing are 2026 deepfakes to ordinary viewers?
 
-*(Consolidated with a dedicated detection-literature stream — see §1.4 addendum. Placeholder pending that stream.)*
+*(Consolidated with a dedicated detection-literature stream; the full verified tables are in the §1.4 addendum below and in `_sub-detection-studies.md`.)*
 
 **What I can already state from the legal record, and why it matters more than the psychophysics:** the courts and regulators in 2024–26 have repeatedly treated synthetic media as **materially deceptive to ordinary recipients** without requiring any showing of measured detection difficulty. The FCC found Kramer's call "deepfake" and misleading as a matter of fact and imposed the statutory maximum-style penalty of $1,000 per call. The practical operating assumption of every legislature surveyed is that these artefacts fool enough people to matter. That assumption is load-bearing, and the empirical literature on how well people actually detect them is therefore a control on policy, not a curiosity.
 

@@ -46,13 +46,11 @@ The binding constraint has moved from **production** to **distribution and acces
 
 A mature commercial market (Brandwatch, Meltwater, Sprinklr, NewsWhip, Dataminr, Graphika, Recorded Future), sold by subscription; public list pricing has largely been withdrawn (X was fined **€120M** in December 2025 for DSA researcher-data failures). Accuracy caveat: LLM annotation matches or beats crowd workers on sentiment and political leaning, but both sit near chance on **sarcasm** (α = 0.25) — and these measure agreement, not correctness. The **EEAS 4th FIMI Threat Report (12 March 2026)** counted **AI techniques in 27% of 540 incidents, up from 41 to 147 cases year-on-year**, while concluding that AI material "remains low-quality" with "limited overall impact as organic engagement remains low": "the objective is not precision but presence."
 
-
-
 ### 3.3 Adaptive narrative selection
 
 **Platform ad-delivery optimisation** (real, mature, bandit-driven) is *not* an **adversarial agent that reads response and rewrites narrative to evade counter-messaging**. The first is pervasive; the second is asserted, not shown.
 
-What exists is the apparatus: operations built as **persistent agent harnesses** with shared memory files holding banned-word lists, approved sources and evasion rules, plus a Malaysian commercial platform running **~1,000 fake X accounts with warm-up logic** (Anthropic, September 2026) — whose dashboard tracked *engagement volume*, not message performance. Meta's H2 2026 adversarial threat report states that feedback-adapting autonomous agents **"have not yet [been] deployed extensively at scale by threat actors"** — a rare case of a platform declining to inflate a threat.
+What exists is the apparatus: operations built as **persistent agent harnesses** with shared memory files holding banned-word lists, approved sources and evasion rules, plus a Malaysian commercial platform running **~1,000 fake X accounts with warm-up logic** (Anthropic, September 2026) — whose dashboard tracked *engagement volume*, not message performance. Meta's H2 2026 adversarial threat report states that feedback-adapting autonomous agents **"have not yet [been] deployed extensively at scale by threat actors"** — a platform declining to inflate a threat.
 
 ### 3.4 Localised and multilingual messaging
 
@@ -100,12 +98,11 @@ But the tempo asymmetry runs the other way from the hype. The fastest documented
 
 ### 3.10 Cost and access
 
-Verified on live 2026 pricing: a 500-word post costs roughly **$0.0001–$0.04** depending on model tier; **1,000 posts cost $0.38–$38**. A persona at 50 messages/day for a month costs **$0.71 cheap-tier to $71 frontier**.
+Verified on live 2026 pricing: a 500-word post costs **$0.0001–$0.04**; **1,000 posts cost $0.38–$38**; a persona at 50 messages/day for a month costs **$0.71 (cheap tier) to $71 (frontier)**.
 
 Account access — not generation — sets the floor: SMS-verified accounts run **$0.08–$0.10** in some markets but **$4.93 in Japan**, and procurement spikes by **12–15% in the 30 days before national elections** (Cambridge COTSI index, *Science*, December 2025). Proxies cost **$1.75–$4.00/GB**.
 
 Against that, **distribution is two to three orders of magnitude more expensive**: X's pay-per-usage API prices a post at **$0.015**, but **$0.200 when it contains a URL** — a deliberate 13× link penalty. **1,000 posts with links therefore costs $200 in platform fees against $0.38 of generation — a 524× asymmetry.** Account acquisition, phone verification, proxies and platform fees — not inference — are the true cost of influence at scale. **CAPTCHA solving, at $0.10–$1.00 per 1,000, has fallen only ~1.8× in sixteen years**: it is the one defensive cost that has *not* collapsed, and therefore the highest-leverage place to invest. One inversion matters: a cloned-voice agent at **$3.00–$4.80/hour** beats US labour by 6–10× but **loses to Philippine offshore labour (<$2.00/hour)** by 1.5–2.4×. The correct comparator is offshore labour, not US salaries. *(Full pricing and human baselines: `amplification/notes/cost-access.md`.)*
-
 
 ---
 
@@ -113,7 +110,6 @@ Against that, **distribution is two to three orders of magnitude more expensive*
 
 - **Guardrails raise friction and shape tactics; they do not prevent the operation.** Anthropic refused its most aggressive request (naming real individuals as militants) and a fabricated defamation dossier — after which the actor "negotiated sanitized wording to keep building toward the same capability." Guardrails also create **detection surface**: vendors see operations upstream of the platform, so many are caught early.
 - **Rate limits and identity verification are the effective chokepoints**, because **access cost, not generation cost, dominates**. Warm-up logic, rotated IPs, VPNs and foreign phone numbers are documented countermeasures.
-- **Enforcement works, on a lag.** Large networks are taken down; operators also roll one banned account into 29 more over sixteen months. Economics favour the attacker on identity, the defender on structure.
 - **AI-text detection is not a defence** — false-positive-prone against human writers (one Stanford suite flagged **61% of human TOEFL essays**) and largely irrelevant because networks are connected structurally. **Behavioural detection does work**: Reddit reports ~**23M spam views/day blocked before exposure**, ~**2M fake votes/day revoked**, and a **40% reduction in false positives**. But **integrity capacity is contracting**: TikTok shed **439 UK trust-and-safety roles** in October 2025 while UK/European revenue grew 40%, and Meta is replacing third-party enforcement vendors with AI. Attacker and defender cost curves are moving in opposite directions.
 
 ---
@@ -122,7 +118,7 @@ Against that, **distribution is two to three orders of magnitude more expensive*
 
 Substantially, on the best available evidence — with one caveat. **Bail et al. (2020, *PNAS*)** linked 1,239 US Twitter users in late 2017 to non-public IRA data and found **no evidence that interaction with IRA accounts substantially affected any of six measures of political attitudes and behaviour** over one month; interaction concentrated among users *already* highly polarised. **Eady et al. (2023, *Nature Communications*)** report an **explicit null with equivalence bounds**: TOST **rejects effects larger than 0.2 SD for 17 of 18 outcomes**; the vote-for-Trump estimate was **−0.18pp (90% CI −1.15 to 0.78)**, below 0.7pp in 95% of simulations against a 0.77pp Wisconsin margin. Exposure was extremely concentrated — **1% of users accounted for 70% of exposures** — skewed to strong Republicans, and **eclipsed by domestic media (~4 IRA posts/day vs ~106 news posts/day)**. Wider context: **Coppock (2020; 59 experiments, N ≈ 34,000)** found 0.7pp vote-choice effects (n.s.); **Kalla & Broockman (2018; 49 experiments)** averaged zero.
 
-The caveat: **this evidence concerns national elections**, where audiences are saturated and counter-messaging abundant. Ambiguous local events are a different regime — weak priors, slow verification, a vacuum the first coherent account fills. No resilience study tests that regime, and §3.8 suggests the vacuum lasts about a day.
+The caveat: **this evidence concerns national elections**, where audiences are saturated and counter-messaging abundant. Ambiguous local events are a different regime — weak priors, slow verification, a vacuum the first coherent account fills. No resilience study tests that regime, and §3.8 suggests the vacuum lasts about a day. The pivotal distinction: the nulls measure *passive exposure*, whereas Costello and Salvi measure *interactive dialogue* — they should not be generalised to conversational agents.
 
 ---
 
@@ -132,7 +128,7 @@ The caveat: **this evidence concerns national elections**, where audiences are s
 |---|---|---|---|---|---|---|
 | **Persuasion efficacy** | Yes, ~human parity | Yes, preregistered RCTs | Yes (state-media copy) | +81.2% odds of post-debate agreement (CI +26 to +161); ~20% conspiracy-belief cut, durable 2 months | **High** lab / **Low** field | Salvi 2025; Costello 2024; Hackenburg 2025 |
 | **Microtargeting uplift** | Claimed | **Not shown** | Assumed by operators | **4.83 vs 6.20pp, P = 0.226** (null) | **High** (negative) | Hackenburg & Margetts 2024 |
-| **Continuous monitoring** | Yes | Yes | Yes, commercial | EEAS: AI in **27% of incidents, +259% YoY**; sarcasm κ = 0.25 | **High** availability / **Low** impact | EEAS Mar 2026 |
+| **Continuous monitoring** | Yes | Yes | Yes, commercial | EEAS: AI in **27% of incidents, +259% YoY**; sarcasm α = 0.25 | **High** availability / **Low** impact | EEAS Mar 2026 |
 | **Adaptive narrative selection** | Plausible | A/B analogues only | Scaffolding only | None measured; Meta: "not yet deployed extensively at scale" | **Low** | Anthropic Sep 2026; Meta H2 2026 |
 | **Localised / multilingual** | Yes | Yes | **Yes** | 8,913 articles / ~20 languages; **~700–3,000 messages per $1** | **High** | Anthropic Sep 2026 |
 | **Long-running personas** | Partial (drift ~8 rounds, lab) | Single-interaction passing | **Yes** — impersonation from ~8,400 posts | Contacts unaware; no reach measure | **Moderate** | Anthropic Sep 2026; UCSD 2026 |
@@ -160,4 +156,3 @@ The caveat: **this evidence concerns national elections**, where audiences are s
 
 **Where claims rest on thin ground:** adaptive narrative selection, automated rebuttal evasion, autonomous newsjacking, and any estimate of real-world belief change attributable to an AI-enabled influence operation. All vendor deployment evidence is first-party, self-selected and published by interested parties. The most important unmeasured quantity remains **whether AI-enabled influence changes behaviour in the field**; no one has yet shown that it does.
 
-**The pivotal distinction:** the nulls measure *passive exposure*; Costello and Salvi measure *interactive dialogue*. They are not interchangeable, and the nulls should not be generalised to conversational agents. Microtargeting is null across three high-powered studies — the effective mechanism is interactivity, not targeting.

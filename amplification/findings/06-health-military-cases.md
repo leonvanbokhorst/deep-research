@@ -14,46 +14,81 @@ as a citation index (D).
 
 ---
 
+## 0. Bottom line
+
+**The ambiguity mechanism generalises fully outside the drone domain; durability does not follow from
+ambiguity.** Across all eight cases the disruption was produced by the target society's own institutions, not
+by the physical event, and the cases that became permanent did so for reasons unrelated to the strength of
+the evidence. Six variables predict durability, in order of power:
+
+1. **An institutional owner for a harm question.** Havana (diplomats, soldiers, spies) produced twelve
+   investigations, a permanent DoD CFT and the HAVANA Act. UAP produced AARO because Congress had already
+   built the channel. Wind-turbine syndrome produced planning law because local government must decide. 5G
+   mast arson produced almost nothing durable because **no institution owned mast safety as a health
+   question**.
+2. **A decisive evidentiary test, available and run.** Recoverability collapses ambiguity: the 2023 balloon
+   objects were identified within ten days once recovered; the H5N1 milk scare died when 0 of 60
+   PCR-positive samples proved viable; the DRC's "Disease X" resolved to malaria in weeks. Havana and UAP
+   cannot close because nothing is recoverable.
+3. **A plausible named mechanism that cannot be refuted** — "sonic weapon"/"directed energy", "insidious
+   infrasound", "Disease X". Naming creates the category that makes reports aggregable and politically
+   usable.
+4. **An interested constituency for non-closure.** Havana is decisive: five of seven agencies said adversary
+   involvement was "very unlikely", NIH failed to replicate the brain-injury findings, and in 2026 DoD
+   rebranded its team *towards* directed energy while the outgoing DNI rescinded the sceptical assessments.
+5. **Whether the remedy is material or legal** (see §7, variable 5).
+6. **Whether ambiguity aggregates into one category or fragments** — Havana's single label absorbed a dozen
+   countries into a 1,000+ case count; the three 2023 balloon objects were resolved separately and nothing
+   accumulated.
+
+**Strongest counterexample: New Jersey, November 2024–January 2025** (§7.1). 5,000+ sightings, maximum
+political attention, DHS/FBI/FAA/DoD engaged, a real physical substrate — and the joint federal assessment
+found "nothing anomalous", the episode burned out in about six weeks, and the durable legacy is thin. It
+lacked a named victim class, its reports were resolvable, and no institution owned a *harm* question. Full
+case detail follows; source-level grading is in the evidence trail and in the three delegated raw files
+(`raw-publichealth.md`, `raw-product-env.md`, `raw-adversary.md`).
+
+---
+
 ## 1. Havana syndrome / anomalous health incidents (2016–2026)
 
 **Chain.** Late 2016: Havana embassy staff report headache, tinnitus, vertigo, cognitive difficulty and a
 *perceived* sound — no lesion, no sensor reading, no identified device, no diagnosed disease. **August 2017:
 the State Department labels the events "attacks"** — an *institutional* act, not a media one, and the pivotal
-step: an open medical question becomes a security incident. Consequences follow immediately — two Cuban
-diplomats expelled, a February 2018 accountability review board, an indefinite Havana embassy drawdown never
-reversed, Canada halving its presence, a U.S. health alert extended to all of mainland China.
+step that turned an open medical question into a security incident. Two Cuban diplomats are expelled, a
+February 2018 accountability review board follows, the Havana embassy is drawn down indefinitely, Canada
+halves its presence, and a U.S. health alert extends to all of mainland China.
 
-**Amplification (media, then political).** The Penn JAMA study (March 2018) described "a new syndrome …
-resembles persistent concussion" and "injury to widespread brain networks" (A for the paper; the finding
-later failed replication); its lead author told the *New York Times* that microwaves were "considered a main
-suspect". *The New Yorker*, *60 Minutes*, *Politico*, the *Times* and the *Guardian* sustained the story. The
-decisive act was **naming**: "sonic attack", later "directed energy weapon", supplied a causal agent the
-evidence never did. A 2021 *60 Minutes* segment was followed within a week by a Senate Intelligence Committee
-letter and a DNI public statement. **This is the clearest case in the set of amplification originating inside
-the target's own institutions rather than from outside.**
+**Amplification — media, then political, and originating inside the target's own institutions.** The Penn
+JAMA study (March 2018) described "a new syndrome … resembles persistent concussion" and "injury to
+widespread brain networks" (A for the paper; the finding later failed replication), and its lead author told
+the *New York Times* that microwaves were "considered a main suspect". *The New Yorker*, *60 Minutes*,
+*Politico*, the *Times* and the *Guardian* sustained the story. The decisive act was **naming**: "sonic
+attack", later "directed energy weapon", supplied a causal agent the evidence never did. A 2021 *60 Minutes*
+segment was followed within a week by a Senate Intelligence Committee letter and a DNI public statement.
 
 **Vigilance → cascade.** Case counts grew with attention — 26 (2017) → 40 (2019) → 130 (May 2021) → 200+
 (Sept 2021) → **1,000+ (early 2022)** — spreading to Guangzhou, Berlin, Vienna, Geneva, Bogotá, Serbia,
-London and Washington, including at least two incidents on the White House grounds and one at CIA
-headquarters (C). Common symptoms acquired a name and thereafter fitted it.
+London and Washington, with at least two incidents on the White House grounds and one at CIA headquarters
+(C). Symptoms with no name acquired one, and thereafter fitted it.
 
-**Institutional response.** Twelve investigations (State, Penn, FBI BAU 2018; JASON 2018, 2022; CDC 2019; DoD,
-CIA 2020; NASEM 2020; Cuban Academy of Sciences 2021; seven ODNI agencies 2023, updated 2025; NIH 2024; GAO
-2024); a State task force (2021) under two ambassador-rank leads; a CIA task force (2020); and a DoD task
+**Institutional response.** Twelve investigations (State, Penn, FBI BAU 2018; JASON 2018 and 2022; CDC 2019;
+DoD, CIA 2020; NASEM 2020; Cuban Academy of Sciences 2021; seven ODNI agencies 2023, updated 2025; NIH 2024;
+GAO 2024); a State task force (2021) under two ambassador-rank leads; a CIA task force (2020); and a DoD task
 force that became a **Cross-Functional Team**, moved in 2026 to Research & Engineering and renamed the
 **Directed Energy Bio-Effects CFT** (A,
 [DefenseScoop, 24 Feb 2026](https://defensescoop.com/2026/02/24/havana-syndrome-defense-department-anomalous-health-incidents-ahi-cft/)).
 
 **Validation — and the inversion.** Findings moved *against* the weapon hypothesis as the structure grew:
 JASON 2018 (A) judged the sounds "most likely" insects — with high confidence the Indies short-tailed cricket
-— microwave/ultrasound "highly unlikely", and psychogenic effects able to "explain important components";
-the CIA (Jan 2022, A) found most of ~1,000 cases explicable by natural causes, undiagnosed conditions or
-stress; **ODNI (1 Mar 2023, A)** found five of seven agencies judging adversary involvement "very unlikely",
-one "unlikely", one abstaining — with **two dissenting at low confidence precisely because they judged RF
-energy plausible** — and recorded mundane site findings such as malfunctioning HVAC systems; the **NIH (Mar
-2024, A)** found no MRI-detectable brain injury and no significant differences in most clinical/biomarker
-measures across two studies (81 and 86 participants), **failing to replicate the Penn findings**; the ODNI
-update (Jan 2025, A) held the 2023 judgements; GAO (Jul 2024, A) found 334 people qualified for care, on an
+— microwave/ultrasound "highly unlikely", and psychogenic effects able to "explain important components". The
+CIA (Jan 2022, A) found most of ~1,000 cases explicable by natural causes, undiagnosed conditions or stress.
+**ODNI (1 Mar 2023, A)** found five of seven agencies judging adversary involvement "very unlikely", one
+"unlikely", one abstaining — with **two dissenting at low confidence precisely because they judged RF energy
+plausible** — and recorded mundane site findings such as malfunctioning HVAC systems. The **NIH (Mar 2024,
+A)** found no MRI-detectable brain injury and no significant differences in most clinical/biomarker measures
+across two studies (81 and 86 participants), **failing to replicate the Penn findings**. The ODNI update (Jan
+2025, A) held the 2023 judgements. GAO (Jul 2024, A) found 334 people qualified for care, on an
 *administrative* rather than causal question.
 
 **Costs.** HAVANA Act (PL 117-46, 8 Oct 2021): up to one year's full salary, untaxed — **$187,300** for
@@ -75,8 +110,8 @@ records matching a few AHI locations (B/C — multiple outlets, one category of 
 In January 2026 CBS/CNN reported that Homeland Security Investigations bought a backpack-sized pulsed-RF
 device with Russian-origin components for **$15m** and tested it on rats and sheep (E — anonymous, no device
 shown, no published data); the *Washington Post* reported a **sceptical** Norwegian scientist who tested such
-a device on himself in 2024 (C, anonymous). In **June 2026 the outgoing DNI rescinded the 2023 ICA and its
-2025 update** as "ethically flawed" (B/C) — reopening a scientific question on political grounds.
+a device on himself (C, anonymous). In **June 2026 the outgoing DNI rescinded the 2023 ICA and its 2025
+update** as "ethically flawed" (B/C) — reopening a scientific question on political grounds.
 
 **Why the ambiguity persisted.** (i) **No available test**: nothing physical was ever identified, so every
 negative finding could be read as an adversary covering its tracks. (ii) **Symptom–label feedback**: once a
@@ -163,8 +198,7 @@ US H5N1 death on 6 January 2025**; the **71st** (H5N5, Washington State) died 21
 transmission. By 6 March 2026 CDC still reported **71 cases** and low risk, having ceased H5N1 technical
 reports after 5 June 2024 (A). Legacy: USDA's National Milk Testing Strategy (Dec 2024) and a **$1bn** HPAI
 strategy; FDA added **$8m** and tested 464 pasteurised products, all negative; CDC monitored **33,200 people**
-and tested **1,340** (A). BARDA contracts to CSL Seqirus (~$121m) and Moderna ($176m, then ~$590m) were
-followed by HHS cancelling **$766m** of pandemic-flu mRNA contracts (B/C). **Net: durable agricultural and
+and tested **1,340** (A). **Net: durable agricultural and
 surveillance machinery; no durable public-health emergency** — disruption decayed because severity and human
 transmissibility never moved.
 
@@ -198,12 +232,9 @@ within weeks: WHO deployed on 6 December 2024, samples tested positive for malar
 *Nature Medicine* analysis attributed the outbreak to **known pathogens — principally malaria and respiratory
 infection — amplified by acute malnutrition and low vaccination coverage** (A).
 
-**COVID-19 origins — an unresolvable binary.** The FBI and DOE assessed lab origin at moderate/low confidence
-in 2023; the CIA shifted to favouring lab origin with **"low confidence"** in January 2025 (A for the fact of
-the assessment; the evidence is not public). Because both hypotheses stay formally live, neither side can
-close the issue and each institutional statement re-ignites it. Amplification is political and media, with
-adversarial messaging from Russian and Chinese state channels in opposite directions. Persistence driver:
-**an unresolvable evidentiary question with high political stakes** — structurally identical to Havana.
+**COVID-19 origins — an unresolvable binary.** ---
+
+**COVID-19 origins — an unresolvable binary.** The FBI and DOE assessed lab origin at moderate/low confidence in 2023; the CIA shifted to favouring it with "low confidence" in January 2025 (A). Because both hypotheses stay formally live, neither side can close the issue and each institutional statement re-ignites it. Persistence driver: **an unresolvable evidentiary question with high political stakes** — structurally identical to Havana.
 
 ---
 

@@ -284,7 +284,7 @@ people; the multiplicity of sources mostly does not add much.**
 
 **Human detection is at or barely above chance in every modality — DEMONSTRATED (A, high).** The
 largest synthesis, Diel, Lalgi, Schröter, MacDorman, Teufel & Bäuerle (2024), *Computers in Human
-Behavior Reports* — **56 papers, 86,155 participants, k = 137 effects** — pools human deepfake
+Behavior Reports* 16:100538, DOI 10.1016/j.chbr.2024.100538 — **56 papers, 86,155 participants, k = 137 effects** — pools human deepfake
 detection at **55.5%** (95% CI 48.9–62.1): images **53.2%**, text **52.0%**, video **57.3%**, audio
 **62.1%**. This is the single most important number in the area and the correct citation for "humans
 cannot reliably detect synthetic media."
@@ -297,17 +297,17 @@ Experiment 3 (N = 223, trustworthiness 1–7): synthetic **4.82** vs real **4.48
 d = **0.49** — three of the four most-trusted faces were synthetic, all four least-trusted were real.
 Two qualifications matter for defence: **Miller et al. (2023, *Psychological Science*)** found White
 AI faces were judged human **~66%** of the time — *more often than real faces* — with the worst
-performers the most confident; and **Dawel et al. (2026, PNAS)** found that training attention to six
+performers the most confident; and **Dawel et al., "Training humans to detect AI-generated faces", *PNAS*, 29 Jun 2026, DOI 10.1073/pnas.2602122123** — training attention to six
 *global facial impressions* (without telling participants how to use them) **nearly doubled accuracy,
 40% → 80%**, replicating online. Detection is not a fixed limit — but only the right cue class works.
-**McGuire et al. (2026, *Journal of Vision*)** confirms the "more trustworthy than real" effect holds
+**McGuire et al., "AI-generated faces are becoming more trustworthy", *Journal of Vision* 26(7):3, 7 Jul 2026, DOI 10.1167/jov.26.7.3** confirms the effect holds
 across architectures (diffusion faces are *less* photorealistic yet rated *more* trustworthy).
 
 **Repetition works — but by fluency, NOT by source plurality. This is the key finding for H2.**
 The foundational result is Pennycook, Cannon & Rand, *JEP: General* 147(12), 2018, DOI
 10.1037/xge0000465 (verified via Crossref): prior exposure raises perceived accuracy even for
 implausible headlines and even when the source is discounted. Scale and limits are now well
-quantified: **Ye et al. (2026, *Nature Communications*)** — 182 studies, 366 effect sizes, N = 31,184
+quantified: **Ye et al., *Nature Communications*, 27 Feb 2026, DOI 10.1038/s41467-026-70041-x** — 182 studies, 366 effect sizes, N = 31,184
 — put the corrected illusory-truth effect at **g = 0.37** (95% CI 0.30–0.44): real, small, and
 heterogeneous. **Riesthuis & Woods (2026, *Consciousness and Cognition*)** bound it further: two
 preregistered experiments (N = 457) plus a mini meta-analysis found repetition **did not reliably
@@ -317,9 +317,9 @@ Now the decisive part. The question H2 actually needs answered — does *one cla
 sources* beat the same claim from one? — **has been tested, and the best direct test is a null.**
 **Foster, Huthwaite, Yesberg, Garry & Loftus (2012, *Acta Psychologica*)** is titled for its result:
 *"**Repetition, not number of sources, increases both susceptibility to misinformation and
-confidence**."* **Roggeveen & Johar (2002, *Journal of Consumer Psychology*)** found that, holding
+confidence**"* — DOI 10.1016/j.actpsy.2011.12.004, verified via Crossref. **Roggeveen & Johar (2002, *Journal of Consumer Psychology* 12(2))** found that, holding
 credibility constant, manipulating source count operates through **subjective familiarity, not
-perceived source variability**. **Pillai & Fazio (2025, *JARMAC*)** is the one paper framed exactly as
+perceived source variability**. **Pillai & Fazio (*JARMAC*, Jun 2025, DOI 10.1037/mac0000166)** is the one paper framed exactly as
 the synthetic-corroboration hypothesis — *"Repeated by many versus repeated by one: examining the role
 of social consensus"* — but its effect size could **not** be retrieved (APA blocks automated access);
 **it is the priority manual read.** The most useful positive mechanism found is **indirect**:
@@ -350,7 +350,7 @@ politicians who falsely claimed genuine footage of them was a deepfake were rate
 leadership ability** (M ≈ 4.39/4.07) than those who apologised (M ≈ 2.97/3.01), F(1,178) = 50.01,
 p < .001, η²p = .22, and recipients were significantly more likely to misidentify the **authentic**
 video as fake (F = 21.36, p < .001, η²p = .11). **But the strongest and largest test bounds it:**
-Schiff, Schiff & Bueno, *APSR* (2025) — five survey experiments, **>15,000 US adults** — found false
+Schiff, Schiff & Bueno, *APSR* (2024) — five survey experiments, **>15,000 US adults** — found false
 misinformation claims raised politician support across partisan subgroups and were **effective against
 text-based scandal reports but largely ineffective against video evidence**, and did **not** reduce
 general trust in media. Vaccari & Chadwick (2020, *Social Media + Society*) found synthetic political
@@ -368,8 +368,8 @@ authentic foreign propaganda**. Against that, Costello, Pennycook & Rand, *Scien
 dialogue intervention reduced conspiracy belief by **~20%**, durable at two months (N = 2,190).
 **AI is neither magic nor inert — and the defensive use is as strong as the offensive one.**
 
-**One modality reversal worth flagging (A, medium-high).** Pehlivanoglu et al. (2026, *Cognitive
-Research: Principles and Implications*): algorithms reached **~97%** on still deepfake face images
+**One modality reversal worth flagging (A, medium-high).** Pehlivanoglu et al., "Is this real? Susceptibility to deepfakes in machines and humans",
+*Cognitive Research: Principles and Implications*, 7 Jan 2026, DOI 10.1186/s41235-025-00700-y: algorithms reached **~97%** on still deepfake face images
 while humans were at chance, but on **video** machines fell to near chance while humans correctly
 identified real and fake videos about **two-thirds** of the time. Human/machine advantage is
 **modality-specific and currently reversed between stills and video** — a caution against
@@ -399,7 +399,7 @@ single-modality claims.
    detection is **55.5%** across 56 papers and 86,155 participants; naive face verification is at
    chance (48.2%); the worst performers are the most confident; deepfake warnings backfire; and the
    liar's dividend lets real evidence be dismissed as fabricated (η²p = .22 is a large effect,
-   though Schiff et al. 2025 bounds it to *text*, not video). The harm concentrates on the
+   though Schiff et al. (2024) bounds it to *text*, not video). The harm concentrates on the
    *verification layer*, not on mass belief.
 4. **CLAIMED, not demonstrated:** all Team Jorge metrics; the "33%" LLM-contamination figure (a
    NewsGuard vendor claim that ISD's own testing did not replicate); price points in the
@@ -466,7 +466,7 @@ independent test.
 | 2012 | Foster et al., *Acta Psychologica* | **Repetition, NOT number of sources**, drives belief — null for source plurality | Peer-reviewed | A |
 | 2026 | Mattavelli et al., *PSPB* | Repetition ↑ **source** credibility, generalising to novel claims | Peer-reviewed | A |
 | 2 Jan 2026 | Clark & Lewandowsky, *Comms Psychology* | 45–54% of warned believers still used deepfake content | Peer-reviewed | A |
-| 2025 | Schiff, Schiff & Bueno, *APSR* | Liar's dividend: works on **text**, largely ineffective on **video** (>15,000 adults) | Peer-reviewed | A |
+| 2024 | Schiff, Schiff & Bueno, *APSR* | Liar's dividend: works on **text**, largely ineffective on **video** (>15,000 adults) | Peer-reviewed | A |
 | 9 Mar 2026 | Grohmann, Halle & Appel, *Psych Popular Media* | Liar's dividend: η²p = .22 leadership boost (N = 182) | Peer-reviewed | A |
 | 2024 | Hackenburg & Margetts, *PNAS* | LLM persuasion up to +12pp; **microtargeting null** (P = .226) | Peer-reviewed | A |
 
@@ -524,10 +524,10 @@ Primary and load-bearing sources cited above:
 - Riesthuis & Woods, *Consciousness and Cognition* 2026 (null for opinion statements)
 - **Foster, Huthwaite, Yesberg, Garry & Loftus, *Acta Psychologica* 2012 — "Repetition, not number of sources…"**
 - Roggeveen & Johar, *Journal of Consumer Psychology* 2002
-- **Pillai & Fazio, *JARMAC* 2025 — "Repeated by many versus repeated by one" (effect size not retrieved)**
+- **Pillai & Fazio, *JARMAC* 2025, DOI 10.1037/mac0000166 — "Repeated by many versus repeated by one" (effect size not retrieved)**
 - Mattavelli, Brambilla & Unkelbach, *PSPB* 2026 (repetition → source credibility)
 - Clark & Lewandowsky et al., *Communications Psychology*, 2 Jan 2026 — https://doi.org/10.1038/s44271-025-00381-9
-- Schiff, Schiff & Bueno, *American Political Science Review* 2025
+- Schiff, Schiff & Bueno, *American Political Science Review* 2024 — DOI 10.1017/s0003055423001454
 - Grohmann, Halle & Appel, *Psychology of Popular Media*, 9 Mar 2026 — https://doi.org/10.1037/ppm0000665
 - Vaccari & Chadwick, *Social Media + Society* 2020
 - Hackenburg & Margetts, *PNAS* 121(24) 2024 — https://doi.org/10.1073/pnas.2403116121

@@ -393,6 +393,8 @@ But the same report — and this is the single most important sentence in the st
 
 Production-side changes are real and measurable: volume, multilingual capacity, persona maintenance, content laundering, and the cost of all four. Demand-side effects remain small, engagement-dependent, and — on the EU's own assessment — often poor-quality. **An operation that produces a thousand times more content into an audience that does not engage has not achieved a thousand-fold increase in effect.**
 
+The same assessment supplies the phrase that best captures the change: **"the objective is not precision but presence."** That is the whole production-versus-reach distinction in six words. Flooding an information environment is now cheap; being believed is not.
+
 Two further corroborating items:
 
 - **Institute for Strategic Dialogue** (April 2026) measured two coordinated pro-Iran networks on X — comprising only about **40 accounts** — generating **more than one billion views, roughly 16 million likes and 3.5 million reposts within a single month** during the first month of the Iran war, circulating false, misleading and AI-generated material. ISD attributed the reach to **X's "For You" recommender plus reposts by accounts with over 500,000 followers**, not to the persona network's own audience.
@@ -530,6 +532,15 @@ Three consequences follow:
 3. **It explains the reach failure directly.** Every first-party 2026 disclosure puts AI-enabled networks at low breakout levels with little or no authentic engagement — **except where they ride existing state-media distribution.** The operators who succeed are the ones who already had an audience.
 
 **This reframes the whole threat.** The question is not "can agents generate a persuasive campaign?" — they can. It is **"can agents get it in front of people who are not already looking?"** — and on the evidence, that remains the hard part.
+
+**A cost reality check that punctures the "AI makes it free" narrative.** When agent labour is priced properly against its actual comparators, the picture is more modest than it appears:
+
+- A cloned-voice agent running at **$3.00–$4.80 per hour** does beat US labour by **6–10×** — but **loses to Philippine offshore labour (under $2 per hour) by 1.5–2.4×**.
+- **The comparator for influence labour is offshore outsourced labour, not a US salary.** The relevant saving is real but measured in multiples, not orders of magnitude — and for text production it is smaller still, because the output also has to be *distributed* (§6.9).
+
+**And one defensive cost has conspicuously failed to fall.** Across sixteen years, the cost of defeating a **CAPTCHA** has improved by only about **1.8×** — the one defensive barrier that has not collapsed alongside everything else. Meanwhile SMS-verified account prices sit at **$0.08–$0.10** but **spike 12–15% before elections**, indicating that account acquisition is a genuine, priced constraint that responds to demand.
+
+**Both findings point the same way:** the durable defensive leverage is **account acquisition cost and identity verification**, precisely because those costs have *not* collapsed. This is the concrete version of the recommendation in §6.9 and §11.
 
 ---
 
@@ -688,6 +699,15 @@ Three capabilities the hypothesis leans on were **not** found in the record:
 - **Automated rebuttal evasion** — no case (§6.7).
 - **Microtargeting uplift** — access to individual-level data produced **no** persuasive gain in the best-powered study; the feared capability is the least supported (§6.8).
 - **AI as the active ingredient in persuasion** — the effect **persisted when the same dialogue was attributed to a human expert**, implying the mechanism is personalised responsive dialogue, not AI as such (§6.8).
+- **Adaptive narrative selection in the field** — Meta's own half-year threat reporting states that feedback-adapting agents **"have not yet been deployed extensively at scale by threat actors."** The apparatus exists; the adaptation is unproven (§6.3).
+- **Machine tempo in narrative exploitation** — the fastest documented false narrative around an ambiguous event was **human: roughly two hours, Southport 2024**. Machine speed is proven at *production* (a three-minute site-sync cycle), not at *reaction*. As one analyst put it: **hours for the attacker, days for the regulator** — but the attacker in the fastest case was a person.
+
+**And the strongest negative finding of all: there is no legal deterrent.**
+
+**No one anywhere has been convicted of a political deepfake as of 25 September 2026.** The canonical case — the January 2024 New Hampshire robocall impersonating a candidate — produced a **$6 million FCC order entered by default and left unpaid**, an **acquittal on all 22 counts in June 2025**, and the collection of only **$1 million from a telecom carrier**. Meanwhile the statutory picture moved *against* defenders: California's AB 2839 was struck down, and the EU AI Act's Article 50 marking code is voluntary.
+
+This matters because every other constraint identified in this study — detection, correction, platform enforcement, attribution — is technical and probabilistic. **Criminal liability is the only mechanism that changes an operator's cost calculus directly, and it is absent.** An activity that is cheap, scalable, deniable and unpunished has no external deterrent; it is constrained only by ineffectiveness.
+
 
 ### 8.7 The counterexamples that keep the disconfirming case from being decisive
 
@@ -713,17 +733,34 @@ Supporting figures that constrain the scale of the threat:
 
 
 
+### 8.9 Two regimes, two treatments — why the null literature cannot carry the weight placed on it
+
 **All of the resilience evidence above comes from a specific regime: national elections**, with saturated information environments, strong partisan priors, abundant competing messaging, and audiences who have seen it all before.
 
 **Ambiguous local physical events are a different regime.** Priors are weak because the event is novel; verification is slow because it requires technical assessment; competing information is scarce because nobody else is covering it; and the first coherent account fills a vacuum rather than competing in a marketplace. As the computational-propaganda strand puts it: **"None of the resilience literature tests that regime directly."**
 
-This is the strongest surviving argument for the hypothesis, and it is a *narrowing* rather than a confirmation. It says: we have good evidence that mass persuasion does not scale, and **no evidence either way** about whether the elite-and-institutional layer—the layer that actually closes airports—can be reached by agentic means.
+**And there is a second qualification, which is sharper still and cuts the nulls down to size.** The benchmark null results — **Bail (2020)** and **Eady (2023)** — measure **passive exposure** to broadcast-style content in a feed. The strongest positive results — **Costello (2024)** and **Salvi (2025)** — measure **interactive dialogue**. These are different treatments, and the difference is not incidental:
 
-### 8.9 Verdict on the disconfirming case
+- The largest meta-analysis in the field (Hölbling, Maier & Feuerriegel, 2025; 7 studies, N = 17,422) reports a pooled effect of **g = 0.02 (−0.048 to 0.093)** — essentially zero — **but with I² = 76%**, meaning the average conceals real variation. The **moderators are the finding**:
+  - **Model generation:** GPT-3.x was *weaker* than GPT-4.x (**b = −0.236**).
+  - **Interactivity:** **one-shot messages were substantially weaker than interactive dialogue (b = −0.494)**.
+
+**The consequence is direct: the pooled null is an average across weaker models and non-interactive treatments.** Citing it as evidence that "AI persuasion does not work" is unsafe, because averaging across generations and modalities **systematically understates the conversational agents this study is about**.
+
+**So the correct boundary is not between *AI* and *no AI* — it is between *broadcast* and *conversation*:**
+
+> The null literature is strong evidence that **broadcast-style AI content does not move populations**. It is **not** evidence that **conversational agents cannot move individuals**, because that treatment has rarely been tested at scale and is diluted in the pooled results.
+
+This does not overturn the verdict. There is still **no field experiment showing AI persuasion changing real-world behaviour at population scale**, and **microtargeting is null across three high-powered studies**. But it narrows the safe ground considerably, and it is the strongest surviving argument for the hypothesis.
+
+A further caution applies to the strongest positive result: an **author correction to Salvi et al. was issued on 3 September 2026** whose content could not be retrieved, so the headline effect should be treated as **provisional**.
+
+### 8.10 Verdict on the disconfirming case
 
 | Version of the hypothesis | Disconfirming case | Verdict |
 |---|---|---|
-| "AI can persuade mass publics and change beliefs at scale" | **Strong** — multiple null and near-null results, official assessments, concentration data | **Not supported** |
+| "AI *broadcast content* can persuade mass publics at scale" | **Strong** — multiple null and near-null results, official assessments, concentration data | **Not supported** |
+| "AI *conversational agents* can move individuals" | **Weak** — the nulls measure passive exposure; the interactivity moderator is large (b = −0.49) and under-tested | **Open, and under-tested** |
 | "AI has industrialised the production of apparent corroboration" | **Weak** — this is demonstrated | **Supported** |
 | "AI amplification can reach journalists, officials and institutions" | **Weak** — indirect effects of this kind *are* documented (§9.2) | **Plausible, underexamined** |
 | "AI can drive an ambiguous physical-threat cascade" | **Not tested either way** — no case found, and the regime is untested | **Open** |
@@ -791,19 +828,20 @@ The mechanisms that make *population* amplification uncontrollable are held by a
 
 **The practical formulation: emergent, with a controllable foothold.** Agents can plausibly influence *whether an ambiguity is noticed and sustained by institutions*. They cannot reliably determine *what a population does with it*.
 
-### 9.6 What determines whether an ambiguity survives — five institutional variables
+### 9.6 What determines whether an ambiguity survives — six institutional variables
 
 Cross-case analysis of six domains (drones, health scares, military alerts, balloons, UAP, industrial incidents) converges on a finding that reframes the whole study:
 
 > **Durability is predicted by institutional variables, not by report volume or media attention.**
 
-Five predictors, in descending order of explanatory power:
+Six predictors, in descending order of explanatory power:
 
 1. **An existing institutional owner for a *harm* question.** Havana syndrome had diplomats and intelligence officers — a victim class with institutional sponsors — and produced nine investigations, compensation legislation and a permanent Pentagon task force. 5G mast arson, by contrast, produced nothing durable, because **no institution owned mast safety as a health question**.
 2. **Availability of a decisive evidentiary test.** The 2023 balloon episode **collapsed within about ten days** once debris was recovered and identified as hobbyist or commercial. An H5N1 milk scare collapsed within a month when zero of sixty PCR-positive samples contained viable virus. Havana and UAP **cannot close, because nothing is recoverable** — there is no test that would end them.
 3. **A named mechanism that cannot be refuted.** "Sonic weapon", "directed energy", "infrasound", "Disease X". A named mechanism converts an unexplained observation into a researchable hypothesis, and a researchable hypothesis generates institutions.
 4. **An interested constituency for non-closure.** Havana is the proof: five of seven agencies assessed adversary involvement as "very unlikely", the NIH failed to replicate the brain-injury findings — and in 2026 the Pentagon rebranded its team *towards* directed energy while the outgoing DNI **rescinded the sceptical assessments**. The evidence moved one way; the institution moved the other.
-5. **Aggregation into a single category.** Havana absorbed Berlin, Vienna, Geneva, Bogotá, Guangzhou and Washington into **one 1,000+ case count**. The three 2023 balloon objects **fragmented** and were each resolved separately.
+5. **Whether the remedy is *material* or *legal*.** This is the sharpest and least obvious predictor, and it explains two Tylenol cases moving in opposite directions. The **1982** Tylenol poisonings had an unknown mechanism and a **material** fix — tamper-resistant packaging — which produced permanent regulation despite **no one ever being charged**. The **2025–26** acetaminophen–autism claim was *refuted*, and its remedy was **legal** (litigation): over 500 suits were dismissed in December 2024, then **revived by the Second Circuit on 13 July 2026**, with rehearing sought on 11 September 2026 — and the FDA label **still has not changed**. **A material remedy converts ambiguity into durable institutions; a legal remedy keeps it contested and alive.** For an adversary, this is an actionable design insight: ambiguity that can only be resolved by litigation and labelling does not close.
+6. **Aggregation into a single category.** Havana absorbed Berlin, Vienna, Geneva, Bogotá, Guangzhou and Washington into **one 1,000+ case count**. The three 2023 balloon objects **fragmented** and were each resolved separately.
 
 **The counterexample that disciplines this: New Jersey.** It had a real physical substrate, 5,000+ reports, maximum political attention, and four federal agencies engaged — and it still **burned out in about six weeks with no new agency, no compensation regime and no statute.** It lacked a named victim class, its reports were individually resolvable, and the FBI owned a *threat* question rather than a *harm* question: once that question was answered, the institution stopped.
 
