@@ -26,21 +26,50 @@ Twitter, LinkedIn, Facebook, Telegram, Gmail, Instagram and YouTube; the on-scre
 persona creation by nationality/gender, and photos harvested from real people (the "Sophia Wilde"
 avatar traced to a woman in Leeds) are documented on film. AIMS-linked bot activity was tracked in
 **~20 countries**, mostly commercial disputes rather than elections, and Meta removed AIMS-linked
-bots on 14–15 Feb 2023. *Claimed, not demonstrated:* "33 presidential campaigns, 27 successful" and
+bots on 14–15 Feb 2023, with **~2,000 bots traced** in the consortium's own follow-up. The persona
+construction was exposed by photo provenance: the avatar "**Canaelan**" used a photograph stolen from
+**Tom Van Rooijen, a real Dutch journalist**. *Claimed, not demonstrated:* "33 presidential campaigns, 27 successful" and
 "more than 30,000 avatars" — Hanan's own sales pitch, which the consortium warns may be inflated;
 leaked emails show a **$160,000** quote in 2015 against a claimed **€6m–€15m** price.
 [Guardian, 15 Feb 2023](https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan)
 
-**DEMONSTRATED (A/D, high) — John Mark Dougan / Storm-1516.** A real Florida ex-deputy sheriff who
-became the production hub of the Russia-linked Storm-1516 network, manufacturing fabricated
-"whistleblower" and "eyewitness" videos that were then laundered through pseudo-news sites.
-Longevity is the key data point: the operation ran for roughly a decade before Western
-attribution caught up. He was named **NewsGuard's 2024 Disinformer of the Year** (Jan 2025) and was
-sanctioned by the **EU in its 15th Russia package (Dec 2025) — reportedly the first time the EU has
-sanctioned an American for pro-Kremlin disinformation** (AFP Fact Check, 22 Dec 2025; NewsGuard
-Reality Check, 16 Dec 2025). Storm-1516's personas are the canonical case of a fabricated
-*whistleblower* whose credibility rests entirely on production quality.
-https://www.newsguardrealitycheck.com (search "Dougan"); https://factcheck.afp.com
+**DEMONSTRATED (A, high) — John Mark Dougan / Storm-1516; the longest-running documented case.**
+A Florida ex-deputy (dismissed 2009) who relocated to Russia in 2016 and became the production hub of
+the Russia-linked Storm-1516 network — roughly **nine years of continuous operation, 2017→2026**.
+Primary sources now exist and supersede the news reporting:
+
+- **VIGINUM/SGDSN, 7 May 2025** attributed **≥293 CopyCop domains** and **77 information operations
+  since Aug 2023**; **84 domains were registered by Dougan on a single day (10 May 2024)**
+  (`badvolf.com` registered 10 Apr 2017). Burner accounts across **six platforms** were used in 45 of
+  77 operations, and **most of the fake accounts were still not suspended as of 25 Mar 2025**. Paid
+  seeding was documented at **$100 to one account** via an intermediary.
+  https://www.sgdsn.gouv.fr/publications
+- **EU Official Journal L 2025/2568** — Dougan designated **15 Dec 2025** under the hybrid-threats
+  framework (CFSP 2024/2643): asset freeze and travel ban. **Reported as the first EU sanction of an
+  American for pro-Kremlin disinformation.** (Primary legal act; the Council web page 403s to
+  automated retrieval.)
+- Bloomberg/Meduza (Apr 2026): **190+ fabricated stories, ~40% targeting Ukraine**; a "Johnny
+  Midnight" X persona with **~630k followers** and ~60 fabricated items, banned then reinstated; Q1
+  2026 output **double** Q1 2025. **Attribution to GRU Unit 29155 is INFERRED** — VIGINUM states it
+  cannot confirm it.
+
+**Named Storm-1516 personas that survive verification — and what exposed them (B, high).** "**Mr.
+James O.**" (the Prince Andrew video, seeded via a specific X account); "**Jules Vincent**", a fake
+French environmental journalist whose X account was **pre-aged from September 2018**; "**Alisha
+Brown**", a paid actor in the fake Harris hit-and-run story, fronted by a fabricated outlet
+"**KBSF-TV**" whose name is misspelled inconsistently across the network's own assets; and "**Rick**",
+a fake Kazakh exchange student accusing Tim Walz — disproved when the State Department confirmed no
+Kazakh students attended Mankato West in 2000–2020. **Recurring exposure signatures:** three YouTube
+accounts used in Sept 2023 were **all created on the same day (30 Sept 2022)** — bulk purchase;
+recycled X-ray and crash photographs; and simultaneous posting across 100+ Dougan-fronted sites.
+Credibility therefore rests on production quality and pre-ageing, and collapses on **asset reuse,
+bulk account creation and inconsistent branding**.
+
+> ⚠️ **Do NOT repeat these as documented.** This pass could **not** verify a Doppelganger persona named
+> "**Elise**", nor Storm-1516 personas "**Vladimir Z.**" or "**Alexei**", nor an Iranian
+> "Manquehue"/"Rafat" persona set. They appear in the tasking brief and in secondary commentary but no
+> source-grade record was located. Treat them as **unverified**; if the parent study names them, add
+> the caveat or drop them. The verifiable named-persona record is the four cases immediately above.
 
 **DEMONSTRATED (A, high) — AI-native persona systems inside state apparatuses.** Anthropic's
 September 2026 threat report (~10 Sep 2026) is the single richest public case set. It documents
@@ -69,23 +98,35 @@ reported on 25 Aug 2026 disrupting a Russian covert campaign whose defining feat
 (Le Monde, Jerusalem Post, 25–27 Aug 2026). This defeats the standard verification heuristic: name
 checks, affiliation checks and even publication checks can all be satisfied.
 
-**Pattern across ~15 years — the "fake byline" lineage (B, high).**
-- **Endless Mayfly (2019).** Citizen Lab, *"Burned After Reading: Endless Mayfly's Ephemeral
-  Disinformation Campaign"* (14 May 2019) documented a **typosquatting** operation that impersonated
-  **dozens of media outlets**, publishing fabricated articles under their branding and then deleting
-  them — the "ephemeral" design specifically defeated retroactive verification. Iran-linked.
+**Pattern across ~15 years — the "fake byline" lineage (B, high).** Named, verified instances:
+
+- **Endless Mayfly (Iran, 2019).** Citizen Lab, *"Burned After Reading"* (14 May 2019) documented a
+  **typosquatting** operation impersonating **dozens of media outlets**, including the persona "**Mona
+  A. Rahman**", publishing fabricated articles under real outlets' branding and then deleting them —
+  an "ephemeral" design that specifically defeats retroactive verification.
   https://citizenlab.ca/2019/05/burned-after-reading-endless-mayflys-ephemeral-disinformation-campaign/
-- **PeaceData (2020).** Facebook/Graphika's 1 Sep 2020 takedown exposed a Russian operation running a
-  **fake left-wing news outlet staffed by fictional editors** that successfully **recruited real,
-  unwitting US and UK writers** to contribute — a two-stage persona design in which the fabricated
-  masthead borrows the credibility of genuine bylines (WaPo, Guardian, NYT, PBS, 1–2 Sep 2020).
-  Reuters (1 Oct 2020) documented a parallel **right-wing** pseudo-outlet by the same infrastructure.
-- **The 2025–26 change is not the invention of persona management but its cost collapse and
-  industrialisation.** One Bangladesh-based operator rotated **29 accounts over ~16 months**,
-  generating ≥1,500 headlines and 300 narratives via a custom API script (Anthropic, Sep 2026); one
-  French advertising agency ran **~70 fake outlets with fabricated bylines** across ~20 languages
-  (Anthropic, Sep 2026); NewsGuard attributed a **167-site pro-Russia network, 64 posing as local
-  news**, to a single individual, John Mark Dougan (Jun 2024).
+- **Liberty Front Press (Iran, Aug 2018).** A network of **652 accounts** removed by Facebook and
+  Twitter, fronted as an independent left-wing news outlet.
+- **PeaceData (Russia, 2020).** Graphika/Facebook's 1 Sep 2020 takedown exposed a fake left-wing
+  outlet whose editors — "**Jake Sullivan**", "**Ali Ahmed Ghanem**", "**Alex Lacusta**", "**Albert
+  Popescu**" — were all fabricated, and which **successfully recruited real, unwitting US and UK
+  writers** to contribute. The domain was registered 6 Feb 2020 and taken down 1 Sep 2020
+  (WaPo, Guardian, NYT, PBS, 1–2 Sep 2020). This is the two-stage design: the fabricated masthead
+  borrows the credibility of genuine bylines it does not own.
+- **Spamouflage / Dragonbridge (China).** Graphika named the personas "**He Jingrun**" (account
+  created 2009, first tweet Jan 2020) and "**Li Ruoshui**", the latter repeatedly resurrected after
+  each takedown — persona persistence as a deliberate design property. The 2024 "The Americans" wave
+  used 15 X accounts and one TikTok account posing as US citizens plus a fake US news outlet persona;
+  ISD separately documented four "MAGAflage" accounts (Apr 2024).
+- **Philippines (2025).** Cyabra, reported by Reuters (11 Apr 2025): roughly **one-third of X accounts**
+  in the Duterte-arrest discussion were fake (**11.8m views**), and up to **45%** of election-related
+  discussion was inauthentic (**~54m views**). This is one of the few *rate* estimates (rather than
+  raw counts) for inauthentic personas in a live national conversation.
+- **The 2025–26 change is cost collapse and industrialisation, not invention.** One Bangladesh-based
+  operator rotated **29 accounts over ~16 months** generating ≥1,500 headlines and 300 narratives via
+  a custom API script (Anthropic, Sep 2026); one French advertising agency ran **~70 fake outlets with
+  fabricated bylines** across ~20 languages (Anthropic, Sep 2026); NewsGuard attributed a **167-site
+  pro-Russia network, 64 posing as local news**, to Dougan alone (Jun 2024).
 
 ---
 
@@ -279,100 +320,96 @@ Key demonstrated findings:
 
 ## 6. Is synthetic corroboration fooling people?
 
-The honest answer is bifurcated, and the second half is counter-intuitive: **the artefacts fool
-people; the multiplicity of sources mostly does not add much.**
+Bifurcated, and the second half is counter-intuitive: **the artefacts fool people; the multiplicity of
+sources mostly does not add much.**
 
-**Human detection is at or barely above chance in every modality — DEMONSTRATED (A, high).** The
-largest synthesis, Diel, Lalgi, Schröter, MacDorman, Teufel & Bäuerle (2024), *Computers in Human
-Behavior Reports* 16:100538, DOI 10.1016/j.chbr.2024.100538 — **56 papers, 86,155 participants, k = 137 effects** — pools human deepfake
-detection at **55.5%** (95% CI 48.9–62.1): images **53.2%**, text **52.0%**, video **57.3%**, audio
-**62.1%**. This is the single most important number in the area and the correct citation for "humans
-cannot reliably detect synthetic media."
+**Human detection is at or barely above chance in every modality (A, high).** Diel, Lalgi, Schröter,
+MacDorman, Teufel & Bäuerle (2024), *Computers in Human Behavior Reports* 16:100538, DOI
+10.1016/j.chbr.2024.100538 — **56 papers, 86,155 participants, k = 137 effects** — pools human
+deepfake detection at **55.5%** (95% CI 48.9–62.1): images **53.2%**, text **52.0%**, video **57.3%**,
+audio **62.1%**. This is the correct citation for "humans cannot reliably detect synthetic media."
 
-**Faces — DEMONSTRATED (A, high).** Nightingale & Farid, *PNAS* 119(8), 2022, DOI
-10.1073/pnas.2120481119 (verified via Semantic Scholar). Experiment 1 (N = 315): mean accuracy
-**48.2%** vs 50% chance, d′ = −0.09 — *no sensitivity and no bias*. Experiment 2 (N = 219, with
-trial-by-trial feedback): accuracy rose only to **59.0%**, with **no improvement across the session**.
-Experiment 3 (N = 223, trustworthiness 1–7): synthetic **4.82** vs real **4.48**, **+7.7%**,
-d = **0.49** — three of the four most-trusted faces were synthetic, all four least-trusted were real.
-Two qualifications matter for defence: **Miller et al. (2023, *Psychological Science*)** found White
-AI faces were judged human **~66%** of the time — *more often than real faces* — with the worst
-performers the most confident; and **Dawel et al., "Training humans to detect AI-generated faces", *PNAS*, 29 Jun 2026, DOI 10.1073/pnas.2602122123** — training attention to six
-*global facial impressions* (without telling participants how to use them) **nearly doubled accuracy,
-40% → 80%**, replicating online. Detection is not a fixed limit — but only the right cue class works.
-**McGuire et al., "AI-generated faces are becoming more trustworthy", *Journal of Vision* 26(7):3, 7 Jul 2026, DOI 10.1167/jov.26.7.3** confirms the effect holds
-across architectures (diffusion faces are *less* photorealistic yet rated *more* trustworthy).
+**Faces (A, high).** Nightingale & Farid, *PNAS* 119(8), 2022, DOI 10.1073/pnas.2120481119 (verified
+via Semantic Scholar). Exp. 1 (N = 315): accuracy **48.2%** vs 50% chance, d′ = −0.09 — *no
+sensitivity, no bias*. Exp. 2 (N = 219, trial-by-trial feedback): only **59.0%**, with **no
+improvement across the session**. Exp. 3 (N = 223): synthetic rated **4.82** vs real **4.48**
+(+7.7%), d = **0.49** — three of four most-trusted faces were synthetic, all four least-trusted were
+real. Qualifications: **Miller et al. (2023, *Psychological Science*)** found White AI faces judged
+human **~66%** of the time — *more often than real faces* — with the worst performers most confident;
+and **Dawel et al., "Training humans to detect AI-generated faces", *PNAS*, 29 Jun 2026, DOI
+10.1073/pnas.2602122123** trained attention on six *global facial impressions* and **nearly doubled
+accuracy, 40% → 80%**, with a test–retest control and online replication. Detection is not a fixed
+limit — but only the right cue class works. **McGuire et al., *Journal of Vision* 26(7):3, 7 Jul 2026,
+DOI 10.1167/jov.26.7.3** confirms diffusion faces are *less* photorealistic yet rated *more*
+trustworthy than GAN or real faces: the effect has not decayed.
 
-**Repetition works — but by fluency, NOT by source plurality. This is the key finding for H2.**
-The foundational result is Pennycook, Cannon & Rand, *JEP: General* 147(12), 2018, DOI
-10.1037/xge0000465 (verified via Crossref): prior exposure raises perceived accuracy even for
-implausible headlines and even when the source is discounted. Scale and limits are now well
-quantified: **Ye et al., *Nature Communications*, 27 Feb 2026, DOI 10.1038/s41467-026-70041-x** — 182 studies, 366 effect sizes, N = 31,184
-— put the corrected illusory-truth effect at **g = 0.37** (95% CI 0.30–0.44): real, small, and
-heterogeneous. **Riesthuis & Woods (2026, *Consciousness and Cognition*)** bound it further: two
-preregistered experiments (N = 457) plus a mini meta-analysis found repetition **did not reliably
-increase subjective truth for socio-political *opinion* statements**.
+**Repetition works — by fluency, NOT by source plurality. This is the key finding for H2.**
+Foundation: Pennycook, Cannon & Rand, *JEP: General* 147(12), 2018, DOI 10.1037/xge0000465 (verified
+via Crossref) — prior exposure raises perceived accuracy even for implausible headlines and even when
+the source is discounted. Scale: **Ye et al., *Nature Communications*, 27 Feb 2026, DOI
+10.1038/s41467-026-70041-x** — 182 studies, 366 effect sizes, N = 31,184 — corrected illusory-truth
+effect **g = 0.37** (0.30–0.44): real, small, heterogeneous. **Riesthuis & Woods (2026,
+*Consciousness and Cognition*)** bound it further: repetition **did not reliably increase subjective
+truth for socio-political *opinion* statements** (N = 457).
 
-Now the decisive part. The question H2 actually needs answered — does *one claim from many apparent
-sources* beat the same claim from one? — **has been tested, and the best direct test is a null.**
-**Foster, Huthwaite, Yesberg, Garry & Loftus (2012, *Acta Psychologica*)** is titled for its result:
-*"**Repetition, not number of sources, increases both susceptibility to misinformation and
-confidence**"* — DOI 10.1016/j.actpsy.2011.12.004, verified via Crossref. **Roggeveen & Johar (2002, *Journal of Consumer Psychology* 12(2))** found that, holding
-credibility constant, manipulating source count operates through **subjective familiarity, not
-perceived source variability**. **Pillai & Fazio (*JARMAC*, Jun 2025, DOI 10.1037/mac0000166)** is the one paper framed exactly as
-the synthetic-corroboration hypothesis — *"Repeated by many versus repeated by one: examining the role
-of social consensus"* — but its effect size could **not** be retrieved (APA blocks automated access);
-**it is the priority manual read.** The most useful positive mechanism found is **indirect**:
-**Mattavelli, Brambilla & Unkelbach (2026, *PSPB*)** show four preregistered experiments in which
-repetition increased the **credibility of the *source***, generalising to novel statements from that
-source. Repetition launders *publisher* credibility — which is the actual enabling condition for
-synthetic corroboration, not a source-count multiplier.
-**Net reading: the strong form of H2 — "N fake sources > 1 fake source" — is not merely untested, it
-runs against the best direct evidence. Belief scales with *exposure*, and plurality helps only
-insofar as it produces familiarity or launders source credibility.**
+Now the decisive part. The question H2 needs answered — does *one claim from many apparent sources*
+beat the same claim from one? — **has been tested, and the best direct test is a null.** **Foster,
+Huthwaite, Yesberg, Garry & Loftus, *Acta Psychologica* 2012, DOI 10.1016/j.actpsy.2011.12.004**
+(Crossref-verified) is titled for its result: *"**Repetition, not number of sources, increases both
+susceptibility to misinformation and confidence**."* **Roggeveen & Johar (*Journal of Consumer
+Psychology* 12(2), 2002)** found source count operates through **subjective familiarity, not perceived
+source variability**. **Pillai & Fazio (*JARMAC*, Jun 2025, DOI 10.1037/mac0000166)** is the one paper
+framed exactly as the synthetic-corroboration hypothesis — *"Repeated by many versus repeated by one"*
+— and it **exists** (Crossref-verified), but its effect size could **not** be retrieved; **priority
+manual read**. The useful positive mechanism is **indirect**: **Mattavelli, Brambilla & Unkelbach
+(2026, *PSPB*)** show across four preregistered experiments that repetition increases the **credibility
+of the *source***, generalising to novel statements from it. **Repetition launders *publisher*
+credibility — that is the actual enabling condition, not a source-count multiplier.** Net reading:
+the strong form of H2 runs against the best direct evidence. Belief scales with *exposure*; plurality
+helps only insofar as it produces familiarity or launders source credibility.
 
-**Deepfake warnings can backfire — DEMONSTRATED (A, high).** Clark & Lewandowsky et al., *Communications
-Psychology* (Nature), 2 Jan 2026, DOI 10.1038/s44271-025-00381-9 (verified via Crossref). Three
-preregistered experiments (N = 175/275/223): among participants who *believed* an explicit warning that
-a video was fake, **53.8% / 44.7% / 50.0% still judged the person guilty from the video's content**. A
-specific warning also caused participants to misclassify a **real** video as a deepfake; a generic
-warning lowered guilt perception without convincing anyone the video was fake. The authors caution that
-task-framing cannot be fully ruled out. **Defensive implication: generic "beware deepfakes" messaging
-is counterproductive; skill-building is what works (Huang & Hu, 2025, *Science Communication*).**
-Altay & Gilardi (2024, *PNAS Nexus*, N = 4,976) add a related tax: labelling headlines "AI-generated"
-lowered perceived accuracy and sharing **regardless of whether they were true or false**, though the
-effect was **three times smaller** than labelling them false.
+**Deepfake warnings backfire (A, high).** Clark & Lewandowsky et al., *Communications Psychology*
+(Nature), 2 Jan 2026, DOI 10.1038/s44271-025-00381-9 (Crossref-verified). Three preregistered
+experiments (N = 175/275/223): among participants who *believed* an explicit warning that a video was
+fake, **53.8% / 44.7% / 50.0% still judged the person guilty from the video's content**. A specific
+warning also caused participants to misclassify a **real** video as fake; a generic warning lowered
+guilt perception without convincing anyone. Authors caution task-framing cannot be fully ruled out.
+**Implication: generic "beware deepfakes" messaging is counterproductive; skill-building is what works
+(Huang & Hu, 2025, *Science Communication*).** Related tax: **Altay & Gilardi (2024, *PNAS Nexus*,
+N = 4,976)** — labelling headlines "AI-generated" lowered perceived accuracy and sharing **regardless
+of truth**, though **three times smaller** than labelling them false.
 
-**The liar's dividend — DEMONSTRATED but BOUNDED (A, high).** Term coined by Chesney & Citron,
-*California Law Review* 107 (2019). Experimental confirmation: Grohmann, Halle & Appel, *Psychology of
-Popular Media*, published **9 Mar 2026**, DOI 10.1037/ppm0000665 (verified via Crossref), N = 182 —
-politicians who falsely claimed genuine footage of them was a deepfake were rated **higher on
-leadership ability** (M ≈ 4.39/4.07) than those who apologised (M ≈ 2.97/3.01), F(1,178) = 50.01,
-p < .001, η²p = .22, and recipients were significantly more likely to misidentify the **authentic**
-video as fake (F = 21.36, p < .001, η²p = .11). **But the strongest and largest test bounds it:**
-Schiff, Schiff & Bueno, *APSR* (2024) — five survey experiments, **>15,000 US adults** — found false
-misinformation claims raised politician support across partisan subgroups and were **effective against
-text-based scandal reports but largely ineffective against video evidence**, and did **not** reduce
-general trust in media. Vaccari & Chadwick (2020, *Social Media + Society*) found synthetic political
-video mainly produced **uncertainty** rather than changed factual beliefs. **Observed in state
-practice:** Iran, Jan 2026 — regime outlets circulated *altered copies* of a genuine protest
-photograph to argue the original was fake ("epistemic fog", Alimardani, *The Atlantic*).
+**The liar's dividend — demonstrated but bounded (A, high).** Term coined by Chesney & Citron,
+*California Law Review* 107 (2019). Confirmation: **Grohmann, Halle & Appel, *Psychology of Popular
+Media*, 9 Mar 2026, DOI 10.1037/ppm0000665** (Crossref-verified), N = 182 — politicians who falsely
+claimed genuine footage was a deepfake scored **higher on leadership** (M ≈ 4.39/4.07) than those who
+apologised (M ≈ 2.97/3.01), F(1,178) = 50.01, p < .001, **η²p = .22**, and recipients were more likely
+to misidentify the **authentic** video as fake (F = 21.36, p < .001, η²p = .11). **But the largest
+test bounds it:** **Schiff, Schiff & Bueno, *APSR* 2024, DOI 10.1017/s0003055423001454** — five
+experiments, **>15,000 US adults** — found false misinformation claims raised politician support
+across partisan subgroups and were **effective against text-based scandal reports but largely
+ineffective against video evidence**, and did **not** reduce general media trust. Vaccari & Chadwick
+(2020, *Social Media + Society*) found synthetic political video mainly produced **uncertainty**
+rather than changed factual beliefs. **State practice:** Iran, Jan 2026 — regime outlets circulated
+*altered copies* of a genuine protest photograph to argue the original was fake ("epistemic fog",
+Alimardani, *The Atlantic*).
 
 **Persuasion ceilings and the counterweight (A, high).** Hackenburg & Margetts, *PNAS* 121(24), 2024,
-DOI 10.1073/pnas.2403116121 (verified via Crossref): preregistered RCT, **n = 8,587** — GPT-4 messages
+DOI 10.1073/pnas.2403116121 (Crossref-verified): preregistered RCT, **n = 8,587** — GPT-4 messages
 persuaded (up to **+12pp**) but **microtargeting added nothing** (4.83 vs 6.20pp, P = .226).
 **Hölbling, Maier & Feuerriegel (2025, *Scientific Reports*)** meta-analysed **7 studies, 17,422
-participants** and found **no significant overall difference in persuasiveness between LLMs and
-humans**. Goldstein et al. (2024, *PNAS Nexus*) found curated GPT-3 propaganda **as persuasive as
-authentic foreign propaganda**. Against that, Costello, Pennycook & Rand, *Science* (2024): a GPT-4
-dialogue intervention reduced conspiracy belief by **~20%**, durable at two months (N = 2,190).
-**AI is neither magic nor inert — and the defensive use is as strong as the offensive one.**
+participants**: **no significant overall difference in persuasiveness between LLMs and humans**.
+Goldstein et al. (2024, *PNAS Nexus*) found curated GPT-3 propaganda **as persuasive as authentic
+foreign propaganda**. Against that, Costello, Pennycook & Rand, *Science* (2024): GPT-4 dialogue cut
+conspiracy belief **~20%**, durable at two months (N = 2,190). **AI is neither magic nor inert — and
+the defensive use is as strong as the offensive one.**
 
-**One modality reversal worth flagging (A, medium-high).** Pehlivanoglu et al., "Is this real? Susceptibility to deepfakes in machines and humans",
-*Cognitive Research: Principles and Implications*, 7 Jan 2026, DOI 10.1186/s41235-025-00700-y: algorithms reached **~97%** on still deepfake face images
-while humans were at chance, but on **video** machines fell to near chance while humans correctly
-identified real and fake videos about **two-thirds** of the time. Human/machine advantage is
-**modality-specific and currently reversed between stills and video** — a caution against
+**Modality reversal worth flagging (A, medium-high).** Pehlivanoglu et al., "Is this real?
+Susceptibility to deepfakes in machines and humans", *Cognitive Research: Principles and
+Implications*, 7 Jan 2026, DOI 10.1186/s41235-025-00700-y: machines reached **~97%** on still
+deepfake images while humans were at chance, but on **video** machines fell to near chance while
+humans identified real and fake videos correctly about **two-thirds** of the time. Human/machine
+advantage is **modality-specific and currently reversed between stills and video** — a caution against
 single-modality claims.
 
 ---
@@ -399,7 +436,7 @@ single-modality claims.
    detection is **55.5%** across 56 papers and 86,155 participants; naive face verification is at
    chance (48.2%); the worst performers are the most confident; deepfake warnings backfire; and the
    liar's dividend lets real evidence be dismissed as fabricated (η²p = .22 is a large effect,
-   though Schiff et al. (2024) bounds it to *text*, not video). The harm concentrates on the
+   though Schiff et al. (2024) bound it to *text*, not video). The harm concentrates on the
    *verification layer*, not on mass belief.
 4. **CLAIMED, not demonstrated:** all Team Jorge metrics; the "33%" LLM-contamination figure (a
    NewsGuard vendor claim that ISD's own testing did not replicate); price points in the
@@ -425,8 +462,8 @@ single-modality claims.
    material than from a fabricated incident.
 7. **The defensive literature is unusually strong and cheap.** Impression-based face training takes
    accuracy from **40% to 80%** and replicates online (Dawel et al. 2026, PNAS); AI dialogue reduced
-   conspiracy belief by **~20%** durably (Costello et al. 2024, *Science*); and the *petitioned*
-   error — generic deepfake warnings — is now identifiable and avoidable. **Prebunking and skill
+   conspiracy belief by **~20%** durably (Costello et al. 2024, *Science*); and the most common
+   defensive error — generic deepfake warnings — is now identifiable and avoidable. **Prebunking and skill
    training are the load-bearing defences, not detection tools or transparency labels.**
 
 **Tripwires worth monitoring:** (i) any AI-generated persona network measured at Breakout Scale ≥4;
@@ -446,6 +483,11 @@ independent test.
 | 18 Nov 2025 | ISD on Pravda | 919 linking sites; 81% treated as credible; only 3% contextualised | Demonstrated | B |
 | 15 Feb 2023 | Team Jorge exposed | "33 elections", "30,000 avatars" | **Claimed** | D |
 | 15 Feb 2023 | Team Jorge demonstrated | AIMS interface; ~20 countries; Meta takedown | Demonstrated | B |
+| 7 May 2025 | VIGINUM on Dougan/CopyCop | **≥293 domains; 77 info ops since Aug 2023; 84 domains registered in ONE day**; most fake accounts still live Mar 2025 | Demonstrated | A |
+| 15 Dec 2025 | EU designates Dougan (OJ L 2025/2568) | Asset freeze + travel ban; **first EU sanction of an American** for pro-Kremlin disinformation | Demonstrated | A |
+| Apr 2026 | Bloomberg/Meduza on Storm-1516 | 190+ fabricated stories, ~40% anti-Ukraine; "Johnny Midnight" persona ~630k followers; Q1 2026 output 2× Q1 2025 | Demonstrated | C |
+| 11 Apr 2025 | Philippines (Cyabra/Reuters) | **~1/3 of X accounts** in Duterte-arrest discussion fake (11.8m views); up to **45%** of election discussion (~54m views) | Demonstrated | B/C |
+| 1 Sep 2020 | PeaceData (Graphika/Facebook) | Fake editors "Jake Sullivan" et al.; recruited real US/UK writers | Demonstrated | A/D |
 | May 2023 → Jun 2026 | NewsGuard AI content farms | **49 → ~614 → 713 → 900+ → ~1,300 → 3,749** (16 languages) | Vendor sample; ~76× in 3 yrs | D |
 | Mar 2026 | NewsGuard + Pangram | 3,006 AI content farms; +300–500/month; 358 Storm-1516 | Demonstrated | D |
 | 11 Jun 2024 | NewsGuard "sad milestone" | **1,265 pink-slime outlets vs 1,213 US daily newspapers**; 167 pro-Russia sites, 64 posing as local news (Dougan) | Demonstrated | A/D |
@@ -480,9 +522,11 @@ independent test.
   **Do not use "1,200 AI news sites" — that is the pink-slime number.**
 - **EU sanctions on Dougan** — reported Dec 2025 (first American sanctioned by the EU for pro-Kremlin
   disinformation); the Council legal act itself returned 403 and was **not** read directly.
-- **Storm-1516 individual persona names** — this pass did not secure a source-grade list of the
-  fabricated Ukrainian "whistleblower" personas; the mechanism and attribution are well documented
-  (Microsoft, Viginum, Recorded Future, DFRLab) but the named identities are a recall gap.
+- **Storm-1516 persona names** — the verifiable set is now recorded in §1 ("Mr. James O.", "Jules
+  Vincent", "Alisha Brown", "Rick"). **Explicitly NOT verified and not to be repeated as documented:**
+  the Doppelganger persona "**Elise**", and the Storm-1516 personas "**Vladimir Z.**" and "**Alexei**".
+  Also unverified: an Iranian "Manquehue"/"Rafat" persona set, Kenya's "The Real Uhuru", Brazil's STF
+  persona names, and India's "Dunki"/"Bharat Prakash".
 - **Fake fact-checkers** — the "Лапша"/"Noodle" and FactCheckArmenia cases were asserted in the brief
   but **could not be verified** to source grade; Viginum's *Matriochka* (Jun 2024, 60+ countries) is
   the solid case.

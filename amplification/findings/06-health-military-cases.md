@@ -129,17 +129,17 @@ A balloon crossed Alaska, Canada and the U.S., 28 January–4 February 2023. The
 object?" but "what is it doing, on whose orders, what does it carry?"
 
 **Chain and amplification (political first, media second).** Its track over **Malmstrom AFB** and Minuteman
-III fields turned an airspace curiosity into a surveillance story; Republican criticism of the delay ("why
-not over Montana?") created an **incentive to escalate** unrelated to the object. Having declined to shoot
-over land for safety, the administration downed it on 4 February over the Atlantic with an AIM-9X from an
-F-22. Then, within eight days: an object over Deadhorse, Alaska (10 Feb), a "small, cylindrical object" over
-the Yukon shot down on Trudeau's order (11 Feb), and an object over Lake Huron (12 Feb) — each shot down.
+III fields turned an airspace curiosity into a surveillance story; Republican criticism of the delay ("why not
+over Montana?") created an **incentive to escalate** unrelated to the object. Having declined to shoot over
+land for safety, the administration downed it on 4 February over the Atlantic with an AIM-9X from an F-22.
+Then, within eight days: objects over Deadhorse, Alaska (10 Feb), the Yukon (11 Feb, on Trudeau's order) and
+Lake Huron (12 Feb) were each shot down.
 
 **Collapse.** On **14 February**, ten days after the first shootdown, the U.S. announced the latter three were
 **probably private entities with no relation to China**. November 2024 documents showed the Lake Huron object
 was "from a company who sells weather monitoring equipment"; the leading candidate for one was the **Northern
 Illinois Balloon Experiment**, an amateur radio group whose $12 pico-balloon went missing. The four AIM-9X
-missiles cost **at least $1.5m**; search was abandoned on 17 February (A/B via WSJ figure, [2023 balloon
+missiles cost **at least $1.5m** (A/B via WSJ figure, [2023 balloon
 incident](https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident)).
 
 **The loop breaks — and does not restart.** In February 2024 NORAD intercepted another hobbyist balloon and
@@ -159,26 +159,25 @@ retrieval and reverse-engineering programme and recovered "non-human" biologics,
 than direct observation, and produced no documents (A for the hearing; E for the claims).
 
 **Institutional response (statutory, not reactive).** AARO was established July 2022 and is mandated by
-50 U.S.C. §3373/§3373a to report quarterly and annually. Its Historical Record Report Vol. I (March 2024)
+50 U.S.C. §3373/§3373a to report quarterly and annually; its Historical Record Report Vol. I (March 2024)
 found "no empirical evidence" of extraterrestrial technology and documented a rejected DHS proposal ("Kona
 Blue") to reverse-engineer recovered craft. A House Task Force on Declassification held a further hearing in
 September 2025; the 2026 cycle added a Trump executive order, "PURSUE" releases from May 2026, an aliens.gov
 registration, a science advisory council and a Pentagon legal-relief route for whistleblowers.
 
 **Validation without closure.** AARO's delayed FY2025 report (July 2026): **319 new cases**, **1,870 total**,
-**114 resolved and 191 archived as insufficient data**; no resolution pointing to advanced foreign
-technology; no verified adverse health effects; **no evidence of recovered or exploited non-human
-materials**; most space-domain cases attributed with high confidence to **satellite flaring**. It records
-cases near sensitive installations where performance "exceed[s] the known state-of-the-art" while conceding
-"no technical data accompanied these reports", and a **178% increase** in small-UAS reports near nuclear
-infrastructure — which AARO states were *not* genuine UAP (A for the report; B/C, [The
-Debrief](https://thedebrief.org/aaros-latest-uap-report-finds-no-evidence-of-exotic-technology-but-mysteries-remain/)).
+**114 resolved and 191 archived as insufficient data**; no resolution pointing to advanced foreign technology;
+no verified adverse health effects; **no evidence of recovered or exploited non-human materials**; most
+space-domain cases attributed with high confidence to **satellite flaring**; cases near sensitive
+installations where performance "exceed[s] the known state-of-the-art" but with "no technical data"; and a
+**178% increase** in small-UAS reports near nuclear infrastructure, which AARO states were *not* genuine UAP
+(A for the report; B/C, [The Debrief](https://thedebrief.org/aaros-latest-uap-report-finds-no-evidence-of-exotic-technology-but-mysteries-remain/)).
 
 **Why it persists.** (1) A **statutory reporting channel**: the caseload grows because intake grows. (2) A
 **permanent unfalsifiable residual**: resolving 114 of 319 while archiving 191 guarantees a standing minority
-of unexplained cases. (3) A **constituency for non-closure**: advocacy organisations, sympathetic
-legislators, a documentary industry and, since 2025, a whistleblower-protection apparatus. AARO's director
-stated in 2026 that there "should be no stigma associated with reporting UAP".
+of unexplained cases. (3) A **constituency for non-closure**: advocacy organisations, sympathetic legislators,
+a documentary industry and, since 2025, a whistleblower-protection apparatus. AARO's director stated in 2026
+that there "should be no stigma associated with reporting UAP".
 
 ---
 
@@ -196,7 +195,7 @@ Collapse: of 297 retail samples, 60 (20.2%) were PCR-positive but **0 of 60 cont
 pasteurisation inactivated ≥12 log₁₀. Human cases rose from 1 to 70 by February 2025, including the **first
 US H5N1 death on 6 January 2025**; the **71st** (H5N5, Washington State) died 21 November 2025 with no onward
 transmission. By 6 March 2026 CDC still reported **71 cases** and low risk, having ceased H5N1 technical
-reports after 5 June 2024 (A). Legacy: USDA's National Milk Testing Strategy (Dec 2024) and a **$1bn** HPAI
+reports after 5 June 2024 (A, [CDC situation summary](https://www.cdc.gov/bird-flu/situation-summary/index.html); [FDA dairy-cattle investigation](https://www.fda.gov/food/alerts-advisories-safety-information/investigation-avian-influenza-h5n1-virus-dairy-cattle); [USDA APHIS H5N1 hub](https://www.aphis.usda.gov/h5n1-hpai)). Legacy: USDA's National Milk Testing Strategy (Dec 2024) and a **$1bn** HPAI
 strategy; FDA added **$8m** and tested 464 pasteurised products, all negative; CDC monitored **33,200 people**
 and tested **1,340** (A). **Net: durable agricultural and
 surveillance machinery; no durable public-health emergency** — disruption decayed because severity and human
@@ -205,7 +204,7 @@ transmissibility never moved.
 **5G and health — a scare that largely burned out.** Claims drove **documented arson and vandalism against
 telecom masts**: Mobile UK counted 50 incidents by 15 April 2020 and **77 by 6 May** (including masts not
 carrying 5G); BT's CEO reported ~40 abuse incidents including a stabbing; South Africa saw KwaZulu-Natal
-towers torched in January 2021 (A for the incident analysis — Langguth et al. 2022 — B/C for the counts).
+towers torched in January 2021 ([Daily Maverick](https://www.dailymaverick.co.za/article/2021-01-08-kzn-cellphone-towers-torched-as-5g-conspiracy-theories-ignite/)) (A for the incident analysis — [Langguth et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9137448/) — B/C for the counts).
 Amplification was **mixed but overwhelmingly organic**, with celebrity, commercial ("5G Bioshield" USB sticks
 at ~US$350), far-right and weak adversarial vectors; **no coordinated Kremlin promotion was established** (A
 for the negative finding). *The RF evidence, stated carefully*: ICNIRP's 2020 guidelines (100 kHz–300 GHz)
@@ -353,28 +352,46 @@ historical analogue to the hypothesised mechanism, and a **weak test of the agen
 2001 the marginal cost of a credible-sounding false report was already near zero.
 
 **Radiological and chemical scares.** *Litvinenko (2006)* is the inverse case: a real polonium-210 poisoning
-that killed one man and contaminated ~40 London sites, validated by the Owen inquiry (21 January 2016) and
-*Carter v. Russia* (ECtHR, 2021) — **a real event that validated an institutional narrative**; no documented
-mass "polonium" hoax wave followed (A). *Padilla (2002)*: arrested at O'Hare on 8 May 2002, publicly framed
-around an alleged radiological dispersal device in June 2002, **never charged with a dirty-bomb plot**,
-convicted in 2007 on unrelated conspiracy charges and sentenced to 17 years — yet the case fed a durable
-RDD-vigilance architecture (radiation portal monitors, the May 2003 TOPOFF 2 exercise) whose premise it never
-evidenced (A for the court record). *Hoax "radioactive package" incidents* are, by frequency, the **modal**
-radiological event for first responders, the dominant cost being evacuation, hazmat deployment and laboratory
-time rather than exposure — no defensible aggregate could be built here (**flagged gap**). *The October 2022
-Russian "Ukrainian dirty bomb" claim* is the cleanest failed adversarial amplification in the set: raised at
-the UN Security Council by a permanent member, yet IAEA inspections found **no undeclared nuclear activity**,
-and the claim was read in the West as a Russian pretext signal — **the amplification boomeranged into
-vigilance about Russia rather than about Ukraine** (A). *Syria/Ghouta (2013)* shows a fourth mechanism: the
-UN mission (S/2013/553) confirmed sarin use but had no attribution mandate, the U.S. and Russia published
-competing assessments, and the OPCW-UN Joint Investigative Mechanism later attributed Khan Sheikhoun (2017)
-and Ltamenah (2018) to Syrian government forces — **ambiguity sustained not by fabrication but by adversarial
-contestation of evidence chains** (A).
+that killed one man, led police to examine **60-plus scenes** (the popular "40+ contaminated locations"
+figure understates this), and prompted urine testing of **753 people**, of whom **139 were above the reporting
+level** and **664 across 52 countries** were flagged for follow-up (A,
+[HPA-RPD-067](https://assets.publishing.service.gov.uk/media/5a7f00a8ed915d74e6227d5b/HPA-RPD-067_for_website.pdf)).
+The Owen inquiry (21 January 2016) found Lugovoi and Kovtun killed him and that the FSB operation was
+"probably approved" at the highest level; *Carter v. Russia* (ECtHR, 2021) held Russia responsible — **a real
+event that validated an institutional narrative**. **No verified post-2006 "polonium copycat wave" exists** —
+worth noting, because a *validated* radiological poisoning did not generate the reporting cascade that an
+unvalidated one does. *Padilla (2002)*: arrested at O'Hare on 8 May 2002, publicly framed around an alleged
+radiological dispersal device in June 2002, and **never charged with a dirty-bomb plot** — the November 2005
+superseding indictment carried eleven counts and no radiological charge, and by June 2004 the Justice
+Department was describing the device as uranium, which physicists told CBS could not function as an RDD (A/B).
+He was convicted in 2007 on unrelated conspiracy charges and sentenced to 17 years — yet the case fed a
+durable RDD-vigilance architecture (radiation portal monitors, the May 2003 TOPOFF 2 exercise) whose premise
+it never evidenced (A for the court record). *Hoax "radioactive package" incidents* are, by frequency, the
+**modal** radiological event for first responders, the dominant cost being evacuation, hazmat deployment and
+laboratory time rather than exposure — no defensible aggregate could be built here (**flagged gap**). *The
+October 2022 Russian "Ukrainian dirty bomb" claim* is the cleanest failed adversarial amplification in the
+set: raised at the UN Security Council by a permanent member, yet **IAEA inspectors visited the three named
+locations on 3 November 2022 and found no indications of undeclared nuclear activity or materials** — the
+claim was defeated by *access to the sites*, not by rhetoric, and was read in the West as a Russian pretext
+signal, so that **the amplification boomeranged into vigilance about Russia rather than about Ukraine** (A,
+[IAEA press release 181/2022](https://www.iaea.org/newscenter/pressreleases/iaea-inspectors-complete-in-field-verification-activities-at-three-ukraine-locations-no-indications-of-undeclared-nuclear-activities-and-materials)
+`[Cloudflare-blocked]`). *Syria/Ghouta (2013)* shows a fourth mechanism: the UN mission (S/2013/553)
+confirmed sarin use but had no attribution mandate, the U.S. and Russia published competing assessments, and
+the OPCW-UN Joint Investigative Mechanism later attributed Khan Sheikhoun (2017) and Ltamenah (2018) to
+Syrian government forces — **ambiguity sustained not by fabrication but by adversarial contestation of
+evidence chains** (A).
 
-**2022–2026: exploiting ambiguity without fabricating events.** The Baltic cable incidents, the July 2024 DHL
-parcel-incendiary plot traced to Russian intelligence, and Baltic **GPS-jamming** reporting together produced a
-generalised "hybrid warfare" narrative in which *unexplained* incidents are increasingly read as hostile even
-absent attribution. The operative ambiguity is not the event but **the absence of a benign explanation**.
+**2022–2026: exploiting ambiguity without establishing events.** The Baltic cable and Nord Stream cases are
+instructive precisely because they *collapsed*: every Baltic cable case traced back to **anchor drag** rather
+than sabotage (Sweden and Denmark closed their Nord Stream inquiries in February 2024 for insufficient
+grounds; the *Yi Peng 3* was released with no charges; the *Eagle S* case was dismissed in October 2025 and
+then revived on jurisdictional grounds in August 2026), and on Nord Stream the payload was partly ambiguity
+itself — NS2 had never operated and NS1 was at zero, so no EU consumer lost supply. By contrast the DHL
+parcel-incendiary network is **validated**: Eurojust announced a five-state joint investigation with 22
+suspects in March 2026, with GRU attribution. Baltic **GPS-jamming** reporting shows the same split between a
+real electronic effect and an attributed cause. **The operative ambiguity is not the event but the absence of
+a benign explanation** — and where a benign explanation is found (an anchor, a star, a cricket), the
+ambiguity dies.
 
 ---
 
@@ -484,6 +501,11 @@ supplying it.**
   until documents or peer-reviewed testing appear.
 - **Unsourced and not citable**: "2024 syringes in baby food"; "2024–26 chocolate/sausage/milk tampering in
   Germany/Netherlands"; and the A$500m strawberry figure is industry value, not measured loss.
+- **Important negative finding for the parent study**: no verified case was found of a state using synthetic
+  media to amplify a *specific* physical incident. The best 2026 evidence for AI-enabled influence remains
+  aggregate — the EEAS 4th FIMI report (March 2026) records **540 FIMI incidents in 2025, 27% involving
+  AI-related TTPs, up from 41 AI-related cases in 2024 to 147 in 2025**, while judging AI material mostly
+  low-quality with weak organic engagement. That is consistent with the parent study's narrower verdict.
 - Excluded by design: any case inside the drone domain (the parent study's own strand).
 
 ---

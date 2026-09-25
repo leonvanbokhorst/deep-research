@@ -358,11 +358,15 @@ The 2013 Boston Marathon bombing aftermath is the cleanest documented case of **
 
 
 
-This must be stated plainly, because it is the single most important answer to the study's question.
-
 ### 5.1d The central negative finding
 
-**No credible, documented case was located in which a foreign state, bot network, paid troll farm or influence operation deliberately amplified a European drone-sighting wave.** No Europol, EEAS, EDMO, DFRLab, ISD, EU DisinfoLab, Hybrid Centre of Excellence or DSA transparency report attributing a drone panic to an amplification operation was found after an extensive documented search.
+This must be stated plainly, because it is the single most important answer to the study's question.
+
+**No credible, documented case was located in which a foreign state, bot network, paid troll farm or influence operation deliberately amplified a European drone-sighting wave.**
+
+**This finding was reached independently twice, from different directions** — once by searching for amplification of drone sightings specifically, and once by a separate strand examining state use of synthetic media against physical incidents of any kind. **Neither found a verified case of a state using synthetic media to amplify a specific physical incident.** The strongest available 2026 evidence remains aggregate rather than incident-specific: the EEAS recorded **540 FIMI incidents in 2025, of which 27% involved AI-related TTPs, rising from 41 AI-related cases in 2024 to 147 in 2025**, with the AI material judged mostly low-quality and weakly engaged.
+
+That convergence matters. The negative finding is **not** an artefact of one search strategy, one language, or one framing — and it is therefore stronger than an absence of evidence usually is. No Europol, EEAS, EDMO, DFRLab, ISD, EU DisinfoLab, Hybrid Centre of Excellence or DSA transparency report attributing a drone panic to an amplification operation was found after an extensive documented search.
 
 What the record *does* contain is three distinct things, which are routinely conflated:
 
@@ -433,7 +437,23 @@ Documented indicators:
 
 **Why this category matters more than the others.** Categories 1 and 2 attack the *content* of a claim; category 3 attacks the *evidence structure*. A society can fact-check a claim. It is far harder to ask, mechanically and in real time, whether twenty apparently independent witnesses are actually one actor. **Synthetic corroboration converts an ambiguous event from "a report" into "a pattern" — which is exactly the threshold at which institutions move.**
 
-**The honest limit — and it is a large one.** **No located study tests whether N synthetic sources are more believed than one.** The strong form of the synthetic-corroboration hypothesis — that manufactured consensus is *persuasive* rather than merely *present* — is **untested**. What is demonstrated is that apparent consensus is now cheap to manufacture and difficult to falsify, not that it succeeds. This is stated again in §7.4 as a priority for testing rather than as an established finding.
+**The honest limit is not "untested" — it is worse than that: the mechanism is contradicted.**
+
+This section originally described synthetic corroboration as the study's "genuinely new capability" with its strong form "untested." A direct literature check does not support that framing, and the correction is important enough to state plainly.
+
+**The best direct test of the source-count mechanism is a null.** Foster, Huthwaite, Yesberg, Garry & Loftus (*Acta Psychologica*, 2012) tested whether multiple sources make misinformation more believable, and titled their result: **"Repetition, not number of sources, increases both susceptibility to misinformation and confidence."** The number of apparently independent sources did **not** drive belief; repetition did. Related work (Roggeveen & Johar, 2002) finds that source count operates through **subjective familiarity**, not through perceived source independence — i.e. the mechanism that intuition attributes to *corroboration* is actually *repetition wearing a disguise*.
+
+The broader illusory-truth literature points the same way. The corrected meta-analysis (Ye et al., *Nature Communications*, 2026; 182 studies, N = 31,184) reports a pooled **g = 0.37** — real, but **negligible for socio-political *opinion***, which is the outcome this study cares about.
+
+**What survives is a different and narrower mechanism — and it is not a belief multiplier.** The credible finding is that repetition makes the **publisher** appear more credible, and that credibility then **generalises to that publisher's other claims** (Mattavelli, Brambilla & Unkelbach, *PSPB*, 2026). In other words, the operative effect is **trust-laundering and the manufacture of institutional standing**, not manufactured consensus persuading anyone.
+
+**The implications for this study are significant and should be carried into the verdict:**
+
+1. **The category that genuinely concerns a defender is category 3, not because it multiplies belief, but because it manufactures *sources*.** A fake think tank stocked with real researchers' names does not need to persuade a reader of anything; it needs to be *citable*. That is a supply-side attack on the citation layer, and it is consistent with everything else in this study about production scaling while persuasion does not.
+2. **The institution, not the individual, is the victim of the mechanism.** Trust-laundering targets the credibility of the *information environment*, which is precisely the layer the reflexive chain (§4.1, stage 6) depends on.
+3. **The defensive priority shifts from "detect coordinated accounts" to "verify institutional standing."** Asking whether a cited body actually exists, has a history, and can be corroborated independently is a more durable defence than counting accounts.
+
+**One genuinely open item.** Pillai & Fazio (*JARMAC*, 2025), titled "Repeated by many versus repeated by one," tests exactly this hypothesis, but the publisher blocks the abstract and **its effect size is unknown**. Until it is read, the honest position is that the mechanism is **contradicted by the best available direct test and not yet settled**.
 
 ### 5.4 What the reflexive stage actually looks like (L4)
 
@@ -531,6 +551,10 @@ Three consequences follow:
 2. **Defensive leverage sits in identity and access, not content moderation.** The finding points to **account-acquisition cost, identity verification, platform integrity funding and speed-to-correction** as the places where the asymmetry can be attacked. Moderating text is expensive and endless; raising the cost of a credible account is neither.
 3. **It explains the reach failure directly.** Every first-party 2026 disclosure puts AI-enabled networks at low breakout levels with little or no authentic engagement — **except where they ride existing state-media distribution.** The operators who succeed are the ones who already had an audience.
 
+**The single most useful number in the entire corpus, for scale-versus-effect.** OpenAI's February 2026 disclosure describes a Chinese law-enforcement-linked unit that **"made over 50,000 posts across over 200 Western platforms. Of those, under 150 posts received over 300 shares or comments."**
+
+That is a **hit rate of roughly 0.3%** — one post in three hundred achieving even modest distribution, from an operation with state resources across two hundred platforms. **It is the production-to-reach gap expressed as a single ratio, and it is the most compact answer available to the question of whether generating more content produces more effect.**
+
 **This reframes the whole threat.** The question is not "can agents generate a persuasive campaign?" — they can. It is **"can agents get it in front of people who are not already looking?"** — and on the evidence, that remains the hard part.
 
 **A cost reality check that punctures the "AI makes it free" narrative.** When agent labour is priced properly against its actual comparators, the picture is more modest than it appears:
@@ -553,6 +577,12 @@ Two findings establish it:
 
 - **Synthetic faces are already judged indistinguishable from, and in some tests more trustworthy than, real faces** (Nightingale & Farid, *PNAS*, 2022).
 - **Warnings do not fully repair the damage.** Clark, Lewandowsky and colleagues (January 2026) found that **45–54% of participants who *accepted* a deepfake warning still judged guilt from the video** — and, more strikingly, that **specific warnings led some people to call *real* video fake**.
+
+**Three bounds on the effect, all of which matter for the assessment:**
+
+1. **It works on text and largely fails against video.** Schiff et al. (*APSR*, 2024; >15,000 adults) is the best-powered test, and the asymmetry is the finding. The channel that matters most — video evidence of a physical incident — is the one most resistant to the dividend.
+2. **Human detection is poor but not hopeless.** The pooled figure across **56 papers and 86,155 participants** is **55.5%** — barely above chance, and far below the "indistinguishable" framing this report initially used. *(That earlier figure is withdrawn.)*
+3. **It is trainable against.** **Impression-based training lifts detection accuracy from 40% to 80%** (Dawel et al., *PNAS*, 2026). This is the largest defensive effect size on the synthetic-media side found anywhere in this study — considerably larger than the prebunking effects in §11.8 — and it is cheap.
 
 The second finding is the important one, because it describes a two-sided effect:
 
@@ -645,7 +675,10 @@ Setting this out in advance makes the hypothesis testable rather than rhetorical
 - **A prosecution, official attribution or court record** linking an actor to a physical-threat narrative campaign.
 - **A controlled study** showing that injected agentic amplification measurably shifts institutional response to an ambiguous incident.
 
-**And one priority experiment that does not yet exist anywhere: does synthetic corroboration actually persuade?** No located study tests whether **N apparently independent sources are more believed than one**. The strong form of the synthetic-corroboration hypothesis — that manufactured consensus is *persuasive* rather than merely *present* — is **untested**. This is the single largest gap in the evidence base for the study's central new capability, and it is a straightforward experiment to run. Until it is run, the claim that synthetic corroboration is the genuinely dangerous new capability rests on **plausibility and mechanism, not measurement**.
+**And one claim this study must withdraw.** An earlier draft described synthetic corroboration as the genuinely dangerous new capability whose strong form was merely "untested." That is wrong: **the source-count mechanism has been directly tested and the result is a null** (§5.3 — Foster et al., 2012: "repetition, not number of sources"). What is real is **trust-laundering** — repetition making a *publisher* credible, and that credibility generalising to its other claims. A defender should therefore treat synthetic corroboration as a **supply-side attack on the citation layer**, not as a belief multiplier, and should verify **institutional standing** rather than merely counting accounts.
+
+**The genuinely untested item** is narrower and is worth naming for a follow-up: Pillai & Fazio (*JARMAC*, 2025), "Repeated by many versus repeated by one," tests precisely this, but its effect size is unavailable through the publisher. **Reading that paper would settle the question.**
+
 
 **The single most useful of these is the temporal-decoupling test.** Organic cascades have a characteristic signature: interest rises after an event, peaks, and decays. An engineered campaign would in principle show a different curve — activity preceding the triggering event, or a secondary rise after organic interest has decayed. **This is measurable, falsifiable, and has not, on the evidence located, been systematically applied.** It is the most concrete recommendation this study makes for making the hypothesis testable (§10.3).
 
@@ -838,6 +871,8 @@ Six predictors, in descending order of explanatory power:
 
 1. **An existing institutional owner for a *harm* question.** Havana syndrome had diplomats and intelligence officers — a victim class with institutional sponsors — and produced nine investigations, compensation legislation and a permanent Pentagon task force. 5G mast arson, by contrast, produced nothing durable, because **no institution owned mast safety as a health question**.
 2. **Availability of a decisive evidentiary test.** The 2023 balloon episode **collapsed within about ten days** once debris was recovered and identified as hobbyist or commercial. An H5N1 milk scare collapsed within a month when zero of sixty PCR-positive samples contained viable virus. Havana and UAP **cannot close, because nothing is recoverable** — there is no test that would end them.
+
+   **The counter-intuitive corollary: a test that is actually run and returns a definitive answer kills the cascade, even when the underlying event is genuinely alarming.** The 2006 polonium poisoning of Alexander Litvinenko was a *validated* radiological assassination — sixty-plus scenes examined, 753 people urine-tested, 139 above the reporting level, and 664 people across 52 countries flagged for follow-up. It produced **no verified copycat wave and no sustained reporting cascade**. Meanwhile unvalidated and unresolvable incidents — Havana, UAP, the drone waves — persist for years. **Definitive bad news closes; ambiguous news does not.** That is the opposite of what threat intuition predicts, and it is the strongest argument for running the test and publishing the result even when the result is bad.
 3. **A named mechanism that cannot be refuted.** "Sonic weapon", "directed energy", "infrasound", "Disease X". A named mechanism converts an unexplained observation into a researchable hypothesis, and a researchable hypothesis generates institutions.
 4. **An interested constituency for non-closure.** Havana is the proof: five of seven agencies assessed adversary involvement as "very unlikely", the NIH failed to replicate the brain-injury findings — and in 2026 the Pentagon rebranded its team *towards* directed energy while the outgoing DNI **rescinded the sceptical assessments**. The evidence moved one way; the institution moved the other.
 5. **Whether the remedy is *material* or *legal*.** This is the sharpest and least obvious predictor, and it explains two Tylenol cases moving in opposite directions. The **1982** Tylenol poisonings had an unknown mechanism and a **material** fix — tamper-resistant packaging — which produced permanent regulation despite **no one ever being charged**. The **2025–26** acetaminophen–autism claim was *refuted*, and its remedy was **legal** (litigation): over 500 suits were dismissed in December 2024, then **revived by the Second Circuit on 13 July 2026**, with rehearing sought on 11 September 2026 — and the FDA label **still has not changed**. **A material remedy converts ambiguity into durable institutions; a legal remedy keeps it contested and alive.** For an adversary, this is an actionable design insight: ambiguity that can only be resolved by litigation and labelling does not close.
@@ -1041,8 +1076,8 @@ The evidence is genuinely favourable but should not be overstated. Two different
 **A narrow, real, and specific set of changes — all of them on the production side, and one of them genuinely qualitative.**
 
 - **Production is effectively free; distribution is not.** The cost asymmetry between generating a post ($0.0001–$0.04) and distributing one ($0.015, or $0.200 with a link) is roughly **524:1**. The labour constraint on covert influence has been removed; the access constraint has not.
-- **Synthetic corroboration is the genuinely new capability.** Presenting one ambiguous event as many apparently independent observations attacks the **independence assumption** on which all verification depends — and the escalation is documented, from 750+ fake outlets accumulated over fifteen years (Indian Chronicles) to 3,749 AI-generated news sites in under three, to a **fake think tank staffed with real researchers' names**. *(Caveat: no study tests whether N synthetic sources are actually more believed than one — §7.4.)*
-- **The liar's dividend degrades the evidentiary value of recorded reality — in both directions.** Fabricated evidence becomes cheap to supply; genuine evidence becomes cheap to deny. **45–54% of people who accepted a deepfake warning still judged guilt from the video**, and specific warnings led some to call *real* video fake. This is a substrate change rather than a campaign capability, and it undermines the verification-based defences in §11.3.
+- **Synthetic corroboration industrialises the manufacture of *sources* — but not of belief.** The escalation is documented: from 750+ fake outlets accumulated over fifteen years (Indian Chronicles) to 3,749 AI-generated news sites in under three, to a **fake think tank staffed with real researchers' names**. *(But the source-count mechanism is directly contradicted — the 2012 test found "repetition, not number of sources" — so the operative effect is **trust-laundering**, not a belief multiplier. §5.3, §7.4.)*
+- **The liar's dividend degrades the evidentiary value of recorded reality — but it is bounded, and the bound matters.** Fabricated evidence becomes cheap to supply and genuine evidence cheap to deny. The effect is strongest on **text** and **largely fails against video** (Schiff et al., *APSR*, 2024; >15,000 adults). And human detection of synthetic media is not hopeless: the pooled figure across 56 papers and 86,155 participants is **55.5%** — barely above chance, but not zero, and **impression-based training lifts accuracy from 40% to 80%** (Dawel et al., *PNAS*, 2026). *(This replaces an earlier, unverifiable "more than half indistinguishable" claim in this report.)*
 - **Reach is rented from the platform, not owned by the network.** Forty coordinated accounts produced over a billion views in a month — because a recommender amplified them. "Low organic reach" is therefore **not a stable property**, and defender leverage sits in recommendation and amplification policy more than in debunking.
 - **AI is a coordination substrate.** Persistent-memory agent workspaces, shared doctrine files and batch pipelines let producers who never speak to each other behave as one organisation.
 - **Multilingual and persona persistence are transformed.** Thousands of articles in twenty languages; impersonation sustained across thousands of posts.
