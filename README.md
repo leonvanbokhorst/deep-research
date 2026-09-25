@@ -13,6 +13,26 @@ inside NATO societies.
 | `AI-Autonomy-Threat-Assessment-2026.md` | Main report (~20,000 words): four-level analytic framework, five shifts 2023–2026, established evidence, emerging signals, speculative pathways, threat landscape with tripwire indicators, counterarguments, NATO/EU and Dutch implications, conclusions, three appendices |
 | `sources-bibliography.md` | Consolidated source register with URLs, evidence grades, confidence ratings, a flagged weak-evidence list and stated research gaps |
 
+## Process analysis
+
+This repository is the **substantive research artefact**. A separate repository
+analyses how the recursive DSH research process actually behaved:
+
+- [`leonvanbokhorst/deep-research-log-analysis`](https://github.com/leonvanbokhorst/deep-research-log-analysis)
+
+The process study treats this research as frozen at commit
+[`33ca23b474a11b5ee90563a9f59ed002de485abd`](https://github.com/leonvanbokhorst/deep-research/commit/33ca23b474a11b5ee90563a9f59ed002de485abd).
+It reconstructs the 153-session DSH execution trace rooted at
+`session-92c9e38d-5c41-403b-8bd0-52dc0ac5c357`.
+
+For provenance, the root session file has SHA-256
+`1a9de4e9cc3efd43feb5eaddc78ce2894fa381e44d20541ece511233c9bf037d`;
+the complete export is pinned by 153 per-file SHA-256 digests in the analysis
+repo's [`analysis/data/manifest.json`](https://github.com/leonvanbokhorst/deep-research-log-analysis/blob/main/analysis/data/manifest.json).
+
+The separation is intentional: **this repo records what the agents concluded; the
+analysis repo asks what the agents actually did while getting there.**
+
 ## Supporting strand briefs
 
 Eight parallel research strands, each retaining per-claim source quality and confidence:
