@@ -73,14 +73,15 @@ now contested. **M**.
 
 ### 1.5 Information operations / MISO / PSYOP — **High scope, Low novelty**
 
-**Origin and claim.** PSYOP lineage from WWI–WWII and Vietnam; 1990s US IO doctrine in JP 3-13;
-PSYOP renamed **Military Information Support Operations** in 2010; JP 3-13 reissued 2022. IO is
-integrated employment of information-related capabilities, *in concert with other lines of operation*,
-to influence, disrupt or usurp adversaries' decision-making — and it already couples **physical
-actions to information effects**, so using a real drone flight to generate a psychological effect is
-not outside doctrine. **M**; **UNVERIFIED** whether a 2025–26 renaming of "MISO/influence" language
-occurred. **Fit: High** definitionally, **novelty near zero**. **Misfit:** IO assumes the influencer
-owns the messages; it has **no theory of the target population as uncontrolled co-producer**.
+**Origin and claim.** PSYOP lineage from WWI–WWII and Vietnam; 1998 JP 3-13 made IO the umbrella for
+offensive information operations; PSYOP was renamed **Military Information Support Operations** in
+2010, and the December 2025 Hegseth memo renamed **MISO back to PSYOP** (not, as is often reported,
+to "information operations"). JPs 3-13 and 3-13.2 were superseded by **JP 3-04 "Information in Joint
+Operations" (14 Sept 2022)**. IO already couples **physical actions to information effects**, so using
+a real drone flight to generate a psychological effect is not outside doctrine. **H**. **Fit: High**
+definitionally, **novelty near zero**. **Misfit:** IO assumes the influencer owns the messages and
+requires access to a target audience; it has **no theory of the target population as uncontrolled
+co-producer**. **M**.
 
 ---
 
@@ -128,7 +129,10 @@ and Google TAG equivalents; Woolley & Howard (eds.), *Computational Propaganda* 
 fake-account networks and explicitly **excludes authentic organic speech** — a critical boundary,
 since a cascade of genuine citizen drone reports is not CIB even when it causes more damage. **Fit:
 Partial** — it names the practice agents would automate. **Misfit — and here the evidence cuts
-against H1.** Anthropic's September 2026 report
+against H1.** Measured effects are small and concentrated: Eady et al. (*Nature Communications*, 2023)
+found 1% of accounts received 70% of exposures and "no evidence of a meaningful relationship" with
+attitude change, and Bail et al. (*PNAS*, 2020) found "no evidence" of a measurable shift. Anthropic's
+September 2026 report
 (https://www.anthropic.com/threat-intelligence-report-september-2026) records: *"Most of the content
 we discovered drew little or no authentic engagement."* A commercial operation publishing **8,913
 articles in ~20 languages** across ~70 fake news sites reached only **Category Two on the Breakout
@@ -161,13 +165,14 @@ wave on **weaker evidence than its use implies**: IISS's "highly likely Kremlin 
 think-tank judgement, and IISS notes **no European government has publicly attributed a UAV sighting
 to Russia** (https://www.iiss.org/research-paper/2026/06/russias-uav-campaign-over-europe/). **H**.
 
-**Perception management — Partial, declining.** The DoD definition — "actions to convey and/or deny
-selected information and indicators to foreign audiences to influence their emotions, motives, and
-objective reasoning… ultimately resulting in foreign behaviors and official actions favorable to the
-originator's objectives" (https://en.wikipedia.org/wiki/Perception_management) — sits inside IO and
-adds little. It is **message-control** doctrine: it shapes what the audience perceives and does not
-model the audience as an independent amplifier. The 2002 Office of Strategic Influence episode shows
-its exposure risk. **M**.
+**Perception management — Poor.** Note first that it is **not a current DoD term**: the last
+dictionary text (JCS Pub 1-02, 1989) reads "actions to convey and/or deny selected information and
+indicators to foreign audiences to influence their emotions, motives, and objective reasoning…",
+combining "truth projection, operations security, cover and deception, and psychological operations"
+— but it was **dropped in the 2010 reissue** and appears in neither the 2021, 2024 nor June 2025
+dictionaries. It is a **sender→message, foreign-audience** model with no concept of the audience
+manufacturing its own meaning, so it fits poorly; the 2002 Office of Strategic Influence episode shows
+the exposure risk of the approach. **H** on the dictionary record.
 
 **Information laundering — Moderate, technique only.** Adam Klein's term describes moving material
 through progressively more reputable channels until provenance is obscured

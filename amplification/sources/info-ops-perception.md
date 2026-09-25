@@ -1,0 +1,81 @@
+# Information Operations and Perception Management
+### Findings for the "agentic threat amplification" hypothesis
+
+*Confidence: **H** = verified against a primary document I parsed; **M** = credible secondary; **L** = inference; **UNVERIFIED** = unconfirmed. `web_search` was unavailable; full URLs are in Part E.*
+
+---
+
+## Part A — PERCEPTION MANAGEMENT
+
+### A1. Exact definition and current status
+**"Perception management" is no longer a defined US Department of Defense term.** The last dictionary text (JCS Pub 1-02, 1 Dec 1989, carried unchanged through JP 1-02 as amended 31 Aug 2005):
+
+> **perception management** — Actions to convey and/or deny selected information and indicators to foreign audiences to influence their emotions, motives, and objective reasoning as well as to intelligence systems and leaders at all levels to influence official estimates, ultimately resulting in foreign behaviors and official actions favorable to the originator's objectives. In various ways, perception management combines truth projection, operations security, cover and deception, and psychological operations. See also psychological operations.
+
+Verified present/absent by edition (H): JCS Pub 1-02 (1 Dec 1989) present; JP 1-02 (23 Mar 1994, am. 1 Sep 2000) present; JP 1-02 (12 Apr 2001, am. 31 Aug 2005) present; **JP 1-02 (8 Nov 2010, am. 15 Feb 2016) absent**; DoD Dictionary Nov 2021, Sep 2024 and Jun 2025 absent. It was **dropped in the 8 Nov 2010 reissue**, not redefined. The Intercept (2023) and Tennant (2026) both wrongly treat the term as current (H).
+
+### A2. Origin and lineage
+- **Origin (DoD, 1980s).** The term is in the Joint Chiefs' dictionary by 1 Dec 1989 (H); the exact first-appearance year is unchecked, so "1980s coinage" is M/L. Its parentage is Reagan-era public diplomacy: NSDD-45 (1982) and NSDD-77 (1983) built an interagency apparatus and a White House Office of Public Diplomacy aimed at Central America (M, Gough 2003).
+- **1990s doctrine.** JP 3-13, *Joint Doctrine for Information Operations* (9 Oct 1998), made perception management the umbrella for **offensive IO**: "Offensive IO applies perception management actions such as PSYOP, OPSEC, and military deception, and may apply attack options such as EW and physical attack/destruction" (H). JP 3-53 PSYOP (1996, 2003) carried the same glossary entry (H). Interagency, **PDD/NSC-68, "International Public Information" (30 Apr 1999)** coordinated public diplomacy and "overt International Military Information," while insisting IPI "address foreign audiences only" and is "designed neither to mislead… nor to compromise… the integrity or independence of non-governmental organizations" (H).
+- **2002: Office of Strategic Influence (OSI).** Created 30 Oct 2001; exposed 19 Feb 2002; closed by Rumsfeld 26 Feb 2002 after reports it might plant false stories in foreign media. Rumsfeld later (18 Nov 2002): "I'll give you the corpse. There's the name… but I'm gonna keep doing every single thing that needs to be done." Gough records that the "plant disinformation" charge "was not in OSI's charter… and was never substantiated" — contested (all M).
+- **Post-2001 decline.** Umbrella language moved to *information operations* (2006), *information-related capabilities* (2012), *operations in the information environment* (2016/2022) and *information advantage* (Army 2023). "Perception management" is absent from JP 3-13 (2006, 2012) (H) but survived as an **organisation name**: the Pentagon's **Influence and Perception Management Office (IPMO)** was established 1 March 2022 under USD(I&S) (M, The Intercept 2023).
+
+### A3. What it claims to cover
+It combined **truth projection, OPSEC, cover and deception, and PSYOP** (H) — truthful messaging *and* deception — aimed at **foreign audiences** *and* at **adversary intelligence systems and leaders** ("to influence official estimates"). So it is broader than propaganda: it includes denying/withholding information and manipulating the adversary's *estimative* process.
+
+### A4. Deliberate vs emergent
+Unambiguously **deliberate and centrally directed**: *actions* by an originator to produce "foreign behaviors and official actions favorable to the originator's objectives" (H). No emergent mechanism exists in the definition; its failure mode is **exposure and domestic blowback** — the OSI episode was killed by US press reaction, not by its target audience (M).
+
+### A5. Fit: POOR (concept); PARTIAL (lineage)
+- **Poor:** a deliberate, government-run, message-centric construct, whereas the hypothesis has autonomous agents seed ambiguous *physical* incidents so the *audience* generates disruption — close to the inverse causal model.
+- **Does not fit:** doctrine presumes a **sender with a message and a target audience**; it has no concept of an incident whose *meaning* is filled in by the audience, no account of media/institutional self-amplification, and no ambient/unattributed effects. It is also restricted to **foreign** audiences, whereas the hypothesis's disruption is largely *domestic to the target society* (L). It does recognise the cognitive dimension and that one may "convey **and/or deny**" information — a hook the hypothesis can cite.
+
+---
+
+## Part B — INFORMATION OPERATIONS / MISO / PSYOP
+
+### B1. PSYOP lineage
+US Army *PSYOP History Handbook* (2018): dedicated propaganda elements appeared in **WWI** (Propaganda Section, G-2, AEF; leaflets by artillery and aircraft). **WWII** produced the Psywar Branch (PWB/AFHQ), PWD/SHAEF, OSS Morale Operations, OWI and the first psywar units. Post-war drawdown gutted the capability; **Korea** rebuilt it (Psywar Center, Fort Bragg, 1952). **Vietnam** was the formative counterinsurgency PSYOP experience (notably Chieu Hoi). The doctrinal line runs JP 3-53 *Doctrine for Joint Psychological Operations* (10 Jul 1996; 5 Sep 2003) → JP 3-13.2 MISO (2010) (H).
+
+### B2. IO doctrine and core capabilities
+- **1998 JP 3-13:** IO = actions "to affect adversary information and information systems while defending one's own"; offensive IO = OPSEC, PSYOP, MILDEC, EW, physical attack/destruction, special IO and (maybe) computer network attack (H).
+- **2006 JP 3-13:** narrowed to **five core capabilities** — EW, CNO, PSYOP, MILDEC, OPSEC — "to influence, disrupt, corrupt or usurp adversarial human and automated decision making while protecting our own" (H).
+- **2012 JP 3-13** (Ch.1 2014): generalised to **information-related capabilities (IRCs)** "in concert with other lines of operation," and added the **physical / informational / cognitive** three-dimension model of the information environment plus an 8-step assessment process (H).
+
+### B3. The 2010 PSYOP → MISO renaming (verified)
+JP 3-13.2 appeared **7 January 2010 as *Military Information Support Operations***; Change 1 (20 Dec 2011) "Replaced the term psychological operations throughout the publication with military information support operations… per Secretary of Defense memo dated 3 December 2010," noting the change "does not affect non-US use of related psychological operations terminology, doctrine, or organizations" (H).
+
+### B4. 2016 / 2022 restructure, and the 2025 reversal
+- **2016:** the *DoD Strategy for Operations in the Information Environment* (June 2016) introduced "operations in the information environment (OIE)" and framed IO as affecting "the perception and will of adversaries" (H).
+- **2022:** **JP 3-04, *Information in Joint Operations* (14 Sept 2022)** replaced JP 3-13 as the keystone, moving "away from parochial 'information operations'… toward broader 'operations in the information environment'" (M, DefenseScoop; document not public). **DoDI 3607.02** (13 June 2016) governed MISO (H). Army **ADP 3-13, *Information*** (Nov 2023) introduced "information advantage" (M).
+- **2025 reversal — verified, and NOT what the brief guessed.** SecDef Hegseth's memo of **2 December 2025**, *Changing the Term Military Information Support Operations Back to Psychological Operations*, orders the Department of War to **use PSYOP instead of MISO "effective immediately,"** full implementation by end FY2026, and directs USD(Policy) to revise DoDI 3607.02. Rationale: PSYOP "more closely align[s] functions with branding… reestablish deterrence and revive the warrior ethos" (H). The shift was **away from MISO toward PSYOP** — not an adoption of "information operations," and it did not drop "influence" as an organising idea.
+
+### B5. What MISO/IO claims — access, and direct vs indirect effects
+MISO is defined as **"planned operations to convey selected information and indicators to foreign audiences"** (JP 3-53; identical since 2010) (H). It is inherently **sender → message → target**: it presupposes an identified **target audience (TA)**, **access** to the TA via dissemination means, and intelligence on the TA's drivers (H). Doctrine therefore *does* require access to, and a model of, the audience information environment; it is not a no-access or purely indirect theory. Effects are treated as **engineered**: the 2012 JP 3-13 requires planners to state an explicit "chain of logic" with assumptions and measures of effectiveness, and to locate "where in the chain the logic is breaking down" (H) — a deliberate, linear causal model. Doctrine concedes indirect and hard-to-measure cognitive effects, and RAND documents **assessment** as a persistent unsolved problem (H/M).
+
+### B6. RAND and the counter-propaganda literature
+- *Truth Decay* (RAND **RR-2314**, 2018): four trends incl. blurring of opinion/fact (H).
+- *The Russian "Firehose of Falsehood"* (RAND **PE-198**, 2016 — *not* RR-1406, with **four** features, not seven): high-volume/multichannel; rapid, continuous, repetitive; lacks commitment to objective reality; lacks commitment to consistency. Pessimistic about counter-propaganda: "don't expect to counter the firehose of falsehood with the squirt gun of truth" (H).
+- RAND **RR-2237** (2018): pro-Russia content spreads "without obvious direct support from the Russian state" — the strongest RAND-adjacent support for **emergent/self-organising** amplification (H).
+- RAND **RRA-1969-1** (2023): influence efforts "should not generate second-order effects beyond what is intended" — unintended effects are a **risk to bound**, not the objective (H).
+- **Empirical limits:** Bail et al. (PNAS 2020) found "no evidence" the IRA campaign substantially changed attitudes/behaviour; Eady et al. (*Nature Communications* 2023) found 1% of users got 70% of exposures, exposure "eclipsed by content from domestic news media and politicians," and "no evidence of a meaningful relationship" with attitudes, polarisation or voting. Backfire is "elusive" (Wood & Porter 2019); inoculation/prebunking is the best-supported counter (H).
+### B7. Deliberate vs emergent verdict
+Official doctrine is **deliberate and message-centric**. The strongest empirical literature says deliberately engineered IO effects are **small, concentrated and hard to measure**, and that real-world amplification is substantially **emergent** — driven by domestic media, politicians, pre-existing polarisation and self-organising networks (RR-2237; Benkler et al. 2018; Starbird 2017; Marwick & Lewis 2017). Doctrine has **no formal concept** of the target population manufacturing the disruptive effect; the closest it comes is "indirect effects" and assessment failure (M/L).
+
+### B8. Fit: PARTIAL
+- **Fits:** (a) IO doctrine legitimises operating *in and through* the information environment and treats the cognitive dimension as decisive; (b) RAND's evidence of state-unsupported, self-amplifying content supports the "audience supplies the effect" premise; (c) pessimism about correction is consistent with authoritative denial failing to neutralise an ambiguous incident.
+- **Does not fit:** (i) doctrine is **deliberate messaging with a sender, TA and access channel**, not autonomous agents seeding ambiguous physical events; (ii) best-evidence IO effects are **modest and audience-concentrated**, cutting against "large, cheap, scalable" disruption; (iii) the hypothesis's unit of action — an *ambiguous physical incident* rather than a belief/message — is **not** an IO/MISO construct; (iv) doctrine and RAND treat **unintended second-order effects as a risk to be bounded** (L).
+
+---
+
+## Part D — Corrections, confidence and UNVERIFIED
+**Corrections to the brief:** the firehose report is **PE-198** with **four** features, not RR-1406/seven; perception management was **removed in 2010** and has not been defined since; the 2025 Hegseth change renamed **MISO → PSYOP**, not MISO → "information operations"; JP 3-13's 2022 replacement is **JP 3-04** (M).
+**H:** dictionary presence/absence by edition; the 1989–2010 definition; the 3 Dec 2010 rename memo; 2022 JP 3-04 date; the 2 Dec 2025 Hegseth memo text; PSYOP lineage; 1998/2006/2012 IO definitions; RAND URLs. **M:** OSI dates and the Nov 2002 Rumsfeld quote; IPMO establishment; JP 3-04 content (not public). **L:** the fit ratings; the reading of doctrine as having no emergent mechanism.
+**UNVERIFIED:** the exact first-appearance year of "perception management" (pre-1989 editions unchecked); any distinct **1990s "perception-management scandal"** beyond PDD/NSC-68 and the 2002 OSI episode — none found; NATO AJP-3.10 (located, not read).
+
+---
+
+## Part E — Key source URLs
+**Doctrine / dictionaries:** JCS Pub 1-02 1989 https://archive.org/details/DTIC_ADA258036 · JP 1-02 1994 https://archive.org/details/DTIC_ADA383007 · JP 1-02 2001/2005 https://archive.org/details/DTIC_ADA439918 · JP 1-02 2010/2016 (term absent) https://archive.org/details/DTIC_AD1004650 · DoD Dictionary Jun 2025 https://jsouapplicationstorage.blob.core.windows.net/press/560/DoD%20Dictionary%20of%20Military%20and%20Associated%20Terms%20JUNE%2025.pdf · JP 3-13 1998 https://www.c4i.org/jp3_13.pdf · JP 3-13 2006 https://www.govinfo.gov/content/pkg/GOVPUB-D5-PURL-gpo29314/pdf/GOVPUB-D5-PURL-gpo29314.pdf · JP 3-13 2012 https://informationsecurity.info/wp-content/uploads/2021/04/jp3_13.pdf · JP 3-53 1996 https://www.psywar.org/psywar/reproductions/JP3_53_PSYOP_Doctrine.pdf · JP 3-53 2003 https://nsarchive2.gwu.edu/NSAEBB/NSAEBB177/02_psyop-jp-3-53.pdf · JP 3-13.2 MISO 2010 https://www.bits.de/NRANEU/others/jp-doctrine/JP3-13.2C1%2811%29.pdf · PDD/NSC-68 1999 https://www.clintonlibrary.gov/sites/default/files/documents/pdd-68.pdf · Gough 2003 https://irp.fas.org/irp/eprint/gough.pdf · ARSOF PSYOP Handbook https://arsof-history.org/pdf/handbook_psyop.pdf · The Intercept 2023 https://theintercept.com/2023/05/17/pentagon-perception-management-office/ · OSI 2002 NYT https://www.nytimes.com/2002/02/26/national/rumsfeld-formally-disbands-office-of-strategic-influence.html
+**Restructuring / 2025:** DoD OIE Strategy 2016 https://toinformistoinfluence.files.wordpress.com/2016/06/dod-strategy-for-operations-in-the-information-environment-signed-2016-06-13.pdf · DoDD 3600.01 (2013/2017) https://web.archive.org/web/2023/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/DODD/360001p.pdf · DefenseScoop JP 3-04 2022 https://defensescoop.com/2022/10/07/dod-publishes-revised-doctrine-on-information/ · 2023 SOIE https://media.defense.gov/2023/Nov/17/2003342901/-1/-1/1/2023-DEPARTMENT-OF-DEFENSE-STRATEGY-FOR-OPERATIONS-IN-THE-INFORMATION-ENVIRONMENT.PDF · Hegseth memo 2 Dec 2025 https://media.defense.gov/2025/Dec/08/2003839440/-1/-1/0/CHANGING-THE-TERM-MILITARY-INFORMATION-SUPPORT-OPERATIONS-BACK-TO-PSYCHOLOGICAL-OPERATIONS.PDF · DefenseScoop 2025 https://defensescoop.com/2025/12/09/hegseth-memo-psyop-miso-psychological-operations/
+**RAND / academic:** RR-2314 https://www.rand.org/pubs/research_reports/RR2314.html · PE-198 https://www.rand.org/pubs/perspectives/PE198.html · RR-2237 https://www.rand.org/pubs/research_reports/RR2237.html · RRA-1969-1 https://www.rand.org/pubs/research_reports/RRA1969-1.html · Bail 2020 https://doi.org/10.1073/pnas.1906420116 · Eady 2023 https://www.nature.com/articles/s41467-022-35576-9 · Lewandowsky 2012 https://doi.org/10.1177/1529100612451018 · Wood & Porter 2019 https://doi.org/10.1007/s11109-018-9443-y · Traberg et al. 2022 https://doi.org/10.1177/00027162221087936

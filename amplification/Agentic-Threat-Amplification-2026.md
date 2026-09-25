@@ -1050,6 +1050,29 @@ Two measured figures should temper expectations about detection-based defence:
 
 **The practical implication is that speed dominates accuracy in the first hours.** A fast, specific, honest "here is what we do not yet know" outperforms a slow, comprehensive correction — a conclusion that aligns with the rumour-theory finding that cascades are driven by ambiguity *in an informational vacuum* and terminate only when an authoritative source resolves them — not because the crowd corrects itself.
 
+### 10.5 The indicator set worth actually building: monitor the response, not the reports
+
+Two findings make the conventional indicator approach close to useless, and suggest a better one.
+
+**First, report counts measure the observer, not the threat.** The FAA's own official UAS sighting series has **no disposition field**, and — decisively — it shows **no surge during the New Jersey panic**: November 2024 recorded 103 reports, the *lowest* of that winter. A cascade that generated 5,000 tips to the FBI, a federal interagency response and a legislative push produced **no signal at all** in the official aviation data. Similarly, the UK's Ministry of Defence attributes part of its own rising incident count to **better detection** — a count that measures the observer.
+
+**Second, no institution anywhere publishes a confirmation rate.** Every headline national figure — 5,000 in the US, 558 in Belgium, 340 in the UK, thousands in Germany — is a **report count**. The single most decision-relevant number in the entire domain is systematically absent.
+
+**Therefore the indicator set worth building is an *institutional-response* set.** These are published, countable, hard to conceal, and they measure the thing that actually imposes cost:
+
+| Indicator | Why it matters |
+|---|---|
+| **Airport or transport suspensions on *unconfirmed* sightings** | Directly measures the ambiguity-to-cost conversion |
+| **Emergency counter-UAS authorisations or accelerated procurement** | Shows the response outrunning the evidence |
+| **New shoot-down or interdiction authorities granted** | A durable, legislative consequence |
+| **Attributions issued ahead of technical confirmation** | Measures the confidence-evidence gap |
+| **Restrictions imposed without a disposition in any case** | Distinguishes precaution from proof |
+| **Audit or review findings on counter-drone spending** | **Currently nonexistent — no audit office has audited this spending, and no counter-UAS false-positive or effectiveness rate exists anywhere** |
+
+**The virtue of this set is that it is self-critical.** It does not ask "is the threat growing?" — a question the available data cannot answer — but **"is our response growing faster than our evidence?"** That is answerable, attributable to our own records, and it is exactly the reflexivity trap in measurable form.
+
+**One caution on detection, and it is important.** DFRLab examined **1,651 Storm-1516 amplifier accounts and found "no clear indicators of coordinated inauthentic behavior."** **Amplification overlap is not proof of coordination.** Genuine organic users frequently amplify the same content, so a network-detection method that treats shared amplification as evidence will generate false positives against the public. **No institution should attribute a cascade to coordination on that basis alone.**
+
 ---
 
 ## 11. Defensive implications
@@ -1070,12 +1093,23 @@ The strongest available evidence is that **over-attribution is itself a vulnerab
 
 ### 11.2 Communicating uncertainty without feeding fear
 
-The rumour literature identifies the mechanism precisely: **ambiguity plus informational vacuum**. That yields a specific and counter-intuitive rule:
+The rumour literature identifies the mechanism precisely: **ambiguity plus informational vacuum**. But this study's initial framing of the defence was wrong in one important respect, and the correction changes the advice.
 
-- **Say what is not known, in specific terms, early.** "We have found no evidence of a hostile drone and we are continuing to look" is more effective than silence, and more effective than confident reassurance that may have to be withdrawn.
-- **Avoid hedges that imply concealment.** The phrase "we cannot rule out" is technically honest and rhetorically corrosive if used without also stating what *has* been established.
-- **Resolve the base rate publicly.** The single most useful fact in the New Jersey case was that there are over a million lawfully registered drones in the US and thousands airborne at any moment — and that the sightings included aircraft, helicopters and stars. **Denominator information is the cheapest antidote to an availability cascade**, because it restores probability judgement where salience has displaced it.
+**The amplifier is *inconsistency*, not uncertainty.** The instinctive conclusion — "admitting uncertainty will be exploited, so project confidence" — is contradicted by the evidence:
+
+- Uncertainty disclosure does **not carry a measurable trust penalty**. A field experiment (van der Bles et al., *PNAS*, 2020; N = 5,780) found no such cost, and the World Health Organization issues uncertainty disclosure as a **strong recommendation on moderate-quality evidence**.
+- What *does* amplify is **conflict between sources** — visible disagreement among authorities, or between authorities and experts (Gustafson & Rice, 2020).
+- Accordingly, **the CDC's crisis-communication guidance explicitly retires the old "first 24 hours" rule**, and states that **"an over-reassured public isn't the goal."**
+
+**Uncertainty is defensible; contradiction is not.** The practical rules that follow:
+
+- **Say what is not known, in specific terms, early.** "We have found no evidence of a hostile drone and we are continuing to look" is better than silence, and better than confidence that may have to be withdrawn.
+- **Coordinate before speaking, and speak with one voice.** Since inconsistency is the amplifier, an inter-agency disagreement is worse than a shared admission of ignorance.
+- **Publish the *process* statistic, not just the conclusion.** The most effective documented move is procedural transparency: of 5,000 reports, roughly 100 generated leads, and the sightings resolved to aircraft, helicopters, lawful drones and stars. **This gives the public the disposition of the inquiry rather than asking them to trust a verdict.**
+- **Resolve the base rate publicly.** Over a million lawfully registered drones in the US, thousands airborne at any moment. **Denominator information is the cheapest antidote to an availability cascade**, because it restores probability judgement where salience has displaced it.
+- **Use an explicit "we do not know yet" script rather than improvisation.** The Dutch NCTV's formulation is the only published example located: **"informed waiting"**, the principle that **"process information is also information"**, and the guidance **not to rebut every disinformation claim**. This is the mature-practice template, and it is directly transferable.
 - **Accept that completeness takes time.** Give the interim answer rather than waiting for the final one.
+
 
 ### 11.3 Incident verification and anomaly triage
 
@@ -1134,6 +1168,10 @@ The evidence is genuinely favourable but should not be overstated. Two different
 - **Population-scale:** the largest real campaigns show much smaller effects. A twelve-country EU prebunking campaign reached **over 120 million** YouTube users with effect sizes around **ds ≈ 0.08–0.38**; a large Instagram field experiment (N = 375,597) produced about **+21 percentage points** of improvement persisting five months; a booster study (N = 11,759) shows effects **decaying over roughly one month** without reinforcement.
 
 **The honest formulation:** prebunking is a real, cheap, repeatable measure with small per-exposure effects and meaningful decay. It is worth doing continuously as background resilience — **not** as a campaign that can be run once and won.
+
+**And the at-scale evidence is now decisively negative, which lowers its ranking as a defensive priority.** A large platform-scale trial across **967,640 X users** found **"no meaningful changes in posting or retweeting."** The widely cited 2022 *Science Advances* field experiment **missed its own preregistered smallest effect size of interest**. Game-based inoculation **decays within roughly two weeks**. And where the two are compared directly, **debunking outperforms prebunking** — a conclusion the European Commission's own research service reaches, noting that "debunking is slightly more effective."
+
+**So prebunking belongs in the portfolio, but not at the top of it.** The lab-scale −48% figure measures a controlled intervention on motivated participants; the population-scale results measure what happens in the wild, and they are close to null. **The honest ranking of defences in this study puts communication discipline (§11.2) and decision discipline (§11.7, §10.5) above inoculation.**
 
 **A caution that cuts the other way.** Public alarm about AI manipulation is itself partly a **third-person effect**: people believe others are more susceptible than they are. Over-warning can therefore produce generalised cynicism toward *all* information — including accurate official information — which is precisely the opposite of what a defender facing an informational vacuum needs (§11.2).
 
