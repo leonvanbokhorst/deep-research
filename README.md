@@ -19,6 +19,7 @@ This repository is the **substantive research artefact**. A separate repository
 analyses how the recursive DSH research process actually behaved:
 
 - [`leonvanbokhorst/deep-research-log-analysis`](https://github.com/leonvanbokhorst/deep-research-log-analysis)
+- **Published practitioner report:** [*What 153 agents actually bought us*](https://doi.org/10.13140/RG.2.2.27040.14080) — DOI [10.13140/RG.2.2.27040.14080](https://doi.org/10.13140/RG.2.2.27040.14080)
 
 The process study treats this research as frozen at commit
 [`33ca23b474a11b5ee90563a9f59ed002de485abd`](https://github.com/leonvanbokhorst/deep-research/commit/33ca23b474a11b5ee90563a9f59ed002de485abd).
